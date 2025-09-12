@@ -405,7 +405,7 @@ class MilvusParagraphClient:
                 output_fields=[
                     "paragraph_id", "content", "source", "book_title", 
                     "title_title", "chapter_title", "section_title", 
-                    "article_title", "provision_title", "provision_block_title"
+                    "article_id", "article_title", "provision_title", "provision_block_title"
                 ]
             )
             
@@ -424,6 +424,7 @@ class MilvusParagraphClient:
                             'title_title': hit.entity.get('title_title'),
                             'chapter_title': hit.entity.get('chapter_title'),
                             'section_title': hit.entity.get('section_title'),
+                            'article_id': hit.entity.get('article_id'),
                             'article_title': hit.entity.get('article_title'),
                             'provision_title': hit.entity.get('provision_title'),
                             'provision_block_title': hit.entity.get('provision_block_title'),
