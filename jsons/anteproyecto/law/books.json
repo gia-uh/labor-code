@@ -1,0 +1,22 @@
+{
+    "1": {
+        "title": "LIBRO PRIMERO",
+        "begin": 3,
+        "end": 192
+    },
+    "2": {
+        "title": "LIBRO SEGUNDO",
+        "begin": 193,
+        "end": 2287
+    },
+    "3": {
+        "title": "LIBRO TERCERO",
+        "begin": 2288,
+        "end": 2517
+    },
+    "4": {
+        "title": "LIBRO CUARTO",
+        "begin": 2518,
+        "end": 2669
+    }
+}

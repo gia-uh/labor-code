@@ -1,0 +1,242 @@
+{
+    "1": {
+        "title": "Sección Primera",
+        "begin": 204,
+        "end": 223
+    },
+    "2": {
+        "title": "Sección Segunda",
+        "begin": 224,
+        "end": 250
+    },
+    "3": {
+        "title": "Sección Primera",
+        "begin": 253,
+        "end": 262
+    },
+    "4": {
+        "title": "Sección Segunda",
+        "begin": 263,
+        "end": 304
+    },
+    "5": {
+        "title": "Sección Tercera",
+        "begin": 305,
+        "end": 318
+    },
+    "6": {
+        "title": "Sección Cuarta",
+        "begin": 319,
+        "end": 328
+    },
+    "7": {
+        "title": "Sección Quinta",
+        "begin": 329,
+        "end": 347
+    },
+    "8": {
+        "title": "Sección Sexta",
+        "begin": 348,
+        "end": 352
+    },
+    "9": {
+        "title": "Sección Primera",
+        "begin": 355,
+        "end": 382
+    },
+    "10": {
+        "title": "Sección Segunda",
+        "begin": 383,
+        "end": 406
+    },
+    "11": {
+        "title": "Sección Tercera",
+        "begin": 407,
+        "end": 429
+    },
+    "12": {
+        "title": "Sección Primera",
+        "begin": 467,
+        "end": 486
+    },
+    "13": {
+        "title": "Sección Segunda",
+        "begin": 487,
+        "end": 520
+    },
+    "14": {
+        "title": "Sección Primera",
+        "begin": 523,
+        "end": 552
+    },
+    "15": {
+        "title": "Sección Segunda",
+        "begin": 553,
+        "end": 567
+    },
+    "16": {
+        "title": "Sección Tercera",
+        "begin": 568,
+        "end": 570
+    },
+    "17": {
+        "title": "Sección Cuarta",
+        "begin": 571,
+        "end": 609
+    },
+    "18": {
+        "title": "Sección Quinta",
+        "begin": 610,
+        "end": 622
+    },
+    "19": {
+        "title": "Sección Sexta",
+        "begin": 623,
+        "end": 629
+    },
+    "20": {
+        "title": "Sección Séptima",
+        "begin": 630,
+        "end": 649
+    },
+    "21": {
+        "title": "Sección Primera",
+        "begin": 1084,
+        "end": 1104
+    },
+    "22": {
+        "title": "Sección Segunda",
+        "begin": 1105,
+        "end": 1121
+    },
+    "23": {
+        "title": "Sección Tercera",
+        "begin": 1122,
+        "end": 1140
+    },
+    "24": {
+        "title": "Sección Cuarta",
+        "begin": 1141,
+        "end": 1164
+    },
+    "25": {
+        "title": "Sección Quinta",
+        "begin": 1165,
+        "end": 1213
+    },
+    "26": {
+        "title": "Sección Sexta",
+        "begin": 1214,
+        "end": 1242
+    },
+    "27": {
+        "title": "Sección Primera",
+        "begin": 1383,
+        "end": 1391
+    },
+    "28": {
+        "title": "Sección Segunda",
+        "begin": 1392,
+        "end": 1397
+    },
+    "29": {
+        "title": "Sección Primera",
+        "begin": 1400,
+        "end": 1421
+    },
+    "30": {
+        "title": "Sección Segunda",
+        "begin": 1422,
+        "end": 1429
+    },
+    "31": {
+        "title": "Sección Tercera",
+        "begin": 1430,
+        "end": 1435
+    },
+    "32": {
+        "title": "Sección Cuarta",
+        "begin": 1436,
+        "end": 1451
+    },
+    "33": {
+        "title": "Sección Quinta",
+        "begin": 1452,
+        "end": 1467
+    },
+    "34": {
+        "title": "Sección Sexta",
+        "begin": 1468,
+        "end": 1478
+    },
+    "35": {
+        "title": "Sección Séptima",
+        "begin": 1479,
+        "end": 1496
+    },
+    "36": {
+        "title": "Sección Octava",
+        "begin": 1497,
+        "end": 1522
+    },
+    "37": {
+        "title": "Sección Primera",
+        "begin": 1733,
+        "end": 1765
+    },
+    "38": {
+        "title": "Sección Segunda",
+        "begin": 1766,
+        "end": 1774
+    },
+    "39": {
+        "title": "Sección Primera",
+        "begin": 1961,
+        "end": 1993
+    },
+    "40": {
+        "title": "Sección Segunda",
+        "begin": 1994,
+        "end": 2040
+    },
+    "41": {
+        "title": "Sección Tercera",
+        "begin": 2041,
+        "end": 2118
+    },
+    "42": {
+        "title": "Sección Cuarta",
+        "begin": 2119,
+        "end": 2127
+    },
+    "43": {
+        "title": "Sección Primera",
+        "begin": 2241,
+        "end": 2245
+    },
+    "44": {
+        "title": "Sección Segunda",
+        "begin": 2246,
+        "end": 2250
+    },
+    "45": {
+        "title": "Sección Tercera",
+        "begin": 2251,
+        "end": 2253
+    },
+    "46": {
+        "title": "Sección Primera",
+        "begin": 2569,
+        "end": 2586
+    },
+    "47": {
+        "title": "Sección Segunda",
+        "begin": 2587,
+        "end": 2633
+    },
+    "48": {
+        "title": "Sección Tercera",
+        "begin": 2634,
+        "end": 2663
+    }
+}

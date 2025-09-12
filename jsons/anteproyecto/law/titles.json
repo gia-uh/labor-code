@@ -1,0 +1,102 @@
+{
+    "1": {
+        "title": "TÍTULO I",
+        "begin": 5,
+        "end": 99
+    },
+    "2": {
+        "title": "TÍTULO II",
+        "begin": 100,
+        "end": 177
+    },
+    "3": {
+        "title": "TÍTULO III",
+        "begin": 178,
+        "end": 192
+    },
+    "4": {
+        "title": "TÍTULO I",
+        "begin": 195,
+        "end": 696
+    },
+    "5": {
+        "title": "TÍTULO II",
+        "begin": 697,
+        "end": 734
+    },
+    "6": {
+        "title": "TÍTULO III",
+        "begin": 735,
+        "end": 831
+    },
+    "7": {
+        "title": "TÍTULO IV",
+        "begin": 832,
+        "end": 901
+    },
+    "8": {
+        "title": "TÍTULO V",
+        "begin": 902,
+        "end": 920
+    },
+    "9": {
+        "title": "TÍTULO VI",
+        "begin": 921,
+        "end": 1242
+    },
+    "10": {
+        "title": "TÍTULO VII",
+        "begin": 1243,
+        "end": 1367
+    },
+    "11": {
+        "title": "TÍTULO VIII",
+        "begin": 1368,
+        "end": 1522
+    },
+    "12": {
+        "title": "TÍTULO IX",
+        "begin": 1523,
+        "end": 1790
+    },
+    "13": {
+        "title": "TÍTULO X",
+        "begin": 1791,
+        "end": 1922
+    },
+    "14": {
+        "title": "TÍTULO XI",
+        "begin": 1923,
+        "end": 2136
+    },
+    "15": {
+        "title": "TÍTULO XII",
+        "begin": 2137,
+        "end": 2287
+    },
+    "16": {
+        "title": "TÍTULO I",
+        "begin": 2290,
+        "end": 2356
+    },
+    "17": {
+        "title": "TÍTULO II",
+        "begin": 2357,
+        "end": 2443
+    },
+    "18": {
+        "title": "TÍTULO III",
+        "begin": 2444,
+        "end": 2517
+    },
+    "19": {
+        "title": "TÍTULO I",
+        "begin": 2520,
+        "end": 2528
+    },
+    "20": {
+        "title": "TÍTULO II",
+        "begin": 2529,
+        "end": 2669
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "1": {
+        "title": "CAPÍTULO I",
+        "begin": 3,
+        "end": 38
+    },
+    "2": {
+        "title": "CAPÍTULO II",
+        "begin": 39,
+        "end": 73
+    },
+    "3": {
+        "title": "CAPÍTULO III",
+        "begin": 74,
+        "end": 220
+    },
+    "4": {
+        "title": "CAPÍTULO IV",
+        "begin": 221,
+        "end": 228
+    },
+    "5": {
+        "title": "CAPÍTULO V",
+        "begin": 229,
+        "end": 237
+    },
+    "6": {
+        "title": "CAPÍTULO VI",
+        "begin": 238,
+        "end": 245
+    },
+    "7": {
+        "title": "CAPÍTULO VII",
+        "begin": 246,
+        "end": 280
+    },
+    "8": {
+        "title": "CAPÍTULO VIII",
+        "begin": 281,
+        "end": 287
+    },
+    "9": {
+        "title": "CAPÍTULO IX",
+        "begin": 288,
+        "end": 374
+    },
+    "10": {
+        "title": "CAPÍTULO X",
+        "begin": 375,
+        "end": 438
+    },
+    "11": {
+        "title": "CAPÍTULO XI",
+        "begin": 439,
+        "end": 479
+    },
+    "12": {
+        "title": "CAPÍTULO XII",
+        "begin": 480,
+        "end": 551
+    },
+    "13": {
+        "title": "CAPÍTULO XIII",
+        "begin": 552,
+        "end": 600
+    },
+    "14": {
+        "title": "CAPÍTULO XIV",
+        "begin": 601,
+        "end": 611
+    },
+    "15": {
+        "title": "CAPÍTULO XV",
+        "begin": 612,
+        "end": 631
+    }
+}

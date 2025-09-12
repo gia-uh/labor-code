@@ -1,0 +1,2617 @@
+{
+    "1": {
+        "title": "Objeto",
+        "begin": 9,
+        "end": 17
+    },
+    "2": {
+        "title": "Fundamentos",
+        "begin": 18,
+        "end": 25
+    },
+    "3": {
+        "title": "Ámbito de aplicación",
+        "begin": 28,
+        "end": 32
+    },
+    "4": {
+        "title": "Formas de gestión no estatal",
+        "begin": 33,
+        "end": 33
+    },
+    "5": {
+        "title": "Integración del colectivo de la entidad",
+        "begin": 34,
+        "end": 36
+    },
+    "6": {
+        "title": "Excepciones",
+        "begin": 37,
+        "end": 41
+    },
+    "7": {
+        "title": "Particularidades de la inversión extranjera",
+        "begin": 42,
+        "end": 42
+    },
+    "8": {
+        "title": "Otras excepciones",
+        "begin": 43,
+        "end": 50
+    },
+    "9": {
+        "title": "Persona trabajadora autónoma",
+        "begin": 51,
+        "end": 62
+    },
+    "10": {
+        "title": "Principios",
+        "begin": 65,
+        "end": 74
+    },
+    "11": {
+        "title": "Empleo digno",
+        "begin": 75,
+        "end": 85
+    },
+    "12": {
+        "title": "Prohibiciones",
+        "begin": 86,
+        "end": 90
+    },
+    "13": {
+        "title": "Prohibición del trabajo forzoso",
+        "begin": 91,
+        "end": 99
+    },
+    "14": {
+        "title": "Sujetos",
+        "begin": 103,
+        "end": 108
+    },
+    "15": {
+        "title": "Entidad",
+        "begin": 109,
+        "end": 111
+    },
+    "16": {
+        "title": "Derechos",
+        "begin": 114,
+        "end": 132
+    },
+    "17": {
+        "title": "Deberes",
+        "begin": 133,
+        "end": 141
+    },
+    "18": {
+        "title": "Obligaciones",
+        "begin": 144,
+        "end": 161
+    },
+    "19": {
+        "title": "Facultades",
+        "begin": 162,
+        "end": 165
+    },
+    "20": {
+        "title": "Facultades indelegables",
+        "begin": 166,
+        "end": 170
+    },
+    "21": {
+        "title": "Protección de los ingresos mediante póliza de seguro",
+        "begin": 171,
+        "end": 176
+    },
+    "22": {
+        "title": "Límite de las facultades otorgadas",
+        "begin": 177,
+        "end": 177
+    },
+    "23": {
+        "title": "Derechos",
+        "begin": 180,
+        "end": 183
+    },
+    "24": {
+        "title": "Alcance",
+        "begin": 184,
+        "end": 184
+    },
+    "25": {
+        "title": "Responsabilidades",
+        "begin": 185,
+        "end": 192
+    },
+    "26": {
+        "title": "Capacidad jurídica",
+        "begin": 199,
+        "end": 201
+    },
+    "27": {
+        "title": "Inicio de la relación de trabajo",
+        "begin": 206,
+        "end": 209
+    },
+    "28": {
+        "title": "Formalidad y duración de la convocatoria",
+        "begin": 210,
+        "end": 213
+    },
+    "29": {
+        "title": "Consulta previa",
+        "begin": 214,
+        "end": 218
+    },
+    "30": {
+        "title": "Contratación y traslado de colectivos de personas trabajadoras para laborar en otros territorios",
+        "begin": 219,
+        "end": 223
+    },
+    "31": {
+        "title": "Prioridades en el empleo",
+        "begin": 226,
+        "end": 237
+    },
+    "32": {
+        "title": "Empleo de las personas que cumplen sanción penal en libertad",
+        "begin": 238,
+        "end": 238
+    },
+    "33": {
+        "title": "Empleo de las personas en situación de discapacidad y egresados de la educación especial",
+        "begin": 239,
+        "end": 242
+    },
+    "34": {
+        "title": "Aval de la aptitud para trabajar",
+        "begin": 243,
+        "end": 245
+    },
+    "35": {
+        "title": "Entrenamiento en el puesto de trabajo",
+        "begin": 246,
+        "end": 249
+    },
+    "36": {
+        "title": "Control de la permanencia",
+        "begin": 250,
+        "end": 250
+    },
+    "37": {
+        "title": "Formalidad de la relación de trabajo:",
+        "begin": 255,
+        "end": 261
+    },
+    "38": {
+        "title": "Presunción de la relación de trabajo",
+        "begin": 262,
+        "end": 262
+    },
+    "39": {
+        "title": "Relación de trabajo",
+        "begin": 265,
+        "end": 265
+    },
+    "40": {
+        "title": "Formalidad del contrato de trabajo",
+        "begin": 266,
+        "end": 268
+    },
+    "41": {
+        "title": "Contenido del contrato",
+        "begin": 269,
+        "end": 285
+    },
+    "42": {
+        "title": "Tipos de contrato de trabajo",
+        "begin": 286,
+        "end": 291
+    },
+    "43": {
+        "title": "Contrato por tiempo indeterminado para labores cíclicas o de temporada",
+        "begin": 292,
+        "end": 294
+    },
+    "44": {
+        "title": "Procedimiento para la solicitud",
+        "begin": 295,
+        "end": 298
+    },
+    "45": {
+        "title": "Premisas para la aprobación",
+        "begin": 299,
+        "end": 304
+    },
+    "46": {
+        "title": "Alcance",
+        "begin": 307,
+        "end": 309
+    },
+    "47": {
+        "title": "Competencias adicionales de la persona trabajadora de confianza",
+        "begin": 310,
+        "end": 314
+    },
+    "48": {
+        "title": "Formalidad de la relación de trabajo",
+        "begin": 315,
+        "end": 317
+    },
+    "49": {
+        "title": "Listado adicional de cargos",
+        "begin": 318,
+        "end": 318
+    },
+    "50": {
+        "title": "Período de prueba",
+        "begin": 321,
+        "end": 324
+    },
+    "51": {
+        "title": "Duración del período de prueba",
+        "begin": 325,
+        "end": 328
+    },
+    "52": {
+        "title": "Trabajo a tiempo parcial",
+        "begin": 331,
+        "end": 331
+    },
+    "53": {
+        "title": "Pluriempleo",
+        "begin": 332,
+        "end": 336
+    },
+    "54": {
+        "title": "Límites de la jornada de trabajo en el pluriempleo",
+        "begin": 337,
+        "end": 339
+    },
+    "55": {
+        "title": "Derechos para los que ejercen el pluriempleo",
+        "begin": 340,
+        "end": 342
+    },
+    "56": {
+        "title": "Límites en el ejercicio del pluriempleo",
+        "begin": 343,
+        "end": 343
+    },
+    "57": {
+        "title": "Excepciones en la utilización del pluriempleo",
+        "begin": 344,
+        "end": 346
+    },
+    "58": {
+        "title": "Pluriactividad",
+        "begin": 347,
+        "end": 347
+    },
+    "59": {
+        "title": "Trabajo de los estudiantes",
+        "begin": 350,
+        "end": 352
+    },
+    "60": {
+        "title": "Capacidad demostrada",
+        "begin": 357,
+        "end": 357
+    },
+    "61": {
+        "title": "Competencias laborales",
+        "begin": 358,
+        "end": 363
+    },
+    "62": {
+        "title": "Perfil de competencias",
+        "begin": 364,
+        "end": 367
+    },
+    "63": {
+        "title": "Competencias para analizar la capacidad demostrada",
+        "begin": 368,
+        "end": 377
+    },
+    "64": {
+        "title": "Atribución del jefe de la entidad",
+        "begin": 378,
+        "end": 381
+    },
+    "65": {
+        "title": "Información Inicial",
+        "begin": 382,
+        "end": 382
+    },
+    "66": {
+        "title": "Constitución e integración del Comité de Expertos",
+        "begin": 385,
+        "end": 396
+    },
+    "67": {
+        "title": "Procedimiento de actuación del Comité de Expertos",
+        "begin": 397,
+        "end": 401
+    },
+    "68": {
+        "title": "Decisión del Comité de Expertos",
+        "begin": 402,
+        "end": 406
+    },
+    "69": {
+        "title": "Evaluación del trabajo",
+        "begin": 409,
+        "end": 411
+    },
+    "70": {
+        "title": "Formalidad y periodicidad de la evaluación",
+        "begin": 412,
+        "end": 416
+    },
+    "71": {
+        "title": "Inconformidad con la evaluación",
+        "begin": 417,
+        "end": 419
+    },
+    "72": {
+        "title": "Efectos de la evaluación anual",
+        "begin": 420,
+        "end": 422
+    },
+    "73": {
+        "title": "Pérdida de la capacidad demostrada",
+        "begin": 423,
+        "end": 429
+    },
+    "74": {
+        "title": "Expediente laboral",
+        "begin": 432,
+        "end": 435
+    },
+    "75": {
+        "title": "Contenido",
+        "begin": 436,
+        "end": 449
+    },
+    "76": {
+        "title": "Derecho a la revisión periódica del expediente laboral",
+        "begin": 450,
+        "end": 453
+    },
+    "77": {
+        "title": "Protección del expediente laboral",
+        "begin": 454,
+        "end": 454
+    },
+    "78": {
+        "title": "Entrega del expediente laboral",
+        "begin": 455,
+        "end": 458
+    },
+    "79": {
+        "title": "Custodia del expediente laboral",
+        "begin": 459,
+        "end": 461
+    },
+    "80": {
+        "title": "Certificación del tiempo de servicios y remuneraciones devengadas",
+        "begin": 462,
+        "end": 464
+    },
+    "81": {
+        "title": "Modificación de las condiciones pactadas",
+        "begin": 469,
+        "end": 473
+    },
+    "82": {
+        "title": "Inconformidad con la modificación",
+        "begin": 474,
+        "end": 476
+    },
+    "83": {
+        "title": "Traslado",
+        "begin": 477,
+        "end": 477
+    },
+    "84": {
+        "title": "Traslado provisional",
+        "begin": 478,
+        "end": 485
+    },
+    "85": {
+        "title": "Traslado definitivo",
+        "begin": 486,
+        "end": 486
+    },
+    "86": {
+        "title": "Interrupción de las actividades laborales",
+        "begin": 489,
+        "end": 498
+    },
+    "87": {
+        "title": "Procedimiento ante la ocurrencia de una interrupción laboral",
+        "begin": 499,
+        "end": 504
+    },
+    "88": {
+        "title": "Tratamiento laboral",
+        "begin": 505,
+        "end": 507
+    },
+    "89": {
+        "title": "Tratamiento salarial",
+        "begin": 508,
+        "end": 513
+    },
+    "90": {
+        "title": "Tratamiento excepcional",
+        "begin": 514,
+        "end": 518
+    },
+    "91": {
+        "title": "Protección de seguridad social",
+        "begin": 519,
+        "end": 519
+    },
+    "92": {
+        "title": "Excepciones a la aplicación de la interrupción",
+        "begin": 520,
+        "end": 520
+    },
+    "93": {
+        "title": "Concepto y efectos de la suspensión",
+        "begin": 525,
+        "end": 529
+    },
+    "94": {
+        "title": "Situaciones generales de suspensión",
+        "begin": 530,
+        "end": 552
+    },
+    "95": {
+        "title": "Situaciones excepcionales",
+        "begin": 555,
+        "end": 555
+    },
+    "96": {
+        "title": "Tratamiento laboral y salarial ante situaciones de desastres",
+        "begin": 556,
+        "end": 560
+    },
+    "97": {
+        "title": "Situaciones para la concesión de licencia no retribuida",
+        "begin": 561,
+        "end": 566
+    },
+    "98": {
+        "title": "Protección a las personas trabajadoras afectadas",
+        "begin": 567,
+        "end": 567
+    },
+    "99": {
+        "title": "Tratamiento laboral y salarial",
+        "begin": 570,
+        "end": 570
+    },
+    "100": {
+        "title": "Tratamiento laboral",
+        "begin": 573,
+        "end": 575
+    },
+    "101": {
+        "title": "Tratamiento salarial",
+        "begin": 576,
+        "end": 580
+    },
+    "102": {
+        "title": "Pago de salario a los prerreclutas",
+        "begin": 581,
+        "end": 581
+    },
+    "103": {
+        "title": "Excepciones",
+        "begin": 582,
+        "end": 588
+    },
+    "104": {
+        "title": "Tratamiento a las personas trabajadoras seleccionadas para el cumplimiento del Servicio Militar Activo",
+        "begin": 589,
+        "end": 591
+    },
+    "105": {
+        "title": "Constancia de la participación",
+        "begin": 592,
+        "end": 595
+    },
+    "106": {
+        "title": "Tratamiento en el sector no estatal",
+        "begin": 596,
+        "end": 605
+    },
+    "107": {
+        "title": "Exigencia de responsabilidad material",
+        "begin": 606,
+        "end": 608
+    },
+    "108": {
+        "title": "Tratamiento salarial a los desvinculados",
+        "begin": 609,
+        "end": 609
+    },
+    "109": {
+        "title": "Procedimiento aplicable a los que viajan al exterior por asuntos particulares",
+        "begin": 612,
+        "end": 615
+    },
+    "110": {
+        "title": "Concesión de la licencia no retribuida para viajar al exterior",
+        "begin": 616,
+        "end": 619
+    },
+    "111": {
+        "title": "Prórroga excepcional de la licencia no retribuida",
+        "begin": 620,
+        "end": 622
+    },
+    "112": {
+        "title": "Concesión de licencia no retribuida",
+        "begin": 625,
+        "end": 629
+    },
+    "113": {
+        "title": "Alcance",
+        "begin": 632,
+        "end": 634
+    },
+    "114": {
+        "title": "Tratamiento aplicable ante hechos presuntamente delictivos cometidos en ocasión del trabajo",
+        "begin": 635,
+        "end": 635
+    },
+    "115": {
+        "title": "Reintegro al cargo con pago del salario",
+        "begin": 636,
+        "end": 638
+    },
+    "116": {
+        "title": "Reintegro al cargo sin pago de salario",
+        "begin": 639,
+        "end": 645
+    },
+    "117": {
+        "title": "Plazo para el reintegro al cargo",
+        "begin": 646,
+        "end": 649
+    },
+    "118": {
+        "title": "Causas generales",
+        "begin": 652,
+        "end": 658
+    },
+    "119": {
+        "title": "Causas específicas de terminación del contrato de trabajo por tiempo indeterminado o la designación a iniciativa del empleador",
+        "begin": 659,
+        "end": 668
+    },
+    "120": {
+        "title": "Excepciones a la notificación de terminación del contrato de trabajo indeterminado o la designación",
+        "begin": 669,
+        "end": 675
+    },
+    "121": {
+        "title": "Terminación del contrato de trabajo por tiempo determinado o el previsto para la ejecución de un trabajo u obra, a iniciativa del empleador",
+        "begin": 676,
+        "end": 676
+    },
+    "122": {
+        "title": "Terminación de la relación de trabajo a iniciativa de la persona trabajadora",
+        "begin": 677,
+        "end": 683
+    },
+    "123": {
+        "title": "Adecuaciones para el personal docente",
+        "begin": 684,
+        "end": 686
+    },
+    "124": {
+        "title": "Efectos de la terminación de la relación de trabajo",
+        "begin": 687,
+        "end": 691
+    },
+    "125": {
+        "title": "Derechos de la persona trabajadora al concluir la relación de trabajo",
+        "begin": 692,
+        "end": 696
+    },
+    "126": {
+        "title": "Protección especial",
+        "begin": 699,
+        "end": 701
+    },
+    "127": {
+        "title": "Circunstancias excepcionales",
+        "begin": 702,
+        "end": 707
+    },
+    "128": {
+        "title": "Certificación del estado de salud",
+        "begin": 708,
+        "end": 709
+    },
+    "129": {
+        "title": "Prohibición para laborar",
+        "begin": 710,
+        "end": 715
+    },
+    "130": {
+        "title": "Labores de los adolescentes",
+        "begin": 716,
+        "end": 719
+    },
+    "131": {
+        "title": "Preparación de los adolescentes autorizados a incorporarse al trabajo",
+        "begin": 720,
+        "end": 722
+    },
+    "132": {
+        "title": "Control administrativo",
+        "begin": 723,
+        "end": 734
+    },
+    "133": {
+        "title": "Objetivo de la capacitación",
+        "begin": 739,
+        "end": 739
+    },
+    "134": {
+        "title": "Acciones",
+        "begin": 740,
+        "end": 744
+    },
+    "135": {
+        "title": "Derechos y obligaciones respecto a la capacitación",
+        "begin": 745,
+        "end": 745
+    },
+    "136": {
+        "title": "Responsabilidad del empleador",
+        "begin": 746,
+        "end": 750
+    },
+    "137": {
+        "title": "Gestión del proceso",
+        "begin": 751,
+        "end": 751
+    },
+    "138": {
+        "title": "Capacitación a personas de nueva incorporación",
+        "begin": 752,
+        "end": 752
+    },
+    "139": {
+        "title": "Estudio por esfuerzo personal",
+        "begin": 753,
+        "end": 756
+    },
+    "140": {
+        "title": "Diagnóstico",
+        "begin": 759,
+        "end": 761
+    },
+    "141": {
+        "title": "Plan de capacitación",
+        "begin": 762,
+        "end": 764
+    },
+    "142": {
+        "title": "Medición del impacto de la capacitación",
+        "begin": 765,
+        "end": 768
+    },
+    "143": {
+        "title": "Aspectos para la capacitación y superación de especial interés estatal",
+        "begin": 771,
+        "end": 774
+    },
+    "144": {
+        "title": "Autoridades facultadas para su aprobación",
+        "begin": 775,
+        "end": 780
+    },
+    "145": {
+        "title": "Tratamiento laboral y salarial",
+        "begin": 781,
+        "end": 786
+    },
+    "146": {
+        "title": "Prioridad para la superación de los profesionales",
+        "begin": 787,
+        "end": 787
+    },
+    "147": {
+        "title": "Límites en la prioridad para la superación",
+        "begin": 788,
+        "end": 791
+    },
+    "148": {
+        "title": "Objetivos",
+        "begin": 794,
+        "end": 794
+    },
+    "149": {
+        "title": "Obligaciones del empleador respecto a los recién graduados",
+        "begin": 795,
+        "end": 800
+    },
+    "150": {
+        "title": "Preparación de los recién graduados de cursos por encuentro y a distancia",
+        "begin": 801,
+        "end": 803
+    },
+    "151": {
+        "title": "Ubicación en cargos",
+        "begin": 804,
+        "end": 808
+    },
+    "152": {
+        "title": "Responsabilidad del tutor",
+        "begin": 809,
+        "end": 811
+    },
+    "153": {
+        "title": "Plan de preparación",
+        "begin": 812,
+        "end": 814
+    },
+    "154": {
+        "title": "Contenido de la preparación",
+        "begin": 815,
+        "end": 818
+    },
+    "155": {
+        "title": "Plazos para la preparación",
+        "begin": 819,
+        "end": 823
+    },
+    "156": {
+        "title": "Evaluación de la persona recién graduada",
+        "begin": 824,
+        "end": 829
+    },
+    "157": {
+        "title": "Reserva científica",
+        "begin": 830,
+        "end": 831
+    },
+    "158": {
+        "title": "Servicio Social",
+        "begin": 836,
+        "end": 839
+    },
+    "159": {
+        "title": "Sujetos",
+        "begin": 840,
+        "end": 844
+    },
+    "160": {
+        "title": "Duración",
+        "begin": 845,
+        "end": 848
+    },
+    "161": {
+        "title": "Autorización para viajar por asuntos particulares",
+        "begin": 849,
+        "end": 851
+    },
+    "162": {
+        "title": "Ubicación anticipada",
+        "begin": 854,
+        "end": 856
+    },
+    "163": {
+        "title": "Asignación",
+        "begin": 857,
+        "end": 868
+    },
+    "164": {
+        "title": "Ubicación en el sector no estatal",
+        "begin": 869,
+        "end": 870
+    },
+    "165": {
+        "title": "Correspondencia en la ubicación",
+        "begin": 871,
+        "end": 874
+    },
+    "166": {
+        "title": "Traslado del graduado",
+        "begin": 875,
+        "end": 878
+    },
+    "167": {
+        "title": "Gestiones para su incorporación",
+        "begin": 881,
+        "end": 884
+    },
+    "168": {
+        "title": "Suspensión del cumplimiento del servicio social",
+        "begin": 885,
+        "end": 889
+    },
+    "169": {
+        "title": "Procedimiento de inhabilitación",
+        "begin": 890,
+        "end": 893
+    },
+    "170": {
+        "title": "Inhabilitación para el ejercicio profesional",
+        "begin": 894,
+        "end": 897
+    },
+    "171": {
+        "title": "Suspensión de la inhabilitación",
+        "begin": 898,
+        "end": 900
+    },
+    "172": {
+        "title": "Límites en la contratación de graduados inhabilitados",
+        "begin": 901,
+        "end": 901
+    },
+    "173": {
+        "title": "Protección a la mujer trabajadora",
+        "begin": 904,
+        "end": 906
+    },
+    "174": {
+        "title": "Prestaciones que se conceden",
+        "begin": 907,
+        "end": 909
+    },
+    "175": {
+        "title": "Beneficios",
+        "begin": 910,
+        "end": 914
+    },
+    "176": {
+        "title": "Derechos irrenunciables",
+        "begin": 915,
+        "end": 917
+    },
+    "177": {
+        "title": "Prohibiciones",
+        "begin": 918,
+        "end": 920
+    },
+    "178": {
+        "title": "Concepto y principios",
+        "begin": 925,
+        "end": 927
+    },
+    "179": {
+        "title": "Estudios de organización del trabajo",
+        "begin": 928,
+        "end": 931
+    },
+    "180": {
+        "title": "Estructura organizacional",
+        "begin": 934,
+        "end": 934
+    },
+    "181": {
+        "title": "Plantilla de cargos",
+        "begin": 935,
+        "end": 938
+    },
+    "182": {
+        "title": "Nivel de aprobación",
+        "begin": 939,
+        "end": 944
+    },
+    "183": {
+        "title": "Plazo para la aprobación",
+        "begin": 945,
+        "end": 948
+    },
+    "185": {
+        "title": "Alcance",
+        "begin": 951,
+        "end": 951
+    },
+    "186": {
+        "title": "Trabajo a distancia",
+        "begin": 952,
+        "end": 955
+    },
+    "187": {
+        "title": "Teletrabajo",
+        "begin": 956,
+        "end": 959
+    },
+    "188": {
+        "title": "Determinación de los cargos",
+        "begin": 960,
+        "end": 962
+    },
+    "189": {
+        "title": "Contenido adicional del contrato",
+        "begin": 963,
+        "end": 974
+    },
+    "190": {
+        "title": "Derechos y obligaciones de la persona trabajadora",
+        "begin": 975,
+        "end": 978
+    },
+    "191": {
+        "title": "Obligaciones del empleador",
+        "begin": 979,
+        "end": 994
+    },
+    "192": {
+        "title": "Garantía de la infraestructura tecnológica",
+        "begin": 995,
+        "end": 1004
+    },
+    "193": {
+        "title": "Obligaciones de la persona trabajadora respecto al uso de los medios tecnológicos",
+        "begin": 1005,
+        "end": 1009
+    },
+    "194": {
+        "title": "Ejercicio de reversibilidad",
+        "begin": 1010,
+        "end": 1013
+    },
+    "195": {
+        "title": "Reversibilidad a iniciativa del empleador",
+        "begin": 1014,
+        "end": 1016
+    },
+    "196": {
+        "title": "Protección al derecho de la persona trabajadora",
+        "begin": 1017,
+        "end": 1017
+    },
+    "197": {
+        "title": "Teletrabajo desde el exterior",
+        "begin": 1018,
+        "end": 1020
+    },
+    "198": {
+        "title": "Causas de los procesos",
+        "begin": 1023,
+        "end": 1023
+    },
+    "199": {
+        "title": "Premisas",
+        "begin": 1024,
+        "end": 1027
+    },
+    "200": {
+        "title": "Cambio de estructura sin amortización de cargos",
+        "begin": 1028,
+        "end": 1028
+    },
+    "201": {
+        "title": "Alcance",
+        "begin": 1029,
+        "end": 1032
+    },
+    "202": {
+        "title": "Medidas a adoptar",
+        "begin": 1033,
+        "end": 1036
+    },
+    "203": {
+        "title": "Procedimiento",
+        "begin": 1037,
+        "end": 1044
+    },
+    "204": {
+        "title": "Extinción de la entidad",
+        "begin": 1045,
+        "end": 1047
+    },
+    "205": {
+        "title": "Notificación de la decisión",
+        "begin": 1048,
+        "end": 1050
+    },
+    "206": {
+        "title": "Excepciones de la notificación",
+        "begin": 1051,
+        "end": 1061
+    },
+    "207": {
+        "title": "Proceso de notificación",
+        "begin": 1062,
+        "end": 1065
+    },
+    "208": {
+        "title": "Tratamiento laboral",
+        "begin": 1066,
+        "end": 1068
+    },
+    "209": {
+        "title": "Tratamiento salarial",
+        "begin": 1069,
+        "end": 1072
+    },
+    "210": {
+        "title": "Concesión de las vacaciones acumuladas",
+        "begin": 1073,
+        "end": 1073
+    },
+    "211": {
+        "title": "Tratamiento de seguridad social",
+        "begin": 1074,
+        "end": 1076
+    },
+    "212": {
+        "title": "Inconformidades con la decisión",
+        "begin": 1077,
+        "end": 1077
+    },
+    "213": {
+        "title": "Control de los procesos",
+        "begin": 1078,
+        "end": 1080
+    },
+    "214": {
+        "title": "Tratamiento en la micro, pequeña y mediana empresa",
+        "begin": 1081,
+        "end": 1081
+    },
+    "215": {
+        "title": "Régimen de trabajo y descanso",
+        "begin": 1086,
+        "end": 1090
+    },
+    "216": {
+        "title": "Descanso semanal",
+        "begin": 1091,
+        "end": 1095
+    },
+    "217": {
+        "title": "Aprobación del régimen de trabajo y descanso",
+        "begin": 1096,
+        "end": 1100
+    },
+    "218": {
+        "title": "Turnos diurnos y nocturnos",
+        "begin": 1101,
+        "end": 1104
+    },
+    "219": {
+        "title": "Jornada de trabajo",
+        "begin": 1107,
+        "end": 1111
+    },
+    "220": {
+        "title": "Pausas en la jornada de trabajo",
+        "begin": 1112,
+        "end": 1114
+    },
+    "221": {
+        "title": "Pausas para la alimentación",
+        "begin": 1115,
+        "end": 1117
+    },
+    "222": {
+        "title": "Horario de trabajo",
+        "begin": 1118,
+        "end": 1121
+    },
+    "223": {
+        "title": "Jornada de trabajo reducida",
+        "begin": 1124,
+        "end": 1126
+    },
+    "224": {
+        "title": "Solicitud de aprobación de jornada reducida",
+        "begin": 1127,
+        "end": 1135
+    },
+    "225": {
+        "title": "Procedimiento de aprobación",
+        "begin": 1136,
+        "end": 1140
+    },
+    "227": {
+        "title": "Excepción a la realización de trabajo extraordinario",
+        "begin": 1145,
+        "end": 1153
+    },
+    "228": {
+        "title": "Límites del trabajo extraordinario",
+        "begin": 1154,
+        "end": 1156
+    },
+    "229": {
+        "title": "Retribución del trabajo extraordinario",
+        "begin": 1157,
+        "end": 1164
+    },
+    "230": {
+        "title": "Días de conmemoración oficial",
+        "begin": 1167,
+        "end": 1185
+    },
+    "231": {
+        "title": "Días de conmemoración nacional y feriados",
+        "begin": 1186,
+        "end": 1193
+    },
+    "232": {
+        "title": "Traslado del descanso dominical",
+        "begin": 1194,
+        "end": 1196
+    },
+    "233": {
+        "title": "Receso laboral retribuido",
+        "begin": 1197,
+        "end": 1202
+    },
+    "234": {
+        "title": "Habilitación de días como laborables",
+        "begin": 1203,
+        "end": 1205
+    },
+    "235": {
+        "title": "Tratamiento laboral de los días de conmemoración nacional, feriados y de receso laboral",
+        "begin": 1206,
+        "end": 1208
+    },
+    "236": {
+        "title": "Tratamiento salarial en los días de conmemoración nacional y feriados",
+        "begin": 1209,
+        "end": 1213
+    },
+    "237": {
+        "title": "Derecho a las vacaciones anuales pagadas",
+        "begin": 1216,
+        "end": 1219
+    },
+    "238": {
+        "title": "Alcance",
+        "begin": 1220,
+        "end": 1222
+    },
+    "239": {
+        "title": "Acumulación del tiempo de vacaciones",
+        "begin": 1223,
+        "end": 1225
+    },
+    "240": {
+        "title": "Programación del período vacacional",
+        "begin": 1226,
+        "end": 1229
+    },
+    "241": {
+        "title": "Concesión del período vacacional",
+        "begin": 1230,
+        "end": 1234
+    },
+    "242": {
+        "title": "Disfrute del período vacacional",
+        "begin": 1235,
+        "end": 1241
+    },
+    "243": {
+        "title": "Pago de la cuantía de las vacaciones",
+        "begin": 1242,
+        "end": 1242
+    },
+    "244": {
+        "title": "Remuneración por el trabajo",
+        "begin": 1247,
+        "end": 1247
+    },
+    "245": {
+        "title": "Salario",
+        "begin": 1248,
+        "end": 1251
+    },
+    "246": {
+        "title": "Otros ingresos: Las personas trabajadoras reciben pagos en dinero por otros conceptos que no constituyen salario, los que están previstos en las disposiciones normativas específicas",
+        "begin": 1252,
+        "end": 1252
+    },
+    "247": {
+        "title": "Salario mínimo",
+        "begin": 1253,
+        "end": 1256
+    },
+    "248": {
+        "title": "Aprobación del salario",
+        "begin": 1257,
+        "end": 1259
+    },
+    "249": {
+        "title": "Principios del sistema salarial",
+        "begin": 1260,
+        "end": 1266
+    },
+    "250": {
+        "title": "Elementos del sistema salarial",
+        "begin": 1267,
+        "end": 1271
+    },
+    "251": {
+        "title": "Conceptos asociados a la organización del salario",
+        "begin": 1272,
+        "end": 1276
+    },
+    "252": {
+        "title": "Pagos adicionales",
+        "begin": 1277,
+        "end": 1279
+    },
+    "253": {
+        "title": "Pago adicional por maestría, especialidad equivalente o grado científico de Doctor",
+        "begin": 1280,
+        "end": 1282
+    },
+    "254": {
+        "title": "Pago adicional por trabajar en condiciones laborales anormales",
+        "begin": 1283,
+        "end": 1286
+    },
+    "255": {
+        "title": "Pago adicional por condiciones especiales de trabajo:",
+        "begin": 1287,
+        "end": 1289
+    },
+    "256": {
+        "title": "Pago adicional por nocturnidad",
+        "begin": 1290,
+        "end": 1290
+    },
+    "257": {
+        "title": "Pago adicional por años de servicios prestados",
+        "begin": 1291,
+        "end": 1291
+    },
+    "258": {
+        "title": "Pago adicional por coeficiente de interés económico social",
+        "begin": 1292,
+        "end": 1292
+    },
+    "259": {
+        "title": "Pago adicional por certificación internacional",
+        "begin": 1293,
+        "end": 1297
+    },
+    "260": {
+        "title": "Pago por alto desempeño",
+        "begin": 1298,
+        "end": 1298
+    },
+    "261": {
+        "title": "Pago del salario",
+        "begin": 1301,
+        "end": 1305
+    },
+    "262": {
+        "title": "Condiciones de pago",
+        "begin": 1306,
+        "end": 1309
+    },
+    "263": {
+        "title": "Garantía del salario promedio",
+        "begin": 1310,
+        "end": 1320
+    },
+    "264": {
+        "title": "Garantía del salario básico",
+        "begin": 1321,
+        "end": 1326
+    },
+    "265": {
+        "title": "Garantías a los que ejercen el pluriempleo",
+        "begin": 1327,
+        "end": 1327
+    },
+    "266": {
+        "title": "Retenciones en el salario",
+        "begin": 1328,
+        "end": 1333
+    },
+    "267": {
+        "title": "Garantía en el pago por rendimiento",
+        "begin": 1334,
+        "end": 1336
+    },
+    "268": {
+        "title": "Formas de pago",
+        "begin": 1339,
+        "end": 1341
+    },
+    "269": {
+        "title": "Forma de pago a tiempo",
+        "begin": 1342,
+        "end": 1344
+    },
+    "270": {
+        "title": "Sistema de pago por tarifa horaria",
+        "begin": 1345,
+        "end": 1347
+    },
+    "271": {
+        "title": "Sistema de pago a sueldo",
+        "begin": 1348,
+        "end": 1351
+    },
+    "272": {
+        "title": "Forma de pago por rendimiento",
+        "begin": 1352,
+        "end": 1356
+    },
+    "273": {
+        "title": "Pago por distribución de utilidades",
+        "begin": 1359,
+        "end": 1361
+    },
+    "274": {
+        "title": "Remuneración por programas y proyectos de ciencia, tecnología e innovación",
+        "begin": 1362,
+        "end": 1364
+    },
+    "275": {
+        "title": "Garantía cuando varía el lugar habitual de alimentación y alojamiento",
+        "begin": 1365,
+        "end": 1367
+    },
+    "276": {
+        "title": "Objetivos y fundamentos",
+        "begin": 1372,
+        "end": 1374
+    },
+    "277": {
+        "title": "Derechos de la persona trabajadora",
+        "begin": 1375,
+        "end": 1377
+    },
+    "278": {
+        "title": "Estrategias y lineamientos",
+        "begin": 1378,
+        "end": 1380
+    },
+    "279": {
+        "title": "Función de los organismos rectores",
+        "begin": 1385,
+        "end": 1389
+    },
+    "280": {
+        "title": "Facultades de los organismos rectores",
+        "begin": 1390,
+        "end": 1390
+    },
+    "281": {
+        "title": "Sobre la formación",
+        "begin": 1391,
+        "end": 1391
+    },
+    "282": {
+        "title": "Responsabilidad de los organismos rectores de ramas y actividades",
+        "begin": 1394,
+        "end": 1396
+    },
+    "283": {
+        "title": "Facultades sobre los equipos de alto riesgo industrial",
+        "begin": 1397,
+        "end": 1397
+    },
+    "284": {
+        "title": "Sistema de gestión",
+        "begin": 1402,
+        "end": 1405
+    },
+    "285": {
+        "title": "Derechos y obligaciones en la evaluación de riesgos",
+        "begin": 1406,
+        "end": 1408
+    },
+    "286": {
+        "title": "Evaluación de riesgos",
+        "begin": 1409,
+        "end": 1413
+    },
+    "287": {
+        "title": "Programa de prevención de riesgos",
+        "begin": 1414,
+        "end": 1421
+    },
+    "288": {
+        "title": "Presupuesto",
+        "begin": 1424,
+        "end": 1429
+    },
+    "289": {
+        "title": "Comité de Seguridad y Salud",
+        "begin": 1432,
+        "end": 1435
+    },
+    "290": {
+        "title": "Procedimiento de trabajo seguro",
+        "begin": 1438,
+        "end": 1441
+    },
+    "291": {
+        "title": "Indicaciones",
+        "begin": 1442,
+        "end": 1444
+    },
+    "292": {
+        "title": "Permiso de seguridad",
+        "begin": 1445,
+        "end": 1448
+    },
+    "293": {
+        "title": "Derecho especial",
+        "begin": 1449,
+        "end": 1451
+    },
+    "294": {
+        "title": "Derechos y obligaciones en la instrucción",
+        "begin": 1454,
+        "end": 1456
+    },
+    "295": {
+        "title": "Instrucción inicial y periódica",
+        "begin": 1457,
+        "end": 1467
+    },
+    "296": {
+        "title": "Derechos y obligaciones",
+        "begin": 1470,
+        "end": 1472
+    },
+    "297": {
+        "title": "Equipo de protección personal",
+        "begin": 1473,
+        "end": 1477
+    },
+    "298": {
+        "title": "Registro y aprobación de los equipos",
+        "begin": 1478,
+        "end": 1478
+    },
+    "299": {
+        "title": "Derechos y obligaciones",
+        "begin": 1481,
+        "end": 1483
+    },
+    "300": {
+        "title": "Exámenes médicos ocupacionales",
+        "begin": 1484,
+        "end": 1486
+    },
+    "301": {
+        "title": "Examen pre-empleo",
+        "begin": 1487,
+        "end": 1487
+    },
+    "302": {
+        "title": "Efectos del examen periódico y especializado",
+        "begin": 1488,
+        "end": 1491
+    },
+    "303": {
+        "title": "Tratamiento laboral ante la declaración de invalidez parcial",
+        "begin": 1492,
+        "end": 1496
+    },
+    "304": {
+        "title": "Definiciones",
+        "begin": 1499,
+        "end": 1504
+    },
+    "305": {
+        "title": "Situaciones que se equiparan al accidente de trabajo",
+        "begin": 1505,
+        "end": 1511
+    },
+    "306": {
+        "title": "Incidentes",
+        "begin": 1512,
+        "end": 1512
+    },
+    "307": {
+        "title": "Investigación de los accidentes",
+        "begin": 1513,
+        "end": 1517
+    },
+    "308": {
+        "title": "Deberes de la persona trabajadora",
+        "begin": 1518,
+        "end": 1518
+    },
+    "309": {
+        "title": "Investigación de accidentes de los estudiantes",
+        "begin": 1519,
+        "end": 1519
+    },
+    "310": {
+        "title": "Enfermedad profesional",
+        "begin": 1520,
+        "end": 1522
+    },
+    "311": {
+        "title": "Alcance",
+        "begin": 1527,
+        "end": 1527
+    },
+    "312": {
+        "title": "Deberes de la persona trabajadora",
+        "begin": 1528,
+        "end": 1533
+    },
+    "313": {
+        "title": "Obligaciones del empleador",
+        "begin": 1534,
+        "end": 1538
+    },
+    "314": {
+        "title": "Violaciones generales de la disciplina de trabajo",
+        "begin": 1541,
+        "end": 1559
+    },
+    "315": {
+        "title": "De la violencia",
+        "begin": 1560,
+        "end": 1566
+    },
+    "316": {
+        "title": "Del acoso",
+        "begin": 1567,
+        "end": 1571
+    },
+    "317": {
+        "title": "Del ciberacoso",
+        "begin": 1572,
+        "end": 1574
+    },
+    "318": {
+        "title": "Características del acoso",
+        "begin": 1575,
+        "end": 1583
+    },
+    "319": {
+        "title": "Manifestaciones de violencia, acoso y discriminación en el ámbito laboral",
+        "begin": 1584,
+        "end": 1600
+    },
+    "320": {
+        "title": "Violaciones específicas de la disciplina",
+        "begin": 1601,
+        "end": 1603
+    },
+    "321": {
+        "title": "Medidas disciplinarias aplicables",
+        "begin": 1604,
+        "end": 1615
+    },
+    "322": {
+        "title": "Separación del sector o actividad",
+        "begin": 1616,
+        "end": 1619
+    },
+    "323": {
+        "title": "Elementos de adecuación para imponer la medida disciplinaria",
+        "begin": 1620,
+        "end": 1626
+    },
+    "324": {
+        "title": "Adecuación de la medida disciplinaria ante violaciones graves",
+        "begin": 1627,
+        "end": 1630
+    },
+    "325": {
+        "title": "Circunstancias eximentes de la responsabilidad disciplinaria",
+        "begin": 1631,
+        "end": 1640
+    },
+    "326": {
+        "title": "Reglamentos disciplinarios",
+        "begin": 1643,
+        "end": 1646
+    },
+    "327": {
+        "title": "Alcance, contenido y aprobación de los reglamentos ramales o de actividad",
+        "begin": 1647,
+        "end": 1654
+    },
+    "328": {
+        "title": "Alcance y contenido de los reglamentos disciplinarios internos",
+        "begin": 1655,
+        "end": 1666
+    },
+    "329": {
+        "title": "Elaboración y aprobación del reglamento disciplinario interno",
+        "begin": 1667,
+        "end": 1671
+    },
+    "330": {
+        "title": "Actualización de los reglamentos",
+        "begin": 1672,
+        "end": 1672
+    },
+    "331": {
+        "title": "Procedimiento de aplicación de la medida disciplinaria",
+        "begin": 1675,
+        "end": 1689
+    },
+    "332": {
+        "title": "Prescripción de la acción del empleador",
+        "begin": 1690,
+        "end": 1692
+    },
+    "333": {
+        "title": "Plazos para imponer la medida disciplinaria",
+        "begin": 1693,
+        "end": 1697
+    },
+    "334": {
+        "title": "Medida cautelar",
+        "begin": 1698,
+        "end": 1701
+    },
+    "335": {
+        "title": "Suspensión del plazo para imponer la medida disciplinaria",
+        "begin": 1702,
+        "end": 1706
+    },
+    "336": {
+        "title": "Notificación de la medida disciplinaria",
+        "begin": 1707,
+        "end": 1710
+    },
+    "337": {
+        "title": "Excepción a la notificación",
+        "begin": 1711,
+        "end": 1714
+    },
+    "338": {
+        "title": "Independencia de los procesos",
+        "begin": 1715,
+        "end": 1717
+    },
+    "339": {
+        "title": "Efectos de la medida cautelar",
+        "begin": 1718,
+        "end": 1720
+    },
+    "340": {
+        "title": "Cumplimiento de la medida disciplinaria",
+        "begin": 1721,
+        "end": 1725
+    },
+    "341": {
+        "title": "Suspensión del cumplimiento de la medida disciplinaria",
+        "begin": 1726,
+        "end": 1730
+    },
+    "342": {
+        "title": "Control de las medidas disciplinarias aplicadas",
+        "begin": 1730,
+        "end": 1730
+    },
+    "343": {
+        "title": "Alcance",
+        "begin": 1735,
+        "end": 1735
+    },
+    "344": {
+        "title": "Nulidad de la medida disciplinaria",
+        "begin": 1736,
+        "end": 1742
+    },
+    "345": {
+        "title": "Situaciones de medidas disciplinarias indebidas",
+        "begin": 1743,
+        "end": 1750
+    },
+    "346": {
+        "title": "Forma de resarcimiento en las reclamaciones de derechos de trabajo y la seguridad social",
+        "begin": 1751,
+        "end": 1756
+    },
+    "347": {
+        "title": "Determinación de la cuantía a indemnizar",
+        "begin": 1757,
+        "end": 1762
+    },
+    "348": {
+        "title": "Efectos de la indemnización",
+        "begin": 1763,
+        "end": 1765
+    },
+    "349": {
+        "title": "Alcance de la indemnización",
+        "begin": 1768,
+        "end": 1771
+    },
+    "350": {
+        "title": "Procedimiento para el reconocimiento",
+        "begin": 1772,
+        "end": 1774
+    },
+    "351": {
+        "title": "Rehabilitación",
+        "begin": 1777,
+        "end": 1785
+    },
+    "352": {
+        "title": "Efecto de la rehabilitación",
+        "begin": 1786,
+        "end": 1788
+    },
+    "353": {
+        "title": "Reducción del plazo de rehabilitación",
+        "begin": 1789,
+        "end": 1789
+    },
+    "354": {
+        "title": "Interrupción del plazo de la rehabilitación",
+        "begin": 1790,
+        "end": 1790
+    },
+    "355": {
+        "title": "Sujetos",
+        "begin": 1795,
+        "end": 1795
+    },
+    "356": {
+        "title": "Alcance",
+        "begin": 1796,
+        "end": 1799
+    },
+    "357": {
+        "title": "En las empresas mixtas y en las de capital totalmente extranjero, se aplica lo previsto en este Título con las adecuaciones establecidas en la disposición normativa específica dictada por el titular del Ministerio de Trabajo y Seguridad Social",
+        "begin": 1800,
+        "end": 1800
+    },
+    "358": {
+        "title": "Excepciones a la exigencia de responsabilidad material",
+        "begin": 1801,
+        "end": 1807
+    },
+    "359": {
+        "title": "Autoridad facultada",
+        "begin": 1808,
+        "end": 1810
+    },
+    "360": {
+        "title": "Obligación de denunciar",
+        "begin": 1811,
+        "end": 1814
+    },
+    "361": {
+        "title": "Ejercicio de la acción penal",
+        "begin": 1815,
+        "end": 1815
+    },
+    "362": {
+        "title": "Independencia de la responsabilidad material de la acción disciplinaria",
+        "begin": 1816,
+        "end": 1816
+    },
+    "363": {
+        "title": "Medidas aplicables",
+        "begin": 1817,
+        "end": 1823
+    },
+    "364": {
+        "title": "Indemnización",
+        "begin": 1824,
+        "end": 1828
+    },
+    "365": {
+        "title": "Determinación de los responsables",
+        "begin": 1831,
+        "end": 1833
+    },
+    "366": {
+        "title": "Determinación de las áreas de responsabilidad material",
+        "begin": 1834,
+        "end": 1837
+    },
+    "367": {
+        "title": "Grupos de responsabilidad material",
+        "begin": 1838,
+        "end": 1841
+    },
+    "368": {
+        "title": "Formalidad",
+        "begin": 1842,
+        "end": 1844
+    },
+    "369": {
+        "title": "Exigencia de la responsabilidad material",
+        "begin": 1847,
+        "end": 1859
+    },
+    "370": {
+        "title": "Suspensión del plazo para exigir responsabilidad material",
+        "begin": 1860,
+        "end": 1866
+    },
+    "371": {
+        "title": "Prescripción de la acción del empleador",
+        "begin": 1867,
+        "end": 1867
+    },
+    "372": {
+        "title": "Conformidad con la responsabilidad",
+        "begin": 1868,
+        "end": 1868
+    },
+    "373": {
+        "title": "Constitución de la comisión investigadora",
+        "begin": 1869,
+        "end": 1871
+    },
+    "374": {
+        "title": "Procedimiento de trabajo de la comisión",
+        "begin": 1872,
+        "end": 1885
+    },
+    "375": {
+        "title": "Notificación de la decisión de la autoridad facultada",
+        "begin": 1886,
+        "end": 1888
+    },
+    "376": {
+        "title": "Nuevo proceso de investigación",
+        "begin": 1889,
+        "end": 1892
+    },
+    "377": {
+        "title": "Daños a terceros",
+        "begin": 1893,
+        "end": 1893
+    },
+    "378": {
+        "title": "Inconformidad por la exigencia de la responsabilidad material",
+        "begin": 1896,
+        "end": 1899
+    },
+    "379": {
+        "title": "Ejecución de la restitución o la reparación",
+        "begin": 1902,
+        "end": 1904
+    },
+    "380": {
+        "title": "Ejecución de la indemnización",
+        "begin": 1905,
+        "end": 1907
+    },
+    "381": {
+        "title": "Efectos de la responsabilidad material",
+        "begin": 1908,
+        "end": 1910
+    },
+    "382": {
+        "title": "Causas de modificación",
+        "begin": 1911,
+        "end": 1917
+    },
+    "383": {
+        "title": "Causas de extinción",
+        "begin": 1918,
+        "end": 1922
+    },
+    "384": {
+        "title": "Alcance",
+        "begin": 1927,
+        "end": 1934
+    },
+    "385": {
+        "title": "Principios procesales",
+        "begin": 1935,
+        "end": 1944
+    },
+    "386": {
+        "title": "Cumplimiento de las decisiones firmes",
+        "begin": 1945,
+        "end": 1947
+    },
+    "387": {
+        "title": "Mediación en materia de trabajo y seguridad social",
+        "begin": 1950,
+        "end": 1953
+    },
+    "388": {
+        "title": "Alcance de la mediación",
+        "begin": 1954,
+        "end": 1958
+    },
+    "389": {
+        "title": "Alcance",
+        "begin": 1963,
+        "end": 1963
+    },
+    "390": {
+        "title": "Plazos para reclamar en materia de disciplina",
+        "begin": 1964,
+        "end": 1964
+    },
+    "391": {
+        "title": "Plazos para reclamar en materia de derechos",
+        "begin": 1965,
+        "end": 1968
+    },
+    "392": {
+        "title": "Plazo para la solución del conflicto",
+        "begin": 1969,
+        "end": 1971
+    },
+    "393": {
+        "title": "Condiciones para la actuación del Órgano de Justicia Laboral",
+        "begin": 1972,
+        "end": 1975
+    },
+    "394": {
+        "title": "Competencia del Órgano de Justicia Laboral",
+        "begin": 1976,
+        "end": 1993
+    },
+    "395": {
+        "title": "Organización del Órgano de Justicia Laboral",
+        "begin": 1996,
+        "end": 1999
+    },
+    "396": {
+        "title": "Excepciones",
+        "begin": 2000,
+        "end": 2002
+    },
+    "397": {
+        "title": "Particularidades en la inversión extranjera",
+        "begin": 2003,
+        "end": 2005
+    },
+    "398": {
+        "title": "Integración",
+        "begin": 2006,
+        "end": 2009
+    },
+    "399": {
+        "title": "Elección del Presidente y su sustituto",
+        "begin": 2010,
+        "end": 2014
+    },
+    "400": {
+        "title": "Funciones del presidente y el secretario",
+        "begin": 2015,
+        "end": 2018
+    },
+    "401": {
+        "title": "Constitución del Órgano de Justicia Laboral",
+        "begin": 2019,
+        "end": 2019
+    },
+    "402": {
+        "title": "Requisitos de los miembros",
+        "begin": 2020,
+        "end": 2026
+    },
+    "403": {
+        "title": "Período de mandato",
+        "begin": 2027,
+        "end": 2030
+    },
+    "404": {
+        "title": "Causas para la sustitución",
+        "begin": 2031,
+        "end": 2035
+    },
+    "405": {
+        "title": "Acciones para el completamiento",
+        "begin": 2036,
+        "end": 2036
+    },
+    "406": {
+        "title": "Facilidades al Órgano de Justicia Laboral",
+        "begin": 2037,
+        "end": 2037
+    },
+    "407": {
+        "title": "Capacitación a los miembros del Órgano de Justicia Laboral",
+        "begin": 2038,
+        "end": 2040
+    },
+    "408": {
+        "title": "Presentación de la reclamación",
+        "begin": 2043,
+        "end": 2048
+    },
+    "409": {
+        "title": "Designación del representante de la persona trabajadora",
+        "begin": 2049,
+        "end": 2052
+    },
+    "410": {
+        "title": "Designación del representante de la entidad",
+        "begin": 2053,
+        "end": 2053
+    },
+    "411": {
+        "title": "Análisis de la reclamación",
+        "begin": 2054,
+        "end": 2058
+    },
+    "412": {
+        "title": "Conformación del expediente",
+        "begin": 2059,
+        "end": 2069
+    },
+    "413": {
+        "title": "Convocatoria a la comparecencia",
+        "begin": 2070,
+        "end": 2073
+    },
+    "414": {
+        "title": "Citación a la comparecencia pública",
+        "begin": 2074,
+        "end": 2078
+    },
+    "415": {
+        "title": "Incomparecencia de las partes",
+        "begin": 2079,
+        "end": 2084
+    },
+    "416": {
+        "title": "Condiciones para realizar la comparecencia",
+        "begin": 2085,
+        "end": 2089
+    },
+    "417": {
+        "title": "Pruebas",
+        "begin": 2090,
+        "end": 2097
+    },
+    "418": {
+        "title": "Deliberación",
+        "begin": 2098,
+        "end": 2100
+    },
+    "419": {
+        "title": "Adopción del Acuerdo",
+        "begin": 2101,
+        "end": 2108
+    },
+    "420": {
+        "title": "Demanda a la vía judicial",
+        "begin": 2109,
+        "end": 2112
+    },
+    "421": {
+        "title": "Cumplimiento del plazo establecido para la tramitación",
+        "begin": 2113,
+        "end": 2115
+    },
+    "422": {
+        "title": "Cumplimiento de las decisiones del Órgano de Justicia Laboral",
+        "begin": 2116,
+        "end": 2118
+    },
+    "423": {
+        "title": "Anulación de las decisiones del Órgano de Justicia Laboral",
+        "begin": 2121,
+        "end": 2124
+    },
+    "424": {
+        "title": "Efectos de la anulación",
+        "begin": 2125,
+        "end": 2127
+    },
+    "425": {
+        "title": "Alcance",
+        "begin": 2130,
+        "end": 2133
+    },
+    "426": {
+        "title": "Vía de reclamación",
+        "begin": 2136,
+        "end": 2136
+    },
+    "427": {
+        "title": "Derechos y deberes de las personas trabajadoras contratadas",
+        "begin": 2141,
+        "end": 2141
+    },
+    "428": {
+        "title": "Alcance de las obligaciones del empleador",
+        "begin": 2142,
+        "end": 2142
+    },
+    "429": {
+        "title": "Obligaciones del empleador",
+        "begin": 2143,
+        "end": 2151
+    },
+    "430": {
+        "title": "Causas de suspensión",
+        "begin": 2152,
+        "end": 2154
+    },
+    "431": {
+        "title": "Tratamiento salarial",
+        "begin": 2155,
+        "end": 2155
+    },
+    "432": {
+        "title": "Causas de terminación de la relación de trabajo",
+        "begin": 2156,
+        "end": 2160
+    },
+    "433": {
+        "title": "Formalización de la relación de trabajo",
+        "begin": 2163,
+        "end": 2166
+    },
+    "434": {
+        "title": "Relación de trabajo de los designados",
+        "begin": 2167,
+        "end": 2169
+    },
+    "435": {
+        "title": "Entidad empleadora",
+        "begin": 2170,
+        "end": 2172
+    },
+    "436": {
+        "title": "Contrato de Suministro de Fuerza de Trabajo",
+        "begin": 2173,
+        "end": 2175
+    },
+    "437": {
+        "title": "Remuneración por el trabajo",
+        "begin": 2176,
+        "end": 2178
+    },
+    "438": {
+        "title": "Interrupción laboral",
+        "begin": 2179,
+        "end": 2179
+    },
+    "439": {
+        "title": "Particularidades",
+        "begin": 2180,
+        "end": 2180
+    },
+    "440": {
+        "title": "Alcance",
+        "begin": 2183,
+        "end": 2187
+    },
+    "441": {
+        "title": "Aprobación",
+        "begin": 2188,
+        "end": 2192
+    },
+    "442": {
+        "title": "Excepción",
+        "begin": 2193,
+        "end": 2193
+    },
+    "443": {
+        "title": "Duración",
+        "begin": 2194,
+        "end": 2197
+    },
+    "444": {
+        "title": "Particularidad de la autorización",
+        "begin": 2198,
+        "end": 2200
+    },
+    "445": {
+        "title": "Cancelación",
+        "begin": 2201,
+        "end": 2201
+    },
+    "446": {
+        "title": "Renovación, actualización y duplicado",
+        "begin": 2202,
+        "end": 2204
+    },
+    "447": {
+        "title": "Excepciones",
+        "begin": 2205,
+        "end": 2205
+    },
+    "448": {
+        "title": "Pago de los trámites",
+        "begin": 2206,
+        "end": 2208
+    },
+    "449": {
+        "title": "Contrato de trabajo para laborar en el exterior",
+        "begin": 2211,
+        "end": 2211
+    },
+    "450": {
+        "title": "Obligaciones de la entidad exportadora",
+        "begin": 2212,
+        "end": 2212
+    },
+    "451": {
+        "title": "Contenido del convenio, acuerdo de cooperación, contrato de exportación de servicios u otro de similar naturaleza",
+        "begin": 2213,
+        "end": 2213
+    },
+    "452": {
+        "title": "Protección de la persona que trabaja en el exterior",
+        "begin": 2214,
+        "end": 2216
+    },
+    "453": {
+        "title": "Particularidades",
+        "begin": 2217,
+        "end": 2217
+    },
+    "454": {
+        "title": "Alcance",
+        "begin": 2220,
+        "end": 2222
+    },
+    "455": {
+        "title": "Particularidades",
+        "begin": 2223,
+        "end": 2226
+    },
+    "456": {
+        "title": "Contrato de Suministro de fuerza de trabajo",
+        "begin": 2227,
+        "end": 2227
+    },
+    "457": {
+        "title": "Contratación de Gente de mar",
+        "begin": 2230,
+        "end": 2234
+    },
+    "458": {
+        "title": "Relación de trabajo individual",
+        "begin": 2235,
+        "end": 2237
+    },
+    "459": {
+        "title": "Inconformidades",
+        "begin": 2238,
+        "end": 2238
+    },
+    "460": {
+        "title": "Contratación de personas trabajadoras",
+        "begin": 2243,
+        "end": 2245
+    },
+    "461": {
+        "title": "Contratación de personas trabajadoras",
+        "begin": 2248,
+        "end": 2250
+    },
+    "462": {
+        "title": "Contratación laboral",
+        "begin": 2253,
+        "end": 2253
+    },
+    "463": {
+        "title": "Requisitos",
+        "begin": 2256,
+        "end": 2257
+    },
+    "464": {
+        "title": "Obligación del empleador",
+        "begin": 2258,
+        "end": 2261
+    },
+    "465": {
+        "title": "Exámenes",
+        "begin": 2262,
+        "end": 2264
+    },
+    "466": {
+        "title": "Límites",
+        "begin": 2265,
+        "end": 2265
+    },
+    "467": {
+        "title": "Régimen de trabajo y descanso de las personas trabajadoras conductores profesionales",
+        "begin": 2266,
+        "end": 2271
+    },
+    "468": {
+        "title": "Excepciones al régimen de trabajo y descanso",
+        "begin": 2272,
+        "end": 2277
+    },
+    "469": {
+        "title": "Suspensión de la licencia de conducción",
+        "begin": 2278,
+        "end": 2284
+    },
+    "470": {
+        "title": "Causas de terminación de la relación de trabajo",
+        "begin": 2285,
+        "end": 2285
+    },
+    "471": {
+        "title": "Incapacidad laboral",
+        "begin": 2286,
+        "end": 2286
+    },
+    "472": {
+        "title": "Conducción en actividades peligrosas",
+        "begin": 2287,
+        "end": 2287
+    },
+    "473": {
+        "title": "Derecho de sindicación de las personas trabajadoras",
+        "begin": 2294,
+        "end": 2297
+    },
+    "474": {
+        "title": "Principios",
+        "begin": 2298,
+        "end": 2303
+    },
+    "475": {
+        "title": "Derechos",
+        "begin": 2304,
+        "end": 2321
+    },
+    "476": {
+        "title": "Deberes",
+        "begin": 2322,
+        "end": 2331
+    },
+    "477": {
+        "title": "Derechos de las personas trabajadoras",
+        "begin": 2332,
+        "end": 2342
+    },
+    "478": {
+        "title": "Garantías a los dirigentes de la organización sindical",
+        "begin": 2345,
+        "end": 2349
+    },
+    "479": {
+        "title": "Inspección sindical",
+        "begin": 2352,
+        "end": 2356
+    },
+    "480": {
+        "title": "Derecho de participación",
+        "begin": 2361,
+        "end": 2363
+    },
+    "481": {
+        "title": "Objetivos",
+        "begin": 2364,
+        "end": 2364
+    },
+    "482": {
+        "title": "Principios de la participación",
+        "begin": 2365,
+        "end": 2373
+    },
+    "483": {
+        "title": "Efectividad de la participación",
+        "begin": 2374,
+        "end": 2376
+    },
+    "484": {
+        "title": "Formas de participación",
+        "begin": 2379,
+        "end": 2384
+    },
+    "485": {
+        "title": "Temas objeto de la participación",
+        "begin": 2385,
+        "end": 2409
+    },
+    "486": {
+        "title": "Temas objeto de la participación indispensable de las personas trabajadoras",
+        "begin": 2410,
+        "end": 2429
+    },
+    "487": {
+        "title": "Materialización de la participación",
+        "begin": 2430,
+        "end": 2433
+    },
+    "488": {
+        "title": "Sistema de control interno",
+        "begin": 2436,
+        "end": 2438
+    },
+    "489": {
+        "title": "Rendición de cuenta administrativa",
+        "begin": 2439,
+        "end": 2443
+    },
+    "490": {
+        "title": "Derecho a la negociación colectiva",
+        "begin": 2448,
+        "end": 2450
+    },
+    "491": {
+        "title": "Convenio colectivo de trabajo",
+        "begin": 2451,
+        "end": 2459
+    },
+    "492": {
+        "title": "Procedimiento",
+        "begin": 2462,
+        "end": 2466
+    },
+    "493": {
+        "title": "Cláusulas del convenio colectivo de trabajo",
+        "begin": 2467,
+        "end": 2480
+    },
+    "494": {
+        "title": "Anexos del convenio colectivo de trabajo",
+        "begin": 2481,
+        "end": 2491
+    },
+    "495": {
+        "title": "Aprobación",
+        "begin": 2492,
+        "end": 2496
+    },
+    "496": {
+        "title": "Legalidad del convenio colectivo de trabajo",
+        "begin": 2497,
+        "end": 2499
+    },
+    "497": {
+        "title": "Período de vigencia",
+        "begin": 2500,
+        "end": 2504
+    },
+    "498": {
+        "title": "Control de la legalidad",
+        "begin": 2505,
+        "end": 2507
+    },
+    "499": {
+        "title": "Proceso conciliatorio",
+        "begin": 2508,
+        "end": 2508
+    },
+    "500": {
+        "title": "Procedimiento de arbitraje",
+        "begin": 2511,
+        "end": 2511
+    },
+    "501": {
+        "title": "Procedimiento del órgano de arbitraje",
+        "begin": 2512,
+        "end": 2516
+    },
+    "502": {
+        "title": "Decisión del Órgano de Arbitraje",
+        "begin": 2517,
+        "end": 2517
+    },
+    "503": {
+        "title": "Alcance",
+        "begin": 2522,
+        "end": 2525
+    },
+    "504": {
+        "title": "Mecanismos de organización y coordinación",
+        "begin": 2526,
+        "end": 2528
+    },
+    "505": {
+        "title": "Autoridades de trabajo",
+        "begin": 2533,
+        "end": 2541
+    },
+    "506": {
+        "title": "Responsabilidades",
+        "begin": 2542,
+        "end": 2553
+    },
+    "507": {
+        "title": "Servicio de Gestión de Empleo Territorial",
+        "begin": 2556,
+        "end": 2559
+    },
+    "508": {
+        "title": "Objetivos",
+        "begin": 2560,
+        "end": 2566
+    },
+    "509": {
+        "title": "Autoridades de la inspección del trabajo",
+        "begin": 2571,
+        "end": 2581
+    },
+    "510": {
+        "title": "Sujetos de inspección del trabajo",
+        "begin": 2582,
+        "end": 2586
+    },
+    "511": {
+        "title": "Infracciones generales",
+        "begin": 2589,
+        "end": 2593
+    },
+    "512": {
+        "title": "Infracciones en el empleo y la contratación de trabajo",
+        "begin": 2594,
+        "end": 2602
+    },
+    "513": {
+        "title": "Infracciones de la protección a la trabajadora",
+        "begin": 2603,
+        "end": 2608
+    },
+    "514": {
+        "title": "Infracciones del régimen de trabajo y descanso",
+        "begin": 2609,
+        "end": 2613
+    },
+    "515": {
+        "title": "Infracciones de la remuneración",
+        "begin": 2614,
+        "end": 2620
+    },
+    "516": {
+        "title": "Infracciones de la seguridad y salud en el trabajo",
+        "begin": 2621,
+        "end": 2629
+    },
+    "517": {
+        "title": "Infracciones de la seguridad social",
+        "begin": 2630,
+        "end": 2633
+    },
+    "518": {
+        "title": "Funciones específicas de la inspección del trabajo",
+        "begin": 2636,
+        "end": 2643
+    },
+    "519": {
+        "title": "Medidas aplicables",
+        "begin": 2644,
+        "end": 2651
+    },
+    "520": {
+        "title": "Medidas adicionales",
+        "begin": 2652,
+        "end": 2657
+    },
+    "521": {
+        "title": "Notificación de la inspección",
+        "begin": 2658,
+        "end": 2658
+    },
+    "522": {
+        "title": "Recurso de apelación",
+        "begin": 2659,
+        "end": 2662
+    },
+    "523": {
+        "title": "Revisión",
+        "begin": 2663,
+        "end": 2663
+    },
+    "524": {
+        "title": "Capital Humano",
+        "begin": 2666,
+        "end": 2666
+    },
+    "525": {
+        "title": "Gestión del Capital Humano",
+        "begin": 2667,
+        "end": 2669
+    }
+}

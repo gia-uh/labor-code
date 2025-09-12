@@ -1,0 +1,352 @@
+{
+    "1": {
+        "title": "CAPÍTULO I",
+        "begin": 7,
+        "end": 25
+    },
+    "2": {
+        "title": "CAPÍTULO II",
+        "begin": 26,
+        "end": 62
+    },
+    "3": {
+        "title": "CAPÍTULO III",
+        "begin": 63,
+        "end": 99
+    },
+    "4": {
+        "title": "CAPÍTULO I",
+        "begin": 102,
+        "end": 111
+    },
+    "5": {
+        "title": "CAPÍTULO II",
+        "begin": 112,
+        "end": 141
+    },
+    "6": {
+        "title": "CAPÍTULO III",
+        "begin": 142,
+        "end": 192
+    },
+    "7": {
+        "title": "CAPÍTULO I",
+        "begin": 197,
+        "end": 201
+    },
+    "8": {
+        "title": "CAPÍTULO II",
+        "begin": 202,
+        "end": 250
+    },
+    "9": {
+        "title": "CAPÍTULO III",
+        "begin": 251,
+        "end": 352
+    },
+    "10": {
+        "title": "CAPÍTULO IV",
+        "begin": 353,
+        "end": 429
+    },
+    "11": {
+        "title": "CAPÍTULO V",
+        "begin": 430,
+        "end": 464
+    },
+    "12": {
+        "title": "CAPÍTULO VI",
+        "begin": 465,
+        "end": 520
+    },
+    "13": {
+        "title": "CAPÍTULO VII",
+        "begin": 521,
+        "end": 649
+    },
+    "14": {
+        "title": "CAPÍTULO VIII",
+        "begin": 650,
+        "end": 734
+    },
+    "15": {
+        "title": "CAPÍTULO I",
+        "begin": 737,
+        "end": 756
+    },
+    "16": {
+        "title": "CAPÍTULO II",
+        "begin": 757,
+        "end": 768
+    },
+    "17": {
+        "title": "CAPÍTULO III",
+        "begin": 769,
+        "end": 791
+    },
+    "18": {
+        "title": "CAPÍTULO IV",
+        "begin": 792,
+        "end": 831
+    },
+    "19": {
+        "title": "CAPÍTULO I",
+        "begin": 834,
+        "end": 850
+    },
+    "20": {
+        "title": "CAPÍTULO II",
+        "begin": 851,
+        "end": 878
+    },
+    "21": {
+        "title": "CAPÍTULO III",
+        "begin": 879,
+        "end": 920
+    },
+    "22": {
+        "title": "CAPÍTULO I",
+        "begin": 923,
+        "end": 931
+    },
+    "23": {
+        "title": "CAPÍTULO II",
+        "begin": 932,
+        "end": 948
+    },
+    "24": {
+        "title": "CAPÍTULO III",
+        "begin": 949,
+        "end": 1020
+    },
+    "25": {
+        "title": "CAPÍTULO IV",
+        "begin": 1021,
+        "end": 1081
+    },
+    "26": {
+        "title": "CAPÍTULO V",
+        "begin": 1082,
+        "end": 1242
+    },
+    "27": {
+        "title": "CAPÍTULO I",
+        "begin": 1245,
+        "end": 1298
+    },
+    "28": {
+        "title": "CAPÍTULO II",
+        "begin": 1299,
+        "end": 1336
+    },
+    "29": {
+        "title": "CAPÍTULO III",
+        "begin": 1337,
+        "end": 1356
+    },
+    "30": {
+        "title": "CAPÍTULO IV",
+        "begin": 1357,
+        "end": 1367
+    },
+    "31": {
+        "title": "CAPÍTULO I",
+        "begin": 1370,
+        "end": 1380
+    },
+    "32": {
+        "title": "CAPÍTULO II",
+        "begin": 1381,
+        "end": 1397
+    },
+    "33": {
+        "title": "CAPÍTULO III",
+        "begin": 1398,
+        "end": 1522
+    },
+    "34": {
+        "title": "CAPÍTULO I",
+        "begin": 1525,
+        "end": 1538
+    },
+    "35": {
+        "title": "CAPÍTULO II",
+        "begin": 1539,
+        "end": 1640
+    },
+    "36": {
+        "title": "CAPÍTULO III",
+        "begin": 1641,
+        "end": 1672
+    },
+    "37": {
+        "title": "CAPÍTULO IV",
+        "begin": 1673,
+        "end": 1730
+    },
+    "38": {
+        "title": "CAPÍTULO V",
+        "begin": 1731,
+        "end": 1774
+    },
+    "39": {
+        "title": "CAPÍTULO VI",
+        "begin": 1775,
+        "end": 1790
+    },
+    "40": {
+        "title": "CAPÍTULO I",
+        "begin": 1793,
+        "end": 1828
+    },
+    "41": {
+        "title": "CAPÍTULO II",
+        "begin": 1829,
+        "end": 1844
+    },
+    "42": {
+        "title": "CAPÍTULO III",
+        "begin": 1845,
+        "end": 1893
+    },
+    "43": {
+        "title": "CAPÍTULO IV",
+        "begin": 1894,
+        "end": 1899
+    },
+    "44": {
+        "title": "CAPÍTULO V",
+        "begin": 1900,
+        "end": 1922
+    },
+    "45": {
+        "title": "CAPÍTULO I",
+        "begin": 1925,
+        "end": 1947
+    },
+    "46": {
+        "title": "CAPÍTULO II",
+        "begin": 1948,
+        "end": 1958
+    },
+    "47": {
+        "title": "CAPÍTULO III",
+        "begin": 1959,
+        "end": 2127
+    },
+    "48": {
+        "title": "CAPÍTULO IV",
+        "begin": 2128,
+        "end": 2133
+    },
+    "49": {
+        "title": "CAPÍTULO V",
+        "begin": 2134,
+        "end": 2136
+    },
+    "50": {
+        "title": "CAPÍTULO I",
+        "begin": 2139,
+        "end": 2160
+    },
+    "51": {
+        "title": "CAPÍTULO II",
+        "begin": 2161,
+        "end": 2180
+    },
+    "52": {
+        "title": "CAPÍTULO III",
+        "begin": 2181,
+        "end": 2208
+    },
+    "53": {
+        "title": "CAPÍTULO IV",
+        "begin": 2209,
+        "end": 2217
+    },
+    "54": {
+        "title": "CAPÍTULO V",
+        "begin": 2218,
+        "end": 2227
+    },
+    "55": {
+        "title": "CAPÍTULO VI",
+        "begin": 2228,
+        "end": 2238
+    },
+    "56": {
+        "title": "CAPÍTULO VII",
+        "begin": 2239,
+        "end": 2253
+    },
+    "57": {
+        "title": "CAPÍTULO VIII",
+        "begin": 2254,
+        "end": 2287
+    },
+    "58": {
+        "title": "CAPÍTULO I",
+        "begin": 2292,
+        "end": 2342
+    },
+    "59": {
+        "title": "CAPÍTULO II",
+        "begin": 2343,
+        "end": 2349
+    },
+    "60": {
+        "title": "CAPÍTULO III",
+        "begin": 2350,
+        "end": 2356
+    },
+    "61": {
+        "title": "CAPÍTULO I",
+        "begin": 2359,
+        "end": 2376
+    },
+    "62": {
+        "title": "CAPÍTULO II",
+        "begin": 2377,
+        "end": 2433
+    },
+    "63": {
+        "title": "CAPÍTULO III",
+        "begin": 2434,
+        "end": 2443
+    },
+    "64": {
+        "title": "CAPÍTULO I",
+        "begin": 2446,
+        "end": 2459
+    },
+    "65": {
+        "title": "CAPÍTULO II",
+        "begin": 2460,
+        "end": 2508
+    },
+    "66": {
+        "title": "CAPÍTULO III",
+        "begin": 2509,
+        "end": 2528
+    },
+    "67": {
+        "title": "CAPÍTULO I",
+        "begin": 2531,
+        "end": 2553
+    },
+    "68": {
+        "title": "CAPÍTULO II",
+        "begin": 2554,
+        "end": 2566
+    },
+    "69": {
+        "title": "CAPÍTULO III",
+        "begin": 2567,
+        "end": 2663
+    },
+    "70": {
+        "title": "CAPÍTULO IV",
+        "begin": 2664,
+        "end": 2669
+    }
+}
