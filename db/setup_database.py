@@ -5,6 +5,7 @@ This script initializes the database and populates it with paragraph data.
 """
 
 import os
+import streamlit as st
 from pprint import pprint
 import sys
 from milvus_client import MilvusParagraphClient
@@ -15,7 +16,7 @@ def main():
     print("Setting up Milvus database for labor code paragraphs...")
     
     # Check if data files exist
-    data_path = "./jsons/anteproyecto/law"
+    data_path = st.secrets["dirs"]["project"]["law"]
     required_files = [
         "paragraphs.json",
         "preamble.json", 

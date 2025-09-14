@@ -5,6 +5,7 @@ Handles CRUD operations for paragraphs with their metadata.
 
 import json
 import os
+import streamlit as st 
 from typing import List, Dict, Any, Optional
 from pymilvus import (
     connections, Collection, CollectionSchema, FieldSchema, DataType,
@@ -17,9 +18,9 @@ class MilvusParagraphClient:
     """Client for managing paragraphs in Milvus vector database."""
     
     def __init__(self, collection_name: str = "anteproy_paragraphs", 
-                 data_path: str = "./jsons/anteproyecto/law",
-                 embedding_base_url: str = "http://10.6.125.217:8080/v1",
-                 embedding_model: str = "text-embedding-nomic-embed-text-v2-moe"):
+                 data_path: str = st.secrets["dirs"]["project"]["law"],
+                 embedding_base_url: str = st.secrets["embedding"]["base_url"],
+                 embedding_model: str = st.secrets["embedding"]["model"]):
         """
         Initialize the Milvus client.
         
@@ -49,7 +50,7 @@ class MilvusParagraphClient:
         try:
             connections.connect(
                 alias="default",
-                uri="./milvus_lite.db"  # Local Milvus Lite database
+                uri=st.secrets["dbs"]["milvus"]  # Local Milvus Lite database
             )
             print("Connected to Milvus Lite successfully")
         except Exception as e:
