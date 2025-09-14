@@ -18,7 +18,8 @@ class User(BaseModel):
     username: str
     pasw: str
 
-DEFAULT_PASSWORD = "38d406a798688f99c83852840952c276eb7635f7ea9024babcde8648b0c37e31"
+#DEFAULT_PASSWORD = "38d406a798688f99c83852840952c276eb7635f7ea9024babcde8648b0c37e31"
+DEFAULT_PASSWORD = st.secrets["user"]["default_password"]
 
 def hash_password(password):
     """Hash a password using SHA-256"""
@@ -26,11 +27,11 @@ def hash_password(password):
 
 def check_user(user:User):
     try:  
-        server = Server(os.getenv("LDAP_ADDRESS",""), get_info=ALL)
+        server = Server(st.secrets["ldap"]["address"], get_info=ALL)
         conn = Connection(
             server, 
-            f"cn={os.getenv("LDAP_USER")},dc=uh,dc=cu", 
-            os.getenv("LDAP_PASSWORD"), 
+            f"cn={st.secrets["ldap"]["user"]},dc=uh,dc=cu", 
+            st.secrets["ldap"]["passwd"], 
             auto_bind=True
         )
         
@@ -64,13 +65,13 @@ def login():
     st.title("Login")
     
     with st.form("login_form"):
-        username = st.text_input("Username")
-        password = st.text_input("Password", type="password")
-        submit = st.form_submit_button("Login")
+        username = st.text_input("Usuario")
+        password = st.text_input("Contraseña", type="password")
+        submit = st.form_submit_button("Autenticarse")
         
         if submit:
             checking = check_user(User(username=username,pasw=password))
-            if checking is Query.APPROVED or (username =="gia-uh" and hash_password(password) ==DEFAULT_PASSWORD):
+            if checking is Query.APPROVED or (username ==st.secrets["user"]["default_user"] and hash_password(password) ==DEFAULT_PASSWORD):
                 st.session_state.logged_in = True
                 st.session_state.username = username
                 st.success("Logged in successfully!")
