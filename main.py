@@ -8,11 +8,11 @@ from pydantic import BaseModel
 load_dotenv()
 
 
-class Consulta(str, Enum):
-    APROBADO = "APROBADO"
-    ERROR_NO_ENCONTRADO = "ERROR_NO_ENCONTRADO"
-    ERROR_CONTRASEÑA = "ERROR_CONTRASEÑA"
-    ERROR_SERVICIO = "ERROR_SERVICIO"
+class Query(str, Enum):
+    APPROVED = "APPROBADO"
+    ERROR_NOT_FOUND = "ERROR_NO_ENCONTRADO"
+    ERROR_PASSWORD = "ERROR_CONTRASEÑA"
+    ERROR_SERVICE = "ERROR_SERVICIO"
 
 class User(BaseModel):
     username: str
@@ -42,7 +42,7 @@ def check_user(user:User):
                    attributes=['*'])
         
         if not conn.entries:
-            return  Consulta.ERROR_NO_ENCONTRADO
+            return  Query.ERROR_NOT_FOUND
             
         user_dn = conn.entries[0].entry_dn
         # 3. Intentar autenticar con las credenciales del usuario
@@ -50,13 +50,13 @@ def check_user(user:User):
 
         # Si llegamos aquí, la autenticación fue exitosa
         user_conn.unbind()
-        return Consulta.APROBADO
+        return Query.APPROVED
         
     except Exception as e:
         if "invalidCredentials" in str(e):
-            return Consulta.ERROR_CONTRASEÑA
+            return Query.ERROR_PASSWORD
         else:
-            return Consulta.ERROR_SERVICIO
+            return Query.ERROR_SERVICE
         
             
 
@@ -70,15 +70,15 @@ def login():
         
         if submit:
             checking = check_user(User(username=username,pasw=password))
-            if checking is Consulta.APROBADO or (username =="gia-uh" and hash_password(password) ==DEFAULT_PASSWORD):
+            if checking is Query.APPROVED or (username =="gia-uh" and hash_password(password) ==DEFAULT_PASSWORD):
                 st.session_state.logged_in = True
                 st.session_state.username = username
                 st.success("Logged in successfully!")
                 st.rerun()
-            elif checking is Consulta.ERROR_NO_ENCONTRADO:
+            elif checking is Query.ERROR_NOT_FOUND:
                 st.error("Invalid username")
             
-            elif checking is Consulta.ERROR_CONTRASEÑA:
+            elif checking is Query.ERROR_PASSWORD:
                 st.error("Invalid password")
 
 def logout():
