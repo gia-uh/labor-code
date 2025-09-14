@@ -22,7 +22,7 @@ class WrappedClient(openai.OpenAI):
     requests_history: List[RequestLog] = []
 
     def __init__(self):
-        super().__init__(base_url=config["OPENAI_BASE_URL"], api_key="")
+        super().__init__(base_url=config["OPENAI_BASE_URL"], api_key=config["OPENAI_KEY"])
 
     def __talk_model(
         self,
