@@ -117,55 +117,57 @@ def show_article_modal(article_content, result_id):
                 del st.session_state[f"show_article_{result_id}"]
                 st.rerun()
 
-st.title("🔍 Labor Code Search")
+if ("logged_in" in st.session_state) and st.session_state.logged_in:
 
-# Load data
-articles_data = load_articles_data()
-paragraphs_data = load_paragraphs_data()
+    st.title("Labor Code Search")
 
-# Debug: Show data loading status
-with st.expander("🔧 Debug: Data Loading Status", expanded=False):
-    st.write(f"Articles loaded: {len(articles_data)} articles")
-    st.write(f"Paragraphs loaded: {len(paragraphs_data)} paragraphs")
-    if articles_data:
-        st.write("Sample article keys:", list(articles_data.keys())[:5])
-        st.write("Sample article data:", {k: v for k, v in list(articles_data.items())[:2]})
-    
-    # Test article loading
-    if st.button("🧪 Test Article Loading (Article 1)"):
-        test_article = get_article_content("1", articles_data, paragraphs_data)
-        if test_article:
-            st.success("✅ Article 1 loaded successfully!")
-            st.write("Title:", test_article['title'])
-            st.write("Lines:", f"{test_article['begin']}-{test_article['end']}")
-            st.write("Content preview:", test_article['content'][:200] + "...")
-        else:
-            st.error("❌ Failed to load Article 1")
+    # Load data
+    articles_data = load_articles_data()
+    paragraphs_data = load_paragraphs_data()
 
-# Search interface
-col1, col2 = st.columns([3, 1])
-with col1:
-    query = st.text_input("Search for articles, provisions, or legal concepts", placeholder="e.g., trabajo, salario, vacaciones...")
-with col2:
-    limit = st.number_input("Results", min_value=1, max_value=50, value=10)
-
-# Search button
-if st.button("Search", type="primary") or query:
-    if query.strip():
-        with st.spinner("Searching..."):
-            results = search(query, limit)
+    # Debug: Show data loading status
+    with st.expander("🔧 Debug: Data Loading Status", expanded=False):
+        st.write(f"Articles loaded: {len(articles_data)} articles")
+        st.write(f"Paragraphs loaded: {len(paragraphs_data)} paragraphs")
+        if articles_data:
+            st.write("Sample article keys:", list(articles_data.keys())[:5])
+            st.write("Sample article data:", {k: v for k, v in list(articles_data.items())[:2]})
         
-        if results:
-            st.markdown(f"### Found {len(results)} results")
+        # Test article loading
+        if st.button("🧪 Test Article Loading (Article 1)"):
+            test_article = get_article_content("1", articles_data, paragraphs_data)
+            if test_article:
+                st.success("✅ Article 1 loaded successfully!")
+                st.write("Title:", test_article['title'])
+                st.write("Lines:", f"{test_article['begin']}-{test_article['end']}")
+                st.write("Content preview:", test_article['content'][:200] + "...")
+            else:
+                st.error("❌ Failed to load Article 1")
+
+    # Search interface
+    col1, col2 = st.columns([3, 1])
+    with col1:
+        query = st.text_input("Search for articles, provisions, or legal concepts", placeholder="e.g., trabajo, salario, vacaciones...")
+    with col2:
+        limit = st.number_input("Results", min_value=1, max_value=50, value=10)
+
+    # Search button
+    if st.button("Search", type="primary") or query:
+        if query.strip():
+            with st.spinner("Searching..."):
+                results = search(query, limit)
             
-            # Display results
-            for i, result in enumerate(results):
-                display_search_result(result, articles_data, paragraphs_data)
+            if results:
+                st.markdown(f"### Found {len(results)} results")
                 
-                # Check if this article should be shown
-                if f"show_article_{result['id']}" in st.session_state:
-                    show_article_modal(st.session_state[f"show_article_{result['id']}"], result['id'])
+                # Display results
+                for i, result in enumerate(results):
+                    display_search_result(result, articles_data, paragraphs_data)
+                    
+                    # Check if this article should be shown
+                    if f"show_article_{result['id']}" in st.session_state:
+                        show_article_modal(st.session_state[f"show_article_{result['id']}"], result['id'])
+            else:
+                st.info("No results found. Try different keywords.")
         else:
-            st.info("No results found. Try different keywords.")
-    else:
-        st.info("Please enter a search query.")
+            st.info("Please enter a search query.")
