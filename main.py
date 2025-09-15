@@ -93,11 +93,9 @@ def login():
 
 
 def logout():
-    """Logout function"""
-    if st.sidebar.button("Logout"):
-        st.session_state.logged_in = False
-        st.session_state.username = None
-        st.rerun()
+    st.session_state.logged_in = False
+    st.session_state.username = None
+    st.rerun()
 
 
 
