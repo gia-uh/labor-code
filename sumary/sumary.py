@@ -2,8 +2,14 @@ from openai import OpenAI
 from typing import List
 import json
 import os
+import tomllib
 
-client = OpenAI(base_url="http://10.6.125.217:8080/v1", api_key='')
+with open("config.toml", "rb") as f:
+    conf = tomllib.load(f)
+
+    
+
+client = OpenAI(base_url=conf["llm"]["base_url"], api_key=conf["llm"]["api_key"])
 
 def build_context(path: str, key: str) -> List[str]:
     with open(path, 'r', encoding='utf-8') as fd:
@@ -20,8 +26,7 @@ def build_context(path: str, key: str) -> List[str]:
 
 TASK = "Resumen"
 FILES = ["sections.json", "chapters.json","titles.json", "books.json"]
-PATH = "jsons/anteproyecto/law/"
-OUTPATH = "jsons/anteproyecto/updated_law/"
+OUTPATH = "./jsons/anteproyecto/updated_law/"
 SYSTEM_PROMPT = """
 Eres un asistente experto especializado en leyes cuya tarea es responder preguntas usando solo la información proporcionada en el contexto. 
 
@@ -42,14 +47,14 @@ if not os.path.exists(OUTPATH):
 
 for file in FILES:
      
-    with open(f"{PATH}{file}", 'r', encoding='utf-8') as fd:
+    with open(f"{conf["dirs"]["project.law"]}{file}", 'r', encoding='utf-8') as fd:
         data = json.load(fd)
 
     for prompt in USER_PROMPT:
 
         for key in data:
 
-            docs = build_context(f"{PATH}{file}", key)
+            docs = build_context(f"{conf["dirs"]["project.law"]}{file}", key)
 
             # Pasar prompt para generar respuesta
             chat_response = client.chat.completions.create(
