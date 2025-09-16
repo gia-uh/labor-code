@@ -67,19 +67,22 @@ def get_block_provisions(block):
             bprovs.append((id, provision))
     return bprovs
 
-@st.dialog(" ")
+@st.dialog(" ",on_dismiss="rerun")
 def user_interaction(action: str, id: str):
+    key = f"user_vote_{action}"
     user_input = st.text_area(
         f"{action.capitalize()}",
         height=300,
         width=500,
-        key=f"user_vote_{action}",
+        key= key,
         placeholder="Por favor introduzca su idea aquí...",
-        label_visibility="collapsed"
+        label_visibility="collapsed",
+        #on_change= lambda: st.session_state.update({key: st.session_state[key]})
     )
-    
-    save_user_action(user_input,action,st.session_state.username,id)
-    st.rerun()
+    if user_input not in [None,""]:
+        save_user_action(st.session_state[key] or user_input,action,st.session_state.username,id)
+        user_input = ""
+    #st.rerun()
 
 
 
