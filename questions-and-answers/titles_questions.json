@@ -1,0 +1,674 @@
+{
+    "1": [
+        {
+            "question": "\u00bfCu\u00e1l es el objetivo principal del C\u00f3digo de Trabajo seg\u00fan su disposici\u00f3n preliminar?",
+            "answer": "El objetivo principal del C\u00f3digo de Trabajo es regular las relaciones de trabajo individuales entre empleadores y trabajadores, garantizar un empleo digno, establecer mecanismos para la defensa de los derechos laborales, y promover el trabajo como valor social fundamental."
+        },
+        {
+            "question": "\u00bfQu\u00e9 principios se mencionan en el cap\u00edtulo dedicado a los principios del C\u00f3digo?",
+            "answer": "Se mencionan principios como la irrenunciabilidad de los derechos del trabajo, la progresividad de los derechos laborales, el principio protectorio, la estabilidad laboral, la protecci\u00f3n m\u00ednima, la igualdad y no discriminaci\u00f3n, entre otros."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de empleo se menciona como prioritario en el C\u00f3digo de Trabajo?",
+            "answer": "Se menciona el empleo digno, que garantiza condiciones justas, seguras y equitativas para las personas trabajadoras, con acceso a oportunidades laborales sin discriminaci\u00f3n."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la finalidad del cap\u00edtulo sobre el \u00e1mbito de aplicaci\u00f3n?",
+            "answer": "La finalidad es definir los casos en los que se aplica el C\u00f3digo de Trabajo, incluyendo relaciones individuales y colectivas entre empleadores y trabajadores, tanto cubanos como extranjeros bajo ciertas condiciones."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre la participaci\u00f3n de las personas trabajadoras en las entidades empresariales estatales?",
+            "answer": "Se establece que las personas trabajadoras tienen derecho a participar efectivamente en los procesos de planificaci\u00f3n, gesti\u00f3n y toma de decisiones dentro de las entidades empresariales estatales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se proh\u00edbe expresamente bajo el C\u00f3digo de Trabajo?",
+            "answer": "Se proh\u00edbe la violencia, el acoso laboral, la discriminaci\u00f3n y el trabajo forzoso, excepto en casos excepcionales previstos por la ley."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre las personas trabajadoras aut\u00f3nomas?",
+            "answer": "Las personas trabajadoras aut\u00f3nomas tienen derecho a ejercer su actividad sin subordinaci\u00f3n a un empleador, con acceso a la seguridad social y cumplimiento de obligaciones como solicitar autorizaci\u00f3n para su ejercicio."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito del cap\u00edtulo sobre los fundamentos?",
+            "answer": "El prop\u00f3sito es establecer los principios b\u00e1sicos que rigen las relaciones laborales, como el derecho al empleo digno y la importancia del trabajo en el desarrollo social y econ\u00f3mico."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se menciona sobre la igualdad de remuneraci\u00f3n seg\u00fan el C\u00f3digo?",
+            "answer": "Se establece que todas las personas trabajadoras reciben igual salario por trabajo de igual valor, sin discriminaci\u00f3n de g\u00e9nero u otros factores, promoviendo la igualdad en el \u00e1mbito laboral."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se contempla sobre el trabajo forzoso seg\u00fan el C\u00f3digo?",
+            "answer": "Se contempla que ning\u00fan ciudadano puede ser obligado a trabajar bajo amenaza o sanci\u00f3n, salvo excepciones como el servicio militar, el cumplimiento de obligaciones c\u00edvicas o situaciones de emergencia."
+        }
+    ],
+    "2": [
+        {
+            "question": "\u00bfCu\u00e1les son los principales derechos que tienen las personas trabajadoras seg\u00fan el art\u00edculo 16?",
+            "answer": "Las personas trabajadoras tienen derecho a obtener un empleo digno, laborar en un entorno seguro, percibir una remuneraci\u00f3n justa, recibir capacitaci\u00f3n, disfrutar de descansos adecuados, no ser contactadas fuera del horario de trabajo, recibir protecci\u00f3n social, asociarse a sindicatos y participar en decisiones empresariales, entre otros."
+        },
+        {
+            "question": "\u00bfQu\u00e9 obligaciones tiene el empleador seg\u00fan el art\u00edculo 18?",
+            "answer": "El empleador debe cumplir con la Constituci\u00f3n y la legislaci\u00f3n laboral, abonar las remuneraciones, garantizar condiciones de trabajo adecuadas, promover un entorno sin violencia ni discriminaci\u00f3n, rendir cuentas a las personas trabajadoras, y cumplir otras obligaciones establecidas en la ley."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se menciona sobre la sustituci\u00f3n del empleador seg\u00fan el art\u00edculo 14?",
+            "answer": "La sustituci\u00f3n de un empleador por otro no afecta la continuidad de las relaciones de trabajo existentes ni el cumplimiento de las obligaciones contra\u00eddas previamente."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre los derechos de las personas trabajadoras en cuanto al descanso seg\u00fan el art\u00edculo 16?",
+            "answer": "Las personas trabajadoras tienen derecho a disfrutar del descanso diario, semanal y vacaciones anuales pagadas, en conformidad con lo dispuesto en este C\u00f3digo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 obligaci\u00f3n tiene el empleador respecto al tratamiento de la violencia y el acoso laboral seg\u00fan el art\u00edculo 18?",
+            "answer": "El empleador debe adoptar medidas preventivas para proteger a las personas trabajadoras, incluir estos aspectos en su protocolo interno e informar y capacitar sobre estas situaciones."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre la responsabilidad del empleador en el art\u00edculo 21?",
+            "answer": "Los empleadores (excepto instituciones presupuestadas) deben contratar una p\u00f3liza de seguro para proteger los ingresos de las personas trabajadoras ante interrupciones laborales, ceses econ\u00f3micos, disoluci\u00f3n de empresas, suspensiones temporales y otras causas legales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se menciona sobre la participaci\u00f3n de las personas trabajadoras en el art\u00edculo 16?",
+            "answer": "Las personas trabajadoras tienen derecho a participar activamente en la adopci\u00f3n de decisiones importantes y en los procesos de planificaci\u00f3n, regulaci\u00f3n, gesti\u00f3n y control de la econom\u00eda en entidades empresariales estatales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre las facultades indelegables del empleador seg\u00fan el art\u00edculo 20?",
+            "answer": "Las facultades indelegables incluyen aprobar el horario de trabajo, el reglamento disciplinario interno, concertar convenios colectivos y conceder licencias no retribuidas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se menciona sobre la protecci\u00f3n del medio ambiente en el art\u00edculo 17?",
+            "answer": "Las personas trabajadoras tienen el deber de cuidar y proteger el medio ambiente en que desempe\u00f1an su labor, como parte de sus obligaciones laborales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre la responsabilidad del empleador seg\u00fan el art\u00edculo 22?",
+            "answer": "El ejercicio de las facultades del empleador est\u00e1 limitado por el respeto a los derechos constitucionales y los previstos en este C\u00f3digo, especialmente aquellos que afectan la dignidad, estabilidad laboral y seguridad social de las personas trabajadoras."
+        }
+    ],
+    "3": [
+        {
+            "question": "\u00bfQu\u00e9 derecho tienen las personas trabajadoras y los empleadores seg\u00fan el art\u00edculo 23?",
+            "answer": "Las personas trabajadoras y los empleadores tienen derecho a afiliarse o no a las organizaciones sindicales y de empleadores, respectivamente, para la mejor defensa de sus derechos e intereses."
+        },
+        {
+            "question": "\u00bfC\u00f3mo se regulan las organizaciones de personas trabajadoras y las de empleadores?",
+            "answer": "Estas organizaciones regulan de forma aut\u00f3noma los principios, derechos, obligaciones y funciones que rigen su actuaci\u00f3n, as\u00ed como las garant\u00edas necesarias para el ejercicio de su gesti\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 normativas regulan la estructura interna y funcionamiento de estas organizaciones?",
+            "answer": "La estructura interna y el funcionamiento se regulan de conformidad con los estatutos vigentes y las disposiciones normativas espec\u00edficas."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el alcance de las organizaciones sindicales y de empleadores seg\u00fan el art\u00edculo 24?",
+            "answer": "Estas organizaciones contribuyen a la defensa y promoci\u00f3n de los intereses econ\u00f3micos y sociales comunes propios, as\u00ed como los del pa\u00eds."
+        },
+        {
+            "question": "\u00bfQu\u00e9 responsabilidad tienen las organizaciones mencionadas seg\u00fan el art\u00edculo 25?",
+            "answer": "Tienen la responsabilidad de mantener relaciones de cooperaci\u00f3n, solidaridad y ayuda mutua para lograr los fines comunes y particulares que ambas partes persiguen."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de contribuciones deben realizar las organizaciones seg\u00fan el art\u00edculo 25?",
+            "answer": "Deben contribuir a la mejora continua de los procesos de producci\u00f3n y prestaci\u00f3n de servicios, as\u00ed como al desarrollo de empresas competitivas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 actividades est\u00e1n incluidas en las responsabilidades mencionadas en el art\u00edculo 25?",
+            "answer": "Incluyen la elaboraci\u00f3n de pol\u00edticas y proyectos normativos en materia de trabajo y seguridad social, as\u00ed como el an\u00e1lisis de los resultados de su aplicaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de promoci\u00f3n deben realizar las organizaciones seg\u00fan el art\u00edculo 25?",
+            "answer": "Deben promover el estudio, intercambio de experiencias, informaci\u00f3n y conocimientos, as\u00ed como capacitaciones t\u00e9cnicas, cient\u00edficas y profesionales."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es una de las responsabilidades relacionadas con la coordinaci\u00f3n de estas organizaciones?",
+            "answer": "Mantener una coordinaci\u00f3n con las organizaciones en los niveles provinciales y municipales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 funci\u00f3n tienen las organizaciones sindicales y de empleadores seg\u00fan el art\u00edculo 25?",
+            "answer": "Representar a sus miembros en las negociaciones y conflictos individuales y colectivos de trabajo, procedimientos de conciliaci\u00f3n, mediaci\u00f3n y arbitraje."
+        }
+    ],
+    "5": [
+        {
+            "question": "\u00bfCu\u00e1l es el objetivo principal de la protecci\u00f3n especial para los adolescentes en el \u00e1mbito laboral seg\u00fan este t\u00edtulo?",
+            "answer": "El objetivo principal es garantizar el adiestramiento y desarrollo integral de los adolescentes que, excepcionalmente, desean incorporarse al trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 principios se deben observar en la protecci\u00f3n de los adolescentes autorizados a trabajar?",
+            "answer": "Se deben observar los principios de autonom\u00eda progresiva y el inter\u00e9s superior del adolescente."
+        },
+        {
+            "question": "\u00bfBajo qu\u00e9 circunstancias puede un adolescente entre quince y diecisiete a\u00f1os incorporarse al trabajo seg\u00fan este t\u00edtulo?",
+            "answer": "Puede hacerlo cuando exista una circunstancia excepcional, como haber finalizado estudios profesionales o de oficios, poseer un dictamen m\u00e9dico que lo justifique, o por decisi\u00f3n de \u00f3rganos evaluadores."
+        },
+        {
+            "question": "\u00bfQu\u00e9 obligaci\u00f3n tiene el empleador en cuanto a la certificaci\u00f3n del estado de salud de los adolescentes?",
+            "answer": "El empleador debe disponer un examen m\u00e9dico pre-empleo y obtener una certificaci\u00f3n facultativa de su aptitud f\u00edsica y ps\u00edquica, as\u00ed como realizar ex\u00e1menes m\u00e9dicos peri\u00f3dicos."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 tipos de labores est\u00e1n prohibidos los adolescentes entre quince y dieciocho a\u00f1os?",
+            "answer": "Est\u00e1n prohibidos en labores con riesgos f\u00edsicos o psicol\u00f3gicos, venta de bebidas alcoh\u00f3licas, trabajos ambulantes, labor nocturna, bajo tierra o agua, alturas peligrosas, espacios cerrados y trabajo con cargas pesadas o exposici\u00f3n a sustancias perjudiciales."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo de horas diarias y semanales que pueden trabajar los adolescentes entre quince y diecisiete a\u00f1os?",
+            "answer": "Los adolescentes no pueden trabajar m\u00e1s de siete horas diarias ni m\u00e1s de cuarenta horas semanales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 obligaciones tiene el empleador en cuanto a la preparaci\u00f3n de los adolescentes autorizados a incorporarse al trabajo?",
+            "answer": "El empleador debe garantizar su mejor preparaci\u00f3n, adaptaci\u00f3n a la vida laboral y desarrollo integral, as\u00ed como facilitar capacitaci\u00f3n bajo la tutor\u00eda de personas con experiencia."
+        },
+        {
+            "question": "\u00bfQu\u00e9 informaci\u00f3n debe incluir el control administrativo para los adolescentes autorizados a trabajar?",
+            "answer": "Debe incluir datos del adolescente y sus padres o representantes legales, edad, direcci\u00f3n, consentimiento por escrito, circunstancia legal que motiva su incorporaci\u00f3n al trabajo, examen m\u00e9dico, cargo y remuneraci\u00f3n, r\u00e9gimen de trabajo, y constancias m\u00e9dicas peri\u00f3dicas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 autoridad es responsable de autorizar la incorporaci\u00f3n excepcional de adolescentes a la vida laboral?",
+            "answer": "El Director de Trabajo y Seguridad Social Municipal es quien autoriza la incorporaci\u00f3n excepcional de los adolescentes al trabajo."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito del control administrativo establecido en este t\u00edtulo?",
+            "answer": "El prop\u00f3sito del control administrativo es garantizar que se cumplan todas las condiciones legales y de salud para la incorporaci\u00f3n al trabajo, as\u00ed como facilitar su seguimiento y actualizaci\u00f3n constante."
+        }
+    ],
+    "6": [
+        {
+            "question": "\u00bfQu\u00e9 tipo de acciones se incluyen dentro del concepto de capacitaci\u00f3n seg\u00fan el art\u00edculo 134?",
+            "answer": "La capacitaci\u00f3n incluye acciones de preparaci\u00f3n continuas y planificadas, en correspondencia con las necesidades de la producci\u00f3n, los servicios y los resultados de la evaluaci\u00f3n del trabajo, dirigidas a mejorar las competencias laborales de las personas trabajadoras."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el objetivo principal de la capacitaci\u00f3n seg\u00fan el art\u00edculo 133?",
+            "answer": "El objetivo principal de la capacitaci\u00f3n es incentivar la superaci\u00f3n y preparaci\u00f3n de las personas trabajadoras, contribuyendo a un desempe\u00f1o laboral superior y elevando la eficiencia y calidad del trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se entiende por 'superaci\u00f3n' seg\u00fan el art\u00edculo 134?",
+            "answer": "'Superaci\u00f3n' est\u00e1 dirigida a los graduados de nivel superior, en dependencia de las necesidades de capacitaci\u00f3n de la entidad y las suyas propias, de acuerdo con los cargos que desempe\u00f1an o para los que se preparan."
+        },
+        {
+            "question": "\u00bfQu\u00e9 obligaciones tiene el empleador respecto a la capacitaci\u00f3n seg\u00fan el art\u00edculo 135?",
+            "answer": "El empleador debe garantizar a las personas trabajadoras acciones de capacitaci\u00f3n, superaci\u00f3n y preparaci\u00f3n en correspondencia con las necesidades de la producci\u00f3n, los cambios organizativos y tecnol\u00f3gicos, los objetivos estrat\u00e9gicos y los resultados de la evaluaci\u00f3n del trabajo."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el rol del jefe directo seg\u00fan el art\u00edculo 136?",
+            "answer": "El jefe directo identifica la necesidad de capacitaci\u00f3n, propone las acciones y controla su cumplimiento, adem\u00e1s de basarse en la gesti\u00f3n por competencias y medir el impacto de dichas acciones."
+        },
+        {
+            "question": "\u00bfD\u00f3nde se imparte la capacitaci\u00f3n seg\u00fan el art\u00edculo 137?",
+            "answer": "La capacitaci\u00f3n se imparte durante la jornada de trabajo, salvo que atendiendo a la naturaleza de la producci\u00f3n o los servicios, puedan utilizarse otras v\u00edas, lo cual se rige por disposiciones normativas espec\u00edficas."
+        },
+        {
+            "question": "\u00bfCu\u00e1ndo se puede realizar la capacitaci\u00f3n fuera de la jornada laboral seg\u00fan el art\u00edculo 139?",
+            "answer": "La capacitaci\u00f3n en un perfil distinto al del cargo que desempe\u00f1a se realiza fuera de la jornada de trabajo, y durante este per\u00edodo no recibe remuneraci\u00f3n por este concepto."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito del diagn\u00f3stico seg\u00fan el art\u00edculo 140?",
+            "answer": "El prop\u00f3sito del diagn\u00f3stico es identificar las necesidades de capacitaci\u00f3n, preparaci\u00f3n y superaci\u00f3n de cada persona trabajadora a trav\u00e9s de t\u00e9cnicas y herramientas que permitan actualizar sus competencias laborales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 elementos debe contener el plan de capacitaci\u00f3n seg\u00fan el art\u00edculo 141?",
+            "answer": "El plan de capacitaci\u00f3n debe incluir el tipo de acci\u00f3n, el modo de formaci\u00f3n, la fecha de inicio y terminaci\u00f3n de cada acci\u00f3n, as\u00ed como la cantidad de participantes."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se eval\u00faa en la medici\u00f3n del impacto seg\u00fan el art\u00edculo 142?",
+            "answer": "Se eval\u00faa el aumento de eficiencia, eficacia y productividad individual, el mejoramiento del ambiente laboral, la disminuci\u00f3n de riesgos, y la correspondencia entre los gastos incurridos y los objetivos obtenidos."
+        }
+    ],
+    "7": [
+        {
+            "question": "\u00bfCu\u00e1l es el objetivo principal del servicio social seg\u00fan el art\u00edculo 158?",
+            "answer": "El objetivo principal del servicio social es que los reci\u00e9n graduados pongan los conocimientos adquiridos en funci\u00f3n de la sociedad, contribuyendo a las prioridades del desarrollo econ\u00f3mico y social."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de estudiantes est\u00e1n obligados a cumplir el servicio social seg\u00fan el art\u00edculo 159?",
+            "answer": "Los ciudadanos cubanos que se grad\u00faan en educaci\u00f3n superior en cursos diurnos, incluidos los egresados en el extranjero por inter\u00e9s institucional, y los graduados de t\u00e9cnico de nivel medio superior asignados a una entidad."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la duraci\u00f3n del servicio social seg\u00fan el art\u00edculo 160?",
+            "answer": "La duraci\u00f3n del servicio social es de tres a\u00f1os, que puede combinarse con el servicio militar activo o el trabajo socialmente \u00fatil de los j\u00f3venes no aptos para dicho servicio."
+        },
+        {
+            "question": "\u00bfQu\u00e9 situaciones se consideran como tiempo de cumplimiento del servicio social seg\u00fan el art\u00edculo 160?",
+            "answer": "Se considera tiempo de cumplimiento del servicio social los per\u00edodos de embarazo, licencia retribuida por maternidad, prestaci\u00f3n social para cuidado de hijos menores y licencias deportivas o culturales autorizadas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece en el art\u00edculo 161 sobre la autorizaci\u00f3n para viajar por asuntos particulares?",
+            "answer": "Los reci\u00e9n graduados pueden ser autorizados a viajar por asuntos particulares, y el tiempo que permanecen en el exterior no se cuenta dentro del per\u00edodo de cumplimiento del servicio social."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la finalidad de la ubicaci\u00f3n anticipada seg\u00fan el art\u00edculo 162?",
+            "answer": "La finalidad de la ubicaci\u00f3n anticipada es preparar a los estudiantes para el empleo y fortalecer los v\u00ednculos entre el futuro graduado y la entidad donde se ubique una vez titulado."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede si un reci\u00e9n graduado no presenta su documentaci\u00f3n de asignaci\u00f3n dentro del plazo establecido seg\u00fan el art\u00edculo 163?",
+            "answer": "Si un graduado no se presenta en la entidad donde fue asignado dentro del plazo establecido, el empleador debe comunicarlo a la autoridad que lo asign\u00f3."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la medida que se aplica si un reci\u00e9n graduado interrumpe o no cumple su servicio social seg\u00fan el art\u00edculo 167?",
+            "answer": "Si un graduado no se presenta en la entidad donde fue asignado, se realizan gestiones para su incorporaci\u00f3n dentro de un plazo m\u00e1ximo de treinta d\u00edas. Si persiste la ausencia, se procede a su inhabilitaci\u00f3n para el ejercicio profesional."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el procedimiento seguido si un reci\u00e9n graduado solicita una suspensi\u00f3n del servicio social seg\u00fan el art\u00edculo 168?",
+            "answer": "El graduado debe fundamentar la causa justificada ante el jefe de la entidad donde fue asignado, quien decide sobre la suspensi\u00f3n y notifica a la autoridad que lo ubic\u00f3. La suspensi\u00f3n se autoriza por un plazo m\u00e1ximo de un a\u00f1o."
+        },
+        {
+            "question": "\u00bfQu\u00e9 consecuencias enfrenta un graduado que no cumple el servicio social sin causas justificadas seg\u00fan el art\u00edculo 169?",
+            "answer": "Un graduado que niega el cumplimiento del servicio social, lo interrumpe o no acepta el lugar y cargo asignados sin causas justificadas, se le inhabilita para el ejercicio profesional."
+        }
+    ],
+    "8": [
+        {
+            "question": "\u00bfQu\u00e9 tipo de condiciones laborales debe garantizar el empleador para la mujer trabajadora seg\u00fan el art\u00edculo mencionado?",
+            "answer": "El empleador debe crear y mantener condiciones de trabajo seguras y saludables, considerando la funci\u00f3n social y la condici\u00f3n biol\u00f3gica de la mujer como gestante o madre."
+        },
+        {
+            "question": "\u00bfQu\u00e9 medidas adopta el Estado para garantizar la atenci\u00f3n m\u00e9dica durante el embarazo?",
+            "answer": "El Estado adopta medidas para asegurar y facilitar a la mujer trabajadora la atenci\u00f3n m\u00e9dica durante el embarazo, el descanso pre y postnatal, la lactancia materna y el cuidado del menor."
+        },
+        {
+            "question": "\u00bfCu\u00e1les son las prestaciones establecidas para la protecci\u00f3n de la mujer trabajadora?",
+            "answer": "Se establecen prestaciones monetarias, en servicios y en especie durante el embarazo, la etapa pre y postnatal, la prestaci\u00f3n social y en caso de enfermedad del hijo menor de dieciocho a\u00f1os."
+        },
+        {
+            "question": "\u00bfQui\u00e9nes pueden recibir protecci\u00f3n seg\u00fan la legislaci\u00f3n espec\u00edfica mencionada?",
+            "answer": "La protecci\u00f3n se extiende al padre, a los abuelos maternos o paternos y a otras personas trabajadoras debido a la multiparentalidad, la filiaci\u00f3n adoptiva, asistida y socio afectiva."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 situaciones recibe protecci\u00f3n la mujer trabajadora seg\u00fan el art\u00edculo mencionado?",
+            "answer": "La mujer trabajadora recibe protecci\u00f3n cuando est\u00e1 gestante y no puede permanecer en su cargo por prescripci\u00f3n m\u00e9dica, o cuando hay enfermedad del hijo menor de dieciocho a\u00f1os."
+        },
+        {
+            "question": "\u00bfQu\u00e9 restricciones se imponen a la trabajadora gestante respecto al trabajo extraordinario?",
+            "answer": "La gestante y la mujer trabajadora con hijos de hasta un a\u00f1o de edad no est\u00e1 obligada a realizar trabajo extraordinario ni laborar en una localidad distante de su centro de trabajo."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 momento debe recesar la trabajadora gestante de sus labores seg\u00fan el art\u00edculo mencionado?",
+            "answer": "La trabajadora gestante debe recesar en sus labores cuando alcanza las treinta y cuatro semanas de embarazo, o las treinta y dos si este fuera m\u00faltiple."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derechos se consideran irrenunciables para la mujer trabajadora?",
+            "answer": "El disfrute de la licencia pre y postnatal es exclusivo e irrenunciable de la mujer trabajadora, as\u00ed como el derecho a recesar en sus labores seg\u00fan las semanas de embarazo establecidas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 prohibiciones se aplican al empleador respecto a la contrataci\u00f3n o promoci\u00f3n de mujeres?",
+            "answer": "El empleador no puede condicionar la contrataci\u00f3n, permanencia o promoci\u00f3n en el empleo de las trabajadoras debido a su estado de embarazo."
+        },
+        {
+            "question": "\u00bfBajo qu\u00e9 circunstancias se permite terminar la relaci\u00f3n laboral por motivo de embarazo?",
+            "answer": "Se permite terminar la relaci\u00f3n de trabajo por motivos de embarazo solo en los casos de aplicaci\u00f3n de medidas disciplinarias como separaci\u00f3n definitiva o del sector."
+        }
+    ],
+    "10": [
+        {
+            "question": "\u00bfQu\u00e9 elementos conforman el sistema salarial seg\u00fan el texto?",
+            "answer": "El sistema salarial se integra por los siguientes elementos: a) Escala, b) pagos adicionales, c) relaci\u00f3n de cargos y d) formas y sistemas de pago."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la definici\u00f3n del salario m\u00ednimo seg\u00fan el art\u00edculo 247?",
+            "answer": "El salario m\u00ednimo del pa\u00eds se aprueba anualmente por el Consejo de Ministros en com\u00fan acuerdo con la Central de Trabajadores de Cuba, garantizando una vida digna para la persona trabajadora y su familia."
+        },
+        {
+            "question": "\u00bfQu\u00e9 principios rigen el sistema salarial seg\u00fan el texto?",
+            "answer": "Los principios que rigen el sistema salarial son: distribuci\u00f3n, igualdad, diferenciaci\u00f3n, proporcionalidad, din\u00e1mica y protecci\u00f3n m\u00ednima."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la diferencia entre salario y otros ingresos seg\u00fan el art\u00edculo 244?",
+            "answer": "El salario se refiere a la remuneraci\u00f3n en pesos cubanos por el trabajo realizado, mientras que los otros ingresos son pagos en dinero por conceptos distintos al salario, establecidos en disposiciones normativas espec\u00edficas."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 casos se garantiza el pago del salario promedio seg\u00fan el art\u00edculo 263?",
+            "answer": "El salario promedio se garantiza cuando la persona trabajadora no asiste a su jornada de trabajo por situaciones como desempe\u00f1ar funciones parlamentarias, participar en congresos oficiales o realizar donaciones voluntarias de sangre."
+        },
+        {
+            "question": "\u00bfQu\u00e9 condiciones regulan el pago por rendimiento seg\u00fan el art\u00edculo 272?",
+            "answer": "El pago por rendimiento se aplica para incrementar la productividad y eficiencia, financi\u00e1ndose con los resultados de la empresa. Se aplican sistemas como a destajo o por resultados, regulados en disposiciones normativas espec\u00edficas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de pagos adicionales se mencionan en el texto?",
+            "answer": "Se mencionan varios tipos de pagos adicionales, como los por maestr\u00eda, condiciones anormales, nocturnidad, a\u00f1os de servicios, coeficiente de inter\u00e9s econ\u00f3mico-social y certificaci\u00f3n internacional."
+        },
+        {
+            "question": "\u00bfC\u00f3mo se calcula el salario promedio seg\u00fan el art\u00edculo 251?",
+            "answer": "El salario promedio se calcula dividiendo los salarios devengados por todos los conceptos en los \u00faltimos doce meses entre el tiempo trabajado durante ese per\u00edodo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 establece el art\u00edculo 268 sobre las formas de pago del trabajo?",
+            "answer": "El art\u00edculo 268 menciona que, seg\u00fan las condiciones t\u00e9cnico-organizativas, se aplican dos formas de pago: a) a tiempo y b) por rendimiento."
+        },
+        {
+            "question": "\u00bfCu\u00e1ndo se garantiza el salario b\u00e1sico seg\u00fan el art\u00edculo 264?",
+            "answer": "El salario b\u00e1sico se garantiza cuando la persona trabajadora no asiste a su jornada laboral en situaciones como licencias deportivas, fallecimiento familiar o ex\u00e1menes m\u00e9dicos programados."
+        }
+    ],
+    "11": [
+        {
+            "question": "\u00bfCu\u00e1l es el objetivo principal de la seguridad y salud en el trabajo seg\u00fan el art\u00edculo 276?",
+            "answer": "El objetivo principal es garantizar lugares de trabajo seguros y saludables, prevenir incidentes y accidentes de trabajo, enfermedades profesionales, incendios, aver\u00edas u otros da\u00f1os que puedan afectar la salud o la integridad f\u00edsica de las personas trabajadoras y el medio ambiente laboral."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derecho tiene una persona trabajadora si considera que no est\u00e1n garantizadas las condiciones seguras y saludables?",
+            "answer": "La persona trabajadora tiene el derecho a no laborar en el puesto de trabajo o a no realizar actividades laborales vinculadas a este, hasta tanto se eliminen las condiciones inseguras que lo generan."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de organismos est\u00e1n mencionados como responsables de la seguridad y salud en el trabajo?",
+            "answer": "Los organismos responsables incluyen al Ministerio de Trabajo y Seguridad Social, el Ministerio de Salud P\u00fablica, el Ministerio del Interior y el Ministerio de Ciencia, Tecnolog\u00eda y Medio Ambiente."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de acciones pueden tomar los organismos rectores en caso de inminencia de un accidente o peligro?",
+            "answer": "Los organismos rectores pueden disponer la paralizaci\u00f3n de equipos, maquinarias y procesos, as\u00ed como la clausura de locales de trabajo cuando se prev\u00e9 una situaci\u00f3n de riesgo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 contiene el programa anual de prevenci\u00f3n de riesgos laborales?",
+            "answer": "El programa incluye medidas organizativas, higi\u00e9nico-sanitarias, control de la salud, capacitaci\u00f3n, adquisici\u00f3n de equipos de protecci\u00f3n personal y colectiva, certificaci\u00f3n de equipos de alto riesgo, entre otros."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de ex\u00e1menes m\u00e9dicos se mencionan en el texto?",
+            "answer": "Se mencionan ex\u00e1menes pre-empleo, peri\u00f3dicos y especializados, los cuales se rigen por disposiciones normativas del Ministerio de Salud P\u00fablica."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la obligaci\u00f3n del empleador respecto a la formaci\u00f3n en seguridad y salud en el trabajo?",
+            "answer": "El empleador debe incluir contenidos sobre seguridad y salud en los planes y programas de estudio, garantizando que las personas trabajadoras reciban instrucci\u00f3n adecuada."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se entiende por permiso de seguridad seg\u00fan el art\u00edculo 292?",
+            "answer": "El permiso de seguridad es un documento emitido por el empleador antes de la ejecuci\u00f3n de actividades de alto riesgo, que incluye medidas espec\u00edficas para garantizar la seguridad durante su desarrollo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se entiende por equipo de protecci\u00f3n personal seg\u00fan el art\u00edculo 297?",
+            "answer": "El equipo de protecci\u00f3n personal es un dispositivo o medio que utiliza individualmente una persona trabajadora para protegerse contra riesgos que amenazan su seguridad y salud, incluyendo componentes indispensables para su funcionamiento."
+        },
+        {
+            "question": "\u00bfQu\u00e9 debe hacer el empleador cuando se detecta un peligro inminente durante la ejecuci\u00f3n de un trabajo?",
+            "answer": "El empleador debe garantizar que las personas trabajadoras puedan trabajar de forma provisional en otro cargo asignado por \u00e9l, hasta que se elimine el peligro existente."
+        }
+    ],
+    "13": [
+        {
+            "question": "\u00bfBajo qu\u00e9 condiciones una persona trabajadora no es exigible responsabilidad material?",
+            "answer": "Una persona trabajadora no es exigible responsabilidad material cuando los da\u00f1os ocurren como consecuencia del riesgo normal impl\u00edcito en el proceso de producci\u00f3n, por gesti\u00f3n racional en su cargo, por fuerza mayor o caso fortuito, por actos delictivos de terceros denunciados y comprobados, o por da\u00f1os causados para evitar un perjuicio mayor."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de responsabilidad material se exige tanto a directivos como a trabajadores?",
+            "answer": "Se exige responsabilidad material tanto al cuadro o directivo que no previene los da\u00f1os ni informa sobre ellos, como a la persona trabajadora que directamente haya causado el da\u00f1o, p\u00e9rdida o extrav\u00edo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede si un da\u00f1o podr\u00eda ser constitutivo de delito?",
+            "answer": "Si un da\u00f1o puede ser constitutivo de delito, la autoridad facultada est\u00e1 obligada a denunciarlo seg\u00fan la legislaci\u00f3n procesal penal vigente y se abstiene de exigir la responsabilidad material."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el plazo para exigir la responsabilidad material?",
+            "answer": "El plazo para exigir la responsabilidad material es de un a\u00f1o contado a partir de la fecha en que se ocasion\u00f3 el da\u00f1o o p\u00e9rdida."
+        },
+        {
+            "question": "\u00bfQu\u00e9 medidas pueden aplicarse como resarcimiento por da\u00f1os econ\u00f3micos?",
+            "answer": "Las medidas aplicables incluyen restituci\u00f3n del bien, reparaci\u00f3n del da\u00f1o material o indemnizaci\u00f3n econ\u00f3mica conforme a lo establecido legalmente."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 casos se permite la responsabilidad colectiva en lugar de individual?",
+            "answer": "La responsabilidad material puede exigirse de forma individual o colectiva cuando el da\u00f1o es causado por dos o m\u00e1s personas trabajadoras, en cuyo caso la indemnizaci\u00f3n se distribuye solidariamente entre todos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede si la persona trabajadora no reconoce la responsabilidad?",
+            "answer": "Si la persona trabajadora no reconoce la responsabilidad, se constituye una comisi\u00f3n investigadora que investiga el hecho y determina si existe relaci\u00f3n causal entre el da\u00f1o y la conducta de la persona."
+        },
+        {
+            "question": "\u00bfC\u00f3mo se calcula la indemnizaci\u00f3n econ\u00f3mica en caso de p\u00e9rdida o extrav\u00edo de dinero?",
+            "answer": "La indemnizaci\u00f3n por p\u00e9rdida o extrav\u00edo de dinero debe ser el doble de la cantidad perdida, sin l\u00edmite alguno, seg\u00fan lo establecido en la normativa vigente."
+        },
+        {
+            "question": "\u00bfQu\u00e9 ocurre si se detecta que adem\u00e1s del responsable principal hay otros responsables?",
+            "answer": "Si se identifican nuevos responsables o elementos de investigaci\u00f3n adicionales, se inicia un nuevo proceso de exigencia de responsabilidad material dentro de los treinta d\u00edas h\u00e1biles siguientes al conocimiento de la nueva situaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 opciones tiene una persona trabajadora si no est\u00e1 conforme con la decisi\u00f3n de exigir responsabilidad material?",
+            "answer": "La persona trabajadora puede presentar una reclamaci\u00f3n ante el \u00d3rgano de Justicia Laboral o, en su caso, interponer una demanda directamente ante el tribunal judicial dentro del plazo establecido."
+        }
+    ],
+    "15": [
+        {
+            "question": "\u00bfQu\u00e9 obligaciones tiene el empleador persona natural en relaci\u00f3n con las personas trabajadoras que contrata?",
+            "answer": "El empleador persona natural debe concertar el contrato de trabajo por escrito, pagar el salario acordado, retener e abonar las vacaciones anuales, certificar anualmente remuneraciones y tiempo de servicios, presentar a los contratados ante la Comisi\u00f3n de Peritaje M\u00e9dico Laboral, velar por condiciones seguras y saludables en el trabajo, entre otras obligaciones."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 casos se puede suspender temporalmente la actividad del empleador persona natural?",
+            "answer": "La actividad del empleador persona natural puede ser suspendida temporalmente por causas previstas en la legislaci\u00f3n espec\u00edfica, lo que implica el pago de una garant\u00eda salarial equivalente a un mes del salario fijado."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derecho tienen las personas trabajadoras contratadas cuando se reanuda la actividad del empleador persona natural?",
+            "answer": "Cuando cesa la causa que origin\u00f3 la suspensi\u00f3n, las personas trabajadoras contratadas por tiempo indeterminado tienen un derecho preferente para reincorporarse en el lugar donde estaban contratados."
+        },
+        {
+            "question": "\u00bfC\u00f3mo se formaliza la relaci\u00f3n de trabajo en una empresa mixta o de capital totalmente extranjero?",
+            "answer": "La relaci\u00f3n de trabajo se formaliza mediante un contrato de trabajo concertado por escrito entre el empleador y la persona trabajadora, o mediante resoluci\u00f3n, nombramiento o designaci\u00f3n de una autoridad u \u00f3rgano facultado."
+        },
+        {
+            "question": "\u00bfQu\u00e9 requisitos deben cumplir los extranjeros para trabajar en Cuba?",
+            "answer": "Los extranjeros con clasificaci\u00f3n migratoria de residente temporal, residente de inmobiliaria y residente humanitario deben obtener un permiso de trabajo. Los residentes permanentes y provisionales, as\u00ed como algunos casos espec\u00edficos, est\u00e1n exentos o requieren acreditaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre la remuneraci\u00f3n en las empresas mixtas o de capital totalmente extranjero?",
+            "answer": "La remuneraci\u00f3n debe fijarse por acuerdo entre la entidad empleadora y la empresa extranjera, considerando la complejidad del trabajo, condiciones laborales y competencias, sin que sea inferior a lo establecido en la escala salarial vigente."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede con el salario de las personas trabajadoras contratadas cuando se produce una interrupci\u00f3n laboral?",
+            "answer": "Durante una interrupci\u00f3n laboral, la persona trabajadora recibe una garant\u00eda salarial prevista en el C\u00f3digo por el plazo pactado en el Contrato de Suministro de Fuerza de Trabajo."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el procedimiento para obtener un permiso de trabajo o acreditaci\u00f3n?",
+            "answer": "El Ministerio de Trabajo y Seguridad Social tramita y decide sobre la solicitud del Permiso de Trabajo o Acreditaci\u00f3n, bas\u00e1ndose en solicitudes presentadas por autoridades competentes o entidades no estatales."
+        },
+        {
+            "question": "\u00bfC\u00f3mo se regula el trabajo de las personas privadas de libertad dentro o fuera de los establecimientos penitenciarios?",
+            "answer": "Las personas privadas de libertad que trabajan est\u00e1n sujetas a un r\u00e9gimen laboral especial, incluyendo condiciones de trabajo y descanso, as\u00ed como garant\u00edas de seguridad social seg\u00fan lo dispuesto en el C\u00f3digo y disposiciones normativas espec\u00edficas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 obligaciones tienen los empleadores respecto a las personas trabajadoras conductores profesionales?",
+            "answer": "Los empleadores deben enviar a sus conductores profesionales a cursos de capacitaci\u00f3n, organizar ex\u00e1menes m\u00e9dicos y psicofisiol\u00f3gicos, garantizar descansos adecuados y aplicar medidas cuando se suspenda la licencia de conducci\u00f3n."
+        }
+    ],
+    "16": [
+        {
+            "question": "\u00bfCu\u00e1l es el derecho fundamental reconocido a las personas trabajadoras en cuanto al ejercicio de su libertad sindical?",
+            "answer": "Las personas trabajadoras tienen el derecho de asociarse voluntariamente, afiliarse a organizaciones sindicales y elegir sus representantes, conforme con la Constituci\u00f3n, los convenios internacionales ratificados por Cuba y las normativas que apruebe la organizaci\u00f3n sindical."
+        },
+        {
+            "question": "\u00bfQu\u00e9 principios rigen el ejercicio de los derechos de las organizaciones sindicales seg\u00fan el art\u00edculo 474?",
+            "answer": "Los principios son: libertad sindical, autotutela, autoregulaci\u00f3n y participaci\u00f3n. Estos garanticen la autonom\u00eda, protecci\u00f3n legal, participaci\u00f3n activa en decisiones laborales y cumplimiento de normas vigentes."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derecho tienen las organizaciones sindicales para participar en procesos econ\u00f3micos importantes?",
+            "answer": "Las organizaciones sindicales tienen el derecho de participar en la planificaci\u00f3n, regulaci\u00f3n, gesti\u00f3n y control de la econom\u00eda, as\u00ed como intervenir en la toma de decisiones y proponer medidas encaminadas a su perfeccionamiento."
+        },
+        {
+            "question": "\u00bfQu\u00e9 obligaciones tienen los empleadores frente a las inspecciones sindicales?",
+            "answer": "Los empleadores est\u00e1n obligados a proporcionar informaci\u00f3n y facilidades necesarias para el desarrollo de la inspecci\u00f3n sindical, y a analizar los resultados, acordando con la organizaci\u00f3n sindical un plan de medidas para subsanar deficiencias."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es uno de los deberes que tienen las organizaciones sindicales hacia las personas trabajadoras?",
+            "answer": "Una de las obligaciones de las organizaciones sindicales es promover la educaci\u00f3n pol\u00edtica, ideol\u00f3gica, c\u00edvica, sindical, econ\u00f3mica, jur\u00eddica y laboral entre las personas trabajadoras."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derecho tienen las personas trabajadoras en relaci\u00f3n con su participaci\u00f3n en el proceso de formaci\u00f3n de un sindicato?",
+            "answer": "Las personas trabajadoras tienen el derecho de intervenir activamente en el proceso de formaci\u00f3n de un sindicato para la defensa de sus derechos e intereses."
+        },
+        {
+            "question": "\u00bfQu\u00e9 garant\u00edas se otorgan a los dirigentes sindicales seg\u00fan el art\u00edculo 478?",
+            "answer": "Los dirigentes sindicales no pueden ser trasladados, ni sancionados por motivo del desempe\u00f1o de sus funciones. Adem\u00e1s, tienen derecho a recibir informaci\u00f3n peri\u00f3dica sobre la gesti\u00f3n de la entidad y a contar con recursos adecuados para su labor."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de inspecci\u00f3n se menciona en el art\u00edculo 479 y qui\u00e9n la lleva a cabo?",
+            "answer": "Se menciona la inspecci\u00f3n sindical, que es realizada por las organizaciones sindicales con la participaci\u00f3n de las personas trabajadoras para garantizar el cumplimiento de normativas laborales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derecho tienen las organizaciones sindicales en relaci\u00f3n con la negociaci\u00f3n colectiva?",
+            "answer": "Las organizaciones sindicales tienen el derecho a negociar y acordar con el empleador la realizaci\u00f3n de los procesos de negociaci\u00f3n, concertaci\u00f3n y control del convenio colectivo de trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre las garant\u00edas para que las personas trabajadoras no sufran discriminaci\u00f3n por su afiliaci\u00f3n sindical?",
+            "answer": "Las personas trabajadoras gozan de protecci\u00f3n contra actos de discriminaci\u00f3n relacionados con su empleo, incluyendo la prohibici\u00f3n de condicionar el acceso al trabajo o la permanencia en \u00e9l a la afiliaci\u00f3n o no a una organizaci\u00f3n sindical."
+        }
+    ],
+    "17": [
+        {
+            "question": "\u00bfCu\u00e1l es el objetivo principal de la participaci\u00f3n activa de las personas trabajadoras seg\u00fan el texto?",
+            "answer": "El objetivo principal de la participaci\u00f3n activa de las personas trabajadoras es elevar los resultados en el trabajo, promover la mejora continua de la entidad y acordar la regulaci\u00f3n y materializaci\u00f3n progresiva de los derechos en el trabajo y de seguridad social."
+        },
+        {
+            "question": "\u00bfQu\u00e9 principio garantiza que la participaci\u00f3n de las personas trabajadoras no sea solo formal?",
+            "answer": "El principio de materialidad garantiza que la participaci\u00f3n de las personas trabajadoras no sea solo formal, ya que permite su implicaci\u00f3n activa en decisiones y acciones, permitiendo que sus sugerencias se implementen una vez analizadas y aprobadas."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el \u00f3rgano superior donde se analizan y aprueban las decisiones fundamentales seg\u00fan el texto?",
+            "answer": "La Asamblea General de Afiliados y Trabajadores es el \u00f3rgano superior donde se analizan y aprueban las decisiones fundamentales."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 situaciones la participaci\u00f3n de las personas trabajadoras es indispensable seg\u00fan el texto?",
+            "answer": "La participaci\u00f3n de las personas trabajadoras es indispensable en procesos como la elaboraci\u00f3n del proyecto del plan de la econom\u00eda, la evaluaci\u00f3n del cumplimiento de los objetivos aprobados y la aprobaci\u00f3n de los destinos de las utilidades."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el rol del empleador en la participaci\u00f3n activa seg\u00fan el texto?",
+            "answer": "El empleador es responsable de instrumentar los procedimientos de participaci\u00f3n, su desarrollo, ejecuci\u00f3n y control de sus resultados, en correspondencia con lo acordado en el convenio colectivo de trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de participaci\u00f3n se da cuando una persona trabajadora act\u00faa por s\u00ed misma para influir en decisiones?",
+            "answer": "Cuando una persona trabajadora act\u00faa por s\u00ed misma para influir en decisiones, se trata de la participaci\u00f3n individual."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito del sistema de control interno seg\u00fan el texto?",
+            "answer": "El prop\u00f3sito del sistema de control interno es asegurar el cumplimiento de los objetivos estrat\u00e9gicos de la entidad y evaluar su efectividad, integrando elementos esenciales de la Gesti\u00f3n del Capital Humano."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de participaci\u00f3n se lleva a cabo cuando las personas trabajadoras act\u00faan en grupos o colectivos?",
+            "answer": "Cuando las personas trabajadoras act\u00faan en grupos o colectivos, se trata de la participaci\u00f3n colectiva."
+        },
+        {
+            "question": "\u00bfQu\u00e9 aspectos deben ser considerados al definir las formas de participaci\u00f3n seg\u00fan el texto?",
+            "answer": "Al definir las formas de participaci\u00f3n, se deben considerar la actividad, organizaci\u00f3n, estructura y caracter\u00edsticas de los colectivos laborales, as\u00ed como los nuevos retos o exigencias que puedan surgir."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derecho tienen las personas trabajadoras si consideran que se ha violado su derecho de participaci\u00f3n?",
+            "answer": "Las personas trabajadoras pueden reclamar seg\u00fan el procedimiento previsto en este C\u00f3digo para las reclamaciones de derechos, cuando consideren que se ha violado su derecho de participaci\u00f3n."
+        }
+    ],
+    "18": [
+        {
+            "question": "\u00bfQu\u00e9 tipo de entidades pueden concertar un convenio colectivo de trabajo seg\u00fan el art\u00edculo 491?",
+            "answer": "Seg\u00fan el art\u00edculo 491, las entidades que pueden concertar un convenio colectivo de trabajo incluyen \u00f3rganos del Estado, organismos de la Administraci\u00f3n Central del Estado, instituciones presupuestadas, empresas, organizaciones que agrupan empresas, unidades subordinadas a organizaciones pol\u00edticas, sociedades mercantiles cubanas, micro, peque\u00f1as y medianas empresas, empresas mixtas, as\u00ed como en contratos de asociaci\u00f3n econ\u00f3mica internacional."
+        },
+        {
+            "question": "\u00bfQu\u00e9 debe contener el convenio colectivo de trabajo seg\u00fan el art\u00edculo 493?",
+            "answer": "El convenio colectivo de trabajo debe contener cl\u00e1usulas que regulen aspectos como el proceso de incorporaci\u00f3n al empleo, la evaluaci\u00f3n de capacidad en entidades con pocos trabajadores, plan de capacitaci\u00f3n, uso del teletrabajo, r\u00e9gimen de trabajo y descanso, pago del salario, organizaci\u00f3n del salario empresarial, compensaciones por trabajo extraordinario, garant\u00edas para la organizaci\u00f3n sindical, modalidades de participaci\u00f3n de los trabajadores y otros aspectos establecidos en normativas complementarias."
+        },
+        {
+            "question": "\u00bfQu\u00e9 documentos forman parte del convenio colectivo de trabajo como anexos seg\u00fan el art\u00edculo 494?",
+            "answer": "Los anexos del convenio colectivo de trabajo incluyen actas de aprobaci\u00f3n, reglamentos para la evaluaci\u00f3n del trabajo, reglamento disciplinario interno, reglamento de pago por resultados, protocolos ante situaciones de violencia laboral y otros documentos que se establezcan mediante normativas."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el procedimiento para la aprobaci\u00f3n del convenio colectivo de trabajo seg\u00fan el art\u00edculo 495?",
+            "answer": "El convenio colectivo de trabajo se firma tras su aprobaci\u00f3n en la Asamblea General de Afiliados y Trabajadores, se determina su fecha de entrada en vigor y per\u00edodo de vigencia. Se suscriben dos ejemplares, uno para el empleador y otro para la organizaci\u00f3n sindical."
+        },
+        {
+            "question": "\u00bfQu\u00e9 dice sobre la legalidad del convenio colectivo de trabajo seg\u00fan el art\u00edculo 496?",
+            "answer": "Las cl\u00e1usulas del convenio colectivo son obligatorias para todas las personas trabajadoras, incluso aquellas que no se afilian a la organizaci\u00f3n sindical o que ingresan despu\u00e9s de su concertaci\u00f3n. Cl\u00e1usulas contrarias a la ley se consideran nulas."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el per\u00edodo m\u00ednimo y m\u00e1ximo de vigencia del convenio colectivo de trabajo seg\u00fan el art\u00edculo 497?",
+            "answer": "El per\u00edodo de vigencia del convenio colectivo no puede ser menor a un a\u00f1o ni mayor a tres a\u00f1os, aunque se pueden acordar cl\u00e1usulas revisables en per\u00edodos menores."
+        },
+        {
+            "question": "\u00bfQu\u00e9 mecanismos existen para garantizar el cumplimiento del convenio colectivo de trabajo seg\u00fan el art\u00edculo 498?",
+            "answer": "Las partes firmantes y las personas trabajadoras son responsables de comprobar el cumplimiento del convenio en \u00f3rganos colegiados, asambleas y otros espacios. Si se detecta un incumplimiento, se notifica a la parte infractora y se informa en la Asamblea General."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede si persiste el incumplimiento del convenio colectivo de trabajo seg\u00fan el art\u00edculo 499?",
+            "answer": "Si persiste el incumplimiento, la parte afectada debe comunicarlo inmediatamente a los niveles superiores de las partes para buscar una soluci\u00f3n, lo que puede llevar al proceso de arbitraje."
+        },
+        {
+            "question": "\u00bfQu\u00e9 papel tiene la Oficina Nacional de Inspecci\u00f3n del Trabajo en el procedimiento de arbitraje seg\u00fan el art\u00edculo 500?",
+            "answer": "La Oficina Nacional de Inspecci\u00f3n del Trabajo es el \u00f3rgano encargado de resolver discrepancias en el proceso de elaboraci\u00f3n, modificaci\u00f3n o cumplimiento del convenio colectivo tras agotar el proceso conciliatorio."
+        },
+        {
+            "question": "\u00bfC\u00f3mo se integra el \u00f3rgano de arbitraje seg\u00fan el art\u00edculo 501?",
+            "answer": "El \u00f3rgano de arbitraje est\u00e1 integrado por un coordinador, dos inspectores de la Oficina Nacional de Inspecci\u00f3n del Trabajo y representantes designados por la organizaci\u00f3n sindical y las autoridades correspondientes al sector donde se origina el conflicto."
+        }
+    ],
+    "19": [
+        {
+            "question": "\u00bfCu\u00e1l es el objetivo principal del Sistema de Administraci\u00f3n del Trabajo seg\u00fan el art\u00edculo mencionado?",
+            "answer": "El objetivo principal del Sistema de Administraci\u00f3n del Trabajo es la formulaci\u00f3n, aplicaci\u00f3n y supervisi\u00f3n de las disposiciones normativas nacionales del trabajo, as\u00ed como el desarrollo del empleo y el capital humano."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de actividades se incluyen dentro de la Administraci\u00f3n del Trabajo?",
+            "answer": "Las actividades incluyen la formulaci\u00f3n, aplicaci\u00f3n y supervisi\u00f3n de las disposiciones normativas nacionales del trabajo, as\u00ed como estudios, investigaciones y estad\u00edsticas sobre el trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 mecanismos se mencionan para garantizar una adecuada organizaci\u00f3n y coordinaci\u00f3n dentro del Sistema?",
+            "answer": "Se establece la consulta y cooperaci\u00f3n entre el Ministerio de Trabajo y Seguridad Social, como autoridad nacional del trabajo, y los mecanismos de representaci\u00f3n de personas trabajadoras y empleadores."
+        },
+        {
+            "question": "\u00bfQu\u00e9 entidad se menciona dentro del Sistema de Administraci\u00f3n del Trabajo que est\u00e1 encargada de la gesti\u00f3n territorial del empleo?",
+            "answer": "Se menciona el Servicio de Gesti\u00f3n de Empleo Territorial como parte del Sistema de Administraci\u00f3n del Trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 funci\u00f3n tiene el sistema de inspecci\u00f3n del trabajo dentro del marco legal descrito?",
+            "answer": "El sistema de inspecci\u00f3n del trabajo tiene la funci\u00f3n de controlar el cumplimiento de las disposiciones normativas en materia laboral y de seguridad social."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de informaci\u00f3n se compila para tomar decisiones dentro del Sistema de Administraci\u00f3n del Trabajo?",
+            "answer": "Se compilan opiniones e informaciones de car\u00e1cter t\u00e9cnico, as\u00ed como se examinan las tendencias presentes y previsibles."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la responsabilidad del Ministerio de Trabajo y Seguridad Social seg\u00fan el art\u00edculo 504?",
+            "answer": "El Ministerio de Trabajo y Seguridad Social act\u00faa como autoridad nacional del trabajo y participa en la consulta y cooperaci\u00f3n con los mecanismos de representaci\u00f3n de trabajadores y empleadores."
+        },
+        {
+            "question": "\u00bfQu\u00e9 aspectos se abordan dentro de las funciones del Sistema de Administraci\u00f3n del Trabajo?",
+            "answer": "Se abordan aspectos como el desarrollo del empleo, el capital humano, la formulaci\u00f3n de normativas laborales, estudios e investigaciones, y la supervisi\u00f3n del cumplimiento de estas normativas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 elementos se mencionan para definir las medidas de ejecuci\u00f3n en materia laboral?",
+            "answer": "Para definir las medidas de ejecuci\u00f3n en materia laboral se utilizan la compilaci\u00f3n de opiniones t\u00e9cnicas y el an\u00e1lisis de tendencias presentes y previsibles."
+        },
+        {
+            "question": "\u00bfQu\u00e9 elementos se incluyen dentro del Sistema de Administraci\u00f3n del Trabajo adem\u00e1s del Servicio de Gesti\u00f3n de Empleo Territorial?",
+            "answer": "Adem\u00e1s del Servicio de Gesti\u00f3n de Empleo Territorial, se incluye un sistema de inspecci\u00f3n del trabajo y otras funciones que se le encargan en la materia laboral."
+        }
+    ],
+    "20": [
+        {
+            "question": "\u00bfCu\u00e1l es el objetivo principal del Servicio de Gesti\u00f3n de Empleo Territorial seg\u00fan el art\u00edculo 508?",
+            "answer": "El objetivo principal del Servicio de Gesti\u00f3n de Empleo Territorial es facilitar el acceso al empleo de las personas en condiciones de trabajar, con prioridad en grupos espec\u00edficos como j\u00f3venes, mujeres y personas en situaci\u00f3n de vulnerabilidad, as\u00ed como fortalecer la capacidad del gobierno para generar empleos dignos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de infracciones se mencionan en el art\u00edculo 511?",
+            "answer": "En el art\u00edculo 511 se mencionan infracciones generales que incluyen la vulneraci\u00f3n de principios y derechos establecidos en la Constituci\u00f3n, incumplimiento de acuerdos laborales, obstaculizaci\u00f3n de la actuaci\u00f3n de los inspectores y no cumplimiento de medidas dispuestas por la inspecci\u00f3n del trabajo."
+        },
+        {
+            "question": "\u00bfQui\u00e9n es responsable de garantizar el cumplimiento del r\u00e9gimen de trabajo y descanso seg\u00fan el art\u00edculo 514?",
+            "answer": "El empleador es responsable de garantizar el cumplimiento del r\u00e9gimen de trabajo y descanso, incluyendo la duraci\u00f3n de la jornada laboral, el descanso diario y semanal, las vacaciones anuales pagadas y los d\u00edas de conmemoraci\u00f3n nacional."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el rol de la Oficina Nacional de Inspecci\u00f3n del Trabajo seg\u00fan el art\u00edculo 518?",
+            "answer": "La Oficina Nacional de Inspecci\u00f3n del Trabajo tiene como funciones espec\u00edficas controlar el cumplimiento de la legislaci\u00f3n laboral, investigar causas de accidentes mortales en el trabajo y facilitar informaci\u00f3n t\u00e9cnica a empleadores y trabajadores sobre c\u00f3mo cumplir las disposiciones legales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se entiende por 'Capital Humano' seg\u00fan el art\u00edculo 524?",
+            "answer": "El Capital Humano es el conjunto de conocimientos, experiencias, habilidades, sentimientos, actitudes, motivaciones y valores que poseen las personas trabajadoras en una organizaci\u00f3n, lo cual contribuye a la creaci\u00f3n de riquezas con eficiencia."
+        },
+        {
+            "question": "\u00bfQu\u00e9 medidas puede adoptar la Inspecci\u00f3n del Trabajo ante infracciones seg\u00fan el art\u00edculo 519?",
+            "answer": "La Inspecci\u00f3n del Trabajo puede adoptar medidas como la obligaci\u00f3n de hacer, que implica disponer al infractor la ejecuci\u00f3n de actos para cesar las causas y efectos de la infracci\u00f3n, o la clausura inmediata de equipos, maquinarias o locales considerados peligrosos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 funciones tienen las direcciones de Trabajo y Seguridad Social provinciales y municipales seg\u00fan el art\u00edculo 505?",
+            "answer": "Las direcciones de Trabajo y Seguridad Social provinciales y municipales cumplen funciones en materia laboral, salarial, seguridad y salud en el trabajo, as\u00ed como prevenci\u00f3n, asistencia y trabajo social, dentro del territorio."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la responsabilidad de los empleadores seg\u00fan el art\u00edculo 506?",
+            "answer": "Los empleadores son responsables de cumplir con las pol\u00edticas laborales, participar en la planificaci\u00f3n de formaci\u00f3n y distribuci\u00f3n de la fuerza de trabajo calificada y brindar asesoramiento t\u00e9cnico a trabajadores y organizaciones que lo soliciten."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se menciona sobre el proceso de revisi\u00f3n de una resoluci\u00f3n de apelaci\u00f3n seg\u00fan el art\u00edculo 523?",
+            "answer": "La Resoluci\u00f3n dictada en el recurso de apelaci\u00f3n puede ser objeto de revisi\u00f3n ante el jefe inmediato superior del que la emiti\u00f3, dentro de un plazo de diez d\u00edas h\u00e1biles, y la autoridad resuelve en veinte d\u00edas h\u00e1biles."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre la gesti\u00f3n del capital humano seg\u00fan el art\u00edculo 525?",
+            "answer": "La gesti\u00f3n del capital humano es el proceso que integra actividades coordinadas para dirigir una organizaci\u00f3n bas\u00e1ndose en competencias laborales, talento y capacidad de aprendizaje de sus trabajadores, con el objetivo de garantizar el desarrollo progresivo de la persona trabajadora."
+        }
+    ]
+}
