@@ -80,7 +80,7 @@ def user_interaction(action: str, id: str):
         #on_change= lambda: st.session_state.update({key: st.session_state[key]})
     )
     if user_input not in [None,""]:
-        save_user_action(st.session_state[key] or user_input,action,st.session_state.username,id)
+        save_user_action(user_input,action,st.session_state.username,id)
         user_input = ""
     #st.rerun()
 
