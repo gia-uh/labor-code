@@ -125,6 +125,48 @@
             "answer": "Representar a sus miembros en las negociaciones y conflictos individuales y colectivos de trabajo, procedimientos de conciliaci\u00f3n, mediaci\u00f3n y arbitraje."
         }
     ],
+    "4": [
+        {
+            "question": "\u00bfA partir de qu\u00e9 edad una persona puede comenzar a tener relaciones laborales seg\u00fan el anteproyecto?",
+            "answer": "Seg\u00fan el art\u00edculo 26, la capacidad jur\u00eddica para establecer relaciones laborales comienza a los 18 a\u00f1os. Sin embargo, j\u00f3venes entre 15 y 17 a\u00f1os pueden trabajar con autorizaci\u00f3n del Director de Trabajo y Seguridad Social Municipal y el consentimiento de padres o tutores."
+        },
+        {
+            "question": "\u00bfQu\u00e9 mecanismos se mencionan para la incorporaci\u00f3n al empleo seg\u00fan el Cap\u00edtulo II?",
+            "answer": "El art\u00edculo 27 menciona tres mecanismos: convocatorias p\u00fablicas, Servicio de Gesti\u00f3n de Empleo Territorial y selecci\u00f3n directa por parte del empleador, considerando las necesidades de la producci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de informaci\u00f3n debe incluir una convocatoria p\u00fablica para un puesto laboral?",
+            "answer": "Seg\u00fan el art\u00edculo 28, las convocatorias deben incluir informaci\u00f3n sobre el cargo, remuneraci\u00f3n y requisitos no discriminatorios. Pueden participar tanto trabajadores internos como externos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se menciona sobre la participaci\u00f3n del Comit\u00e9 de Expertos en el proceso de incorporaci\u00f3n al empleo?",
+            "answer": "El art\u00edculo 29 establece que el jefe de la entidad consulta previamente al Comit\u00e9 de Expertos antes de tomar decisiones sobre la incorporaci\u00f3n a un cargo y notifica por escrito a los no seleccionados."
+        },
+        {
+            "question": "\u00bfCu\u00e1les son las prioridades en el empleo seg\u00fan el art\u00edculo 31?",
+            "answer": "El art\u00edculo 31 establece que se dan prioridades en el empleo para j\u00f3venes, mujeres, personas con discapacidad, exmilitares, y otros grupos vulnerables. Las entidades deben facilitar su incorporaci\u00f3n directa o mediante capacitaci\u00f3n si no tienen formaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipos de contratos se mencionan en el Cap\u00edtulo III sobre formalizaci\u00f3n de la relaci\u00f3n laboral individual?",
+            "answer": "El art\u00edculo 39 menciona tres tipos de contratos: por tiempo indeterminado, determinado y para la ejecuci\u00f3n de un trabajo u obra. Se prohibe usar contratos temporales para tareas permanentes salvo en casos espec\u00edficos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre el per\u00edodo de prueba seg\u00fan los art\u00edculos 50 a 51?",
+            "answer": "El art\u00edculo 50 menciona que el per\u00edodo de prueba puede durar entre 30 y 180 d\u00edas, durante el cual se eval\u00faa la capacidad del trabajador. Si no se termina la relaci\u00f3n despu\u00e9s del per\u00edodo de prueba, se firma un contrato por tiempo indeterminado."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se menciona sobre los estudiantes que desean trabajar seg\u00fan el art\u00edculo 59?",
+            "answer": "El art\u00edculo 59 establece que los estudiantes pueden trabajar por tiempo determinado o a tiempo parcial (durante vacaciones) sin afectar sus estudios, siempre que tengan al menos 18 a\u00f1os."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre la capacidad demostrada en el Cap\u00edtulo IV?",
+            "answer": "El art\u00edculo 60 menciona que la capacidad demostrada es el principio que regula la incorporaci\u00f3n, permanencia y promoci\u00f3n en el trabajo. Se definen competencias laborales incluyendo conocimientos, habilidades, actitudes y valores."
+        },
+        {
+            "question": "\u00bfQu\u00e9 acciones se toman si una persona trabajadora pierde la capacidad demostrada seg\u00fan el art\u00edculo 73?",
+            "answer": "Seg\u00fan el art\u00edculo 73, se intenta reubicarla en otro puesto dentro o fuera de la entidad donde posea competencias. Si no hay cargos disponibles para reubicarla, termina la relaci\u00f3n laboral y recibe una garant\u00eda salarial equivalente al salario b\u00e1sico de un mes."
+        }
+    ],
     "5": [
         {
             "question": "\u00bfCu\u00e1l es el objetivo principal de la protecci\u00f3n especial para los adolescentes en el \u00e1mbito laboral seg\u00fan este t\u00edtulo?",
@@ -293,6 +335,48 @@
             "answer": "Se permite terminar la relaci\u00f3n de trabajo por motivos de embarazo solo en los casos de aplicaci\u00f3n de medidas disciplinarias como separaci\u00f3n definitiva o del sector."
         }
     ],
+    "9": [
+        {
+            "question": "\u00bfQu\u00e9 es la organizaci\u00f3n del trabajo seg\u00fan el art\u00edculo 178?",
+            "answer": "La organizaci\u00f3n del trabajo es un proceso que integra la gesti\u00f3n por competencias, la tecnolog\u00eda, los medios de trabajo y materiales en el proceso de trabajo, mediante la aplicaci\u00f3n de m\u00e9todos y procedimientos que posibiliten trabajar de forma racional y arm\u00f3nica con niveles requeridos de seguridad, salud y medioambientales."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal de los estudios de organizaci\u00f3n del trabajo seg\u00fan el art\u00edculo 179?",
+            "answer": "El prop\u00f3sito principal de los estudios de organizaci\u00f3n del trabajo es perfeccionar las condiciones t\u00e9cnicas y organizativas de la producci\u00f3n y los servicios, determinar los gastos de trabajo necesarios, la estructura y plantilla de cargos, as\u00ed como el an\u00e1lisis, descripci\u00f3n y dise\u00f1o de puestos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 principios rigen la organizaci\u00f3n del trabajo seg\u00fan el art\u00edculo 178?",
+            "answer": "Los principios que rigen la organizaci\u00f3n del trabajo son: integralidad, sistematicidad y activa participaci\u00f3n de las personas trabajadoras y su organizaci\u00f3n sindical en el dise\u00f1o y control de las medidas."
+        },
+        {
+            "question": "\u00bfCu\u00e1les son los tipos de formas de organizaci\u00f3n del trabajo mencionadas en el cap\u00edtulo III?",
+            "answer": "Las formas de organizaci\u00f3n del trabajo mencionadas en el cap\u00edtulo III son: trabajo a distancia y teletrabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se entiende por trabajo a distancia seg\u00fan el art\u00edculo 186?",
+            "answer": "El trabajo a distancia es una forma de organizaci\u00f3n del trabajo en la que la persona trabajadora desempe\u00f1a su labor con car\u00e1cter regular, en su domicilio o en otras instituciones ajenas a la entidad, durante toda la jornada o parte de \u00e9sta, alterna con la presencia f\u00edsica en la entidad."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se entiende por teletrabajo seg\u00fan el art\u00edculo 187?",
+            "answer": "El teletrabajo es una forma de organizaci\u00f3n del trabajo en la cual la persona trabajadora desempe\u00f1a una actividad laboral mediante el uso exclusivo o prevalente de las tecnolog\u00edas de la informaci\u00f3n y las comunicaciones, sin presencia f\u00edsica en la entidad."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el derecho a la desconexi\u00f3n digital seg\u00fan el art\u00edculo 190?",
+            "answer": "El derecho a la desconexi\u00f3n digital consiste en que el empleador respeta los horarios pactados para ventilar cuestiones relacionadas con el trabajo y su control, a no ser contactada fuera de su jornada de trabajo ni durante los d\u00edas de descanso semanal, feriados o licencias retribuidas."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la responsabilidad del empleador en relaci\u00f3n con la infraestructura tecnol\u00f3gica seg\u00fan el art\u00edculo 192?",
+            "answer": "El empleador garantiza los dispositivos, medios inform\u00e1ticos y recursos necesarios para el trabajo a distancia o teletrabajo, as\u00ed como la conectividad. Adem\u00e1s, debe velar por la seguridad de los datos, mantener los equipos en condiciones operativas y resolver r\u00e1pidamente dificultades t\u00e9cnicas."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el proceso de reorganizaci\u00f3n de entidades seg\u00fan el art\u00edculo 198?",
+            "answer": "La reorganizaci\u00f3n de entidades se produce por motivos econ\u00f3micos, tecnol\u00f3gicos y estructurales a partir de estudios de organizaci\u00f3n del trabajo. Esto puede llevar al cese de la relaci\u00f3n de trabajo por causas no imputables a las personas trabajadoras."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el r\u00e9gimen de descanso semanal seg\u00fan el art\u00edculo 216?",
+            "answer": "El r\u00e9gimen de descanso semanal establece que la persona trabajadora tiene derecho a un descanso semanal m\u00ednimo de veinticuatro horas consecutivas, lo cual equivale a un d\u00eda de descanso por cada seis d\u00edas de trabajo."
+        }
+    ],
     "10": [
         {
             "question": "\u00bfQu\u00e9 elementos conforman el sistema salarial seg\u00fan el texto?",
@@ -377,6 +461,48 @@
             "answer": "El empleador debe garantizar que las personas trabajadoras puedan trabajar de forma provisional en otro cargo asignado por \u00e9l, hasta que se elimine el peligro existente."
         }
     ],
+    "12": [
+        {
+            "question": "\u00bfCu\u00e1les son los deberes espec\u00edficos de una persona trabajadora seg\u00fan el Art\u00edculo 312?",
+            "answer": "Seg\u00fan el Art\u00edculo 312, los deberes espec\u00edficos de una persona trabajadora incluyen: realizar su trabajo con eficiencia y calidad requerida; cumplir las normas de conducta, disciplina y orden establecido; obedecer \u00f3rdenes leg\u00edtimas del empleador; cumplir disposiciones sobre seguridad y salud en el trabajo; y cuidar los recursos utilizados en su labor."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se entiende por violaci\u00f3n general de la disciplina seg\u00fan el Art\u00edculo 314?",
+            "answer": "Una violaci\u00f3n general de la disciplina, seg\u00fan el Art\u00edculo 314, es cualquier conducta que incumpla las normas establecidas en el contrato laboral o reglamentos internos y puede incluir desde ausentismos injustificados hasta actos de violencia o acoso en el lugar de trabajo."
+        },
+        {
+            "question": "\u00bfCu\u00e1les son los tipos de acoso mencionados en el C\u00f3digo del Trabajo cubano?",
+            "answer": "El C\u00f3digo menciona varios tipos de acoso, incluyendo: acoso moral, psicol\u00f3gico y sexual. El acoso moral implica conductas reiteradas que afectan la dignidad; el acoso psicol\u00f3gico busca desestabilizar a una persona; y el acoso sexual se refiere a comentarios o acciones de naturaleza sexual no consentidas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 medidas disciplinarias pueden aplicarse seg\u00fan el Art\u00edculo 321?",
+            "answer": "Seg\u00fan el Art\u00edculo 321, las medidas disciplinarias aplicables incluyen: amonestaci\u00f3n p\u00fablica, multa (hasta un 25% del salario), suspensi\u00f3n sin retribuci\u00f3n, traslado temporal a otro cargo, traslado permanente con p\u00e9rdida de cargo, y la separaci\u00f3n definitiva del empleo."
+        },
+        {
+            "question": "\u00bfCu\u00e1ndo se considera nulo un reglamento disciplinario seg\u00fan el Art\u00edculo 328?",
+            "answer": "Un reglamento disciplinario es considerado nulo si contraviene lo establecido por la ley, incluyendo disposiciones que establezcan como \u00fanica medida aplicable la separaci\u00f3n definitiva de la entidad o del sector, sin cumplir con los requisitos legales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se entiende por rehabilitaci\u00f3n seg\u00fan el Art\u00edculo 351?",
+            "answer": "La rehabilitaci\u00f3n es el proceso mediante el cual una persona trabajadora que ha sido sancionada puede recuperar su historial laboral, eliminando de su expediente los documentos relacionados con la medida disciplinaria aplicada tras cumplir ciertos plazos establecidos."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el procedimiento para notificar una medida disciplinaria seg\u00fan el Art\u00edculo 336?",
+            "answer": "Seg\u00fan el Art\u00edculo 336, la medida disciplinaria se notifica personalmente a la persona trabajadora en la entidad. Si se niega a firmar, se acredita con dos testigos. En casos de ausencia, se entrega en su domicilio con testigos presentes."
+        },
+        {
+            "question": "\u00bfQu\u00e9 circunstancias eximentes de responsabilidad disciplinaria menciona el Art\u00edculo 325?",
+            "answer": "El Art\u00edculo 325 establece que la persona trabajadora puede estar exenta de responsabilidad si act\u00faa en defensa propia, para evitar un da\u00f1o mayor, o cumpliendo con una orden legal. Tambi\u00e9n se aplica cuando la falta fue causada por circunstancias imprevisibles o errores inevitables."
+        },
+        {
+            "question": "\u00bfQu\u00e9 significa el ciberacoso seg\u00fan el Art\u00edculo 317?",
+            "answer": "El ciberacoso, seg\u00fan el Art\u00edculo 317, es toda conducta que se lleva a cabo mediante tecnolog\u00edas de la informaci\u00f3n y las comunicaciones. Es considerado una violaci\u00f3n de la disciplina laboral relacionada con la seguridad inform\u00e1tica, seg\u00fan lo establecido por el Ministerio de Comunicaciones."
+        },
+        {
+            "question": "\u00bfQu\u00e9 plazos prescribe el C\u00f3digo para imponer medidas disciplinarias seg\u00fan el Art\u00edculo 332?",
+            "answer": "El Art\u00edculo 332 establece que la acci\u00f3n del empleador para imponer una medida disciplinaria prescribe en un a\u00f1o desde la comisi\u00f3n de la infracci\u00f3n. En casos graves, como sustracciones o delitos, el plazo es de tres a\u00f1os."
+        }
+    ],
     "13": [
         {
             "question": "\u00bfBajo qu\u00e9 condiciones una persona trabajadora no es exigible responsabilidad material?",
@@ -417,6 +543,48 @@
         {
             "question": "\u00bfQu\u00e9 opciones tiene una persona trabajadora si no est\u00e1 conforme con la decisi\u00f3n de exigir responsabilidad material?",
             "answer": "La persona trabajadora puede presentar una reclamaci\u00f3n ante el \u00d3rgano de Justicia Laboral o, en su caso, interponer una demanda directamente ante el tribunal judicial dentro del plazo establecido."
+        }
+    ],
+    "14": [
+        {
+            "question": "\u00bfQu\u00e9 derecho tienen las personas trabajadoras seg\u00fan el art\u00edculo 384?",
+            "answer": "Las personas trabajadoras tienen derecho a reclamar por inconformidad con la aplicaci\u00f3n de medidas disciplinarias, por la exigencia de responsabilidad material y por la vulneraci\u00f3n de sus derechos del trabajo y seguridad social, ante los \u00f3rganos, autoridades e instancias competentes en la v\u00eda prejudicial."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el plazo para presentar una reclamaci\u00f3n en materia de disciplina seg\u00fan el art\u00edculo 390?",
+            "answer": "La persona trabajadora tiene un plazo de siete d\u00edas h\u00e1biles siguientes a su notificaci\u00f3n para presentar la reclamaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 principios procesales rigen la soluci\u00f3n de conflictos laborales seg\u00fan el art\u00edculo 385?",
+            "answer": "Rigen los principios de acceso a la justicia, celeridad, sencillez, impulso de oficio, oralidad, publicidad, inmediaci\u00f3n y comparecencia de las partes."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el plazo m\u00e1ximo para presentar una reclamaci\u00f3n en materia de derechos seg\u00fan el art\u00edculo 391?",
+            "answer": "La persona trabajadora tiene un plazo de ciento ochenta d\u00edas naturales, a partir del d\u00eda siguiente a aquel en que se haya consumado la violaci\u00f3n o se tuvo conocimiento de ella."
+        },
+        {
+            "question": "\u00bfQu\u00e9 es la mediaci\u00f3n seg\u00fan el art\u00edculo 387?",
+            "answer": "La mediaci\u00f3n es un mecanismo alternativo y voluntario para la soluci\u00f3n de conflictos, en el que una persona facilitadora ayuda a las partes a negociar y llegar a acuerdos mutuamente satisfactorios."
+        },
+        {
+            "question": "\u00bfCu\u00e1ntos miembros integran los \u00d3rganos de Justicia Laboral seg\u00fan el art\u00edculo 398?",
+            "answer": "Los \u00f3rganos se integran por cinco miembros efectivos, o siete en casos espec\u00edficos determinados por la entidad."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede con las decisiones firmes de los \u00d3rganos de Justicia Laboral seg\u00fan el art\u00edculo 386?",
+            "answer": "Las decisiones firmes son de obligatorio cumplimiento para las partes, incluso si se modifica la direcci\u00f3n de la entidad o se subroga otra en su lugar."
+        },
+        {
+            "question": "\u00bfQui\u00e9n puede actuar como representante de una persona trabajadora durante un proceso seg\u00fan el art\u00edculo 409?",
+            "answer": "La persona trabajadora puede ser representada por un dirigente sindical, compa\u00f1ero de trabajo, c\u00f3nyuge o familiar dentro del cuarto grado de consanguinidad o segundo de afinidad."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el plazo m\u00e1ximo para que el \u00d3rgano de Justicia Laboral emita una decisi\u00f3n seg\u00fan el art\u00edculo 392?",
+            "answer": "El \u00d3rgano tiene un plazo de veinticuatro d\u00edas h\u00e1biles, a partir del d\u00eda siguiente de recibir la reclamaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede si se presentan reclamaciones fuera del plazo establecido seg\u00fan el art\u00edculo 393?",
+            "answer": "El \u00d3rgano de Justicia Laboral desestima la reclamaci\u00f3n extempor\u00e1nea y emite un acuerdo con la decisi\u00f3n adoptada."
         }
     ],
     "15": [
