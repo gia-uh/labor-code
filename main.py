@@ -64,7 +64,7 @@ def check_user(user: User):
         if "invalidCredentials" in str(e):
             return Query.ERROR_PASSWORD
         else:
-            return Consulta.ERROR_SERVICIO
+            return Query.ERROR_SERVICE
         
             
 
