@@ -1,0 +1,412 @@
+{
+    "pairs": [
+        {
+            "Project_Law": {
+                "id": "1",
+                "title": "Elemento 1"
+            },
+            "Actual_Law": [
+                {
+                    "id": "194",
+                    "similarity": 0.4768
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "2",
+                "title": "Elemento 2"
+            },
+            "Actual_Law": [
+                {
+                    "id": "4",
+                    "similarity": 0.6643
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "3",
+                "title": "Elemento 3"
+            },
+            "Actual_Law": [
+                {
+                    "id": "72",
+                    "similarity": 0.5754
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "4",
+                "title": "Elemento 4"
+            },
+            "Actual_Law": [
+                {
+                    "id": "10",
+                    "similarity": 0.6019
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "5",
+                "title": "Elemento 5"
+            },
+            "Actual_Law": [
+                {
+                    "id": "6",
+                    "similarity": 0.5441
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "6",
+                "title": "Elemento 6"
+            },
+            "Actual_Law": [
+                {
+                    "id": "4",
+                    "similarity": 0.6421
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "7",
+                "title": "Elemento 7"
+            },
+            "Actual_Law": [
+                {
+                    "id": "12",
+                    "similarity": 0.4442
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "8",
+                "title": "Elemento 8"
+            },
+            "Actual_Law": [
+                {
+                    "id": "29",
+                    "similarity": 0.4248
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "9",
+                "title": "Elemento 9"
+            },
+            "Actual_Law": [
+                {
+                    "id": "25",
+                    "similarity": 0.6947
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "10",
+                "title": "Elemento 10"
+            },
+            "Actual_Law": [
+                {
+                    "id": "26",
+                    "similarity": 0.695
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "11",
+                "title": "Elemento 11"
+            },
+            "Actual_Law": [
+                {
+                    "id": "77",
+                    "similarity": 0.5961
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "12",
+                "title": "Elemento 12"
+            },
+            "Actual_Law": [
+                {
+                    "id": "121",
+                    "similarity": 0.6155
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "13",
+                "title": "Elemento 13"
+            },
+            "Actual_Law": [
+                {
+                    "id": "55",
+                    "similarity": 0.5528
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "14",
+                "title": "Elemento 14"
+            },
+            "Actual_Law": [
+                {
+                    "id": "31",
+                    "similarity": 0.5443
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "15",
+                "title": "Elemento 15"
+            },
+            "Actual_Law": [
+                {
+                    "id": "71",
+                    "similarity": 0.6112
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "16",
+                "title": "Elemento 16"
+            },
+            "Actual_Law": [
+                {
+                    "id": "108",
+                    "similarity": 0.67
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "17",
+                "title": "Elemento 17"
+            },
+            "Actual_Law": [
+                {
+                    "id": "57",
+                    "similarity": 0.6258
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "18",
+                "title": "Elemento 18"
+            },
+            "Actual_Law": [
+                {
+                    "id": "78",
+                    "similarity": 0.5627
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "19",
+                "title": "Elemento 19"
+            },
+            "Actual_Law": [
+                {
+                    "id": "49",
+                    "similarity": 0.5987
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "20",
+                "title": "Elemento 20"
+            },
+            "Actual_Law": [
+                {
+                    "id": "29",
+                    "similarity": 0.5472
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "21",
+                "title": "Elemento 21"
+            },
+            "Actual_Law": [
+                {
+                    "id": "86",
+                    "similarity": 0.5918
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "22",
+                "title": "Elemento 22"
+            },
+            "Actual_Law": [
+                {
+                    "id": "125",
+                    "similarity": 0.6505
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "23",
+                "title": "Elemento 23"
+            },
+            "Actual_Law": [
+                {
+                    "id": "125",
+                    "similarity": 0.5789
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "24",
+                "title": "Elemento 24"
+            },
+            "Actual_Law": [
+                {
+                    "id": "126",
+                    "similarity": 0.5575
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "25",
+                "title": "Elemento 25"
+            },
+            "Actual_Law": [
+                {
+                    "id": "167",
+                    "similarity": 0.7251
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "26",
+                "title": "Elemento 26"
+            },
+            "Actual_Law": [
+                {
+                    "id": "158",
+                    "similarity": 0.5076
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "27",
+                "title": "Elemento 27"
+            },
+            "Actual_Law": [
+                {
+                    "id": "158",
+                    "similarity": 0.5357
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "28",
+                "title": "Elemento 28"
+            },
+            "Actual_Law": [
+                {
+                    "id": "178",
+                    "similarity": 0.533
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "29",
+                "title": "Elemento 29"
+            },
+            "Actual_Law": [
+                {
+                    "id": "180",
+                    "similarity": 0.6178
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "30",
+                "title": "Elemento 30"
+            },
+            "Actual_Law": [
+                {
+                    "id": "5",
+                    "similarity": 0.627
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "31",
+                "title": "Elemento 31"
+            },
+            "Actual_Law": [
+                {
+                    "id": "18",
+                    "similarity": 0.6655
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "32",
+                "title": "Elemento 32"
+            },
+            "Actual_Law": [
+                {
+                    "id": "188",
+                    "similarity": 0.523
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "33",
+                "title": "Elemento 33"
+            },
+            "Actual_Law": [
+                {
+                    "id": "147",
+                    "similarity": 0.5563
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "34",
+                "title": "Elemento 34"
+            },
+            "Actual_Law": [
+                {
+                    "id": "88",
+                    "similarity": 0.4787
+                }
+            ]
+        }
+    ]
+}
