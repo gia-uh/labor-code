@@ -1,0 +1,2018 @@
+{
+    "1": [
+        {
+            "question": "\u00bfDe qu\u00e9 manera puede una persona en busca de empleo acceder a cargos vacantes seg\u00fan el art\u00edculo mencionado?",
+            "answer": "Una persona en busca de empleo puede acceder a los cargos vacantes de forma directa, mediante convocatorias publicadas, por otras v\u00edas utilizadas para este fin o mediante la utilizaci\u00f3n del Servicio de Gesti\u00f3n de Empleo Territorial."
+        },
+        {
+            "question": "\u00bfQu\u00e9 criterios utiliza el empleador al contratar a una persona en busca de empleo?",
+            "answer": "El empleador contrata o designa directamente a las personas en busca de empleo en correspondencia con las necesidades de la producci\u00f3n y los servicios, as\u00ed como con la capacidad demostrada para el cargo al que se aspira."
+        },
+        {
+            "question": "\u00bfQu\u00e9 informaci\u00f3n debe incluir una convocatoria seg\u00fan lo establecido?",
+            "answer": "La convocatoria debe consignar la denominaci\u00f3n del cargo, sus competencias, obligaciones y atribuciones, la remuneraci\u00f3n y otros datos de inter\u00e9s para las personas trabajadoras, sin incluir requisitos discriminatorios."
+        },
+        {
+            "question": "\u00bfQui\u00e9n puede presentarse a una convocatoria dentro de una entidad?",
+            "answer": "A la convocatoria pueden presentarse las personas que trabajan en la entidad. Si no existen aspirantes capaces para cubrir el cargo vacante, se puede seleccionar otro personal."
+        },
+        {
+            "question": "\u00bfQu\u00e9 procedimiento debe seguirse antes de decidir sobre una propuesta de ocupaci\u00f3n de un cargo?",
+            "answer": "El jefe de la entidad o quien le delegue somete previamente las propuestas a consulta del Comit\u00e9 de Expertos, que recomienda qui\u00e9n tiene mayor capacidad para el cargo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derecho tienen los aspirantes no seleccionados dentro de una entidad?",
+            "answer": "Los aspirantes no seleccionados deben recibir una respuesta fundamentada por escrito. Si est\u00e1n inconformes, pueden reclamar ante el \u00d3rgano de Justicia Laboral y, si es necesario, acceder a la v\u00eda judicial."
+        },
+        {
+            "question": "\u00bfCu\u00e1ndo se puede contratar o trasladar colectivos de personas trabajadoras hacia otros territorios?",
+            "answer": "Se puede contratar o trasladar colectivos de personas trabajadoras cuando sea necesario cubrir necesidades de fuerza de trabajo temporal o permanente, con la aprobaci\u00f3n correspondiente y garantizando su retorno a sus provincias de origen."
+        },
+        {
+            "question": "\u00bfQu\u00e9 debe garantizarse antes de autorizar el traslado de colectivos hacia otros territorios?",
+            "answer": "Antes de autorizar el traslado, se deben garantizar las condiciones de vida y trabajo para las personas trabajadoras que se pretenden contratar o trasladar, as\u00ed como coordinar con las autoridades del territorio receptor sobre la disponibilidad de recursos humanos locales."
+        },
+        {
+            "question": "\u00bfC\u00f3mo se rige la contrataci\u00f3n individual de personas trabajadoras provenientes de otras provincias?",
+            "answer": "La contrataci\u00f3n individual de personas trabajadoras provenientes de otras provincias del pa\u00eds se rige por lo previsto en este C\u00f3digo, sin necesidad de autorizaci\u00f3n adicional."
+        },
+        {
+            "question": "\u00bfQu\u00e9 disposiciones normativas deben aplicarse durante el traslado de colectivos hacia otros territorios?",
+            "answer": "Durante el traslado de colectivos hacia otros territorios, se aplican las disposiciones normativas espec\u00edficas establecidas en el C\u00f3digo del Trabajo."
+        }
+    ],
+    "2": [
+        {
+            "question": "\u00bfQu\u00e9 tipo de personas tienen prioridad para acceder al empleo seg\u00fan el art\u00edculo 31?",
+            "answer": "Seg\u00fan el art\u00edculo 31, las personas con prioridad para acceder al empleo incluyen j\u00f3venes, mujeres, personas en situaci\u00f3n de discapacidad y egresados de la educaci\u00f3n especial, licenciados del Servicio Militar, personas en situaci\u00f3n de vulnerabilidad, personas que cumplen sanci\u00f3n penal en libertad, y otras que lo requieran."
+        },
+        {
+            "question": "\u00bfC\u00f3mo pueden gestionar su ubicaci\u00f3n en el empleo las personas priorizadas?",
+            "answer": "Las personas priorizadas pueden gestionar su ubicaci\u00f3n de forma directa en las entidades correspondientes, seg\u00fan se establece en el art\u00edculo 31."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se hace cuando una persona no tiene formaci\u00f3n para el empleo?",
+            "answer": "Cuando una persona no tiene formaci\u00f3n para el empleo, se favorece su incorporaci\u00f3n a cursos de capacitaci\u00f3n y habilitaci\u00f3n para el empleo, seg\u00fan lo dispuesto en el art\u00edculo 31."
+        },
+        {
+            "question": "\u00bfQu\u00e9 beneficios reciben los empleadores que contratan personas en situaci\u00f3n de discapacidad o egresados de la educaci\u00f3n especial?",
+            "answer": "Los empleadores que contratan a personas en situaci\u00f3n de discapacidad y egresados de las escuelas especiales reciben los beneficios fiscales previstos por el Ministerio de Finanzas y Precios, seg\u00fan el art\u00edculo 33."
+        },
+        {
+            "question": "\u00bfQui\u00e9n es responsable de avalar la aptitud para trabajar de una persona en situaci\u00f3n de discapacidad o egresado de la educaci\u00f3n especial?",
+            "answer": "Las direcciones municipales de Trabajo y Seguridad Social y de Salud son responsables de coordinar y tramitar la evaluaci\u00f3n por las comisiones de Peritaje M\u00e9dico Laboral para avalar la aptitud para trabajar, seg\u00fan el art\u00edculo 34."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede si una persona en situaci\u00f3n de discapacidad necesita una jornada laboral reducida?",
+            "answer": "Si se dictamina que una persona en situaci\u00f3n de discapacidad debe trabajar con una jornada inferior a la establecida, se abona la remuneraci\u00f3n correspondiente a las horas trabajadas, seg\u00fan el art\u00edculo 34."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el per\u00edodo m\u00e1ximo para el entrenamiento en el puesto de trabajo de personas en situaci\u00f3n de discapacidad o egresados de la educaci\u00f3n especial?",
+            "answer": "El per\u00edodo m\u00e1ximo para el entrenamiento en el puesto de trabajo es de hasta seis meses, seg\u00fan lo establece el art\u00edculo 35."
+        },
+        {
+            "question": "\u00bfQu\u00e9 ocurre si una persona no alcanza las competencias laborales necesarias tras completar el periodo de entrenamiento?",
+            "answer": "Si la persona no alcanza las competencias laborales necesarias, se eval\u00faa su ubicaci\u00f3n en otro cargo o puesto de trabajo; si no es posible, se termina la relaci\u00f3n de trabajo y se informa a la Direcci\u00f3n de Trabajo y Seguridad Social Municipal, seg\u00fan el art\u00edculo 35."
+        },
+        {
+            "question": "\u00bfQu\u00e9 entidades son responsables del control de la permanencia en el empleo de las personas priorizadas?",
+            "answer": "Las direcciones de Trabajo y Seguridad Social son responsables del control de la ubicaci\u00f3n y la permanencia de las personas con prioridad en el empleo, seg\u00fan el art\u00edculo 36."
+        },
+        {
+            "question": "\u00bfA qui\u00e9n deben informar las direcciones de Trabajo y Seguridad Social sobre la ubicaci\u00f3n y permanencia de las personas prioritarias?",
+            "answer": "Las direcciones de Trabajo y Seguridad Social deben informar al Ministerio de Trabajo y Seguridad Social sobre la ubicaci\u00f3n y permanencia de las personas priorizadas, seg\u00fan el art\u00edculo 36."
+        }
+    ],
+    "3": [
+        {
+            "question": "\u00bfQu\u00e9 elementos pueden formalizar la relaci\u00f3n de trabajo individual seg\u00fan el art\u00edculo 37?",
+            "answer": "La relaci\u00f3n de trabajo individual se puede formalizar mediante el contrato de trabajo, la designaci\u00f3n o nombramiento de personas trabajadoras que requieren competencias laborales adicionales, y la elecci\u00f3n para el desempe\u00f1o de funciones espec\u00edficas reguladas por legislaci\u00f3n especial."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 caso se presume la relaci\u00f3n de trabajo cuando no existe un contrato escrito?",
+            "answer": "La relaci\u00f3n de trabajo se presume cuando una persona trabajadora ejecuta labores con conocimiento y sin oposici\u00f3n del empleador, incluso si el contrato no se formaliza por escrita."
+        },
+        {
+            "question": "\u00bfQu\u00e9 obligaci\u00f3n tiene el empleador si se presume la existencia de una relaci\u00f3n laboral?",
+            "answer": "El empleador est\u00e1 obligado a formalizar la relaci\u00f3n de trabajo seg\u00fan lo establecido en este C\u00f3digo, a partir del reconocimiento por el \u00f3rgano que soluciona conflictos laborales o por el \u00f3rgano jurisdiccional."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derecho corresponde a una persona trabajadora desde el inicio de sus labores si la relaci\u00f3n no se formaliza por escrito?",
+            "answer": "Desde el inicio de las labores, le corresponde el disfrute de los derechos derivados de esta relaci\u00f3n laboral."
+        },
+        {
+            "question": "\u00bfC\u00f3mo se formaliza la relaci\u00f3n de trabajo para los funcionarios y otros trabajadores designados?",
+            "answer": "Los funcionarios y otros trabajadores designados formalizan su relaci\u00f3n de trabajo mediante nombramiento seg\u00fan lo previsto en su disposici\u00f3n normativa espec\u00edfica."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre el r\u00e9gimen disciplinario para las personas trabajadoras de confianza?",
+            "answer": "El r\u00e9gimen disciplinario de las personas trabajadoras de confianza se rige por lo previsto en este C\u00f3digo."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la base legal para la presunci\u00f3n de la relaci\u00f3n laboral cuando no existe contrato escrito?",
+            "answer": "La presunci\u00f3n de la relaci\u00f3n laboral se basa en el hecho de que la persona trabajadora est\u00e9 ejecutando labores con conocimiento y sin oposici\u00f3n del empleador."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de relaciones laborales pueden estar sujetas a normativas especiales?",
+            "answer": "Las relaciones de trabajo que implican elecci\u00f3n para el desempe\u00f1o de funciones espec\u00edficas pueden estar sujetas a normativas especiales."
+        },
+        {
+            "question": "\u00bfQui\u00e9n tiene la responsabilidad de formalizar una relaci\u00f3n laboral cuando se presume su existencia?",
+            "answer": "El empleador tiene la responsabilidad de formalizar la relaci\u00f3n laboral una vez que se reconoce su existencia por el \u00f3rgano que soluciona conflictos laborales o por el \u00f3rgano jurisdiccional."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de contrato es mencionado en el art\u00edculo 37 para formalizar la relaci\u00f3n laboral?",
+            "answer": "El art\u00edculo 37 menciona el contrato de trabajo como un elemento que puede formalizar la relaci\u00f3n de trabajo individual."
+        }
+    ],
+    "4": [
+        {
+            "question": "\u00bfQu\u00e9 obligaciones tiene la persona contratada seg\u00fan el contrato de trabajo individual?",
+            "answer": "La persona contratada se compromete a cumplir la prestaci\u00f3n laboral pactada con eficiencia, a observar las normas de disciplina, a mantener las competencias laborales exigidas para el cargo y a cumplir con cualquier otra obligaci\u00f3n que se acuerde en el contrato."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 casos se permite la celebraci\u00f3n verbal de un contrato de trabajo?",
+            "answer": "El contrato puede ser verbal en actividades emergentes o eventuales, como cosechas o servicios a la poblaci\u00f3n, y en otros casos autorizados por la legislaci\u00f3n, siempre que no exceda de noventa d\u00edas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 informaci\u00f3n m\u00ednima debe contener un contrato de trabajo?",
+            "answer": "Un contrato de trabajo debe incluir al menos: nombres y domicilio del empleador y trabajador, n\u00famero de identidad del trabajador, fecha de inicio, tipo y duraci\u00f3n del contrato, descripci\u00f3n del trabajo o cargo, r\u00e9gimen laboral, remuneraci\u00f3n, condiciones de seguridad y salud, entre otros elementos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipos de contratos de trabajo se mencionan en el art\u00edculo 42?",
+            "answer": "Los tipos de contrato son: por tiempo indeterminado, por tiempo determinado y para la ejecuci\u00f3n de un trabajo u obra."
+        },
+        {
+            "question": "\u00bfCu\u00e1ndo puede utilizarse el contrato por tiempo determinado seg\u00fan la normativa?",
+            "answer": "El contrato por tiempo determinado se utiliza para labores eventuales o emergentes, servicio social, per\u00edodo de prueba, sustituci\u00f3n temporal de trabajadores con relaci\u00f3n laboral suspendida y cursos de capacitaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede durante el per\u00edodo interciclo en los contratos por tiempo indeterminado para labores c\u00edclicas o de temporada?",
+            "answer": "Durante el per\u00edodo interciclo, la relaci\u00f3n laboral se suspende y no se paga retribuci\u00f3n; sin embargo, la persona trabajadora tiene derecho a laborar en cualquier otro sector durante ese intervalo."
+        },
+        {
+            "question": "\u00bfC\u00f3mo se puede firmar digitalmente un contrato de trabajo seg\u00fan el art\u00edculo 41?",
+            "answer": "El contrato puede firmarse digitalmente por ambas partes. El empleador debe entregar un ejemplar digital al trabajador y incluir una copia escrita en el expediente laboral."
+        },
+        {
+            "question": "\u00bfQu\u00e9 requisitos deben cumplirse para la aprobaci\u00f3n del uso de contratos por tiempo indeterminado para labores c\u00edclicas o de temporada?",
+            "answer": "Para aprobar este tipo de contrato, se debe garantizar que la actividad sea c\u00edclica en determinadas \u00e9pocas del a\u00f1o y que las personas contratadas requieran habilidades espec\u00edficas para el desarrollo adecuado de la labor."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede con las cl\u00e1usulas contractuales que menoscaban los beneficios incorporados a los convenios colectivos?",
+            "answer": "Cualquier cl\u00e1usula contractual que disminuya o afecte los beneficios incluidos en los convenios colectivos de trabajo es nula y no tiene efecto legal."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre la remuneraci\u00f3n del trabajador seg\u00fan el art\u00edculo 39?",
+            "answer": "El empleador se obliga a pagar una remuneraci\u00f3n proporcional a la calidad y cantidad del trabajo aportado por la persona contratada."
+        }
+    ],
+    "5": [
+        {
+            "question": "\u00bfQu\u00e9 tipo de funciones deben cumplir las personas trabajadoras de confianza seg\u00fan la norma?",
+            "answer": "Las personas trabajadoras de confianza deben cumplir funciones de administraci\u00f3n, direcci\u00f3n, vigilancia y control sobre otros trabajadores, bienes o recursos."
+        },
+        {
+            "question": "\u00bfCu\u00e1les son dos ejemplos de cargos que pueden ser considerados como personas trabajadoras de confianza?",
+            "answer": "Dos ejemplos son los jefes de brigada, de taller y encargados de almac\u00e9n, as\u00ed como secretarias ejecutivas y choferes de altas autoridades."
+        },
+        {
+            "question": "\u00bfQu\u00e9 requisito adicional se exige a las personas trabajadoras de confianza seg\u00fan el art\u00edculo 47?",
+            "answer": "Se requiere que posean competencias adicionales de confiabilidad y discreci\u00f3n, demostradas en su capacidad para desempe\u00f1ar el cargo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 debe contener la Resoluci\u00f3n o escrito fundamentado mencionado en el art\u00edculo 48?",
+            "answer": "Debe contener los mismos elementos del contrato de trabajo, incluyendo las competencias adicionales, la notificaci\u00f3n expresa de la aceptaci\u00f3n del cargo y el car\u00e1cter indeterminado de la relaci\u00f3n laboral."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se menciona sobre el per\u00edodo de prueba para las personas trabajadoras de confianza?",
+            "answer": "Se establece que los cargos que ocupan las personas trabajadoras de confianza requieren cumplir con el per\u00edodo de prueba previsto en este C\u00f3digo antes de su designaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se entiende por 'discreci\u00f3n' en el contexto de la persona trabajadora de confianza?",
+            "answer": "La discreci\u00f3n consiste en no divulgar determinados hechos, actos o circunstancias que se conozcan durante la labor y mantener su confidencialidad."
+        },
+        {
+            "question": "\u00bfQu\u00e9 entidad tiene la responsabilidad de definir otros cargos que pueden ser considerados como personas trabajadoras de confianza?",
+            "answer": "El jefe de la entidad, en coordinaci\u00f3n con la organizaci\u00f3n sindical correspondiente, tiene esta responsabilidad."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el efecto de la formalizaci\u00f3n de la relaci\u00f3n laboral mediante una Resoluci\u00f3n o escrito fundamentado?",
+            "answer": "Esta formalizaci\u00f3n da car\u00e1cter definitivo a la relaci\u00f3n laboral y establece el compromiso y responsabilidad que representa el cargo designado."
+        },
+        {
+            "question": "\u00bfPor qu\u00e9 se requiere un mayor nivel de confiabilidad en las personas trabajadoras de confianza?",
+            "answer": "Se requiere porque su cargo implica un mayor nivel de responsabilidad, una relaci\u00f3n m\u00e1s cercana con la autoridad que los designa y el cuidado de bienes o funciones importantes para la entidad."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede con los cargos adicionales definidos como personas trabajadoras de confianza?",
+            "answer": "Estos cargos se informan a las unidades organizativas subordinadas para su inscripci\u00f3n en el convenio colectivo de trabajo."
+        }
+    ],
+    "6": [
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal del per\u00edodo de prueba seg\u00fan el art\u00edculo 50?",
+            "answer": "El prop\u00f3sito del per\u00edodo de prueba es que la persona trabajadora demuestre poseer la capacidad exigida para el desempe\u00f1o del cargo y permitir al empleador comprobar si las condiciones del lugar de trabajo se corresponden con sus intereses."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 casos no se exige cumplir el per\u00edodo de prueba?",
+            "answer": "No se exige el cumplimiento del per\u00edodo de prueba en los contratos por tiempo determinado, para la ejecuci\u00f3n de un trabajo u obra, para el cumplimiento del servicio social y otros casos decididos por el empleador con el acuerdo de la organizaci\u00f3n sindical."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el rango m\u00e1ximo y m\u00ednimo establecido en el art\u00edculo 51 para la duraci\u00f3n del per\u00edodo de prueba?",
+            "answer": "El per\u00edodo de prueba se establece entre treinta y hasta ciento ochenta d\u00edas, dependiendo de la complejidad del cargo."
+        },
+        {
+            "question": "\u00bfQui\u00e9n es responsable de organizar y planificar el per\u00edodo de prueba seg\u00fan el art\u00edculo 51?",
+            "answer": "El empleador es responsable de organizar y planificar la ejecuci\u00f3n del per\u00edodo a prueba, estableciendo las competencias laborales a comprobar."
+        },
+        {
+            "question": "\u00bfQu\u00e9 debe incluir el an\u00e1lisis durante el per\u00edodo de prueba seg\u00fan el art\u00edculo 51?",
+            "answer": "Debe incluir el an\u00e1lisis y evaluaci\u00f3n sistem\u00e1tica de los resultados del trabajo, el an\u00e1lisis integral del desempe\u00f1o y la evaluaci\u00f3n final del per\u00edodo de prueba."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede si al vencerse el per\u00edodo de prueba no se manifiesta la voluntad de terminar la relaci\u00f3n laboral?",
+            "answer": "Si vencido el per\u00edodo de prueba, las partes no manifiestan su voluntad en contrario y la persona trabajadora contin\u00faa laborando con conocimiento del empleador, se formaliza la relaci\u00f3n de trabajo por tiempo indeterminado."
+        },
+        {
+            "question": "\u00bfCu\u00e1ndo se lleva a cabo la evaluaci\u00f3n final del per\u00edodo de prueba?",
+            "answer": "La evaluaci\u00f3n final del per\u00edodo de prueba se ejecuta antes de la culminaci\u00f3n del per\u00edodo de prueba pactado, y determina la decisi\u00f3n final a adoptar por el empleador."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de contrato puede formalizarse cuando se concluye el per\u00edodo de prueba sin terminar la relaci\u00f3n laboral?",
+            "answer": "Se formaliza la relaci\u00f3n de trabajo por tiempo indeterminado mediante el contrato de trabajo o la designaci\u00f3n, seg\u00fan corresponda."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derecho tienen las partes durante el per\u00edodo de prueba seg\u00fan el art\u00edculo 50?",
+            "answer": "Durante el per\u00edodo de prueba cualquiera de las partes puede dar por terminada la relaci\u00f3n de trabajo, cumpliendo lo previsto en este C\u00f3digo."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito de la evaluaci\u00f3n del desempe\u00f1o durante el per\u00edodo de prueba?",
+            "answer": "El prop\u00f3sito de la evaluaci\u00f3n del desempe\u00f1o es determinar si la persona trabajadora cumple con las competencias laborales exigidas para el cargo y tomar una decisi\u00f3n final sobre su incorporaci\u00f3n definitiva."
+        }
+    ],
+    "7": [
+        {
+            "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo diario de horas laborales permitido para quienes ejercen el pluriempleo?",
+            "answer": "El l\u00edmite m\u00e1ximo diario de horas laborales permitido para quienes ejercen el pluriempleo es trece horas."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 casos se requiere la aprobaci\u00f3n expresa de una autoridad u \u00f3rgano antes de realizar un nuevo contrato o designaci\u00f3n?",
+            "answer": "Se requiere la aprobaci\u00f3n expresa cuando las personas trabajadoras son cuadros, funcionarios, t\u00e9cnicos y profesionales de la salud y la investigaci\u00f3n; maestros, profesores, contralores y auditores, abogados que desean desempe\u00f1ar otro cargo o empleo remunerado diferente a los cargos docentes o de investigaci\u00f3n cient\u00edfica."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el derecho relacionado con el descanso anual para quienes ejercen el pluriempleo?",
+            "answer": "Las personas trabajadoras con pluriempleo tienen derecho a disfrutar de un descanso efectivo de vacaciones anuales hasta de treinta d\u00edas naturales en cada contrato de trabajo o designaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se entiende por pluriactividad seg\u00fan el anteproyecto?",
+            "answer": "La pluriactividad se entiende cuando una persona trabajadora tiene m\u00e1s de una actividad laboral y, de forma simult\u00e1nea, trabaja con subordinaci\u00f3n a un empleador y tambi\u00e9n realiza trabajo aut\u00f3nomo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 requisitos deben cumplirse al realizar un contrato adicional dentro de la misma entidad?",
+            "answer": "Al realizar un contrato adicional dentro de la misma entidad, se requiere que sea en diferentes horarios de trabajo y que las labores sean distintas a las habituales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede con la remuneraci\u00f3n de los trabajadores que realizan el trabajo a tiempo parcial?",
+            "answer": "La remuneraci\u00f3n de los trabajadores que realizan el trabajo a tiempo parcial es proporcional al tiempo real laborado."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo diario para la suma de jornadas a tiempo parcial en el pluriempleo?",
+            "answer": "La suma de jornadas a tiempo parcial no puede exceder de trece horas diarias."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 situaciones est\u00e1 prohibido ejercer el pluriempleo seg\u00fan la norma?",
+            "answer": "Est\u00e1 prohibido ejercer el pluriempleo durante el per\u00edodo en que se encuentra cobrando subsidios, prestaciones econ\u00f3micas por incapacitaci\u00f3n, licencia de maternidad pre y postnatal, o cuando tiene aprobadas jornadas reducidas debido a condiciones laborales peligrosas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derecho tienen los trabajadores con pluriempleo en relaci\u00f3n con la seguridad social?",
+            "answer": "Los que ejercen el pluriempleo tienen derecho a recibir la protecci\u00f3n de la seguridad social y a acceder a otros est\u00edmulos y remuneraciones establecidas por la legislaci\u00f3n laboral, por cada uno de los contratos o designaciones."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se requiere para que una persona trabajadora pueda realizar contratos con diferentes entidades en el pluriempleo?",
+            "answer": "Para que una persona trabajadora pueda realizar contratos con diferentes entidades, se exige que no coincidan los horarios de trabajo."
+        }
+    ],
+    "8": [
+        {
+            "question": "\u00bfQu\u00e9 tipo de contrato puede tener un estudiante que tenga dieciocho a\u00f1os o m\u00e1s?",
+            "answer": "Un estudiante con dieciocho a\u00f1os o m\u00e1s puede contratarse por tiempo determinado o mediante un contrato para la ejecuci\u00f3n de un trabajo u obra."
+        },
+        {
+            "question": "\u00bfCu\u00e1ndo pueden los estudiantes trabajar jornadas a tiempo completo seg\u00fan el art\u00edculo 59?",
+            "answer": "Los estudiantes pueden trabajar jornadas a tiempo completo durante las vacaciones o en los per\u00edodos de receso."
+        },
+        {
+            "question": "\u00bfQu\u00e9 requisito debe cumplir un estudiante para poder realizar trabajo remunerado en el per\u00edodo docente?",
+            "answer": "El estudiante debe tener dieciocho a\u00f1os o m\u00e1s y estar inscrito en cursos diurnos, o encontrarse en el per\u00edodo de pr\u00e1ctica laboral o ubicaci\u00f3n anticipada."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derecho tienen los estudiantes contratados seg\u00fan el art\u00edculo 59?",
+            "answer": "Los estudiantes contratados tienen reconocidos los derechos en el trabajo y de seguridad social establecidos para estos contratos."
+        },
+        {
+            "question": "\u00bfPueden los estudiantes trabajar a tiempo parcial durante el per\u00edodo docente?",
+            "answer": "S\u00ed, pueden trabajar a tiempo parcial durante el per\u00edodo docente sin afectar sus estudios."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de remuneraci\u00f3n perciben los estudiantes que trabajan seg\u00fan el art\u00edculo 59?",
+            "answer": "Los estudiantes perciben la remuneraci\u00f3n correspondiente al trabajo realizado, seg\u00fan el contrato establecido."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 momento se permite a los estudiantes trabajar jornadas completas seg\u00fan este art\u00edculo?",
+            "answer": "Se permite que trabajen jornadas completas durante las vacaciones o en los per\u00edodos de receso."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de estudiantes pueden participar en contratos laborales seg\u00fan el art\u00edculo 59?",
+            "answer": "Los estudiantes de cursos diurnos, as\u00ed como aquellos que se encuentran en el per\u00edodo de pr\u00e1ctica laboral o ubicaci\u00f3n anticipada pueden participar en contratos laborales."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el objetivo principal del trabajo estudiantil regulado por este art\u00edculo?",
+            "answer": "El objetivo principal es permitir a los estudiantes trabajar sin afectar sus estudios, durante los per\u00edodos docentes y con flexibilidad en las vacaciones o recesos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se menciona sobre el reconocimiento de derechos para los estudiantes contratados?",
+            "answer": "Se establece que a los estudiantes contratados o designados en un cargo se les reconocen los derechos laborales y de seguridad social vigentes seg\u00fan el tipo de contrato."
+        }
+    ],
+    "9": [
+        {
+            "question": "\u00bfQu\u00e9 principio rige el proceso de incorporaci\u00f3n al empleo seg\u00fan la Secci\u00f3n Primera?",
+            "answer": "El principio que rige el proceso de incorporaci\u00f3n al empleo es la capacidad demostrada."
+        },
+        {
+            "question": "\u00bfCu\u00e1les son los elementos que integran las competencias laborales?",
+            "answer": "Las competencias laborales integran conocimientos, habilidades, destrezas, experiencias, actitudes, motivaciones, caracter\u00edsticas personales y valores."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de competencias deben establecer las entidades seg\u00fan el art\u00edculo 61?",
+            "answer": "Las entidades deben establecer competencias distintivas, competencias de los procesos principales y competencias de los cargos."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la funci\u00f3n del perfil de competencias seg\u00fan el art\u00edculo 62?",
+            "answer": "El perfil de competencias contiene las atribuciones y obligaciones del cargo, as\u00ed como las competencias necesarias para desarrollar el trabajo, vinculando los objetivos estrat\u00e9gicos con las capacidades que debe tener la persona trabajadora."
+        },
+        {
+            "question": "\u00bfQu\u00e9 componentes se consideran al analizar la capacidad demostrada seg\u00fan el art\u00edculo 63?",
+            "answer": "Se analizan conocimientos, habilidades o destrezas, aptitud f\u00edsica y mental, valores y normas de conducta, y calificaci\u00f3n formal exigida para ciertos cargos."
+        },
+        {
+            "question": "\u00bfBajo qu\u00e9 circunstancias puede un jefe autorizar el desempe\u00f1o de un cargo a una persona que no cumple con la calificaci\u00f3n formal?",
+            "answer": "El jefe de la entidad puede autorizar el desempe\u00f1o del cargo si la persona demuestra tener las dem\u00e1s competencias laborales aprobadas para dicho cargo."
+        },
+        {
+            "question": "\u00bfQui\u00e9n tiene facultad para determinar la incorporaci\u00f3n al empleo y evaluar la permanencia en el cargo?",
+            "answer": "El jefe de la entidad tiene esta facultad, y puede delegarla por escrito a los jefes de unidades organizativas que le son subordinadas directamente."
+        },
+        {
+            "question": "\u00bfQu\u00e9 informaci\u00f3n se proporciona a una persona trabajadora durante el proceso de incorporaci\u00f3n al empleo?",
+            "answer": "Se le proporciona informaci\u00f3n sobre la entidad, caracter\u00edsticas del proceso productivo o de servicio, reglamento disciplinario interno, convenio colectivo de trabajo, obligaciones y competencias del cargo, entre otros aspectos relevantes."
+        },
+        {
+            "question": "\u00bfQu\u00e9 \u00f3rgano asesor participa en las decisiones sobre la capacidad demostrada seg\u00fan el art\u00edculo 64?",
+            "answer": "El \u00f3rgano asesor que participa es el Comit\u00e9 de Expertos."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito del procedimiento establecido para la identificaci\u00f3n de competencias laborales seg\u00fan el art\u00edculo 62?",
+            "answer": "El prop\u00f3sito del procedimiento es elaborar herramientas y m\u00e9todos, definir responsabilidades de los involucrados y registrar resultados para identificar competencias laborales."
+        }
+    ],
+    "10": [
+        {
+            "question": "\u00bfQu\u00e9 funci\u00f3n tiene el Comit\u00e9 de Expertos seg\u00fan el art\u00edculo 66?",
+            "answer": "El Comit\u00e9 de Expertos tiene la funci\u00f3n de asesorar al empleador en materia de reconocimiento y determinaci\u00f3n de la capacidad demostrada de las personas trabajadoras, as\u00ed como en acciones de capacitaci\u00f3n y superaci\u00f3n necesarias."
+        },
+        {
+            "question": "\u00bfQu\u00e9 requisito debe cumplir la composici\u00f3n del Comit\u00e9 de Expertos?",
+            "answer": "La composici\u00f3n del Comit\u00e9 de Expertos debe garantizar un n\u00famero impar de miembros, con al menos uno designado por el jefe de la entidad y otro por la organizaci\u00f3n sindical, y el resto elegidos en Asamblea General de Afiliados y Trabajadores."
+        },
+        {
+            "question": "\u00bfQu\u00e9 condiciones deben cumplir los miembros del Comit\u00e9 de Expertos?",
+            "answer": "Los miembros del Comit\u00e9 de Expertos deben ser personas trabajadoras de reconocido prestigio, con adecuado desempe\u00f1o, experiencia y conocimiento de las caracter\u00edsticas, valores y objetivos de la entidad, y no pueden estar sancionados por violaciones de la disciplina."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 casos los miembros del Comit\u00e9 de Expertos deben abstenerse de participar en una reuni\u00f3n?",
+            "answer": "Los miembros del Comit\u00e9 de Expertos deben abstenerse de participar si el asunto que se analiza involucra a su c\u00f3nyuge, pareja de hecho, familiares dentro del cuarto grado de consanguinidad o segundo de afinidad, o si existen razones de amistad \u00edntima o enemistad manifiesta."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el plazo m\u00e1ximo para emitir una recomendaci\u00f3n por escrito despu\u00e9s de la reuni\u00f3n del Comit\u00e9 de Expertos?",
+            "answer": "El Comit\u00e9 de Expertos debe emitir su recomendaci\u00f3n por escrito a la autoridad facultada dentro de los tres d\u00edas h\u00e1biles posteriores a su reuni\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede si alg\u00fan miembro del Comit\u00e9 de Expertos pierde una de las condiciones establecidas?",
+            "answer": "Si un miembro del Comit\u00e9 de Expertos pierde alguna de las condiciones, debe ser sustituido dentro de los quince d\u00edas naturales posteriores a la baja, y el relevo se aprueba en Asamblea General de Afiliados y Trabajadores."
+        },
+        {
+            "question": "\u00bfQu\u00e9 requisito se establece para que una reuni\u00f3n del Comit\u00e9 de Expertos tenga validez?",
+            "answer": "Para que una reuni\u00f3n del Comit\u00e9 de Expertos tenga validez, se requiere la asistencia m\u00ednima de tres miembros, cumpliendo con la composici\u00f3n tripartita: representante de la entidad, organizaci\u00f3n sindical y personas trabajadoras."
+        },
+        {
+            "question": "\u00bfQu\u00e9 documentos debe archivar el Comit\u00e9 de Expertos seg\u00fan el art\u00edculo 68?",
+            "answer": "El Comit\u00e9 de Expertos debe archivar en forma de expediente la solicitud de la autoridad facultada, el acta de cada reuni\u00f3n, la recomendaci\u00f3n emitida y cualquier otra informaci\u00f3n o documento probatorio del asunto analizado."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el plazo de conservaci\u00f3n de los expedientes archivados por el Comit\u00e9 de Expertos?",
+            "answer": "Los expedientes archivados por el Comit\u00e9 de Expertos, junto con la documentaci\u00f3n que los integra, deben conservarse durante un per\u00edodo de cinco a\u00f1os."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede en las entidades donde no es posible cumplir con los requisitos de composici\u00f3n del Comit\u00e9 de Expertos?",
+            "answer": "En aquellas entidades donde no sea posible cumplir con los requisitos de composici\u00f3n, el jefe de la entidad y la organizaci\u00f3n sindical definen mecanismos alternativos para evaluar la capacidad demostrada, seg\u00fan lo pactado en el convenio colectivo o disposiciones reglamentarias internas."
+        }
+    ],
+    "11": [
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal de la evaluaci\u00f3n del trabajo seg\u00fan el art\u00edculo 69?",
+            "answer": "El prop\u00f3sito principal de la evaluaci\u00f3n del trabajo es medir sistem\u00e1ticamente los resultados del trabajo y el grado de eficacia y eficiencia con que una persona trabajadora realiza sus actividades laborales, lo cual sirve como base para tomar decisiones sobre su capacidad demostrada, promoci\u00f3n, pago por resultados y distribuci\u00f3n de utilidades."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la periodicidad m\u00ednima establecida para realizar la evaluaci\u00f3n del trabajo?",
+            "answer": "La evaluaci\u00f3n del trabajo debe realizarse al menos una vez al a\u00f1o, de forma sistem\u00e1tica, garantizando la trasparencia y objetividad en los resultados obtenidos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 elementos se incluyen dentro del proceso de evaluaci\u00f3n seg\u00fan el art\u00edculo 69?",
+            "answer": "La evaluaci\u00f3n incluye la medici\u00f3n de competencias laborales, resultados alcanzados, necesidades de capacitaci\u00f3n y superaci\u00f3n, as\u00ed como el an\u00e1lisis de recomendaciones derivadas de evaluaciones anteriores."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derecho tiene una persona trabajadora en relaci\u00f3n con los resultados de su evaluaci\u00f3n?",
+            "answer": "La persona trabajadora tiene derecho a discutir el resultado de la evaluaci\u00f3n con el jefe que lo realiz\u00f3 antes de suscribirla, y manifestar sus opiniones sobre los mismos."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el procedimiento que se debe seguir si una persona trabajadora no est\u00e1 conforme con el resultado de su evaluaci\u00f3n?",
+            "answer": "En caso de inconformidad, la persona trabajadora puede presentar un reclamo ante el jefe inmediato superior en el plazo de siete d\u00edas h\u00e1biles posteriores a la notificaci\u00f3n. La autoridad debe decidir dentro de los veinte d\u00edas h\u00e1biles posteriores."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede cuando una evaluaci\u00f3n anual es deficiente seg\u00fan el art\u00edculo 72?",
+            "answer": "Cuando la evaluaci\u00f3n anual es deficiente, se inicia un proceso de an\u00e1lisis de la capacidad demostrada y se solicita al Comit\u00e9 de Expertos su recomendaci\u00f3n para determinar si hay p\u00e9rdida o no de esa capacidad."
+        },
+        {
+            "question": "\u00bfQu\u00e9 acciones se deben tomar cuando una persona trabajadora pierde la capacidad demostrada seg\u00fan el art\u00edculo 73?",
+            "answer": "Se deben gestionar medidas como la reubicaci\u00f3n en otro cargo, la incorporaci\u00f3n a un curso de capacitaci\u00f3n o recalificaci\u00f3n, o la terminaci\u00f3n de la relaci\u00f3n laboral con una garant\u00eda salarial equivalente a un mes de salario b\u00e1sico."
+        },
+        {
+            "question": "\u00bfQu\u00e9 opciones tiene una persona trabajadora si no acepta la reubicaci\u00f3n propuesta?",
+            "answer": "Si no acepta injustificadamente la reubicaci\u00f3n, se terminar\u00e1 la relaci\u00f3n laboral sin derecho a recibir la garant\u00eda salarial prevista en el inciso c) del art\u00edculo 73."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el mecanismo legal que permite resolver desacuerdos sobre la p\u00e9rdida de capacidad demostrada?",
+            "answer": "La persona trabajadora puede reclamar ante el \u00d3rgano de Justicia Laboral o el \u00f3rgano encargado de solucionar conflictos laborales, y si persiste la inconformidad, puede presentar demanda a trav\u00e9s de los canales judiciales establecidos por ley."
+        },
+        {
+            "question": "\u00bfD\u00f3nde se archiva una copia de la evaluaci\u00f3n del trabajo?",
+            "answer": "Una copia de la evaluaci\u00f3n del trabajo se entrega o env\u00eda a la persona trabajadora, y otra se archiva en la unidad organizativa que gestiona el capital humano."
+        }
+    ],
+    "12": [
+        {
+            "question": "\u00bfQu\u00e9 implica modificar un contrato de trabajo seg\u00fan el art\u00edculo 81?",
+            "answer": "Modificar un contrato de trabajo implica cambiar alguno de sus elementos o estipulaciones pactadas, sin que concluya la relaci\u00f3n de trabajo ni deje de producir sus efectos esenciales."
+        },
+        {
+            "question": "\u00bfBajo qu\u00e9 circunstancias pueden modificarse las condiciones del contrato de trabajo?",
+            "answer": "Las condiciones del contrato de trabajo pueden modificarse por voluntad coincidente de las partes, por cambio de cargo o lugar de trabajo, modificaci\u00f3n del salario, la naturaleza de la actividad, las condiciones o formas de organizaci\u00f3n del trabajo, cl\u00e1usulas del convenio colectivo y por disposici\u00f3n legal."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se requiere para que una modificaci\u00f3n tenga efectos legales?",
+            "answer": "Para que las modificaciones produzcan efectos legales se debe suscribir un suplemento al contrato de trabajo o modificar la Resoluci\u00f3n o escrito fundamentado."
+        },
+        {
+            "question": "\u00bfQu\u00e9 obligaci\u00f3n tiene el empleador si modifica condiciones sin consentimiento de la persona trabajadora?",
+            "answer": "El empleador est\u00e1 obligado a mostrar los fundamentos de su decisi\u00f3n en el nuevo suplemento o escrito fundamentado."
+        },
+        {
+            "question": "\u00bfQu\u00e9 opciones tiene una persona trabajadora que no est\u00e9 de acuerdo con una modificaci\u00f3n?",
+            "answer": "La persona trabajadora puede no suscribir el suplemento y presentar reclamaci\u00f3n ante el \u00d3rgano de Justicia Laboral o a la v\u00eda judicial directamente."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede con las condiciones laborales durante una reclamaci\u00f3n por modificaci\u00f3n?",
+            "answer": "Hasta que se resuelva la reclamaci\u00f3n, es facultad del empleador mantener a la persona trabajadora bajo las condiciones que ven\u00edan rigiendo o en las nuevas consignadas."
+        },
+        {
+            "question": "\u00bfBajo qu\u00e9 circunstancias puede realizarse un traslado provisional de una persona trabajadora?",
+            "answer": "Un traslado provisional puede efectuarse ante situaciones de desastres, en casos de emergencia para evitar la paralizaci\u00f3n de las labores o si el trabajo que realiza pone en peligro inminente su vida."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el l\u00edmite m\u00e1ximo de d\u00edas para un traslado provisional sin consentimiento?",
+            "answer": "El traslado provisional no puede exceder, sin el consentimiento de la persona trabajadora, de hasta ciento ochenta d\u00edas al a\u00f1o ininterrumpidamente."
+        },
+        {
+            "question": "\u00bfQu\u00e9 garant\u00eda se brinda en cuanto a la remuneraci\u00f3n durante un traslado provisional?",
+            "answer": "La persona trabajadora recibe la remuneraci\u00f3n del cargo que pasa a desempe\u00f1ar, y si esta es inferior, se garantiza el salario promedio del cargo de procedencia."
+        },
+        {
+            "question": "\u00bfQu\u00e9 requisito se debe cumplir para realizar un traslado definitivo?",
+            "answer": "Para efectuar un traslado definitivo se requiere el consentimiento expreso de la persona trabajadora, quien recibe la remuneraci\u00f3n del nuevo cargo y se modifica su contrato de trabajo o designaci\u00f3n."
+        }
+    ],
+    "13": [
+        {
+            "question": "\u00bfQu\u00e9 se entiende por interrupci\u00f3n de las actividades laborales seg\u00fan el art\u00edculo 86?",
+            "answer": "Se considera interrupci\u00f3n de las actividades laborales a la paralizaci\u00f3n transitoria del proceso de trabajo que provoca la inactividad en la labor de la persona trabajadora, durante su jornada de trabajo o por un per\u00edodo igual o superior a esta."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el procedimiento que debe seguir el jefe de la entidad ante una interrupci\u00f3n laboral?",
+            "answer": "El jefe de la entidad debe identificar la causa de la interrupci\u00f3n, determinar si es imputable a una persona trabajadora, identificar a los afectados y reubicar a las personas trabajadoras en otros cargos o labores dirigidas al restablecimiento de la actividad."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el plazo que tiene una persona trabajadora para decidir si acepta o no una reubicaci\u00f3n propuesta?",
+            "answer": "La persona trabajadora cuenta con un plazo de hasta cinco d\u00edas h\u00e1biles para aceptar o no la reubicaci\u00f3n en otro cargo o en labores dirigidas al restablecimiento de la actividad."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede si una persona trabajadora rechaza la reubicaci\u00f3n propuesta?",
+            "answer": "El empleador, de com\u00fan acuerdo con la organizaci\u00f3n sindical y con la recomendaci\u00f3n del Comit\u00e9 de Expertos, tiene un plazo de hasta diez d\u00edas h\u00e1biles para determinar si es justificada o no; en caso afirmativo, se le da por terminada la relaci\u00f3n de trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede con el salario de una persona trabajadora que permanece en su puesto durante una interrupci\u00f3n laboral?",
+            "answer": "La persona trabajadora que permanece en su puesto de trabajo cobra el salario b\u00e1sico de su cargo, mientras espera el restablecimiento del proceso de producci\u00f3n o servicio."
+        },
+        {
+            "question": "\u00bfQu\u00e9 garant\u00eda salarial recibe una persona trabajadora que no puede ser reubicada temporalmente?",
+            "answer": "Recibe una garant\u00eda salarial equivalente al ciento por ciento de su salario b\u00e1sico diario por el per\u00edodo de veinticuatro d\u00edas h\u00e1biles, dentro del a\u00f1o calendario."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 condiciones se aplica la garant\u00eda salarial del sesenta por ciento del salario b\u00e1sico diario?",
+            "answer": "Esta garant\u00eda se aplica excepcionalmente cuando la interrupci\u00f3n puede extenderse por un per\u00edodo superior a dos meses, previa aprobaci\u00f3n de la autoridad facultada y en caso de que el financiamiento sea cubierto por el Presupuesto del Estado."
+        },
+        {
+            "question": "\u00bfQu\u00e9 ocurre con la garant\u00eda salarial si una persona trabajadora se enferma o sufre un accidente durante el per\u00edodo de interrupci\u00f3n?",
+            "answer": "Se suspende dicha garant\u00eda y la persona trabajadora tiene derecho a la protecci\u00f3n de seguridad social en los plazos y condiciones establecidos por la legislaci\u00f3n vigente."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 tipo de actividades no se aplica el tratamiento laboral y salarial regulado en esta Secci\u00f3n?",
+            "answer": "El tratamiento laboral y salarial para las personas trabajadoras declaradas interruptas no es aplicable en las actividades manuales y mecanizadas agropecuarias y silv\u00edcolas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 debe hacer el jefe de la entidad si se prev\u00e9 una interrupci\u00f3n laboral que pueda durar m\u00e1s de dos meses?",
+            "answer": "El jefe de la entidad est\u00e1 en la obligaci\u00f3n de efectuar los an\u00e1lisis necesarios para determinar si corresponde el cese de la relaci\u00f3n de trabajo de las personas trabajadoras, seg\u00fan lo establecido en este C\u00f3digo."
+        }
+    ],
+    "14": [
+        {
+            "question": "\u00bfQu\u00e9 tipo de situaciones generales pueden dar lugar a la suspensi\u00f3n de la relaci\u00f3n de trabajo seg\u00fan el art\u00edculo 94?",
+            "answer": "Seg\u00fan el art\u00edculo 94, la suspensi\u00f3n de la relaci\u00f3n de trabajo puede ocurrir ante situaciones como decisiones del Consejo de Defensa Nacional en caso de desastres, cursos obligatorios por inter\u00e9s estatal, movilizaciones durante procesos electorales, per\u00edodos de incapacidad temporal, licencias retribuidas o no, entre otras situaciones legalmente establecidas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 efecto tiene la suspensi\u00f3n sobre el v\u00ednculo laboral entre las partes?",
+            "answer": "Durante la suspensi\u00f3n de la relaci\u00f3n de trabajo se interrumpen temporalmente algunos de sus efectos, pero se mantiene el v\u00ednculo laboral entre las partes."
+        },
+        {
+            "question": "\u00bfSe puede exigir responsabilidad disciplinaria o material durante la suspensi\u00f3n?",
+            "answer": "S\u00ed, la suspensi\u00f3n no impide la exigencia de responsabilidad disciplinaria ni material, cuando proceda, salvo en los casos espec\u00edficos establecidos por la ley."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede con las condiciones de trabajo al reanudar la relaci\u00f3n laboral despu\u00e9s de una suspensi\u00f3n?",
+            "answer": "Al reanudar la relaci\u00f3n de trabajo, se mantienen las condiciones de trabajo anteriores a la suspensi\u00f3n."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 casos puede haber vacantes temporales por suspensi\u00f3n de la relaci\u00f3n laboral y c\u00f3mo se cubren?",
+            "answer": "Cuando una suspensi\u00f3n genera vacantes temporales, estas pueden ser cubiertas mediante contrato por tiempo determinado seg\u00fan lo dispuesto en el art\u00edculo 94."
+        },
+        {
+            "question": "\u00bfQu\u00e9 implica que la suspensi\u00f3n sea temporal seg\u00fan el art\u00edculo 93?",
+            "answer": "La suspensi\u00f3n es un estado temporal de la relaci\u00f3n laboral, durante el cual la persona trabajadora no realiza su labor habitual, pero mantiene su v\u00ednculo con el empleador."
+        },
+        {
+            "question": "\u00bfQu\u00e9 situaciones est\u00e1n incluidas dentro del per\u00edodo interciclo seg\u00fan el art\u00edculo 94?",
+            "answer": "El per\u00edodo interciclo se menciona como una situaci\u00f3n de suspensi\u00f3n cuando la persona trabajadora labora mediante contrato por tiempo indeterminado para labores c\u00edclicas o de temporada."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de licencias no retribuidas pueden provocar la suspensi\u00f3n seg\u00fan el art\u00edculo 94?",
+            "answer": "Licencias no retribuidas que pueden causar suspensi\u00f3n incluyen las destinadas a construir o reparar su vivienda por esfuerzo propio, viajes al exterior por asuntos particulares y atenci\u00f3n de familiares bajo su responsabilidad."
+        },
+        {
+            "question": "\u00bfCu\u00e1ndo se considera que la suspensi\u00f3n de la relaci\u00f3n laboral no implica el cese total del v\u00ednculo?",
+            "answer": "La suspensi\u00f3n interrumpe temporalmente algunos efectos de la relaci\u00f3n laboral, pero mantiene el v\u00ednculo entre las partes, lo cual distingue esta situaci\u00f3n del cese definitivo del contrato."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre la reincorporaci\u00f3n a la labor habitual tras una suspensi\u00f3n?",
+            "answer": "La relaci\u00f3n de trabajo se reanuda cuando la persona trabajadora se incorpora nuevamente a su labor habitual, al cesar la causa que origin\u00f3 la suspensi\u00f3n."
+        }
+    ],
+    "15": [
+        {
+            "question": "\u00bfCu\u00e1l es el tratamiento salarial que reciben las personas trabajadoras durante un per\u00edodo de suspensi\u00f3n laboral por desastres?",
+            "answer": "Durante la suspensi\u00f3n de actividades dispuesta por el Consejo de Defensa Nacional, las personas trabajadoras reciben una garant\u00eda salarial equivalente al salario b\u00e1sico del cargo que ocupa por un periodo m\u00e1ximo de un mes."
+        },
+        {
+            "question": "\u00bfQu\u00e9 porcentaje del salario b\u00e1sico se paga si la suspensi\u00f3n laboral contin\u00faa m\u00e1s all\u00e1 del primer mes?",
+            "answer": "Si la suspensi\u00f3n persiste, la garant\u00eda salarial se reduce al sesenta por ciento del salario b\u00e1sico."
+        },
+        {
+            "question": "\u00bfQu\u00e9 ocurre con las personas trabajadoras que no pueden asistir al trabajo debido a enfermedad o accidente durante una situaci\u00f3n de desastre?",
+            "answer": "Durante este per\u00edodo, dichas personas reciben el tratamiento regulado en la legislaci\u00f3n de trabajo y de seguridad social seg\u00fan corresponda."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la consecuencia legal para las personas trabajadoras que se ausentan injustificadamente durante una suspensi\u00f3n laboral por desastres?",
+            "answer": "Se aplica lo establecido en la legislaci\u00f3n disciplinaria vigente, independientemente de la situaci\u00f3n de emergencia."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 circunstancias puede un empleador conceder licencias no retribuidas despu\u00e9s del cese de una suspensi\u00f3n laboral por desastres?",
+            "answer": "Puede conceder licencias no retribuidas a las personas trabajadoras que no pueden concurrir al trabajo por haber perdido la vivienda, estar evacuados o necesitar cuidar a un hijo menor cuya escuela est\u00e1 suspendida."
+        },
+        {
+            "question": "\u00bfQu\u00e9 ocurre con los trabajadores que se dedican a reconstruir su vivienda afectada por desastres?",
+            "answer": "Se les suspende la relaci\u00f3n de trabajo y se les concede una licencia no retribuida, cuyo plazo se establece entre el empleador y la persona trabajadora."
+        },
+        {
+            "question": "\u00bfQui\u00e9n es responsable de evaluar la protecci\u00f3n a las personas trabajadoras que enfrentan insuficiencia de ingresos por desastres?",
+            "answer": "La Direcci\u00f3n de Trabajo y Seguridad Social del municipio donde reside la persona trabajadora es la encargada de realizar dicha evaluaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre el tratamiento laboral durante las situaciones excepcionales seg\u00fan el anteproyecto?",
+            "answer": "Durante las situaciones excepcionales, el tratamiento laboral est\u00e1 regido por la disposici\u00f3n normativa espec\u00edfica que corresponda."
+        },
+        {
+            "question": "\u00bfQu\u00e9 garant\u00eda salarial se otorga a los trabajadores durante la respuesta y recuperaci\u00f3n ante desastres?",
+            "answer": "Se les garantiza un pago equivalente al salario b\u00e1sico del cargo que ocupa, por un per\u00edodo m\u00e1ximo de un mes."
+        },
+        {
+            "question": "\u00bfCu\u00e1les son las situaciones que permiten la concesi\u00f3n de licencias no retribuidas tras el cese de una suspensi\u00f3n laboral?",
+            "answer": "Las licencias pueden concederse si se ha perdido la vivienda, se est\u00e1 evacuado o se requiere cuidar a un hijo menor debido al cierre escolar."
+        }
+    ],
+    "16": [
+        {
+            "question": "\u00bfQu\u00e9 tipo de tratamiento laboral recibe una persona trabajadora durante los procesos electorales seg\u00fan el art\u00edculo 99?",
+            "answer": "La persona trabajadora que se moviliza para desempe\u00f1ar funciones durante los procesos electorales recibe un tratamiento laboral en el cual se le suspende la relaci\u00f3n de trabajo durante el per\u00edodo en que se encuentra realizando esas labores."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el criterio salarial establecido para las personas trabajadoras movilizadas en los procesos electorales?",
+            "answer": "Seg\u00fan el art\u00edculo 99, estas personas reciben el salario promedio del cargo que ten\u00edan en su entidad de procedencia."
+        },
+        {
+            "question": "\u00bfQu\u00e9 ocurre con la relaci\u00f3n laboral de una persona trabajadora durante el tiempo en que se encuentra movilizada?",
+            "answer": "Durante el per\u00edodo en que se encuentra realizando labores relacionadas con los procesos electorales o el Censo de Poblaci\u00f3n y Viviendas, se le suspende temporalmente la relaci\u00f3n laboral."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 tipo de labores se aplica el tratamiento descrito en el art\u00edculo 99?",
+            "answer": "El tratamiento descrito se aplica tanto para las labores durante los procesos electorales como para aquellas realizadas en alguna de las etapas del Censo de Poblaci\u00f3n y Viviendas."
+        },
+        {
+            "question": "\u00bfSe menciona alg\u00fan tipo de compensaci\u00f3n adicional a la persona trabajadora movilizada?",
+            "answer": "No se menciona ninguna compensaci\u00f3n adicional; \u00fanicamente se establece que recibe el salario promedio del cargo en su entidad de procedencia."
+        },
+        {
+            "question": "\u00bfQu\u00e9 beneficio tiene para una persona trabajadora ser movilizada durante los procesos electorales?",
+            "answer": "El principal beneficio es que, aunque se le suspende la relaci\u00f3n laboral, recibe el salario promedio del cargo que ten\u00eda en su entidad de procedencia."
+        },
+        {
+            "question": "\u00bfQui\u00e9n est\u00e1 obligado a proporcionar el salario promedio seg\u00fan lo establecido en el art\u00edculo 99?",
+            "answer": "La entidad de procedencia de la persona trabajadora es quien debe proporcionarle el salario promedio durante el per\u00edodo en que est\u00e9 movilizada."
+        },
+        {
+            "question": "\u00bfSe menciona un plazo espec\u00edfico para el cual se aplica este tratamiento laboral y salarial?",
+            "answer": "No se establece un plazo espec\u00edfico; la suspensi\u00f3n de la relaci\u00f3n laboral y el pago del salario promedio se aplican durante el per\u00edodo en que la persona trabajadora est\u00e9 realizando las labores mencionadas."
+        },
+        {
+            "question": "\u00bfEste art\u00edculo aplica \u00fanicamente a ciertos tipos de empleados o es general?",
+            "answer": "El tratamiento descrito en el art\u00edculo 99 se aplica a cualquier persona trabajadora que sea movilizada para realizar funciones durante los procesos electorales o para trabajar en alguna etapa del Censo de Poblaci\u00f3n y Viviendas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 consecuencias tiene la suspensi\u00f3n de la relaci\u00f3n laboral mencionada en el art\u00edculo 99?",
+            "answer": "La suspensi\u00f3n de la relaci\u00f3n laboral no afecta los derechos del trabajador, quien sigue recibiendo su salario promedio durante el tiempo que est\u00e9 movilizado."
+        }
+    ],
+    "17": [
+        {
+            "question": "\u00bfQu\u00e9 beneficios laborales tienen derecho a recibir los trabajadores que participan en movilizaciones para la defensa nacional?",
+            "answer": "Los reservistas, milicianos y prerreclutas que se movilizan por los comit\u00e9s militares municipales tienen derecho a recibir los beneficios y est\u00edmulos establecidos, incluido el pago por a\u00f1os de servicios acumulados si lo tienen aprobado, conforme a la legislaci\u00f3n vigente."
+        },
+        {
+            "question": "\u00bfC\u00f3mo se determina el salario que perciben los trabajadores durante su per\u00edodo de movilizaci\u00f3n?",
+            "answer": "Durante el per\u00edodo de movilizaci\u00f3n, los reservistas y milicianos perciben el salario promedio a que tienen derecho por su entidad. Adem\u00e1s, reciben el correspondiente a los d\u00edas de descanso seg\u00fan el r\u00e9gimen de trabajo de la entidad donde laboran."
+        },
+        {
+            "question": "\u00bfQu\u00e9 ocurre con el salario de los trabajadores contratados por tiempo determinado durante una movilizaci\u00f3n?",
+            "answer": "Si el plazo del contrato vence durante el per\u00edodo de movilizaci\u00f3n, los trabajadores contin\u00faan percibiendo el tratamiento salarial hasta la conclusi\u00f3n de la movilizaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 beneficios laborales reciben los prerreclutas que participan en actividades de preparaci\u00f3n y selecci\u00f3n?",
+            "answer": "Los prerreclutas perciben el salario y otros ingresos correspondientes a los per\u00edodos en que participan en dichas actividades, por las entidades donde se encuentran laborando."
+        },
+        {
+            "question": "\u00bfHay excepciones al tratamiento salarial durante la movilizaci\u00f3n?",
+            "answer": "S\u00ed. Los milicianos de las Milicias de Tropas Territoriales que se movilizan para recibir clases de preparaci\u00f3n combativa est\u00e1n excluidos del r\u00e9gimen general, con algunas opciones de acuerdos sobre el descanso."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede con los trabajadores seleccionados para cumplir el Servicio Militar Activo?",
+            "answer": "Las personas reservistas que son seleccionadas para el Servicio Militar Activo perciben sus haberes por las unidades donde se incorporan, y sus entidades anteriores les pagan los salarios acumulados hasta la fecha de su incorporaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 documentaci\u00f3n debe presentar un trabajador durante la movilizaci\u00f3n para justificar su ausencia?",
+            "answer": "El trabajador debe presentar el documento expedido por la autoridad correspondiente que acredite su participaci\u00f3n en las actividades de movilizaci\u00f3n, para evitar descuentos injustificados."
+        },
+        {
+            "question": "\u00bfC\u00f3mo se trata a los trabajadores del sector no estatal durante su movilizaci\u00f3n?",
+            "answer": "Los trabajadores del sector no estatal reciben una remuneraci\u00f3n establecida por las entidades donde se preparan, basada en certificaciones que acrediten sus ingresos promedio de los doce meses anteriores."
+        },
+        {
+            "question": "\u00bfQu\u00e9 responsabilidad tienen los reservistas y milicianos si ocasionan da\u00f1os durante la movilizaci\u00f3n?",
+            "answer": "Los reservistas y milicianos que causan da\u00f1os a recursos materiales, econ\u00f3micos o financieros durante su movilizaci\u00f3n son responsables materialmente por la entidad donde est\u00e1n vinculados laboralmente."
+        },
+        {
+            "question": "\u00bfQu\u00e9 reciben los trabajadores desvinculados que participan en movilizaciones?",
+            "answer": "Los trabajadores desvinculados que participan en movilizaciones para reuniones de estudios militares o cursos de preparaci\u00f3n reciben un estipendio equivalente al salario m\u00ednimo durante el per\u00edodo de movilizaci\u00f3n."
+        }
+    ],
+    "18": [
+        {
+            "question": "\u00bfQu\u00e9 tipo de vacaciones puede utilizar una persona trabajadora para viajar al exterior por asuntos particulares sin necesidad de autorizaci\u00f3n?",
+            "answer": "La persona trabajadora puede utilizar su per\u00edodo de vacaciones acumuladas a que tiene derecho, sin requerir autorizaci\u00f3n, salvo excepciones previstas en la ley."
+        },
+        {
+            "question": "\u00bfQui\u00e9n es responsable de tramitar las solicitudes de viaje al exterior para quienes requieren autorizaci\u00f3n?",
+            "answer": "El jefe de la entidad es el responsable de tramitar la solicitud ante el \u00f3rgano correspondiente, seg\u00fan los procedimientos internos establecidos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 ocurre si una persona trabajadora necesita m\u00e1s d\u00edas que su per\u00edodo vacacional para su estancia en el exterior?",
+            "answer": "Puede solicitar por escrito o v\u00eda telem\u00e1tica la concesi\u00f3n de una licencia no retribuida, que debe incluir las fechas de salida y regreso."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el plazo m\u00e1ximo para disfrutar de la licencia no retribuida concedida?",
+            "answer": "El disfrute de la licencia no retribuida no debe exceder un plazo de dos meses consecutivos dentro del per\u00edodo de un a\u00f1o natural."
+        },
+        {
+            "question": "\u00bfQu\u00e9 consecuencias pueden tener si una persona trabajadora no se reincorpora a su labor tras el vencimiento de las vacaciones y la licencia concedida?",
+            "answer": "El jefe de la entidad puede dar por terminada la relaci\u00f3n de trabajo, lo cual debe hacer constar por escrito y comunicarlo al trabajador."
+        },
+        {
+            "question": "\u00bfBajo qu\u00e9 circunstancias se permite una pr\u00f3rroga excepcional de la licencia no retribuida?",
+            "answer": "Se permite una pr\u00f3rroga excepcional cuando exista una imposibilidad de retorno al pa\u00eds por una situaci\u00f3n imprevista, previa evaluaci\u00f3n de las causas."
+        },
+        {
+            "question": "\u00bfQui\u00e9n tiene la facultad discrecional para prorrogar la licencia no retribuida?",
+            "answer": "El jefe de la entidad tiene la facultad discrecional para prorrogar, de forma excepcional, la duraci\u00f3n de la licencia no retribuida."
+        },
+        {
+            "question": "\u00bfD\u00f3nde debe realizarse la solicitud para obtener una pr\u00f3rroga excepcional de la licencia?",
+            "answer": "La persona trabajadora debe solicitar la pr\u00f3rroga antes de que expire el plazo de la licencia inicial otorgada."
+        },
+        {
+            "question": "\u00bfSe menciona alg\u00fan l\u00edmite m\u00e1ximo para la duraci\u00f3n total de la licencia no retribuida durante un a\u00f1o natural?",
+            "answer": "S\u00ed, se establece que la licencia no retribuida no debe exceder el plazo de dos meses consecutivos en el per\u00edodo de un a\u00f1o natural."
+        },
+        {
+            "question": "\u00bfEs obligatorio comunicar al empleador sobre la intenci\u00f3n de viajar durante las vacaciones?",
+            "answer": "S\u00ed, es obligatorio que la persona trabajadora comunique con antelaci\u00f3n al empleador su inter\u00e9s en viajar al exterior por asuntos particulares."
+        }
+    ],
+    "19": [
+        {
+            "question": "\u00bfEn qu\u00e9 casos puede una persona trabajadora solicitar una licencia no retribuida seg\u00fan el art\u00edculo mencionado?",
+            "answer": "Una persona trabajadora puede solicitar una licencia no retribuida cuando necesita atender a un familiar bajo su responsabilidad, especialmente si este familiar est\u00e1 en situaci\u00f3n de dependencia y requiere ayuda para realizar actos esenciales de la vida diaria."
+        },
+        {
+            "question": "\u00bfQu\u00e9 documentos debe presentar una persona trabajadora para solicitar una licencia no retribuida por el cuidado de un familiar?",
+            "answer": "Debe presentar una evaluaci\u00f3n de salud que certifique que el familiar requiere ayuda para realizar actos esenciales de la vida diaria, as\u00ed como un documento que acredite la imposibilidad de su atenci\u00f3n en una instituci\u00f3n del Sistema Nacional para el Cuidado Integral de la Vida."
+        },
+        {
+            "question": "\u00bfQu\u00e9 efecto tiene la concesi\u00f3n de una licencia no retribuida sobre la relaci\u00f3n laboral?",
+            "answer": "La concesi\u00f3n de una licencia no retribuida suspende temporalmente la relaci\u00f3n laboral, y se establece por escrito la fecha de inicio y terminaci\u00f3n de dicha licencia."
+        },
+        {
+            "question": "\u00bfQu\u00e9 ocurre cuando la persona trabajadora regresa al trabajo tras el vencimiento de la licencia?",
+            "answer": "La persona trabajadora debe incorporarse al trabajo en la fecha establecida en el acuerdo que autoriza la licencia, sin que esto implique una interrupci\u00f3n permanente de su relaci\u00f3n laboral."
+        },
+        {
+            "question": "\u00bfEs posible prorrogar una licencia no retribuida?",
+            "answer": "S\u00ed, es posible prorrogarla si persisten las circunstancias que motivaron la concesi\u00f3n original. La solicitud de pr\u00f3rroga debe presentarse antes de que expire el per\u00edodo concedido."
+        },
+        {
+            "question": "\u00bfQu\u00e9 responsabilidad tiene el jefe de la entidad en relaci\u00f3n con la concesi\u00f3n de licencias no retribuidas?",
+            "answer": "El jefe de la entidad es quien decide si concede o no una licencia no retribuida, tras recibir la solicitud y los documentos necesarios que acrediten las circunstancias del caso."
+        },
+        {
+            "question": "\u00bfQu\u00e9 requisito debe cumplirse para que se considere v\u00e1lida la evaluaci\u00f3n de salud presentada por la persona trabajadora?",
+            "answer": "La evaluaci\u00f3n de salud debe certificar que el familiar requiere ayuda para la realizaci\u00f3n de los actos esenciales de la vida diaria y que no puede ser atendido en una instituci\u00f3n del Sistema Nacional para el Cuidado Integral de la Vida."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la finalidad principal de la licencia no retribuida establecida en esta secci\u00f3n?",
+            "answer": "La finalidad principal es permitir a las personas trabajadoras atender y cuidar a familiares que est\u00e1n en situaci\u00f3n de dependencia, garantizando su derecho a este tipo de licencia sin afectar su estatus laboral."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se debe hacer si la persona trabajadora no puede regresar al trabajo despu\u00e9s del vencimiento de la licencia?",
+            "answer": "Si persisten las circunstancias que motivaron la concesi\u00f3n, la persona trabajadora debe solicitar una pr\u00f3rroga antes de que expira el per\u00edodo concedido."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece por escrito en relaci\u00f3n con la licencia no retribuida?",
+            "answer": "Se establece por escrito la fecha de inicio y terminaci\u00f3n de la licencia concedida, as\u00ed como cualquier pr\u00f3rroga que se autorice."
+        }
+    ],
+    "20": [
+        {
+            "question": "\u00bfQu\u00e9 sucede con la relaci\u00f3n laboral de una persona trabajadora que est\u00e1 detenida o en prisi\u00f3n provisional?",
+            "answer": "La relaci\u00f3n de trabajo se suspende durante el tiempo en que no concurre a la entidad por estos motivos, siempre que el proceso penal iniciado sea ajeno al trabajo para el que fue contratado."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 casos debe el empleador iniciar un procedimiento de p\u00e9rdida de capacidad demostrada?",
+            "answer": "Cuando los hechos no guardan relaci\u00f3n con el trabajo, pero suponen la p\u00e9rdida de las competencias exigidas para permanecer en el cargo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tratamiento laboral se aplica cuando se inicia un proceso penal por hechos presuntamente delictivos cometidos en ocasi\u00f3n del trabajo?",
+            "answer": "El empleador adopta las decisiones en materia laboral y disciplinaria que correspondan, sin esperar el resultado del proceso penal."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derecho tiene una persona trabajadora que fue absuelta o sobrese\u00edda definitivamente tras estar en prisi\u00f3n provisional?",
+            "answer": "Tiene derecho a reintegrarse al cargo y a recibir el salario promedio durante todo el per\u00edodo en que estuvo privado de libertad."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 situaciones se permite la restituci\u00f3n al cargo sin pago del salario?",
+            "answer": "Cuando la persona trabajadora es sancionada penalmente por un plazo inferior a seis meses, aplicaci\u00f3n de remisi\u00f3n condicional, aplicaci\u00f3n de una multa penal o puesta en libertad antes de los seis meses tras sobreseimiento provisional."
+        },
+        {
+            "question": "\u00bfC\u00f3mo se calcula el tiempo durante el cual una persona trabajadora privada de libertad por hechos ajenos al trabajo debe recibir salario?",
+            "answer": "Este per\u00edodo se considera como si hubiera laborado, para todos los efectos legales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 documentos deben presentar las personas trabajadoras para poder reintegrarse al cargo tras estar en prisi\u00f3n provisional?",
+            "answer": "Deben presentar el documento que acredita su situaci\u00f3n, salvo que concurra otra causa de terminaci\u00f3n de la relaci\u00f3n laboral."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el plazo m\u00e1ximo para efectuar el reintegro al cargo tras la finalizaci\u00f3n de una prisi\u00f3n provisional?",
+            "answer": "El reintegro se efect\u00faa dentro de los quince d\u00edas h\u00e1biles si est\u00e1 en la misma provincia, o treinta d\u00edas h\u00e1biles si se trata de una provincia distinta o del Municipio Especial Isla de la Juventud."
+        },
+        {
+            "question": "\u00bfQu\u00e9 puede hacer el empleador si la persona trabajadora no se reintegra al trabajo dentro del plazo establecido?",
+            "answer": "El empleador puede, de com\u00fan acuerdo con la organizaci\u00f3n sindical, dar por terminada la relaci\u00f3n de trabajo si la persona trabajadora no se reintegra sin causa justificada."
+        },
+        {
+            "question": "\u00bfBajo qu\u00e9 circunstancias el empleador debe esperar los resultados del proceso penal antes de tomar una decisi\u00f3n laboral?",
+            "answer": "Cuando el proceso penal iniciado es ajeno al trabajo para el que fue contratado o designado, y no existe p\u00e9rdida de competencias exigidas para permanecer en el cargo."
+        }
+    ],
+    "21": [
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito del tiempo de descanso y necesidades personales dentro de la jornada laboral?",
+            "answer": "El prop\u00f3sito del tiempo de descanso y necesidades personales es permitir a las personas trabajadoras recuperar las energ\u00edas gastadas en la actividad laboral y satisfacer sus necesidades personales, con una duraci\u00f3n m\u00e1xima de treinta minutos."
+        },
+        {
+            "question": "\u00bfCu\u00e1ntas horas m\u00ednimas se establecen para el descanso semanal?",
+            "answer": "El derecho a un descanso semanal m\u00ednimo es de veinticuatro horas consecutivas, lo que equivale a un d\u00eda de descanso por cada seis d\u00edas de trabajo."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 situaciones se puede fijar el descanso semanal en un d\u00eda diferente al domingo?",
+            "answer": "El descanso semanal puede fijarse en un d\u00eda diferente al domingo en las entidades y actividades donde no puede interrumpirse el trabajo por condiciones t\u00e9cnico-organizativas de la producci\u00f3n o por obligaciones de prestar servicios cotidianos a la poblaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de reg\u00edmenes de trabajo y descanso pueden establecerse en lugares inh\u00f3spitos, inaccesibles o lejanos al lugar de residencia del trabajador?",
+            "answer": "En esos casos se pueden aprobar reg\u00edmenes de trabajo y descanso excepcionales, considerando la naturaleza del trabajo, condiciones organizativas, tecnol\u00f3gicas y necesidad de reducir gastos."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el horario definido para el trabajo nocturno seg\u00fan el anteproyecto?",
+            "answer": "El trabajo nocturno se define como aquel que se realiza entre las siete horas pasado meridiano y las siete horas antes de meridiano."
+        },
+        {
+            "question": "\u00bfQu\u00e9 establece el art\u00edculo 217 sobre la aprobaci\u00f3n del r\u00e9gimen de trabajo y descanso?",
+            "answer": "El art\u00edculo 217 establece que el r\u00e9gimen de trabajo y descanso se aprueba por el jefe de la entidad, salvo en instituciones presupuestadas donde corresponde al jefe del \u00f3rgano estatal o organismo central, en com\u00fan acuerdo con la organizaci\u00f3n sindical."
+        },
+        {
+            "question": "\u00bfQu\u00e9 duraci\u00f3n m\u00e1xima tiene el tiempo de descanso y necesidades personales dentro de la jornada laboral?",
+            "answer": "La duraci\u00f3n m\u00e1xima del tiempo de descanso y necesidades personales dentro de la jornada laboral es de treinta minutos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre los turnos diurnos y nocturnos en el r\u00e9gimen de trabajo y descanso?",
+            "answer": "El r\u00e9gimen de trabajo y descanso puede establecerse en turnos diurnos o nocturnos, con la posibilidad de que la duraci\u00f3n del trabajo sobrepase las ocho horas diarias siempre que no exceda el promedio de horas por un per\u00edodo determinado."
+        },
+        {
+            "question": "\u00bfQu\u00e9 debe considerarse al dise\u00f1ar un r\u00e9gimen de trabajo y descanso excepcional?",
+            "answer": "Al dise\u00f1ar un r\u00e9gimen de trabajo y descanso excepcional, se debe considerar el promedio de la duraci\u00f3n de la jornada de trabajo mensual y evitar fatigas que puedan afectar la salud de las personas trabajadoras."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito del descanso semanal seg\u00fan el anteproyecto?",
+            "answer": "El prop\u00f3sito del descanso semanal es garantizar a las personas trabajadoras un tiempo adecuado para recuperarse y desconectar de sus responsabilidades laborales, promoviendo el equilibrio entre trabajo y vida personal."
+        }
+    ],
+    "22": [
+        {
+            "question": "\u00bfCu\u00e1l es el rango m\u00e1ximo permitido para la jornada semanal seg\u00fan el art\u00edculo mencionado?",
+            "answer": "El rango m\u00e1ximo permitido para la jornada semanal es de cuarenta y cuatro horas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 define la duraci\u00f3n de la jornada diaria de trabajo seg\u00fan el texto?",
+            "answer": "La duraci\u00f3n de la jornada diaria de trabajo se define como el tiempo durante el cual la persona trabajadora cumple sus atribuciones y obligaciones laborales."
+        },
+        {
+            "question": "\u00bfCu\u00e1ntas horas puede alcanzar la jornada diaria en ciertos d\u00edas de la semana?",
+            "answer": "La jornada diaria puede llegar a una hora adicional en determinados d\u00edas de la semana, siempre que no exceda el l\u00edmite semanal m\u00e1ximo."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el promedio mensual de horas de trabajo seg\u00fan el art\u00edculo 219?",
+            "answer": "El promedio mensual de horas de trabajo es de ciento noventa y seis horas, con un l\u00edmite inferior de ciento setenta y tres puntos tres horas."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la duraci\u00f3n m\u00e1xima concedida para las pausas en la jornada de trabajo?",
+            "answer": "La duraci\u00f3n m\u00e1xima concedida para las pausas en la jornada de trabajo es de treinta minutos."
+        },
+        {
+            "question": "\u00bfD\u00f3nde se establece el tiempo adicional para alimentaci\u00f3n dentro de la jornada laboral?",
+            "answer": "El tiempo adicional para alimentaci\u00f3n dentro de la jornada laboral se concede en actividades donde la producci\u00f3n o los servicios son ininterrumpidos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de horario puede fijar excepcionalmente el gobernador o intendente?",
+            "answer": "Excepcionalmente, el gobernador o intendente puede fijar un horario de trabajo por inter\u00e9s social o fuerza mayor."
+        },
+        {
+            "question": "\u00bfPor qui\u00e9n se aprueba el horario de trabajo seg\u00fan el texto provisto?",
+            "answer": "El horario de trabajo se aprueba por el jefe de la entidad, de com\u00fan acuerdo con la organizaci\u00f3n sindical."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de actividades requieren una pausa para alimentaci\u00f3n fuera del horario laboral?",
+            "answer": "Las actividades organizadas en dos turnos de trabajo requieren una pausa para alimentaci\u00f3n fuera del horario laboral."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal del horario de trabajo seg\u00fan el art\u00edculo 222?",
+            "answer": "El prop\u00f3sito principal del horario de trabajo es servir como medida organizativa para cumplir con la jornada de trabajo, expresando las horas de comienzo y terminaci\u00f3n del trabajo."
+        }
+    ],
+    "23": [
+        {
+            "question": "\u00bfEn qu\u00e9 circunstancias se aplica una jornada de trabajo reducida seg\u00fan el art\u00edculo 223?",
+            "answer": "Se aplica a las personas trabajadoras que, en el desarrollo de su labor, est\u00e1n expuestas de manera prolongada a condiciones que pueden afectar su salud."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de tratamiento salarial se otorga a los adolescentes menores de 18 a\u00f1os que trabajan en circunstancias excepcionales?",
+            "answer": "Se les aplica el mismo tratamiento salarial que corresponde a la jornada completa."
+        },
+        {
+            "question": "\u00bfQui\u00e9n aprueba los cargos y actividades en los que se aplican jornadas reducidas?",
+            "answer": "El titular del Ministerio de Trabajo y Seguridad Social, a propuesta de los jefes correspondientes."
+        },
+        {
+            "question": "\u00bfQu\u00e9 elementos deben incluirse en la solicitud para la aprobaci\u00f3n de una jornada reducida?",
+            "answer": "La solicitud debe incluir la descripci\u00f3n del cargo y las condiciones laborales, el n\u00famero de trabajadores afectados, cumplimiento de normas de seguridad, informaci\u00f3n sobre morbilidad laboral y criterios sindicales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 funci\u00f3n tiene el grupo de trabajo temporal creado por el titular del Ministerio de Trabajo y Seguridad Social?",
+            "answer": "El grupo analiza la solicitud presentada y emite un dictamen sobre la aprobaci\u00f3n o no de la jornada reducida dentro de un plazo m\u00e1ximo de sesenta d\u00edas h\u00e1biles."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el procedimiento que sigue el titular del Ministerio despu\u00e9s de recibir el dictamen del grupo de trabajo?",
+            "answer": "El titular somete el dictamen a consulta en el \u00f3rgano colegiado de direcci\u00f3n y luego emite la resoluci\u00f3n correspondiente, notificando al proponente y a la organizaci\u00f3n sindical."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se debe hacer si no se aprueba una solicitud de jornada reducida?",
+            "answer": "Se comunica al proponente y a la organizaci\u00f3n sindical con los argumentos de la denegaci\u00f3n y las recomendaciones pertinentes."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el plazo m\u00e1ximo para que el grupo de trabajo presente su dictamen sobre una solicitud?",
+            "answer": "El plazo m\u00e1ximo es de sesenta d\u00edas h\u00e1biles desde la recepci\u00f3n de la solicitud."
+        },
+        {
+            "question": "\u00bfQui\u00e9nes participan en el grupo de trabajo temporal formado por el titular del Ministerio?",
+            "answer": "Participan representantes de los ministerios de Trabajo y Seguridad Social, Salud P\u00fablica, as\u00ed como del \u00f3rgano solicitante y la organizaci\u00f3n sindical correspondiente."
+        },
+        {
+            "question": "\u00bfPor qu\u00e9 se requiere informaci\u00f3n sobre morbilidad laboral en las solicitudes para jornadas reducidas?",
+            "answer": "Para evaluar el impacto de las condiciones laborales en la salud de los trabajadores y fundamentar adecuadamente la solicitud."
+        }
+    ],
+    "24": [
+        {
+            "question": "\u00bfQu\u00e9 define el trabajo extraordinario seg\u00fan el art\u00edculo 226?",
+            "answer": "El trabajo extraordinario es aquel que se convoca por iniciativa del empleador, en exceso de la jornada aprobada, y puede adoptar formas como horas extras, doble turno o habilitaci\u00f3n como laborables de los d\u00edas de descanso semanal."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 situaciones no est\u00e1n obligadas las personas trabajadoras a realizar trabajo extraordinario?",
+            "answer": "Las personas trabajadoras no est\u00e1n obligadas a realizar trabajo extraordinario, salvo en casos de inter\u00e9s social como tareas apremiantes para la defensa del pa\u00eds, prevenci\u00f3n o eliminaci\u00f3n de consecuencias de cat\u00e1strofes, entre otros."
+        },
+        {
+            "question": "\u00bfQu\u00e9 l\u00edmites se establecen para el trabajo extraordinario seg\u00fan el art\u00edculo 228?",
+            "answer": "Se limita a un m\u00e1ximo de cuatro horas en dos d\u00edas consecutivos y a doblar turnos como m\u00e1ximo dos veces por semana. Tambi\u00e9n se establece que no se pueden exigir m\u00e1s de ciento sesenta horas extraordinarias al a\u00f1o."
+        },
+        {
+            "question": "\u00bfC\u00f3mo se retribuye el trabajo extraordinario seg\u00fan el art\u00edculo 229?",
+            "answer": "El trabajo extraordinario se retribuye con un incremento del veinticinco por ciento cada hora trabajada en exceso, respecto al salario b\u00e1sico. Excepcionalmente, puede compensarse mediante tiempo de descanso proporcional."
+        },
+        {
+            "question": "\u00bfQu\u00e9 situaciones no se consideran trabajo extraordinario para fines de remuneraci\u00f3n?",
+            "answer": "No se considera trabajo extraordinario cuando el salario ya incluye horas extras, cuando se recupera producci\u00f3n previamente remunerada como interrupci\u00f3n laboral o en reg\u00edmenes especiales de trabajo definidos por la legislaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 requisito previo es necesario para que se realice el trabajo extraordinario en forma de horas extras o habilitaci\u00f3n del d\u00eda de descanso?",
+            "answer": "Es necesario el acuerdo previo entre el empleador y la organizaci\u00f3n sindical correspondiente."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de labores urgentes pueden justificar el trabajo extraordinario seg\u00fan el art\u00edculo 227?",
+            "answer": "Labores urgentes que involucran reparaci\u00f3n de muebles o inmuebles en peligro, restablecimiento de servicios p\u00fablicos, doblar turnos por ausencia imprevista de trabajadores clave y labores estacionales intenso, entre otras."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el m\u00e1ximo anual permitido para las horas extraordinarias?",
+            "answer": "El m\u00e1ximo anual permitido para horas extraordinorias es ciento sesenta horas cuando concurran horas extras, doble turno y habilitaci\u00f3n de los d\u00edas de descanso semanal."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se entiende por 'doble turno' seg\u00fan el art\u00edculo 226?",
+            "answer": "'Doble turno' es una forma de trabajo extraordinario en la que un trabajador realiza dos turnos consecutivos, en exceso a la jornada normal aprobada."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito del art\u00edculo 229 relacionado con la retribuci\u00f3n del trabajo extraordinario?",
+            "answer": "El prop\u00f3sito es establecer que las personas trabajadoras que realizan trabajo extraordinario deben ser remuneradas con un incremento del veinticinco por ciento por cada hora extra, y en algunos casos se puede compensar con tiempo de descanso."
+        }
+    ],
+    "25": [
+        {
+            "question": "\u00bfCu\u00e1les son los d\u00edas en que se conmemoran efem\u00e9rides oficiales seg\u00fan el art\u00edculo 230?",
+            "answer": "Seg\u00fan el art\u00edculo 230, los d\u00edas de conmemoraci\u00f3n oficial incluyen fechas como el 28 de enero (Natalicio del H\u00e9roe Nacional Jos\u00e9 Mart\u00ed P\u00e9rez), el 8 de marzo (D\u00eda Internacional de la Mujer), el 17 de mayo (D\u00eda de la Reforma Agraria y del Campesino), entre otros, listados en el inciso 1 del art\u00edculo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de actividades laborales se suspenden en los d\u00edas de conmemoraci\u00f3n oficial?",
+            "answer": "En los d\u00edas de conmemoraci\u00f3n oficial no recesan las actividades laborales, excepto en el caso de los espect\u00e1culos p\u00fablicos, festivos y humor\u00edsticos que suspenden sus actividades el 30 de julio y el 7 de diciembre, seg\u00fan lo establece el inciso 2 del art\u00edculo 230."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el tratamiento salarial para las personas trabajadoras en los d\u00edas de conmemoraci\u00f3n oficial?",
+            "answer": "Las personas trabajadoras que laboran en espect\u00e1culos p\u00fablicos, festivos y humor\u00edsticos cuyas actividades recesan el 30 de julio y el 7 de diciembre reciben el salario promedio, seg\u00fan lo indica el inciso 3 del art\u00edculo 230."
+        },
+        {
+            "question": "\u00bfQu\u00e9 fechas se consideran d\u00edas de conmemoraci\u00f3n nacional seg\u00fan el art\u00edculo 231?",
+            "answer": "Los d\u00edas de conmemoraci\u00f3n nacional incluyen el 1 de enero (Aniversario de la Revoluci\u00f3n), el 1 de mayo (D\u00eda Internacional de los Trabajadores), el 26 de julio (D\u00eda de la Rebeld\u00eda Nacional) y el 10 de octubre (Inicio de las Guerras de Independencia)."
+        },
+        {
+            "question": "\u00bfCu\u00e1ndo se traslada el descanso dominical seg\u00fan lo establecido en el art\u00edculo 232?",
+            "answer": "El descanso dominical se traslada al lunes siguiente cuando los d\u00edas de conmemoraci\u00f3n nacional del 1 de mayo y el 10 de octubre coinciden con un domingo. Sin embargo, no se efect\u00faa el traslado si dichos d\u00edas coinciden con un domingo y est\u00e1n precedidos o seguidos por d\u00edas feriados."
+        },
+        {
+            "question": "\u00bfQu\u00e9 disposici\u00f3n normativa espec\u00edfica regula los d\u00edas de receso laboral retribuido?",
+            "answer": "La disposici\u00f3n normativa espec\u00edfica regula el objetivo de la decisi\u00f3n, as\u00ed como el per\u00edodo de duraci\u00f3n de los d\u00edas de receso laboral retribuido, seg\u00fan lo establece el inciso 2 del art\u00edculo 233."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre el viernes santo en relaci\u00f3n con el receso laboral retribuido?",
+            "answer": "El viernes santo de cada a\u00f1o se declara como un d\u00eda de receso laboral adicional retribuido, seg\u00fan lo indicado en el inciso 3 del art\u00edculo 233."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 situaciones pueden habilitarse d\u00edas de conmemoraci\u00f3n nacional o feriados como laborables?",
+            "answer": "En casos excepcionales de inter\u00e9s p\u00fablico y social o fuerza mayor, el empleador puede habilitar ciertos d\u00edas de conmemoraci\u00f3n nacional o feriados como laborables, en com\u00fan acuerdo con la organizaci\u00f3n sindical correspondiente, seg\u00fan lo establece el art\u00edculo 234."
+        },
+        {
+            "question": "\u00bfQu\u00e9 actividades no se detienen durante los d\u00edas de conmemoraci\u00f3n nacional y feriados?",
+            "answer": "Seg\u00fan el inciso 1 del art\u00edculo 235, las actividades relacionadas con servicios esenciales a la poblaci\u00f3n, producciones continuas o labores inaplazables no se detienen durante los d\u00edas de conmemoraci\u00f3n nacional y feriados."
+        },
+        {
+            "question": "\u00bfQu\u00e9 salario reciben las personas trabajadoras que laboran en d\u00edas de conmemoraci\u00f3n nacional y feriados?",
+            "answer": "Las personas trabajadoras cuyas actividades recesan en esos d\u00edas y aplican el pago a rendimiento reciben el salario promedio, mientras que quienes aplican el pago a tiempo reciben su salario b\u00e1sico diario, salvo excepciones establecidas en el art\u00edculo 236."
+        }
+    ],
+    "26": [
+        {
+            "question": "\u00bfCu\u00e1ntos d\u00edas naturales se considera un mes de vacaciones anuales pagadas?",
+            "answer": "Un mes de vacaciones anuales pagadas se considera de treinta d\u00edas naturales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 porcentaje de los d\u00edas efectivamente laborados y salarios percibidos se acumula para el derecho a las vacaciones anuales pagadas?",
+            "answer": "Se acumula la cuant\u00eda correspondiente al nueve punto cero nueve por ciento de los d\u00edas efectivamente laborados y los salarios percibidos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de ausencias interrumpen la acumulaci\u00f3n del tiempo de vacaciones anuales pagadas?",
+            "answer": "Las ausencias por enfermedad, accidente, per\u00edodos de garant\u00eda salarial por interrupci\u00f3n o cese de la relaci\u00f3n laboral, entre otras situaciones en las que no se paga salario, interrumpen dicha acumulaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de d\u00edas se consideran como efectivamente laborados para el c\u00e1lculo del derecho a vacaciones anuales pagadas?",
+            "answer": "Los d\u00edas de conmemoraci\u00f3n nacional, feriados y de receso laboral, as\u00ed como las licencias retribuidas por maternidad pre y postnatal se consideran d\u00edas efectivamente laborados."
+        },
+        {
+            "question": "\u00bfCu\u00e1ntos d\u00edas puede durar un per\u00edodo de vacaciones anuales pagadas seg\u00fan lo establecido en la ley?",
+            "answer": "El empleador puede conceder las vacaciones por per\u00edodos de treinta, veinte, quince, diez o siete d\u00edas."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 circunstancias se pueden considerar ausencias por cuestiones personales impostergables como d\u00edas de vacaciones pagadas?",
+            "answer": "A solicitud de la persona trabajadora, las ausencias por cuestiones personales impostergables pueden ser consideradas como d\u00edas de vacaciones pagadas dentro del per\u00edodo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 requisito debe cumplirse para que el inicio de un per\u00edodo vacacional sea v\u00e1lido seg\u00fan la ley?",
+            "answer": "Las vacaciones anuales pagadas deben comenzar en un d\u00eda laborable, y no pueden iniciarse en d\u00edas de conmemoraci\u00f3n nacional, feriados, receso laboral o el d\u00eda de descanso semanal."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede si la persona trabajadora debe permanecer en su trabajo durante el disfrute de vacaciones por circunstancias imprevistas?",
+            "answer": "El empleador puede posponer el disfrute de las vacaciones sin abonar dicha cuant\u00eda, o acordar que la persona trabajadora siga laborando y se le abone simult\u00e1neamente el salario por el trabajo realizado y la cuant\u00eda acumulada."
+        },
+        {
+            "question": "\u00bfQu\u00e9 garant\u00eda debe ofrecer el empleador cuando se acuerda que una persona trabajadora permanezca en sus labores durante el disfrute de vacaciones?",
+            "answer": "El empleador est\u00e1 obligado a garantizar un descanso efectivo de quince d\u00edas como m\u00ednimo, en un a\u00f1o de trabajo."
+        },
+        {
+            "question": "\u00bfC\u00f3mo se calcula la cuant\u00eda que se abona por concepto de vacaciones anuales pagadas?",
+            "answer": "La cuant\u00eda se obtiene del acumulado a partir de los d\u00edas efectivamente laborados y se pagan los d\u00edas h\u00e1biles dentro del per\u00edodo de disfrute, exceptuando los d\u00edas de descanso semanal."
+        }
+    ],
+    "27": [
+        {
+            "question": "\u00bfQu\u00e9 funci\u00f3n tienen los organismos rectores en el \u00e1mbito de la seguridad y salud en el trabajo?",
+            "answer": "Los organismos rectores tienen como funci\u00f3n principal elaborar, proponer y controlar la pol\u00edtica general de seguridad y salud en el trabajo, as\u00ed como coordinar acciones con otros organismos para garantizar condiciones seguras en los lugares de trabajo."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el rol del Ministerio que se encarga de la higiene del trabajo y la salud ocupacional?",
+            "answer": "Este Ministerio se responsabiliza de la determinaci\u00f3n de la capacidad laboral, establece los listados de enfermedades profesionales reconocidas nacionalmente y define las actividades que requieren ex\u00e1menes m\u00e9dicos peri\u00f3dicos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 medidas pueden tomar los organismos rectores cuando detectan condiciones peligrosas en un lugar de trabajo?",
+            "answer": "Los organismos rectores pueden disponer la paralizaci\u00f3n de equipos, maquinarias y procesos, as\u00ed como clausurar locales de trabajo si se prev\u00e9 la inminencia de accidentes o incumplimiento de normas sanitarias."
+        },
+        {
+            "question": "\u00bfQu\u00e9 aspecto cubre el Ministerio que se encarga de la prevenci\u00f3n contra incendios?",
+            "answer": "Este Ministerio se ocupa de la prevenci\u00f3n contra incendios, el servicio de extinci\u00f3n y el manejo seguro de explosivos y sustancias peligrosos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 responsabilidad tiene el Ministerio relacionado con productos qu\u00edmicos peligrosos?",
+            "answer": "Este Ministerio se encarga de velar por la seguridad biol\u00f3gica, radiol\u00f3gica y qu\u00edmica en relaci\u00f3n a los productos qu\u00edmicos peligrosos durante su ciclo de vida."
+        },
+        {
+            "question": "\u00bfQu\u00e9 funci\u00f3n tienen los ministerios de Educaci\u00f3n y Educaci\u00f3n Superior en el \u00e1mbito de seguridad y salud en el trabajo?",
+            "answer": "Estos ministerios garantizan que los planes y programas educativos incluyan contenidos sobre seguridad y salud en el trabajo, con el objetivo de fomentar h\u00e1bitos seguros entre las personas trabajadoras."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de acciones pueden tomar los organismos rectores para proteger la vida o la salud de las personas trabajadoras?",
+            "answer": "Los organismos rectores pueden disponer la paralizaci\u00f3n de procesos, clausurar locales y aplicar otras medidas necesarias cuando se identifiquen condiciones que representan un riesgo inminente."
+        },
+        {
+            "question": "\u00bfQu\u00e9 Ministerio est\u00e1 involucrado en la definici\u00f3n del listado de enfermedades profesionales reconocidas a nivel nacional?",
+            "answer": "El Ministerio encargado de la higiene del trabajo y la salud ocupacional define el listado de enfermedades profesionales reconocidas nacionalmente."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece en relaci\u00f3n con la formaci\u00f3n t\u00e9cnica profesional y superior sobre seguridad y salud en el trabajo?",
+            "answer": "Se establece que los planes y programas de estudio deben incluir contenidos generales y espec\u00edficos sobre seguridad y salud en el trabajo para fomentar h\u00e1bitos seguros e higi\u00e9nicos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de acciones se toman cuando existen riesgos derivados del uso de sustancias peligrosas?",
+            "answer": "Se aplican medidas que garantizan la seguridad biol\u00f3gica, radiol\u00f3gica y qu\u00edmica durante el ciclo de vida de los productos qu\u00edmicos peligrosos para proteger la salud de las personas trabajadoras."
+        }
+    ],
+    "28": [
+        {
+            "question": "\u00bfQu\u00e9 responsabilidad tienen los organismos rectores en relaci\u00f3n con el dictado de normas t\u00e9cnicas complementarias?",
+            "answer": "Los organismos rectores de ramas y actividades, dentro de su competencia, tienen la responsabilidad de dictar reglamentos y normas t\u00e9cnicas complementarias para la gesti\u00f3n de seguridad y salud por parte de los empleadores, en consulta con el Ministerio de Trabajo y Seguridad Social."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el rol de los organismos rectores en cuanto al control del cumplimiento de las normas?",
+            "answer": "Los organismos rectores son responsables de controlar el cumplimiento de las normas t\u00e9cnicas complementarias dictadas, y deben rendir cuenta sobre su cumplimiento ante los organismos rectores de la seguridad y salud."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de equipos est\u00e1n incluidos en la definici\u00f3n de 'equipos de alto riesgo industrial'?",
+            "answer": "Los equipos de alto riesgo industrial son aquellos que, por su naturaleza, caracter\u00edsticas o uso, representan un riesgo significativo para la seguridad y salud de las personas."
+        },
+        {
+            "question": "\u00bfQui\u00e9nes determinan los equipos de alto riesgo industrial dentro del marco de sus competencias?",
+            "answer": "Los organismos de la Administraci\u00f3n Central del Estado que dirigen y controlan las pol\u00edticas en sectores, ramas y actividades son quienes determinan los equipos de alto riesgo industrial."
+        },
+        {
+            "question": "\u00bfQu\u00e9 responsabilidad tienen los organismos rectores sobre la importaci\u00f3n de equipos de alto riesgo?",
+            "answer": "Los organismos rectores garantizan el cumplimiento de los requisitos de seguridad en la importaci\u00f3n, fabricaci\u00f3n, montaje, explotaci\u00f3n, mantenimiento y reparaci\u00f3n de los equipos de alto riesgo industrial."
+        },
+        {
+            "question": "\u00bfQui\u00e9nes son responsables de garantizar la formaci\u00f3n t\u00e9cnica especializada de operarios de equipos de alto riesgo?",
+            "answer": "Las entidades acreditadas son las responsables de garantizar la formaci\u00f3n t\u00e9cnica especializada de los operarios que manejan equipos de alto riesgo industrial."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de actividades est\u00e1n incluidas en el control de cumplimiento por parte de los organismos rectores?",
+            "answer": "Los organismos rectores controlan el cumplimiento de normas t\u00e9cnicas complementarias en la importaci\u00f3n, fabricaci\u00f3n, montaje, explotaci\u00f3n, mantenimiento y reparaci\u00f3n de equipos de alto riesgo industrial."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de autoridad tienen los organismos rectores sobre las pol\u00edticas en sectores espec\u00edficos?",
+            "answer": "Los organismos rectores tienen la facultad de determinar los equipos de alto riesgo industrial y certificar el cumplimiento de los requisitos de seguridad dentro del marco de sus competencias."
+        },
+        {
+            "question": "\u00bfQu\u00e9 aspecto de las normas t\u00e9cnicas complementarias est\u00e1 sujeto a consulta con el Ministerio de Trabajo y Seguridad Social?",
+            "answer": "La elaboraci\u00f3n de reglamentos y normas t\u00e9cnicas complementarias para la gesti\u00f3n de seguridad y salud por parte de los empleadores est\u00e1 sujeta a consulta con el Ministerio de Trabajo y Seguridad Social."
+        },
+        {
+            "question": "\u00bfQu\u00e9 garantiza el cumplimiento de requisitos de seguridad en los equipos de alto riesgo industrial?",
+            "answer": "Los organismos rectores garantizan el cumplimiento de los requisitos de seguridad en la importaci\u00f3n, fabricaci\u00f3n, montaje, explotaci\u00f3n, mantenimiento y reparaci\u00f3n de equipos de alto riesgo industrial."
+        }
+    ],
+    "29": [
+        {
+            "question": "\u00bfQu\u00e9 elementos deben considerarse al elaborar el sistema de gesti\u00f3n seg\u00fan el Art\u00edculo 284?",
+            "answer": "Deben considerarse las caracter\u00edsticas t\u00e9cnico productivas o de servicios, los niveles de riesgo, la cantidad de personas trabajadoras y otras caracter\u00edsticas organizativas."
+        },
+        {
+            "question": "\u00bfQui\u00e9n es responsable de cumplir con los requisitos de seguridad y salud en el trabajo seg\u00fan el Art\u00edculo 284?",
+            "answer": "El empleador tiene la obligaci\u00f3n de cumplir con los requisitos de seguridad y salud en el trabajo, higi\u00e9nicos sanitarios, de protecci\u00f3n contra incendios."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derecho tienen las personas trabajadoras seg\u00fan el Art\u00edculo 285?",
+            "answer": "Las personas trabajadoras tienen derecho a laborar en condiciones seguras e higi\u00e9nicas y a participar en la identificaci\u00f3n y evaluaci\u00f3n de los riesgos en el trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 obligaciones tiene el empleador seg\u00fan el Art\u00edculo 285?",
+            "answer": "El empleador est\u00e1 obligado, de com\u00fan acuerdo con la organizaci\u00f3n sindical, a identificar y evaluar los riesgos en el trabajo y realizar acciones preventivas para disminuirlos o evitarlos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 informaci\u00f3n se debe considerar al identificar y evaluar los riesgos seg\u00fan el Art\u00edculo 286?",
+            "answer": "Se debe considerar la informaci\u00f3n relativa a procesos, equipos, sustancias qu\u00edmicas, organizaci\u00f3n del trabajo, resultados de ex\u00e1menes m\u00e9dicos, sucesos peligrosos y trabajos que requieren permisos especiales."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito del programa anual mencionado en el Art\u00edculo 287?",
+            "answer": "El prop\u00f3sito del programa anual es incorporar las acciones preventivas que no pueden adoptarse de manera inmediata, priorizando seg\u00fan la magnitud del riesgo y las posibilidades de la entidad."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de medidas incluye el programa de prevenci\u00f3n de riesgos laborales seg\u00fan el Art\u00edculo 287?",
+            "answer": "Incluye medidas organizativas, higi\u00e9nico-sanitarias, control de salud, capacitaci\u00f3n, adquisici\u00f3n de equipos de protecci\u00f3n personal y colectiva, y certificaci\u00f3n de equipos de alto riesgo."
+        },
+        {
+            "question": "\u00bfCu\u00e1ndo debe revisarse el programa de prevenci\u00f3n de riesgos laborales seg\u00fan el Art\u00edculo 287?",
+            "answer": "Debe revisarse cuando cambian algunas de las situaciones o caracter\u00edsticas de la producci\u00f3n o los servicios."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se requiere para que las acciones aprobadas en el programa de prevenci\u00f3n tengan respuesta seg\u00fan el Art\u00edculo 287?",
+            "answer": "Las acciones aprobadas deben tener respuesta dentro del a\u00f1o de trabajo."
+        },
+        {
+            "question": "\u00bfQui\u00e9n aprueba el programa de prevenci\u00f3n de riesgos laborales seg\u00fan el Art\u00edculo 287?",
+            "answer": "El programa se aprueba por el jefe de la entidad, de com\u00fan acuerdo con la organizaci\u00f3n sindical."
+        }
+    ],
+    "30": [
+        {
+            "question": "\u00bfQu\u00e9 aspectos deben considerarse al determinar el presupuesto para la seguridad y salud en el trabajo?",
+            "answer": "Al determinar el presupuesto, se deben considerar aspectos como el programa de salud ocupacional, higiene y seguridad industrial, preparaci\u00f3n ante emergencias, equipos de protecci\u00f3n personal y otros elementos relacionados con capacitaci\u00f3n y promoci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 incluye el programa de salud ocupacional seg\u00fan el art\u00edculo 288?",
+            "answer": "El programa de salud ocupacional incluye ex\u00e1menes cl\u00ednicos, chequeos especializados, equipos de primeros auxilios, botiquines fijos y port\u00e1tiles."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito del punto b) en la determinaci\u00f3n del presupuesto?",
+            "answer": "El prop\u00f3sito del punto b) es garantizar condiciones higi\u00e9nicas y seguras en el lugar de trabajo, considerando inversiones, reparaciones, mobiliarios ergon\u00f3micos y aseo industrial."
+        },
+        {
+            "question": "\u00bfQu\u00e9 elementos se mencionan para la preparaci\u00f3n ante situaciones de emergencia?",
+            "answer": "Se mencionan se\u00f1alizaciones, se\u00f1al\u00e9ticas, extintores y aseguramientos contra eventos naturales como parte de la preparaci\u00f3n ante emergencias."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de elementos se consideran en el punto d) del presupuesto?",
+            "answer": "El punto d) se refiere a los equipos de protecci\u00f3n personal y sus accesorios que deben estar disponibles para garantizar la seguridad en el lugar de trabajo."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el papel de la capacitaci\u00f3n en el presupuesto de seguridad y salud?",
+            "answer": "La capacitaci\u00f3n, promoci\u00f3n y divulgaci\u00f3n son elementos clave del presupuesto, ya que contribuyen a concientizar a los trabajadores sobre medidas de prevenci\u00f3n y manejo de riesgos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se debe hacer antes de determinar el presupuesto seg\u00fan el art\u00edculo 288?",
+            "answer": "Antes de determinar el presupuesto, es necesario identificar los peligros y evaluar los riesgos a que se exponen las personas trabajadoras en los lugares de trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de inversiones est\u00e1n incluidas dentro del punto b) del art\u00edculo 288?",
+            "answer": "Dentro del punto b), se incluyen inversiones, reparaciones, remodelaciones y mantenimientos necesarios para garantizar condiciones seguras en el lugar de trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 otros elementos se consideran adem\u00e1s de los mencionados en las letras a) hasta e)?",
+            "answer": "Adem\u00e1s de los mencionados en las letras a) hasta e), se incluyen otros aspectos como la capacitaci\u00f3n, promoci\u00f3n y eventos relacionados con seguridad y salud laboral."
+        },
+        {
+            "question": "\u00bfPor qu\u00e9 es importante considerar el aseo industrial dentro del presupuesto?",
+            "answer": "El aseo industrial es importante porque contribuye al mantenimiento de condiciones higi\u00e9nicas que previenen enfermedades y mejoran la calidad del entorno laboral."
+        }
+    ],
+    "31": [
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal del Comit\u00e9 de Seguridad y Salud seg\u00fan el art\u00edculo 289?",
+            "answer": "El prop\u00f3sito principal del Comit\u00e9 de Seguridad y Salud es analizar sistem\u00e1ticamente los asuntos relacionados con la seguridad y salud que surgen del trabajo, as\u00ed como otros temas que requieren una soluci\u00f3n colegiada."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 tipo de entidades se constituye el Comit\u00e9 de Seguridad y Salud?",
+            "answer": "El Comit\u00e9 de Seguridad y Salud se constituye en entidades y centros de trabajo."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la composici\u00f3n del Comit\u00e9 de Seguridad y Salud seg\u00fan el art\u00edculo 289?",
+            "answer": "El Comit\u00e9 est\u00e1 integrado por un n\u00famero impar de personas trabajadoras, incluyendo al representante designado por la direcci\u00f3n, al representante sindical, a la persona encargada de seguridad y salud en el trabajo (quien act\u00faa como coordinador) y a otras personas con experiencia y reconocida calificaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQui\u00e9n funge como coordinador dentro del Comit\u00e9 de Seguridad y Salud?",
+            "answer": "La persona trabajadora encargada de la actividad de seguridad y salud en el trabajo funge como coordinador dentro del Comit\u00e9."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de participaci\u00f3n se menciona para la formaci\u00f3n del Comit\u00e9 de Seguridad y Salud?",
+            "answer": "Se menciona la participaci\u00f3n colectiva, as\u00ed como otros tipos de an\u00e1lisis y participaci\u00f3n que surjan en el trabajo."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el rol del representante sindical dentro del Comit\u00e9 de Seguridad y Salud?",
+            "answer": "El representante sindical participa como uno de los integrantes del Comit\u00e9, aportando su perspectiva colectiva en la toma de decisiones relacionadas con seguridad y salud."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 disposici\u00f3n normativa se establece el funcionamiento del Comit\u00e9 de Seguridad y Salud?",
+            "answer": "El funcionamiento del Comit\u00e9 de Seguridad y Salud se establece en la disposici\u00f3n normativa complementaria."
+        },
+        {
+            "question": "\u00bfPor qu\u00e9 es importante que el Comit\u00e9 de Seguridad y Salud tenga un n\u00famero impar de integrantes?",
+            "answer": "La composici\u00f3n con un n\u00famero impar permite evitar empates en las decisiones, facilitando la toma de acuerdos por mayor\u00eda."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el car\u00e1cter del Comit\u00e9 de Seguridad y Salud seg\u00fan el art\u00edculo 289?",
+            "answer": "El Comit\u00e9 de Seguridad y Salud tiene un car\u00e1cter consultor, ya que su funci\u00f3n principal es analizar y proponer soluciones en materia de seguridad y salud."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de personas pueden integrar el Comit\u00e9 de Seguridad y Salud adem\u00e1s del representante sindical?",
+            "answer": "Adem\u00e1s del representante sindical, se integran personas trabajadoras con experiencia y reconocida calificaci\u00f3n, as\u00ed como la persona encargada de seguridad y salud en el trabajo."
+        }
+    ],
+    "32": [
+        {
+            "question": "\u00bfQu\u00e9 elementos deben incluir los procedimientos de trabajo seguro seg\u00fan la normativa?",
+            "answer": "Los procedimientos de trabajo seguro deben incluir las especificidades para conducirse ante los peligros inherentes a cada cargo y lugar de trabajo, basados en los requisitos de seguridad e higi\u00e9nicos sanitarios definidos por normas, reglamentos y disposiciones legales."
+        },
+        {
+            "question": "\u00bfQui\u00e9n es responsable de garantizar que las personas trabajadoras cumplan con los procedimientos de trabajo seguro?",
+            "answer": "El jefe directo de la producci\u00f3n y los servicios es el m\u00e1ximo responsable de garantizar que las personas trabajadoras a su cargo cumplan con los procedimientos de trabajo seguro."
+        },
+        {
+            "question": "\u00bfQu\u00e9 debe incluir una indicaci\u00f3n para procesos realizados fuera del entorno f\u00edsico de las entidades?",
+            "answer": "Las indicaciones deben incluir la organizaci\u00f3n, responsabilidades, forma en que se realiza el trabajo, los participantes, horario, tipo de peligros a los que se enfrentan, medidas adoptadas y tiempo previsto de ejecuci\u00f3n."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 caso se especifican particularidades en un contrato econ\u00f3mico entre entidades o empleadores?",
+            "answer": "Cuando dos o m\u00e1s entidades o empleadores desarrollan actividades simult\u00e1neas en el mismo lugar de trabajo, las particularidades se especifican en el contrato econ\u00f3mico que convienen las partes."
+        },
+        {
+            "question": "\u00bfQu\u00e9 elementos debe contener un permiso de seguridad seg\u00fan lo establecido en la normativa?",
+            "answer": "Un permiso de seguridad debe contener la descripci\u00f3n del trabajo a realizar, los equipos y medios a utilizar con su estado t\u00e9cnico, medidas espec\u00edficas para garantizar la seguridad y los responsables de las mismas."
+        },
+        {
+            "question": "\u00bfCu\u00e1ndo se emite un permiso de seguridad seg\u00fan el art\u00edculo 292?",
+            "answer": "Un permiso de seguridad se emite antes de la ejecuci\u00f3n de actividades, procesos u operaci\u00f3n de equipos de alto riesgo o labores no habituales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derecho tiene una persona trabajadora si considera que su vida est\u00e1 en peligro inminente?",
+            "answer": "Una persona trabajadora tiene el derecho a no laborar en su puesto actual o a no realizar ciertas actividades hasta que se elimine el peligro, siempre que trabaje de forma provisional en otro cargo asignado por el empleador."
+        },
+        {
+            "question": "\u00bfQui\u00e9n est\u00e1 obligado a cumplir los procedimientos de trabajo seguro?",
+            "answer": "La persona trabajadora est\u00e1 obligada a cumplir los procedimientos de trabajo seguro correspondientes a su cargo y lugar de trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 debe garantizar la organizaci\u00f3n sindical seg\u00fan el art\u00edculo 293?",
+            "answer": "La organizaci\u00f3n sindical debe velar por el ejercicio del derecho especial que tiene una persona trabajadora para no realizar ciertas actividades si considera que su vida est\u00e1 en peligro inminente."
+        },
+        {
+            "question": "\u00bfQu\u00e9 requisito previo se establece antes de la realizaci\u00f3n de trabajos de alto riesgo?",
+            "answer": "La realizaci\u00f3n de los trabajos de alto riesgo debe estar precedida de la certificaci\u00f3n de los equipos y de los operarios encargados de su utilizaci\u00f3n."
+        }
+    ],
+    "33": [
+        {
+            "question": "\u00bfQu\u00e9 derecho tienen las personas trabajadoras seg\u00fan el art\u00edculo 294?",
+            "answer": "Las personas trabajadoras tienen derecho a recibir la instrucci\u00f3n sobre seguridad y salud en el trabajo."
+        },
+        {
+            "question": "\u00bfQui\u00e9n es responsable de instruir a las personas trabajadoras sobre los riesgos en el lugar de trabajo?",
+            "answer": "El empleador es responsable de instruir a las personas trabajadoras sobre los riesgos en el lugar de trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de instrucci\u00f3n se menciona en el art\u00edculo 295?",
+            "answer": "Se mencionan la instrucci\u00f3n inicial y la instrucci\u00f3n peri\u00f3dica."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito de la instrucci\u00f3n inicial seg\u00fan el art\u00edculo 295?",
+            "answer": "El prop\u00f3sito de la instrucci\u00f3n inicial es preparar a las personas trabajadoras para identificar riesgos, conocer procedimientos seguros y manejar situaciones de emergencia."
+        },
+        {
+            "question": "\u00bfQu\u00e9 debe incluir la instrucci\u00f3n inicial seg\u00fan el art\u00edculo 295?",
+            "answer": "Debe incluir los riesgos generales y espec\u00edficos en el lugar de trabajo, procedimientos de trabajo seguros, comunicaci\u00f3n codificada, manejo de emergencias, primeros auxilios, se\u00f1alizaci\u00f3n de seguridad y uso de equipos de protecci\u00f3n."
+        },
+        {
+            "question": "\u00bfQui\u00e9n determina los trabajos que requieren instrucci\u00f3n peri\u00f3dica?",
+            "answer": "El empleador, en com\u00fan acuerdo con la organizaci\u00f3n sindical, determina los trabajos que por sus riesgos requieren instrucci\u00f3n peri\u00f3dica."
+        },
+        {
+            "question": "\u00bfD\u00f3nde se inscribe la frecuencia de la instrucci\u00f3n peri\u00f3dica?",
+            "answer": "La frecuencia de la instrucci\u00f3n peri\u00f3dica se inscribe en el convenio colectivo de trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 debe mantener el empleador seg\u00fan el art\u00edculo 295?",
+            "answer": "El empleador debe mantener un registro actualizado de la instrucci\u00f3n impartida a sus personas trabajadoras."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el objetivo principal de la instrucci\u00f3n en seguridad y salud en el trabajo?",
+            "answer": "El objetivo principal es garantizar que las personas trabajadoras realicen su labor de manera segura y saludable, minimizando riesgos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 debe incluir la instrucci\u00f3n sobre se\u00f1alizaci\u00f3n de seguridad seg\u00fan el art\u00edculo 295?",
+            "answer": "Debe incluir el significado de los colores y se\u00f1ales utilizados en la se\u00f1alizaci\u00f3n de seguridad y salud en el trabajo."
+        }
+    ],
+    "34": [
+        {
+            "question": "\u00bfQu\u00e9 derecho tienen las personas trabajadoras seg\u00fan el art\u00edculo 296?",
+            "answer": "Las personas trabajadoras tienen el derecho de recibir los equipos y medios de protecci\u00f3n personal que necesiten en el puesto de trabajo que desempe\u00f1an."
+        },
+        {
+            "question": "\u00bfQui\u00e9n es responsable del mantenimiento de los equipos de protecci\u00f3n personal?",
+            "answer": "Es obligaci\u00f3n del empleador suministrar gratuitamente, conservar y mantener los equipos de protecci\u00f3n personal."
+        },
+        {
+            "question": "\u00bfQu\u00e9 define el t\u00e9rmino 'equipo de protecci\u00f3n personal' seg\u00fan el art\u00edculo 297?",
+            "answer": "'Equipo de protecci\u00f3n personal' se denomina al dispositivo o medio que requiere utilizar individualmente una persona trabajadora, para protegerse contra uno o varios riesgos que puedan amenazar su seguridad y su salud."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipos de riesgos deben considerarse al determinar los equipos de protecci\u00f3n personal?",
+            "answer": "Se toma en cuenta la protecci\u00f3n contra golpes, impactos, quemaduras, cortes y otros efectos, as\u00ed como para evitar enfermedades como consecuencia de la actividad que realiza."
+        },
+        {
+            "question": "\u00bfD\u00f3nde deben ubicarse los equipos de protecci\u00f3n personal para emergencias?",
+            "answer": "Los equipos de protecci\u00f3n personal para emergencias se ubican en un lugar conocido por las personas trabajadoras, de f\u00e1cil acceso y con los se\u00f1alamientos adecuados."
+        },
+        {
+            "question": "\u00bfQu\u00e9 garantiza el empleador seg\u00fan el art\u00edculo 298 sobre los equipos de protecci\u00f3n personal?",
+            "answer": "El empleador garantiza que los equipos de protecci\u00f3n personal que se adquieren para el uso de las personas trabajadoras est\u00e1n debidamente registrados y aprobados."
+        },
+        {
+            "question": "\u00bfQui\u00e9n dicta la disposici\u00f3n normativa sobre el registro y aprobaci\u00f3n de los equipos?",
+            "answer": "La disposici\u00f3n normativa que regula el registro y aprobaci\u00f3n de los equipos es dictada por el titular del Ministerio de Trabajo y Seguridad Social."
+        },
+        {
+            "question": "\u00bfQu\u00e9 obligaci\u00f3n tienen las personas trabajadoras respecto al uso de los equipos de protecci\u00f3n personal?",
+            "answer": "Las personas trabajadoras est\u00e1n obligadas a utilizar los equipos entregados por el empleador, conforme a las normas establecidas, as\u00ed como a velar por su conservaci\u00f3n y mantenimiento."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se menciona sobre la planificaci\u00f3n de los equipos de protecci\u00f3n personal?",
+            "answer": "La planificaci\u00f3n, conservaci\u00f3n y mantenimiento de los equipos de protecci\u00f3n personal se regula en la disposici\u00f3n normativa complementaria."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal del equipo de protecci\u00f3n personal seg\u00fan el art\u00edculo 297?",
+            "answer": "El prop\u00f3sito principal del equipo de protecci\u00f3n personal es proteger a las personas trabajadoras contra riesgos que puedan amenazar su seguridad y salud durante la actividad laboral."
+        }
+    ],
+    "35": [
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal de los ex\u00e1menes m\u00e9dicos ocupacionales seg\u00fan el texto?",
+            "answer": "El prop\u00f3sito principal de los ex\u00e1menes m\u00e9dicos ocupacionales es determinar si una persona trabajadora est\u00e1 f\u00edsica y mentalmente apta para desempe\u00f1ar la labor que pretende o desempe\u00f1a."
+        },
+        {
+            "question": "\u00bfQui\u00e9n tiene la responsabilidad de garantizar que se realicen los ex\u00e1menes m\u00e9dicos pre-empleo?",
+            "answer": "La responsabilidad de garantizar que se realicen los ex\u00e1menes m\u00e9dicos pre-empleo recae en el empleador."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede si durante un examen pre-empleo se detecta una alteraci\u00f3n de la salud incompatible con el trabajo?",
+            "answer": "Si durante un examen pre-empleo se detecta una alteraci\u00f3n de la salud incompatible con el trabajo, el empleador no puede concertar el contrato de trabajo o la designaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de ex\u00e1menes m\u00e9dicos ocupacionales se mencionan en el texto?",
+            "answer": "En el texto se mencionan tres tipos de ex\u00e1menes m\u00e9dicos ocupacionales: pre-empleo, peri\u00f3dicos y especializados."
+        },
+        {
+            "question": "\u00bfQu\u00e9 debe hacer el empleador si un trabajador presenta una alteraci\u00f3n de salud que requiere tratamiento especializado?",
+            "answer": "El empleador debe proceder conforme a las disposiciones normativas establecidas por el Ministerio de Salud P\u00fablica."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 circunstancias se puede evaluar a una persona trabajadora antes del cumplimiento del plazo de seis meses?",
+            "answer": "Se puede evaluar a una persona trabajadora antes del cumplimiento del plazo de seis meses en situaciones excepcionales, como enfermedades en estad\u00edo terminal o otras que considere el m\u00e9dico especialista."
+        },
+        {
+            "question": "\u00bfQu\u00e9 opciones tiene el empleador ante la declaraci\u00f3n de invalidez parcial?",
+            "answer": "El empleador puede modificar las condiciones del puesto, reubicar al trabajador en otro cargo para el cual est\u00e9 apto, o reducir su horario de trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 instituciones se mencionan como responsables de la programaci\u00f3n y cumplimiento de los ex\u00e1menes m\u00e9dicos?",
+            "answer": "Las instituciones del Sistema Nacional de Salud son las responsables de la programaci\u00f3n y cumplimiento de los ex\u00e1menes m\u00e9dicos."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el plazo m\u00e1ximo que debe cumplir el empleador para enviar a la Comisi\u00f3n de Peritaje M\u00e9dico Laboral a una persona trabajadora con incapacidad temporal?",
+            "answer": "El empleador debe remitir a la Comisi\u00f3n de Peritaje M\u00e9dico Laboral a la persona trabajadora treinta d\u00edas antes del vencimiento del plazo de seis meses."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre el derecho y deber de las personas trabajadoras en relaci\u00f3n con los ex\u00e1menes m\u00e9dicos?",
+            "answer": "Las personas trabajadoras tienen el derecho y el deber de someterse a los ex\u00e1menes m\u00e9dicos ocupacionales en las fechas se\u00f1aladas."
+        }
+    ],
+    "36": [
+        {
+            "question": "\u00bfCu\u00e1l es la definici\u00f3n de un suceso peligroso seg\u00fan el anteproyecto?",
+            "answer": "Un suceso peligroso es un acontecimiento no deseado que, bajo circunstancias diferentes, pudo haber ocasionado una lesi\u00f3n, enfermedad, da\u00f1o a la salud o a la propiedad."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se entiende por incidente seg\u00fan el texto?",
+            "answer": "Un incidente es un suceso que acontece durante el desarrollo del trabajo o en ocasi\u00f3n de este, que puede tener o tiene como resultado lesiones o el deterioro de la salud de la persona trabajadora, sin afectar su capacidad para el trabajo."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la diferencia entre un accidente de trabajo y un incidente?",
+            "answer": "Un accidente de trabajo provoca lesiones o da\u00f1os a la salud de la persona trabajadora que afectan su capacidad para laborar, mientras que un incidente puede tener como resultado lesiones o deterioro de la salud sin afectar dicha capacidad."
+        },
+        {
+            "question": "\u00bfQu\u00e9 caracter\u00edsticas debe cumplir un accidente mayor seg\u00fan el anteproyecto?",
+            "answer": "Un accidente mayor es aquel suceso que involucra procesos o equipos, sustancias qu\u00edmicas peligrosas; ocasiona lesiones graves o mortales a las personas trabajadoras, da\u00f1o grave a la propiedad, impacto ambiental significativo, repercusiones econ\u00f3micas importantes y requiere intervenci\u00f3n a gran escala."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 situaciones se equipara un accidente de trabajo seg\u00fan el art\u00edculo 305?",
+            "answer": "Se equiparan al accidente de trabajo situaciones como durante el trayecto normal de ida o regreso del trabajo, en pausas para el almuerzo, en trabajos voluntarios promovidos por organizaciones sindicales, y en la defensa civil, entre otras."
+        },
+        {
+            "question": "\u00bfQu\u00e9 obligaci\u00f3n tiene el empleador respecto a los incidentes seg\u00fan el art\u00edculo 306?",
+            "answer": "El empleador est\u00e1 obligado a registrar los sucesos peligrosos y los incidentes de trabajo e investigar aquellos cuyo da\u00f1o potencial pudo afectar la integridad f\u00edsica o la vida de las personas trabajadoras."
+        },
+        {
+            "question": "\u00bfCu\u00e1nto tiempo tiene el empleador para concluir una investigaci\u00f3n de un accidente seg\u00fan el art\u00edculo 307?",
+            "answer": "La conclusi\u00f3n de la investigaci\u00f3n no puede exceder de treinta d\u00edas, salvo que existan causas que lo justifiquen."
+        },
+        {
+            "question": "\u00bfQu\u00e9 debe hacer el empleador cuando ocurre un accidente con consecuencias mortales?",
+            "answer": "El empleador debe informar inmediatamente a la Oficina Nacional de Inspecci\u00f3n del Trabajo en un plazo que no exceda las veinte y cuatro horas siguientes a la ocurrencia del hecho."
+        },
+        {
+            "question": "\u00bfQu\u00e9 obligaci\u00f3n tiene la persona trabajadora seg\u00fan el art\u00edculo 308?",
+            "answer": "La persona trabajadora debe informar a su jefe inmediato cualquier deficiencia o riesgo detectado en materia de seguridad y salud, reportar incidentes o accidentes de trabajo y colaborar en las investigaciones."
+        },
+        {
+            "question": "\u00bfC\u00f3mo se define una enfermedad profesional seg\u00fan el art\u00edculo 310?",
+            "answer": "La enfermedad profesional es la alteraci\u00f3n de la salud, patol\u00f3gicamente definida, generada por la actividad laboral en personas trabajadoras que habitualmente se exponen a factores presentes en el medio laboral o en determinados cargos."
+        }
+    ],
+    "37": [
+        {
+            "question": "\u00bfCu\u00e1l es el derecho que tiene una persona trabajadora seg\u00fan el art\u00edculo 343?",
+            "answer": "La persona trabajadora tiene derecho a recibir del empleador la reparaci\u00f3n de los da\u00f1os y la indemnizaci\u00f3n de los perjuicios sufridos por imposici\u00f3n indebida de medidas disciplinarias y por violaci\u00f3n de sus derechos de trabajo y seguridad social."
+        },
+        {
+            "question": "\u00bfBajo qu\u00e9 circunstancias es nula de pleno derecho una medida disciplinaria seg\u00fan el art\u00edculo 344?",
+            "answer": "Es nula de pleno derecho cuando se impone extempor\u00e1neamente, por una autoridad no facultada, al amparo de una legislaci\u00f3n indebida o derogada, o por la aplicaci\u00f3n de una medida no prevista en la ley, y utilizando un procedimiento diferente al establecido."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se considera imposici\u00f3n indebida de una medida disciplinaria seg\u00fan el art\u00edculo 345?",
+            "answer": "Se considera imposici\u00f3n indebida cuando se dispone la exoneraci\u00f3n, modificaci\u00f3n por una medida disciplinaria de menor severidad, o anulaci\u00f3n por causas como extemporaneidad, autoridad no facultada, legislaci\u00f3n indebida u uso de procedimiento incorrecto."
+        },
+        {
+            "question": "\u00bfQu\u00e9 obligaciones tiene el empleador cuando se exige la exoneraci\u00f3n de una medida disciplinaria seg\u00fan el art\u00edculo 345?",
+            "answer": "El empleador debe informar en la Asamblea General de Afiliados y Trabajadores, as\u00ed como restituir los honores u otros reconocimientos otorgados a la persona trabajadora si fuese el caso."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de resarcimiento se efect\u00faa por da\u00f1os econ\u00f3micos seg\u00fan el art\u00edculo 346?",
+            "answer": "Las personas trabajadoras reciben un resarcimiento por los da\u00f1os y perjuicios econ\u00f3micos ocasionados debido a la decisi\u00f3n favorable emitida por el \u00f3rgano o autoridad competente en reclamaciones de derechos del trabajo y seguridad social."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 casos se abona la cuant\u00eda dejada de percibir seg\u00fan el art\u00edculo 346?",
+            "answer": "Se abona la cuant\u00eda dejada de percibir total o parcialmente, solo respecto a los ciento ochenta d\u00edas anteriores a la presentaci\u00f3n de la reclamaci\u00f3n, con efecto retroactivo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se procede en caso de p\u00e9rdida de capacidad demostrada seg\u00fan el art\u00edculo 346?",
+            "answer": "Se procede a la restituci\u00f3n al cargo que ocupaba y al abono de los salarios dejados de percibir desde que se cometi\u00f3 la violaci\u00f3n hasta la notificaci\u00f3n de la decisi\u00f3n adoptada por la autoridad."
+        },
+        {
+            "question": "\u00bfCu\u00e1ndo no se abona ninguna cuant\u00eda seg\u00fan el art\u00edculo 346?",
+            "answer": "No se abona ninguna cuant\u00eda cuando la reclamaci\u00f3n se refiere al mejor derecho a ocupar un cargo y se concede el derecho a la persona trabajadora para ocuparlo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 factores considera el \u00f3rgano competente para determinar la cuant\u00eda de la indemnizaci\u00f3n seg\u00fan el art\u00edculo 347?",
+            "answer": "El \u00f3rgano competente considera que la indemnizaci\u00f3n no puede superar el salario actual de la persona trabajadora, deducidos los salarios percibidos durante el proceso y el tiempo en que dej\u00f3 de percibir su salario o la cuant\u00eda en que este qued\u00f3 disminuido."
+        },
+        {
+            "question": "\u00bfCu\u00e1ndo se considera efectiva una decisi\u00f3n firme sobre la anulaci\u00f3n de una medida disciplinaria seg\u00fan el art\u00edculo 348?",
+            "answer": "La decisi\u00f3n firme se considera efectiva desde la aplicaci\u00f3n inicial de la medida disciplinaria por el empleador, y si se aplic\u00f3 una medida cautelar, desde la aplicaci\u00f3n de esta."
+        }
+    ],
+    "38": [
+        {
+            "question": "\u00bfQu\u00e9 tipo de compensaci\u00f3n tienen derecho las personas absueltas tras un proceso de revisi\u00f3n penal seg\u00fan el art\u00edculo mencionado?",
+            "answer": "Tienen derecho a una indemnizaci\u00f3n que incluye los salarios correspondientes y la cuant\u00eda de las vacaciones por el tiempo laboral que desempe\u00f1aban al momento de ser privadas de libertad."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el criterio utilizado para determinar el monto de la indemnizaci\u00f3n econ\u00f3mica?",
+            "answer": "Se toma como referencia el \u00faltimo salario b\u00e1sico devengado por la persona antes de la aplicaci\u00f3n de la sanci\u00f3n penal."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede con los derechos laborales relacionados al cargo que ocupaba la persona antes de ser sancionada?",
+            "answer": "No procede el reintegro al cargo que ocupaba antes de ser sancionado penalmente, seg\u00fan lo establecido en el art\u00edculo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 documento emite el Ministerio de Trabajo y Seguridad Social tras recibir el expediente judicial?",
+            "answer": "Emite un documento que contiene los c\u00e1lculos para el pago del salario y las vacaciones, as\u00ed como la certificaci\u00f3n del tiempo de servicios y salarios devengados."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se deduce al calcular las prestaciones a largo plazo en este caso?",
+            "answer": "Se deducen los per\u00edodos en que labor\u00f3 durante el cumplimiento de la sanci\u00f3n penal."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el rol del tribunal de justicia en el procedimiento de reconocimiento de la indemnizaci\u00f3n?",
+            "answer": "El tribunal de justicia remite al Ministerio de Trabajo y Seguridad Social el expediente judicial necesario para realizar los c\u00e1lculos correspondientes."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de indemnizaci\u00f3n se abona en relaci\u00f3n con el tiempo laboral durante la sanci\u00f3n penal?",
+            "answer": "Se abona una indemnizaci\u00f3n que incluye los salarios y las vacaciones por el tiempo laboral desempe\u00f1ado antes de ser privado de libertad."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece en relaci\u00f3n con la certificaci\u00f3n del tiempo de servicios?",
+            "answer": "Se certifica el tiempo de servicios para fines de las prestaciones a largo plazo, deduciendo los per\u00edodos durante los que se cumpli\u00f3 la sanci\u00f3n penal."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se considera al momento de calcular la cuant\u00eda de la indemnizaci\u00f3n?",
+            "answer": "Se considera el salario b\u00e1sico devengado en el momento anterior a la aplicaci\u00f3n de la sanci\u00f3n penal."
+        },
+        {
+            "question": "\u00bfPor qu\u00e9 no se reconoce el reintegro al cargo laboral previo tras la absoluci\u00f3n?",
+            "answer": "Porque, seg\u00fan lo establecido en el art\u00edculo, no procede el reintegro al cargo que ocupaba antes de ser sancionado penalmente."
+        }
+    ],
+    "39": [
+        {
+            "question": "\u00bfQu\u00e9 tipo de conflictos pueden ser resueltos por el \u00d3rgano de Justicia Laboral?",
+            "answer": "El \u00d3rgano de Justicia Laboral puede resolver conflictos individuales relacionados con medidas disciplinarias, responsabilidad material, derechos laborales y de seguridad social, entre otros aspectos establecidos en la normativa."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el plazo para presentar una reclamaci\u00f3n por inconformidad con una medida disciplinaria?",
+            "answer": "La persona trabajadora tiene un plazo de siete d\u00edas h\u00e1biles, a partir de su notificaci\u00f3n, para presentar la reclamaci\u00f3n ante un miembro del \u00d3rgano de Justicia Laboral."
+        },
+        {
+            "question": "\u00bfCu\u00e1nto tiempo tiene una persona trabajadora para formular reclamaciones sobre sus derechos laborales y de seguridad social?",
+            "answer": "La persona trabajadora cuenta con un plazo de ciento ochenta d\u00edas naturales, a partir del d\u00eda siguiente al que se haya consumado la violaci\u00f3n o desde el conocimiento de esta."
+        },
+        {
+            "question": "\u00bfQu\u00e9 pasa si una reclamaci\u00f3n se presenta fuera del plazo establecido?",
+            "answer": "En caso de presentar una reclamaci\u00f3n extempor\u00e1nea, el \u00d3rgano de Justicia Laboral est\u00e1 obligado a desestimarla y emitir un acuerdo con la decisi\u00f3n adoptada."
+        },
+        {
+            "question": "\u00bfCu\u00e1nto tiempo tiene el \u00d3rgano de Justicia Laboral para resolver una reclamaci\u00f3n?",
+            "answer": "El \u00d3rgano de Justicia Laboral cuenta con un plazo m\u00e1ximo de veinticuatro d\u00edas h\u00e1biles, a partir del d\u00eda siguiente a la recepci\u00f3n de la reclamaci\u00f3n, para emitir su decisi\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 requisito es necesario para que el \u00d3rgano de Justicia Laboral pueda actuar en una reclamaci\u00f3n?",
+            "answer": "Es necesario la presencia de cinco o siete miembros del \u00d3rgano, dependiendo de su integraci\u00f3n, manteniendo siempre una composici\u00f3n tripartita representativa."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de decisiones puede tomar el \u00d3rgano de Justicia Laboral independientemente de otros procesos legales?",
+            "answer": "El \u00d3rgano de Justicia Laboral dicta decisiones independientemente del resultado del proceso penal o de la responsabilidad material."
+        },
+        {
+            "question": "\u00bfQu\u00e9 situaciones espec\u00edficas est\u00e1n incluidas dentro de la competencia del \u00d3rgano de Justicia Laboral?",
+            "answer": "La competencia incluye aspectos como discriminaci\u00f3n, violencia laboral, modificaci\u00f3n de condiciones contractuales, licencias relacionadas con maternidad y reclamaciones sobre derechos de personas desvinculadas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 ocurre si el \u00d3rgano act\u00faa sin la composici\u00f3n tripartita establecida?",
+            "answer": "Las decisiones adoptadas en ausencia de la composici\u00f3n tripartita pueden ser anuladas a instancia de la parte afectada, seg\u00fan el procedimiento previsto."
+        },
+        {
+            "question": "\u00bfQu\u00e9 l\u00edmite existe para el pago de salarios o prestaciones cuando una reclamaci\u00f3n es favorable a la persona trabajadora?",
+            "answer": "El pago se limita solo a los ciento ochenta d\u00edas anteriores a la fecha en que se interpuso la reclamaci\u00f3n, si la violaci\u00f3n fue relacionada con r\u00e9gimen salarial o de seguridad social a corto plazo."
+        }
+    ],
+    "40": [
+        {
+            "question": "\u00bfCu\u00e1l es el n\u00famero m\u00ednimo de trabajadores que debe tener una entidad para poder constituir un \u00d3rgano de Justicia Laboral?",
+            "answer": "El n\u00famero m\u00ednimo de trabajadores que debe tener una entidad para constituir un \u00d3rgano de Justicia Laboral es cincuenta, seg\u00fan la plantilla aprobada."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 situaciones se puede formar un \u00d3rgano de Justicia Laboral territorial en un municipio?",
+            "answer": "Un \u00d3rgano de Justicia Laboral territorial puede formarse cuando en un municipio hay centros de trabajo con menos de cincuenta trabajadores que dependen de la misma entidad."
+        },
+        {
+            "question": "\u00bfQu\u00e9 responsabilidad tienen los directores de Trabajo y Seguridad Social provinciales y municipales en relaci\u00f3n con el \u00d3rgano de Justicia Laboral?",
+            "answer": "Los directores de Trabajo y Seguridad Social provinciales y municipales controlan la constituci\u00f3n, completamiento y capacitaci\u00f3n del \u00d3rgano de Justicia Laboral junto con la organizaci\u00f3n sindical a su nivel."
+        },
+        {
+            "question": "\u00bfC\u00f3mo se eligen los miembros efectivos del \u00d3rgano de Justicia Laboral?",
+            "answer": "Los \u00f3rganos de Justicia Laboral se integran por cinco miembros efectivos, uno designado por el jefe de la entidad, otro por la organizaci\u00f3n sindical y tres elegidos en la Asamblea General de Afiliados y Trabajadores."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede cuando un \u00d3rgano de Justicia Laboral no puede funcionar debido a fuerza mayor u otras causas justificadas?",
+            "answer": "Cuando un \u00d3rgano de Justicia Laboral no puede funcionar por fuerza mayor u otras causas justificadas, el Director de Trabajo y Seguridad Social Municipal designa excepcionalmente otro \u00d3rgano para conocer las reclamaciones."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el per\u00edodo de mandato de los miembros del \u00d3rgano de Justicia Laboral?",
+            "answer": "Los miembros del \u00d3rgano de Justicia Laboral se eligen o designan por un per\u00edodo de dos a\u00f1os y medio."
+        },
+        {
+            "question": "\u00bfQu\u00e9 requisitos deben cumplir los miembros del \u00d3rgano de Justicia Laboral seg\u00fan la normativa?",
+            "answer": "Los miembros deben ser trabajadores de la entidad, tener buena actitud ante el trabajo, observar buena conducta social y no haber sido sancionados por violaciones de la disciplina laboral, salvo que se haya rehabilitado."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 situaciones pueden sustituirse los miembros del \u00d3rgano de Justicia Laboral?",
+            "answer": "Los miembros pueden ser sustituidos por incumplimiento de requisitos, renuncia, terminaci\u00f3n de la relaci\u00f3n laboral, o cuando existan conflictos de inter\u00e9s en los casos que se les asignen."
+        },
+        {
+            "question": "\u00bfQu\u00e9 funci\u00f3n tiene el Presidente del \u00d3rgano de Justicia Laboral seg\u00fan lo establecido?",
+            "answer": "El Presidente del \u00d3rgano de Justicia Laboral dirige el \u00f3rgano, convoca y conduce sus reuniones, as\u00ed como la comparecencia p\u00fablica en su ausencia."
+        },
+        {
+            "question": "\u00bfQu\u00e9 requisito se establece para que una Asamblea General de Afiliados y Trabajadores sea v\u00e1lida en la elecci\u00f3n del \u00d3rgano de Justicia Laboral?",
+            "answer": "Para que una Asamblea General sea v\u00e1lida, debe contar con la presencia de no menos del setenta y cinco por ciento de las personas trabajadoras."
+        }
+    ],
+    "41": [
+        {
+            "question": "\u00bfQu\u00e9 tipos de reclamaciones pueden presentarse ante el \u00d3rgano de Justicia Laboral seg\u00fan el art\u00edculo 408?",
+            "answer": "Seg\u00fan el art\u00edculo 408, las reclamaciones que pueden presentarse ante el \u00d3rgano de Justicia Laboral son aquellas en materia de disciplina o de derechos de trabajo."
+        },
+        {
+            "question": "\u00bfCu\u00e1les son los medios por los que una persona trabajadora puede presentar su reclamaci\u00f3n?",
+            "answer": "Una persona trabajadora puede presentar su reclamaci\u00f3n mediante un escrito con copia, o bien mediante una solicitud verbal de la cual se levanta acta."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derecho tiene la persona trabajadora para aportar pruebas en el proceso?",
+            "answer": "La persona trabajadora tiene derecho a aportar los medios de prueba que considere necesarios para hacer valer sus derechos y puede recibir asistencia jur\u00eddica durante la confecci\u00f3n de la reclamaci\u00f3n."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 plazo debe trasladarse la reclamaci\u00f3n al presidente o secretario del \u00d3rgano de Justicia Laboral?",
+            "answer": "El miembro del \u00d3rgano que recibe la reclamaci\u00f3n debe trasladarla al presidente o al secretario dentro de los tres d\u00edas h\u00e1biles posteriores a su recepci\u00f3n."
+        },
+        {
+            "question": "\u00bfQui\u00e9nes pueden representar a una persona trabajadora ante el \u00d3rgano de Justicia Laboral?",
+            "answer": "Una persona trabajadora puede ser representada por un dirigente sindical, un compa\u00f1ero de trabajo, el c\u00f3nyuge, miembro de una uni\u00f3n afectiva o un familiar dentro del cuarto grado de consanguinidad o segundo de afinidad."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede si el \u00d3rgano de Justicia Laboral considera que no es competente para conocer la reclamaci\u00f3n?",
+            "answer": "Si el \u00d3rgano considera que no es competente, que el asunto ya fue juzgado o que se present\u00f3 fuera del plazo establecido, puede emitir su decisi\u00f3n directamente mediante Acuerdo o realizar previamente pruebas e investigaciones."
+        },
+        {
+            "question": "\u00bfQu\u00e9 documentos se incluyen en la conformaci\u00f3n del expediente seg\u00fan el art\u00edculo 412?",
+            "answer": "El expediente incluye: el escrito de reclamaci\u00f3n, resoluci\u00f3n que impuso la medida disciplinaria, citaci\u00f3n a las partes y terceros afectados, acta de comparecencia, pruebas documentales, acuerdo numerado y cualquier otro documento relacionado con el asunto."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el plazo para efectuar la comparecencia p\u00fablica despu\u00e9s de la presentaci\u00f3n de la reclamaci\u00f3n?",
+            "answer": "La comparecencia p\u00fablica debe realizarse dentro de los diez d\u00edas h\u00e1biles siguientes a la fecha de presentaci\u00f3n de la reclamaci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 sucede si una parte no asiste a la comparecencia p\u00fablica y se considera injustificada su incomparecencia?",
+            "answer": "Si la incomparecencia es considerada injustificada, las actuaciones se archivan y el reclamante puede replantear el caso dentro de los plazos establecidos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipos de pruebas pueden ser admitidas durante la comparecencia seg\u00fan el art\u00edculo 417?",
+            "answer": "Las pruebas que pueden ser admitidas incluyen: declaraci\u00f3n de las partes, documentales, declaraci\u00f3n de testigos y dictamen de peritos."
+        }
+    ],
+    "42": [
+        {
+            "question": "\u00bfEn qu\u00e9 plazo puede presentarse una solicitud para anular una decisi\u00f3n firmada de un \u00f3rgano de Justicia Laboral?",
+            "answer": "La solicitud debe presentarse dentro de los noventa d\u00edas naturales siguientes a la fecha en que las decisiones ganaron firmeza."
+        },
+        {
+            "question": "\u00bfQui\u00e9nes tienen facultad para anular decisiones firmes de los \u00f3rganos de Justicia Laboral?",
+            "answer": "El Director de Trabajo y Seguridad Social, en los niveles municipales o provinciales, o los \u00f3rganos de la Fiscal\u00eda General de la Rep\u00fablica."
+        },
+        {
+            "question": "\u00bfBajo qu\u00e9 circunstancias se puede anular una decisi\u00f3n firmada por un \u00f3rgano de Justicia Laboral?",
+            "answer": "Cuando dicha decisi\u00f3n no est\u00e1 ajustada a lo previsto en la legislaci\u00f3n o cuando se adopta violando las normas y procedimientos establecidos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 efectos tiene la anulaci\u00f3n de una decisi\u00f3n seg\u00fan el art\u00edculo 424?",
+            "answer": "El \u00f3rgano de Justicia Laboral debe realizar una nueva comparecencia con la presencia de las partes involucradas, salvo en casos especiales."
+        },
+        {
+            "question": "\u00bfPueden las partes interponer un recurso judicial contra la nueva decisi\u00f3n del \u00f3rgano de Justicia Laboral?",
+            "answer": "S\u00ed, las partes pueden interponer una demanda a la v\u00eda judicial contra la nueva decisi\u00f3n."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 casos no se requiere celebrar una nueva comparecencia tras la anulaci\u00f3n?",
+            "answer": "Cuando por la naturaleza de la norma, procedimiento o disposici\u00f3n legal quebrantada, no sea necesario realizarla."
+        },
+        {
+            "question": "\u00bfQu\u00e9 prohibici\u00f3n existe respecto a la facultad de anular decisiones seg\u00fan el art\u00edculo 423?",
+            "answer": "Esta facultad no puede usarse para adecuar una medida disciplinaria aplicada, ni por cuestiones de apreciaci\u00f3n, ni como instancia para resolver un conflicto laboral."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de decisiones pueden ser anuladas seg\u00fan el art\u00edculo 423?",
+            "answer": "Decisiones firmes adoptadas por los \u00f3rganos de Justicia Laboral que no est\u00e1n ajustadas a la legislaci\u00f3n o que violan las normas y procedimientos establecidos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 debe contener una solicitud para anular una decisi\u00f3n de un \u00f3rgano judicial laboral?",
+            "answer": "La solicitud debe ser fundamentada y presentada por la parte que se considere afectada por la decisi\u00f3n."
+        },
+        {
+            "question": "\u00bfPuede la anulaci\u00f3n de una decisi\u00f3n derivar en una nueva resoluci\u00f3n del mismo \u00f3rgano?",
+            "answer": "S\u00ed, el \u00f3rgano de Justicia Laboral efect\u00faa una nueva comparecencia y emite una nueva decisi\u00f3n tras la anulaci\u00f3n."
+        }
+    ],
+    "43": [
+        {
+            "question": "\u00bfQu\u00e9 tipo de contratos pueden utilizarse para la contrataci\u00f3n temporal en las cooperativas agropecuarias?",
+            "answer": "Para la contrataci\u00f3n temporal en las cooperativas agropecuarias, se pueden utilizar contratos para la ejecuci\u00f3n de un trabajo u obra o por tiempo determinado, espec\u00edficamente para labores eventuales en picos de cosecha, siembra, labores culturales u otras actividades similares."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal de los contratos temporales mencionados en este art\u00edculo?",
+            "answer": "El prop\u00f3sito principal de estos contratos temporales es cubrir necesidades laborales eventuales en momentos espec\u00edficos del ciclo agr\u00edcola, como picos de cosecha, siembra o labores culturales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 regula los derechos y deberes de las personas trabajadoras contratadas seg\u00fan este art\u00edculo?",
+            "answer": "Los derechos y deberes de las personas trabajadoras contratadas, incluyendo seguridad social y r\u00e9gimen disciplinario, se rigen por lo establecido en el C\u00f3digo del Trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 disposiciones normativas espec\u00edficas menciona este art\u00edculo sobre la duraci\u00f3n del contrato?",
+            "answer": "Este art\u00edculo hace referencia a las disposiciones normativas espec\u00edficas que determinan el per\u00edodo de contrataci\u00f3n, aunque no se detallan en el texto proporcionado."
+        },
+        {
+            "question": "\u00bfPueden los productores agropecuarios vinculados a cooperativas contratar directamente personas trabajadoras?",
+            "answer": "S\u00ed, tanto las cooperativas agropecuarias como los productores agropecuarios vinculados o no a ellas pueden contratar directamente a personas trabajadoras seg\u00fan lo establecido en el art\u00edculo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de actividades se consideran similares a las mencionadas para la contrataci\u00f3n temporal?",
+            "answer": "Las actividades similares incluyen cualquier labor que requiera una intervenci\u00f3n temporal, como labores culturales, cosecha, siembra o otras tareas agr\u00edcolas espec\u00edficas."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el marco legal que regula la contrataci\u00f3n de trabajadores en este tipo de actividades?",
+            "answer": "La contrataci\u00f3n de trabajadores en estas actividades se rige por las disposiciones del C\u00f3digo del Trabajo, incluyendo aspectos relacionados con derechos laborales y seguridad social."
+        },
+        {
+            "question": "\u00bfQu\u00e9 implica la contrataci\u00f3n directa mencionada en el art\u00edculo para las cooperativas agropecuarias?",
+            "answer": "La contrataci\u00f3n directa implica que las cooperativas o productores pueden establecer acuerdos laborales sin necesidad de intermediarios, para realizar actividades espec\u00edficas durante periodos determinados."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de responsabilidades tienen las cooperativas agropecuarias hacia los trabajadores contratados?",
+            "answer": "Las cooperativas agropecuarias tienen la responsabilidad de garantizar a los trabajadores sus derechos laborales, incluyendo seguridad social, seg\u00fan lo establecido en el C\u00f3digo del Trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 beneficios ofrecen estos contratos temporales para las cooperativas y productores agropecuarios?",
+            "answer": "Estos contratos permiten a las cooperativas y productores cubrir necesidades laborales espec\u00edficas en momentos puntuales, sin comprometer recursos permanentes."
+        }
+    ],
+    "44": [
+        {
+            "question": "\u00bfQu\u00e9 tipo de contrataci\u00f3n pueden realizar las cooperativas no agropecuarias seg\u00fan el art\u00edculo 461?",
+            "answer": "Las cooperativas pueden contratar personas trabajadoras en el per\u00edodo establecido por disposiciones normativas espec\u00edficas, para actividades y tareas que no pueden asumir los socios."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el criterio principal para pactar la remuneraci\u00f3n de una persona trabajadora contratada por una cooperativa?",
+            "answer": "La remuneraci\u00f3n se pacta seg\u00fan la capacidad de la persona trabajadora y las competencias del cargo o actividad que desempe\u00f1a."
+        },
+        {
+            "question": "\u00bfQu\u00e9 requisito m\u00ednimo debe cumplir la remuneraci\u00f3n acordada entre la cooperativa y la persona trabajadora?",
+            "answer": "La remuneraci\u00f3n no puede ser inferior al salario m\u00ednimo del pa\u00eds."
+        },
+        {
+            "question": "\u00bfDe qu\u00e9 manera se abona la remuneraci\u00f3n a una persona trabajadora contratada por una cooperativa?",
+            "answer": "Se abona seg\u00fan la cantidad y calidad del trabajo realizado durante el per\u00edodo acordado."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de actividades pueden ser realizadas por las personas trabajadoras contratadas por una cooperativa seg\u00fan este art\u00edculo?",
+            "answer": "Las personas trabajadoras pueden realizar actividades y tareas que no pueden asumir los socios de la cooperativa."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito del establecer un salario m\u00ednimo en la remuneraci\u00f3n de las personas contratadas por una cooperativa?",
+            "answer": "El prop\u00f3sito es garantizar un nivel b\u00e1sico de ingreso que no sea inferior al salario m\u00ednimo del pa\u00eds, asegurando derechos laborales fundamentales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de acuerdo debe existir entre la cooperativa y la persona trabajadora para establecer su remuneraci\u00f3n?",
+            "answer": "Debe existir un acuerdo por escrito entre la cooperativa y la persona trabajadora sobre la remuneraci\u00f3n, considerando su capacidad y las competencias del cargo."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el marco legal que rige los derechos laborales de los socios en relaci\u00f3n con las personas contratadas?",
+            "answer": "Los derechos laborales de los socios se rigen por lo previsto en este C\u00f3digo, mientras que las personas trabajadoras est\u00e1n regidas por disposiciones espec\u00edficas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 periodo est\u00e1 determinado para la contrataci\u00f3n de personas trabajadoras por parte de las cooperativas seg\u00fan el art\u00edculo 461?",
+            "answer": "El per\u00edodo est\u00e1 establecido en disposiciones normativas espec\u00edficas, sin que se indique una duraci\u00f3n exacta en este art\u00edculo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 papel juega la capacidad y competencias del cargo en la determinaci\u00f3n de la remuneraci\u00f3n de las personas trabajadoras?",
+            "answer": "La capacidad y competencias del cargo o actividad que desempe\u00f1a la persona trabajadora son factores clave para pactar su remuneraci\u00f3n."
+        }
+    ],
+    "45": [
+        {
+            "question": "\u00bfQu\u00e9 tipo de derechos laborales garantiza el art\u00edculo 462 a las personas trabajadoras contratadas por los titulares del proyecto de desarrollo local?",
+            "answer": "El art\u00edculo 462 garantiza a las personas trabajadoras los mismos derechos y deberes que se establecen en el C\u00f3digo del Trabajo."
+        },
+        {
+            "question": "\u00bfA qui\u00e9n se refiere espec\u00edficamente el art\u00edculo 462 al mencionar 'los titulares del proyecto de desarrollo local'?",
+            "answer": "Se refiere a las entidades o individuos responsables de la implementaci\u00f3n y gesti\u00f3n de los proyectos de desarrollo local."
+        },
+        {
+            "question": "\u00bfQu\u00e9 relaci\u00f3n legal se establece entre las personas trabajadoras contratadas por los titulares del proyecto de desarrollo local y el C\u00f3digo del Trabajo?",
+            "answer": "Se establece que estas personas trabajadoras est\u00e1n sujetas a los derechos y deberes previstos en el C\u00f3digo del Trabajo."
+        },
+        {
+            "question": "\u00bfDe qu\u00e9 manera este art\u00edculo contribuye al marco normativo laboral en el contexto de proyectos de desarrollo local?",
+            "answer": "Este art\u00edculo aporta claridad legal sobre la regulaci\u00f3n de las relaciones laborales dentro de los proyectos de desarrollo local, asegurando que se respeten los derechos fundamentales del trabajador."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se entiende por 'contrataci\u00f3n laboral' en el contexto del art\u00edculo 462?",
+            "answer": "Se refiere al proceso mediante el cual las personas trabajadoras son incorporadas a la actividad de los titulares del proyecto de desarrollo local bajo un contrato de trabajo."
+        },
+        {
+            "question": "\u00bfPor qu\u00e9 es importante que este art\u00edculo mencione expl\u00edcitamente los derechos previstos en el C\u00f3digo del Trabajo?",
+            "answer": "Es importante para garantizar una igualdad de condiciones y protecci\u00f3n legal a las personas trabajadoras contratadas por los titulares del proyecto, independientemente de su naturaleza."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de responsabilidad tienen los titulares del proyecto de desarrollo local seg\u00fan este art\u00edculo?",
+            "answer": "Los titulares tienen la responsabilidad de cumplir con las normas establecidas en el C\u00f3digo del Trabajo respecto a las personas trabajadoras contratadas."
+        },
+        {
+            "question": "\u00bfEste art\u00edculo puede considerarse un instrumento para prevenir conflictos laborales en los proyectos de desarrollo local?",
+            "answer": "S\u00ed, al garantizar que se respeten los derechos laborales desde el inicio del contrato, este art\u00edculo act\u00faa como un mecanismo preventivo de conflictos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 consecuencias podr\u00eda tener la no aplicaci\u00f3n del art\u00edculo 462 en la contrataci\u00f3n laboral?",
+            "answer": "La no aplicaci\u00f3n podr\u00eda llevar a una violaci\u00f3n de los derechos laborales, generando conflictos legales y afectando la imagen institucional de los titulares del proyecto."
+        },
+        {
+            "question": "\u00bfQu\u00e9 otros elementos normativos pueden complementar el art\u00edculo 462 en la regulaci\u00f3n de las relaciones laborales?",
+            "answer": "Otros elementos como leyes espec\u00edficas sobre condiciones de trabajo, seguridad social y procedimientos de resoluci\u00f3n de conflictos pueden complementar este art\u00edculo."
+        }
+    ],
+    "46": [
+        {
+            "question": "\u00bfCu\u00e1l es el \u00f3rgano principal encargado de ejecutar la inspecci\u00f3n del trabajo seg\u00fan el art\u00edculo 509?",
+            "answer": "El \u00f3rgano principal encargado de ejecutar la inspecci\u00f3n del trabajo es la Oficina Nacional de Inspecci\u00f3n del Trabajo y sus filiales en los respectivos territorios."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de informaci\u00f3n debe proporcionarse tras los resultados de una inspecci\u00f3n laboral?",
+            "answer": "Debe suministrarse informaci\u00f3n al empleador, a la organizaci\u00f3n sindical correspondiente y a las personas trabajadoras."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre la prescripci\u00f3n de responsabilidad en caso de infracciones durante una inspecci\u00f3n?",
+            "answer": "La acci\u00f3n para exigir responsabilidad a los infractores del orden jur\u00eddico prescribe cuando la infracci\u00f3n y sus efectos o las causas est\u00e1n eliminados en el momento de la inspecci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 funci\u00f3n tienen los empleadores seg\u00fan el art\u00edculo 509?",
+            "answer": "Los empleadores tambi\u00e9n ejecutan el control del cumplimiento de la legislaci\u00f3n de trabajo y de seguridad social."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el objetivo principal de las inspecciones especializadas mencionadas en el art\u00edculo 509?",
+            "answer": "El objetivo principal de las inspecciones especializadas es garantizar el cumplimiento de los objetivos establecidos por las autoridades involucradas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se debe hacer si una infracci\u00f3n durante la inspecci\u00f3n puede derivar en responsabilidad penal?",
+            "answer": "El inspector debe informar a la autoridad que orden\u00f3 la realizaci\u00f3n de la inspecci\u00f3n para que formule la denuncia ante la autoridad correspondiente."
+        },
+        {
+            "question": "\u00bfQui\u00e9nes son considerados sujetos de inspecci\u00f3n del trabajo seg\u00fan el art\u00edculo 510?",
+            "answer": "Los sujetos de inspecci\u00f3n del trabajo son los empleadores radicados en el territorio nacional, independientemente del sector, y otros que establezca la ley."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el rol de las direcciones de Inspecci\u00f3n y Supervisi\u00f3n mencionadas en el art\u00edculo 509?",
+            "answer": "Las direcciones de Inspecci\u00f3n y Supervisi\u00f3n realizan inspecciones estatales sobre lo previsto en las disposiciones normativas espec\u00edficas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 ministerio es responsable de la medicina e higiene del trabajo seg\u00fan el art\u00edculo 509?",
+            "answer": "El Ministerio de Salud P\u00fablica es responsable de la medicina e higiene del trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre la integraci\u00f3n de autoridades para la ejecuci\u00f3n de inspecciones especializadas?",
+            "answer": "Las autoridades mencionadas pueden integrarse para la ejecuci\u00f3n de inspecciones especializadas con el fin de garantizar el cumplimiento de sus objetivos."
+        }
+    ],
+    "47": [
+        {
+            "question": "\u00bfQu\u00e9 tipo de infracciones se consideran generales seg\u00fan el art\u00edculo 511?",
+            "answer": "Seg\u00fan el art\u00edculo 511, las infracciones generales incluyen la vulneraci\u00f3n de los principios, derechos y garant\u00edas establecidos en la Constituci\u00f3n y en el C\u00f3digo del Trabajo, as\u00ed como el incumplimiento de acuerdos firmes, la obstaculizaci\u00f3n de la actuaci\u00f3n de inspectores y el no cumplimiento de medidas dispuestas por la inspecci\u00f3n del trabajo."
+        },
+        {
+            "question": "\u00bfCu\u00e1les son las infracciones relacionadas con el empleo y la contrataci\u00f3n de trabajo seg\u00fan el art\u00edculo 512?",
+            "answer": "Las infracciones en esta categor\u00eda incluyen el empleo de menores sin autorizaci\u00f3n, el incumplimiento en la celebraci\u00f3n o tipos de contrato laboral, la discriminaci\u00f3n laboral, la limitaci\u00f3n injustificada a la contrataci\u00f3n, el pluriempleo sin cumplir l\u00edmites legales y el no respetar dict\u00e1menes m\u00e9dicos o normas sobre seguros."
+        },
+        {
+            "question": "\u00bfQu\u00e9 infracciones se mencionan en relaci\u00f3n con la protecci\u00f3n a la trabajadora seg\u00fan el art\u00edculo 513?",
+            "answer": "Las infracciones incluyen el empleo de gestantes en cargos perjudiciales, obligar a realizaciones extraordinarias sin justificaci\u00f3n, no conceder licencias maternidad y terminar relaciones laborales por motivos relacionados con embarazo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se considera infracci\u00f3n del r\u00e9gimen de trabajo y descanso seg\u00fan el art\u00edculo 514?",
+            "answer": "Las infracciones incluyen jornadas laborales superiores a las permitidas, no garantizar el descanso diario o semanal, no cumplir con vacaciones anuales pagadas y incumplir normas sobre recesos en d\u00edas de conmemoraci\u00f3n nacional o feriados."
+        },
+        {
+            "question": "\u00bfCu\u00e1les son las infracciones relacionadas con la remuneraci\u00f3n seg\u00fan el art\u00edculo 515?",
+            "answer": "Las infracciones incluyen pagar salarios inferiores al m\u00ednimo, efectuar descuentos no autorizados, realizar pagos en formas no monetarias o fuera de plazos acordados y aplicar sistemas de pago sin aprobaci\u00f3n colectiva."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de infracciones se mencionan en relaci\u00f3n con la seguridad y salud en el trabajo seg\u00fan el art\u00edculo 516?",
+            "answer": "Las infracciones incluyen no cumplir con programas de prevenci\u00f3n de riesgos, no impartir instrucci\u00f3n sobre seguridad laboral, no informar accidentes mortales y no garantizar ex\u00e1menes m\u00e9dicos peri\u00f3dicos o equipos de protecci\u00f3n personal."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se considera infracci\u00f3n en materia de seguridad social seg\u00fan el art\u00edculo 517?",
+            "answer": "Las infracciones incluyen no pagar prestaciones por incapacidad temporal, no actualizar certificaciones de tiempo y salarios para fines de seguridad social y no tramitar jubilaciones cuando las soliciten los trabajadores."
+        },
+        {
+            "question": "\u00bfQu\u00e9 consecuencias pueden tener las violaciones a los derechos fundamentales en el \u00e1mbito laboral seg\u00fan la secci\u00f3n segunda?",
+            "answer": "Las violaciones a los derechos fundamentales en el \u00e1mbito laboral pueden derivar en sanciones legales, multas y acciones correctivas impuestas por la autoridad competente para garantizar el cumplimiento de las normativas establecidas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de acciones se consideran obstaculizaci\u00f3n del trabajo de los inspectores seg\u00fan el art\u00edculo 511?",
+            "answer": "Las acciones que impiden o dificultan la actuaci\u00f3n de los inspectores en el ejercicio de sus funciones, como no permitirles acceso a lugares laborales, negarse a proporcionar informaci\u00f3n requerida o interferir con su labor de inspecci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se entiende por 'pluriempleo' seg\u00fan el art\u00edculo 512?",
+            "answer": "'Pluriempleo' se refiere al hecho de que una persona trabajadora tenga m\u00e1s de un empleo simult\u00e1neamente, lo cual debe realizarse dentro del l\u00edmite de horas de trabajo establecido en la ley."
+        }
+    ],
+    "48": [
+        {
+            "question": "\u00bfQu\u00e9 tipo de medidas puede tomar directamente la Inspecci\u00f3n del Trabajo ante infracciones laborales?",
+            "answer": "La Inspecci\u00f3n del Trabajo est\u00e1 facultada para adoptar medidas como la obligaci\u00f3n de hacer, que implica disponer por escrito al infractor la ejecuci\u00f3n de actos encaminados a cesar las causas y efectos de la infracci\u00f3n dentro de un plazo m\u00e1ximo de treinta d\u00edas."
+        },
+        {
+            "question": "\u00bfQu\u00e9 acciones se realizan cuando se clausura un lugar o equipo durante una inspecci\u00f3n?",
+            "answer": "Cuando se clausura un lugar o equipo, se notifica mediante acta y se colocan sellos oficiales de clausura en lugares visibles del equipo, maquinaria, locales y centros clausurados, lo que paraliza la realizaci\u00f3n de la actividad."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el procedimiento para levantar una clausura temporal impuesta por la Inspecci\u00f3n del Trabajo?",
+            "answer": "El levantamiento de la clausura temporal se efect\u00faa en presencia del inspector, despu\u00e9s de eliminadas las causas y efectos de las condiciones inseguras que le dieron origen."
+        },
+        {
+            "question": "\u00bfQu\u00e9 medidas adicionales puede tomar la Inspecci\u00f3n del Trabajo ante infracciones graves?",
+            "answer": "Ante infracciones graves, se pueden aplicar medidas administrativas o disciplinarias a personas responsables, suspensi\u00f3n de licencias o autorizaciones para operar, y en casos extremos, el inicio de un proceso penal si se detectan presuntos hechos delictivos."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 plazo debe presentarse una denuncia ante las autoridades penales por parte de la Inspecci\u00f3n del Trabajo?",
+            "answer": "La denuncia a las autoridades penales debe presentarse en un plazo de diez d\u00edas h\u00e1biles contados a partir de concluido el acto de inspecci\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se incluye en la notificaci\u00f3n del resultado de una inspecci\u00f3n laboral?",
+            "answer": "La notificaci\u00f3n debe incluir la disposici\u00f3n infringida, la medida aplicada y su plazo de cumplimiento, el car\u00e1cter recurrible de la decisi\u00f3n, la autoridad facultada para conocer el recurso, as\u00ed como la forma y plazo para presentarlo."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el procedimiento para interponer un recurso de apelaci\u00f3n ante una medida impuesta por la Inspecci\u00f3n del Trabajo?",
+            "answer": "La inconformidad con los resultados de la inspecci\u00f3n se presenta mediante escrito fundamentado dentro de diez d\u00edas h\u00e1biles a partir de la notificaci\u00f3n, ante el Director General o directores de filiales territoriales, seg\u00fan corresponda."
+        },
+        {
+            "question": "\u00bfQu\u00e9 ocurre si una entidad no cumple con las medidas impuestas por la Inspecci\u00f3n del Trabajo?",
+            "answer": "Si no se cumplen las medidas impuestas, se solicita a las autoridades competentes la imposici\u00f3n de multas al jefe de la entidad que haya incumplido las disposiciones."
+        },
+        {
+            "question": "\u00bfQu\u00e9 funciones tiene la Inspecci\u00f3n del Trabajo en materia preventiva y asistencial?",
+            "answer": "La Inspecci\u00f3n del Trabajo tambi\u00e9n tiene funciones como facilitar informaci\u00f3n t\u00e9cnica, asesorar a empleadores y trabajadores sobre cumplimiento legal y atender quejas o denuncias recibidas por organizaciones sindicales o personas trabajadoras."
+        },
+        {
+            "question": "\u00bfQu\u00e9 pasa si el jefe de una entidad no facilita la documentaci\u00f3n solicitada durante una inspecci\u00f3n?",
+            "answer": "El jefe de la entidad inspeccionada est\u00e1 obligado a facilitar la documentaci\u00f3n, brindar informaci\u00f3n y pruebas requeridas; de no hacerlo, se considerar\u00e1 un obstaculizamiento en la actuaci\u00f3n de los inspectores."
+        }
+    ]
+}
