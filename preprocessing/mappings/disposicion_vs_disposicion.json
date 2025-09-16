@@ -1,0 +1,348 @@
+{
+    "pairs": [
+        {
+            "Project_Law": {
+                "id": "1",
+                "title": "PRIMERA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "1",
+                    "similarity": 0.7489
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "2",
+                "title": "SEGUNDA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "1",
+                    "similarity": 0.68
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "3",
+                "title": "TERCERA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "1",
+                    "similarity": 0.825
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "4",
+                "title": "CUARTA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "5",
+                    "similarity": 0.5771
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "5",
+                "title": "QUINTA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "5",
+                    "similarity": 0.5772
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "6",
+                "title": "SEXTA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "5",
+                    "similarity": 0.6291
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "7",
+                "title": "SÉPTIMA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "5",
+                    "similarity": 0.5423
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "8",
+                "title": "OCTAVA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "9",
+                    "similarity": 0.8997
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "9",
+                "title": "NOVENA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "8",
+                    "similarity": 0.8365
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "10",
+                "title": "DÉCIMA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "8",
+                    "similarity": 0.4818
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "11",
+                "title": "PRIMERA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "3",
+                    "similarity": 0.5719
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "12",
+                "title": "SEGUNDA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "7",
+                    "similarity": 0.5387
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "13",
+                "title": "TERCERA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "3",
+                    "similarity": 0.5519
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "14",
+                "title": "CUARTA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "4",
+                    "similarity": 0.4799
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "15",
+                "title": "QUINTA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "5",
+                    "similarity": 0.6266
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "16",
+                "title": "SEXTA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "5",
+                    "similarity": 0.6227
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "17",
+                "title": "SÉPTIMA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "5",
+                    "similarity": 0.8041
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "18",
+                "title": "OCTAVA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "5",
+                    "similarity": 0.6383
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "19",
+                "title": "NOVENA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "5",
+                    "similarity": 0.7576
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "20",
+                "title": "DÉCIMA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "5",
+                    "similarity": 0.5121
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "21",
+                "title": "UNDÉCIMA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "5",
+                    "similarity": 0.5741
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "22",
+                "title": "DECIMOSEGUNDA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "5",
+                    "similarity": 0.9444
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "23",
+                "title": "PRIMERA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "7",
+                    "similarity": 0.8939
+                },
+                {
+                    "id": "3",
+                    "similarity": 0.742
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "24",
+                "title": "SEGUNDA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "3",
+                    "similarity": 0.9159
+                },
+                {
+                    "id": "7",
+                    "similarity": 0.7186
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "25",
+                "title": "TERCERA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "3",
+                    "similarity": 0.587
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "26",
+                "title": "CUARTA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "10",
+                    "similarity": 0.699
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "27",
+                "title": "QUINTA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "10",
+                    "similarity": 0.7165
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "28",
+                "title": "SEXTA"
+            },
+            "Actual_Law": [
+                {
+                    "id": "11",
+                    "similarity": 0.9125
+                }
+            ]
+        }
+    ]
+}

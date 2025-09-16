@@ -1,0 +1,96 @@
+{
+    "pairs": [
+        {
+            "Project_Law": {
+                "id": "1",
+                "title": "Elemento 1"
+            },
+            "Actual_Law": [
+                {
+                    "id": "1",
+                    "similarity": 0.9916
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "2",
+                "title": "Elemento 2"
+            },
+            "Actual_Law": [
+                {
+                    "id": "7",
+                    "similarity": 0.798
+                },
+                {
+                    "id": "2",
+                    "similarity": 0.7602
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "3",
+                "title": "Elemento 3"
+            },
+            "Actual_Law": [
+                {
+                    "id": "3",
+                    "similarity": 0.6094
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "4",
+                "title": "Elemento 4"
+            },
+            "Actual_Law": [
+                {
+                    "id": "4",
+                    "similarity": 0.7158
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "5",
+                "title": "Elemento 5"
+            },
+            "Actual_Law": [
+                {
+                    "id": "5",
+                    "similarity": 0.6234
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "6",
+                "title": "Elemento 6"
+            },
+            "Actual_Law": [
+                {
+                    "id": "5",
+                    "similarity": 0.8894
+                },
+                {
+                    "id": "3",
+                    "similarity": 0.7294
+                }
+            ]
+        },
+        {
+            "Project_Law": {
+                "id": "7",
+                "title": "Elemento 7"
+            },
+            "Actual_Law": [
+                {
+                    "id": "7",
+                    "similarity": 0.8961
+                }
+            ]
+        }
+    ]
+}
