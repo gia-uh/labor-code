@@ -1,44 +1,170 @@
 {
+    "1": [
+        {
+            "question": "\u00bfCu\u00e1l es el objetivo principal del C\u00f3digo de Trabajo Cubano seg\u00fan el Art\u00edculo 1?",
+            "answer": "El objetivo principal del C\u00f3digo de Trabajo Cubano, seg\u00fan el Art\u00edculo 1, es regular las relaciones laborales entre empleadores y trabajadores, garantizar el derecho al empleo digno, promover la participaci\u00f3n de los trabajadores en la gesti\u00f3n econ\u00f3mica y proteger sus derechos."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el fundamento principal del C\u00f3digo seg\u00fan el Art\u00edculo 2?",
+            "answer": "El fundamento principal del C\u00f3digo, seg\u00fan el Art\u00edculo 2, es basarse en la Constituci\u00f3n Cubana y reconocer al trabajo como un derecho fundamental, un deber social, un motivo de honor y una fuente principal de ingresos para el desarrollo del pa\u00eds."
+        },
+        {
+            "question": "\u00bfA qui\u00e9n se aplica el C\u00f3digo de Trabajo seg\u00fan el Art\u00edculo 3?",
+            "answer": "El C\u00f3digo se aplica a trabajadores cubanos en el territorio nacional, extranjeros con residencia permanente u otras formas de estancia, y tambi\u00e9n a cubanos que trabajan en el extranjero (con excepciones por ley o convenios bilaterales)."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se entiende por 'persona trabajadora aut\u00f3noma' seg\u00fan el Art\u00edculo 9?",
+            "answer": "'Persona trabajadora aut\u00f3noma' se define como aquella que trabaja por cuenta propia sin emplear a otros trabajadores."
+        },
+        {
+            "question": "\u00bfCu\u00e1les son algunos de los principios fundamentales del C\u00f3digo seg\u00fan el Art\u00edculo 10?",
+            "answer": "Algunos de los principios fundamentales incluyen la irrenunciabilidad de los derechos laborales, la progresividad de los derechos, el principio protectorio y la estabilidad laboral."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se entiende por 'empleo digno' seg\u00fan el Art\u00edculo 11?",
+            "answer": "'Empleo digno' se define como aquel que garantiza igualdad en oportunidades, remuneraciones justas, condiciones de trabajo seguras y protecci\u00f3n social."
+        },
+        {
+            "question": "\u00bfQu\u00e9 art\u00edculos proh\u00edben la violencia, el acoso y la discriminaci\u00f3n laboral?",
+            "answer": "Los art\u00edculos 12 al 13 del C\u00f3digo proh\u00edben la violencia, acoso y discriminaci\u00f3n laboral, as\u00ed como el trabajo forzoso con excepciones en casos como servicio militar u obligaciones c\u00edvicas."
+        },
+        {
+            "question": "\u00bfCu\u00e1les son algunos de los derechos que tienen los trabajadores seg\u00fan el Art\u00edculo 16?",
+            "answer": "Los trabajadores tienen derecho a un empleo digno, condiciones seguras, remuneraci\u00f3n justa, capacitaci\u00f3n, descanso y protecci\u00f3n social."
+        },
+        {
+            "question": "\u00bfQu\u00e9 obligaciones tiene el empleador seg\u00fan los art\u00edculos 18 al 22?",
+            "answer": "El empleador debe garantizar condiciones de trabajo seguras, no tolerar discriminaci\u00f3n ni acoso, informar a los trabajadores y contratar una p\u00f3liza de seguro para proteger los ingresos de los trabajadores en situaciones de desempleo."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal de las organizaciones sindicales seg\u00fan los art\u00edculos 23 al 25?",
+            "answer": "El prop\u00f3sito principal de las organizaciones sindicales y de empleadores es actuar con fines pac\u00edficos, colaborar en la defensa de intereses comunes y participar en la elaboraci\u00f3n de leyes laborales."
+        }
+    ],
+    "2": [
+        {
+            "question": "\u00bfA qu\u00e9 edad se adquiere la capacidad jur\u00eddica para trabajar seg\u00fan el anteproyecto de la Ley del Trabajo Cubana?",
+            "answer": "La capacidad jur\u00eddica para trabajar se adquiere a los 18 a\u00f1os, salvo en casos excepcionales donde adolescentes de entre 15 y 17 a\u00f1os pueden incorporarse al trabajo con autorizaci\u00f3n del Director Municipal de Trabajo y Seguridad Social, as\u00ed como el consentimiento de los padres o tutores."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipos de contratos laborales se mencionan en el Cap\u00edtulo II del anteproyecto?",
+            "answer": "Los tipos de contratos laborales mencionados incluyen: por tiempo indeterminado, por tiempo determinado (para labores eventuales, sustituciones o cursos de capacitaci\u00f3n), y para ejecutar una obra o trabajo espec\u00edfico."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el m\u00e1ximo de horas diarias permitidas para trabajadores en pluriempleo seg\u00fan el anteproyecto?",
+            "answer": "El m\u00e1ximo de horas diarias permitidas para trabajadores en pluriempleo es de 13 horas, siempre que se garantice el descanso activo y familiar."
+        },
+        {
+            "question": "\u00bfQu\u00e9 mecanismos se establecen para la evaluaci\u00f3n del desempe\u00f1o laboral seg\u00fan el Cap\u00edtulo IV?",
+            "answer": "Se establece una evaluaci\u00f3n anual del trabajo, la cual puede resultar en promociones, reubicaciones o incluso en la terminaci\u00f3n de la relaci\u00f3n laboral si no se mantiene la capacidad demostrada. Este proceso incluye la participaci\u00f3n del Comit\u00e9 de Expertos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 documentos deben incluirse en el expediente laboral seg\u00fan el Cap\u00edtulo V?",
+            "answer": "El expediente laboral debe incluir contratos, nombramientos, certificaciones y remuneraciones, as\u00ed como documentos relacionados con evaluaciones y sanciones. Puede ser digital o en papel."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la duraci\u00f3n m\u00e1xima del periodo de prueba seg\u00fan el Cap\u00edtulo II?",
+            "answer": "La duraci\u00f3n m\u00e1xima del periodo de prueba se establece entre 30 y 180 d\u00edas, dependiendo del tipo de cargo. No se requiere en contratos temporales o por obra."
+        },
+        {
+            "question": "\u00bfQu\u00e9 beneficios fiscales recibe un empleador que contrata a personas con discapacidad?",
+            "answer": "Los empleadores que contratan a personas con discapacidad reciben beneficios fiscales, adem\u00e1s de la aplicaci\u00f3n de ajustes razonables en el puesto de trabajo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 se establece sobre el derecho del trabajador a revisar su expediente laboral seg\u00fan el Cap\u00edtulo VI?",
+            "answer": "El trabajador tiene derecho a examinar su expediente laboral al menos una vez al a\u00f1o. El empleador debe organizar esta revisi\u00f3n y firmar un documento que acredite el tiempo de servicio y remuneraciones."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el plazo para notificar la terminaci\u00f3n del contrato laboral seg\u00fan el Cap\u00edtulo VIII?",
+            "answer": "El empleador debe notificar con anticipaci\u00f3n: 15 d\u00edas para contratos temporales, 30 d\u00edas para indefinidos. En caso de terminaci\u00f3n unilateral, se requiere fundamentar legalmente la decisi\u00f3n."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de trabajo est\u00e1 prohibido para los adolescentes entre 15 y 18 a\u00f1os seg\u00fan el T\u00edtulo II?",
+            "answer": "Los adolescentes entre 15 y 18 a\u00f1os no pueden trabajar en labores que involucren riesgos f\u00edsicos o psicol\u00f3gicos, venta de alcohol, trabajo ambulante, nocturnidad, bajo tierra, en alturas peligrosas, espacios cerrados, o est\u00e9n expuestos a cargas pesadas, sustancias peligrosas, temperaturas extremas o niveles de ruido/vibraciones perjudiciales."
+        }
+    ],
+    "3": [
+        {
+            "question": "\u00bfQu\u00e9 art\u00edculo garantiza la libertad sindical en el Anteproyecto de la Ley del Trabajo Cubana?",
+            "answer": "El Art\u00edculo 474 garantiza la libertad sindical, estableciendo que las organizaciones sindicales no pueden ser intervenidas ni disueltas administrativamente."
+        },
+        {
+            "question": "\u00bfCu\u00e1les son los principios b\u00e1sicos de las organizaciones sindicales seg\u00fan el Art\u00edculo 474?",
+            "answer": "Los principios b\u00e1sicos incluyen la libertad sindical, la autotutela, la autoregulaci\u00f3n y la participaci\u00f3n activa en la toma de decisiones."
+        },
+        {
+            "question": "\u00bfQu\u00e9 derecho tienen las organizaciones sindicales seg\u00fan el Art\u00edculo 475?",
+            "answer": "Seg\u00fan el Art\u00edculo 475, las organizaciones sindicales tienen derecho a representar, defender e impulsar mejoras en condiciones laborales, as\u00ed como participar en la planificaci\u00f3n y gesti\u00f3n econ\u00f3mica."
+        },
+        {
+            "question": "\u00bfQu\u00e9 art\u00edculo establece los deberes de las organizaciones sindicales?",
+            "answer": "El Art\u00edculo 476 establece que las organizaciones sindicales deben promover educaci\u00f3n, exigir el cumplimiento de la legislaci\u00f3n laboral y fomentar la eficiencia y productividad en las entidades."
+        },
+        {
+            "question": "\u00bfQu\u00e9 garant\u00edas se ofrecen a los dirigentes sindicales seg\u00fan el Art\u00edculo 478?",
+            "answer": "El Art\u00edculo 478 establece que los dirigentes sindicales no pueden ser discriminados ni perjudicados por su actividad sindical, y se les garantiza tiempo, recursos y participaci\u00f3n en procesos de gesti\u00f3n."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal de la participaci\u00f3n activa de las personas trabajadoras seg\u00fan el Art\u00edculo 481?",
+            "answer": "El Art\u00edculo 481 establece que el prop\u00f3sito principal es mejorar los resultados laborales y promover el progreso de derechos sociales y econ\u00f3micos mediante la participaci\u00f3n activa de las personas trabajadoras."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipos de participaci\u00f3n se mencionan en el Art\u00edculo 484?",
+            "answer": "El Art\u00edculo 484 menciona tres tipos de participaci\u00f3n: individual, colectiva e indirecta. La colectiva incluye asambleas y comit\u00e9s consultivos, mientras que la indirecta implica representantes sindicales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 art\u00edculo establece los temas indispensables para la participaci\u00f3n activa seg\u00fan el Anteproyecto?",
+            "answer": "El Art\u00edculo 486 establece que los temas indispensables incluyen planificaci\u00f3n econ\u00f3mica, organizaci\u00f3n salarial y distribuci\u00f3n de utilidades, as\u00ed como evaluaci\u00f3n del cumplimiento de objetivos."
+        },
+        {
+            "question": "\u00bfQu\u00e9 art\u00edculo regula el proceso de elaboraci\u00f3n de convenios colectivos?",
+            "answer": "El Art\u00edculo 492 establece los lineamientos generales para la negociaci\u00f3n colectiva a nivel nacional y provincial, destacando la participaci\u00f3n del trabajador en el proceso."
+        },
+        {
+            "question": "\u00bfC\u00f3mo se resuelven los desacuerdos sobre convenios colectivos seg\u00fan el Anteproyecto?",
+            "answer": "Seg\u00fan el Art\u00edculo 500, en caso de desacuerdo sobre el convenio colectivo, se puede recurrir al arbitraje ante la Oficina Nacional de Inspecci\u00f3n del Trabajo."
+        }
+    ],
     "4": [
         {
-            "question": "\u00bfQu\u00e9 tipo de funciones se asignan al Servicio de Gesti\u00f3n de Empleo Territorial?",
-            "answer": "El Servicio de Gesti\u00f3n de Empleo Territorial tiene como funci\u00f3n facilitar el acceso a empleos dignos, fortalecer la capacidad del gobierno en la generaci\u00f3n de empleos, estimular la participaci\u00f3n de personas inactivas y proponer programas de formaci\u00f3n y capacitaci\u00f3n para el empleo."
+            "question": "\u00bfQu\u00e9 es el Sistema de Administraci\u00f3n del Trabajo seg\u00fan el Art\u00edculo 503?",
+            "answer": "El Sistema de Administraci\u00f3n del Trabajo incluye las actividades de la administraci\u00f3n p\u00fablica relacionadas con la pol\u00edtica nacional del trabajo, y est\u00e1 encargado de formular, aplicar y supervisar normativas laborales, desarrollar el empleo y el capital humano, as\u00ed como realizar estudios e investigaciones sobre el trabajo."
         },
         {
-            "question": "\u00bfCu\u00e1les son los principales objetivos del Sistema de Administraci\u00f3n del Trabajo?",
-            "answer": "Los principales objetivos incluyen la formulaci\u00f3n, aplicaci\u00f3n y supervisi\u00f3n de las disposiciones normativas nacionales en materia laboral, el desarrollo del empleo y del capital humano, as\u00ed como la realizaci\u00f3n de estudios, investigaciones y estad\u00edsticas sobre el trabajo."
+            "question": "\u00bfCu\u00e1l es la funci\u00f3n del Servicio de Gesti\u00f3n de Empleo Territorial?",
+            "answer": "El Servicio de Gesti\u00f3n de Empleo Territorial facilita el acceso al empleo y est\u00e1 sujeto al control del Ministerio de Trabajo y Seguridad Social."
         },
         {
-            "question": "\u00bfQu\u00e9 funciones espec\u00edficas tiene la Oficina Nacional de Inspecci\u00f3n del Trabajo?",
-            "answer": "La Oficina Nacional de Inspecci\u00f3n del Trabajo se encarga de controlar el cumplimiento de la legislaci\u00f3n laboral y de seguridad social, investigar accidentes mortales en el trabajo, organizar arbitraje en conflictos colectivos, brindar asesor\u00eda t\u00e9cnica a empleadores y trabajadores, y atender quejas y denuncias."
+            "question": "\u00bfQui\u00e9nes participan en la elaboraci\u00f3n de las pol\u00edticas laborales seg\u00fan el Art\u00edculo 506?",
+            "answer": "Las pol\u00edticas laborales se elaboran con participaci\u00f3n efectiva de empleadores y organizaciones sindicales."
         },
         {
-            "question": "\u00bfQu\u00e9 tipo de infracciones se consideran en la protecci\u00f3n a la trabajadora?",
-            "answer": "Se consideran infracciones si se emplea o mantiene a una trabajadora gestante en cargos perjudiciales, se le obliga a realizar trabajo extraordinario, no se conceden licencias maternidad retribuidas, y se termina la relaci\u00f3n de trabajo por motivos relacionados con el embarazo."
+            "question": "\u00bfQu\u00e9 responsabilidades tiene el Ministerio de Trabajo y Seguridad Social seg\u00fan el Art\u00edculo 505?",
+            "answer": "El Ministerio es responsable nacional de la pol\u00edtica laboral, prevenci\u00f3n, asistencia y seguridad social. Adem\u00e1s, coordina pol\u00edticas nacionales del empleo, estudia la situaci\u00f3n laboral de las personas, brinda asesoramiento t\u00e9cnico a empleadores y trabajadores, y participa en el desarrollo de recursos humanos."
         },
         {
-            "question": "\u00bfQu\u00e9 elementos definen al Capital Humano seg\u00fan la ley?",
-            "answer": "El Capital Humano se define como el conjunto de conocimientos, experiencias, habilidades, sentimientos, actitudes, motivaciones, valores y capacidad que poseen las personas trabajadoras para crear riqueza con eficiencia."
+            "question": "\u00bfQu\u00e9 tipos de infracciones se mencionan en los art\u00edculos 511\u2013517?",
+            "answer": "Los art\u00edculos 511\u2013517 mencionan varios tipos de infracciones, incluyendo generales, en el empleo, protecci\u00f3n a la trabajadora, r\u00e9gimen laboral, remuneraci\u00f3n, seguridad y salud, as\u00ed como seguridad social."
         },
         {
-            "question": "\u00bfCu\u00e1l es la funci\u00f3n principal del Ministerio de Trabajo y Seguridad Social en el Sistema de Administraci\u00f3n del Trabajo?",
-            "answer": "El Ministerio de Trabajo y Seguridad Social es la autoridad nacional encargada de proponer, dirigir y controlar la pol\u00edtica del Estado en materia laboral, prevenci\u00f3n, asistencia, trabajo social y seguridad social."
+            "question": "\u00bfQu\u00e9 es el Capital Humano seg\u00fan el Art\u00edculo 524?",
+            "answer": "El Capital Humano se define como el conjunto de conocimientos, habilidades, valores y motivaciones que permiten a las personas trabajar eficientemente."
         },
         {
-            "question": "\u00bfQu\u00e9 medidas puede aplicar la Inspecci\u00f3n del Trabajo cuando se detecta una infracci\u00f3n?",
-            "answer": "La Inspecci\u00f3n del Trabajo puede aplicar medidas como la obligaci\u00f3n de hacer, la clausura temporal de actividades peligrosas, y en casos graves, solicitar multas o iniciar procesos penales."
+            "question": "\u00bfCu\u00e1l es la funci\u00f3n de la Oficina Nacional de Inspecci\u00f3n del Trabajo seg\u00fan los art\u00edculos 518\u2013523?",
+            "answer": "La Oficina Nacional de Inspecci\u00f3n del Trabajo tiene facultades para imponer medidas como obligaci\u00f3n de hacer o clausura, aplicar sanciones administrativas, disciplinarias o penales, y proporcionar notificaciones oficiales y recursos legales."
         },
         {
-            "question": "\u00bfQu\u00e9 tipos de infracciones se mencionan relacionadas con la remuneraci\u00f3n del trabajador?",
-            "answer": "Las infracciones incluyen pagar salarios inferiores al m\u00ednimo, no garantizar el pago en moneda legal, realizar descuentos superiores a lo permitido por ley y aplicar formas de pago no autorizadas."
+            "question": "\u00bfQu\u00e9 mecanismos se establecen en el Art\u00edculo 504 para la organizaci\u00f3n y coordinaci\u00f3n de las autoridades laborales?",
+            "answer": "El Art\u00edculo 504 establece la necesidad de consulta y cooperaci\u00f3n entre el Ministerio de Trabajo y Seguridad Social, los mecanismos de representaci\u00f3n de trabajadores y empleadores, para tomar decisiones en materia laboral, recopilar informaciones t\u00e9cnicas y analizar tendencias."
         },
         {
-            "question": "\u00bfCu\u00e1l es la responsabilidad del Ministerio de Salud P\u00fablica dentro del Sistema de Inspecci\u00f3n del Trabajo?",
-            "answer": "El Ministerio de Salud P\u00fablica est\u00e1 facultado para realizar inspecciones en materia de medicina e higiene del trabajo."
+            "question": "\u00bfQu\u00e9 grupos vulnerables prioriza el Servicio de Gesti\u00f3n de Empleo Territorial seg\u00fan el Art\u00edculo 508?",
+            "answer": "El Servicio de Gesti\u00f3n de Empleo Territorial prioriza el acceso al empleo para grupos vulnerables como j\u00f3venes, mujeres, discapacitados y otros colectivos similares."
         },
         {
-            "question": "\u00bfQu\u00e9 se entiende por gesti\u00f3n del Capital Humano seg\u00fan el texto?",
-            "answer": "La gesti\u00f3n del Capital Humano es un proceso que integra actividades coordinadas para dirigir y controlar una organizaci\u00f3n con enfoque en las competencias laborales, el talento y la capacidad de aprendizaje de sus trabajadores."
+            "question": "\u00bfQui\u00e9nes est\u00e1n sujetos a la inspecci\u00f3n del trabajo seg\u00fan el Art\u00edculo 510?",
+            "answer": "Todos los empleadores en el territorio nacional est\u00e1n sujetos a la inspecci\u00f3n del trabajo. Los resultados se notifican al empleador, sindicatos y trabajadores."
         }
     ]
 }
