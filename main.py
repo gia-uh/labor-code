@@ -1,4 +1,5 @@
 import os
+import json
 import streamlit as st
 from ldap3 import Server, Connection, ALL, SUBTREE
 from dotenv import load_dotenv
@@ -7,6 +8,23 @@ import hashlib
 from pydantic import BaseModel
 
 load_dotenv()
+
+st.session_state.bopened = None
+st.session_state.btype = None
+
+
+def load_json_files_from_directory(directory_path):
+    json_dict = {}
+    # Listar todos los ficheros en el directorio
+    for filename in os.listdir(directory_path):
+        # Comprobar que es un fichero JSON
+        if filename.endswith(".json"):
+            full_path = os.path.join(directory_path, filename)
+            with open(full_path, "r", encoding="utf-8") as f:
+                content = json.load(f)
+                name_without_extension = os.path.splitext(filename)[0]
+                json_dict[name_without_extension] = content
+    return json_dict
 
 
 class Query(str, Enum):
@@ -98,13 +116,14 @@ def logout():
     st.rerun()
 
 
-
-
 login_page = st.Page(login, title="Log in", icon=":material/login:")
 logout_page = st.Page(logout, title="Log out", icon=":material/logout:")
 intro_page = st.Page("pages/intro.py", title="Inicio", icon=":material/home:")
 ideas_page = st.Page("pages/ideas.py", title="Fundamentos", icon=":material/layers:")
-project_page = st.Page("pages/project.py", title="Anteproyecto", icon=":material/menu_book:")
+question_page = st.Page("pages/questions.py", title="FAQs", icon=":material/help_outline:")
+project_page = st.Page(
+    "pages/project.py", title="Anteproyecto", icon=":material/menu_book:"
+)
 chat_page = st.Page("pages/chat.py", title="Asistente", icon=":material/chat_bubble:")
 search_page = st.Page("pages/search.py", title="Buscar", icon=":material/search:")
 
@@ -113,14 +132,17 @@ search_page = st.Page("pages/search.py", title="Buscar", icon=":material/search:
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
 
-
-
 # Main app logic
 if not st.session_state.logged_in:
     pg = st.navigation([login_page])
 else:
+    with st.spinner("Wait for it...", show_time=True):
+        project = load_json_files_from_directory(st.secrets["dirs"]["project"]["law"])
+        intro =  load_json_files_from_directory(st.secrets["dirs"]["project"]["intro"])
+        st.session_state["project"] = project
+        st.session_state["intro"] = intro
     pg = st.navigation(
-        [intro_page,ideas_page,project_page,chat_page, search_page,logout_page]
+        [intro_page, ideas_page, project_page, chat_page,question_page, search_page, logout_page]
     )
 
 pg.run()
