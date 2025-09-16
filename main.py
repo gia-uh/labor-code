@@ -1,4 +1,5 @@
 import os
+import json
 import streamlit as st
 from ldap3 import Server, Connection, ALL, SUBTREE
 from dotenv import load_dotenv
@@ -7,6 +8,25 @@ import hashlib
 from pydantic import BaseModel
 
 load_dotenv()
+
+st.session_state.bopened = None
+st.session_state.btype = None
+
+def load_json_files_from_directory(directory_path):
+    json_dict = {}
+    # Listar todos los ficheros en el directorio
+    for filename in os.listdir(directory_path):
+        # Comprobar que es un fichero JSON
+        if filename.endswith('.json'):
+            full_path = os.path.join(directory_path, filename)
+            with open(full_path, 'r', encoding='utf-8') as f:
+                content = json.load(f)
+                name_without_extension = os.path.splitext(filename)[0]
+                json_dict[name_without_extension] = content
+    return json_dict
+
+
+
 
 
 class Query(str, Enum):
@@ -119,6 +139,9 @@ if "logged_in" not in st.session_state:
 if not st.session_state.logged_in:
     pg = st.navigation([login_page])
 else:
+    with st.spinner("Wait for it...", show_time=True):
+        project = load_json_files_from_directory(st.secrets["dirs"]["project"]["law"])
+        st.session_state["project"] = project
     pg = st.navigation(
         [intro_page,ideas_page,project_page,chat_page, search_page,logout_page]
     )
