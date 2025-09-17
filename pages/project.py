@@ -79,10 +79,10 @@ def user_interaction(action: str, id: str):
         label_visibility="collapsed",
         #on_change= lambda: st.session_state.update({key: st.session_state[key]})
     )
-    if user_input not in [None,""]:
+    if st.button("Submit") and user_input not in [None,""]:
         save_user_action(user_input,action,st.session_state.username,id)
         user_input = ""
-    #st.rerun()
+        st.rerun()
 
 
 
