@@ -83,7 +83,8 @@ def check_user(user: User):
             return Query.ERROR_PASSWORD
         else:
             return Query.ERROR_SERVICE
-
+        
+            
 
 def login():
     st.title("Login")

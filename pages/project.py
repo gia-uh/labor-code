@@ -1,5 +1,8 @@
+from pathlib import Path
 import streamlit as st
-
+import uuid
+import json
+import os
 
 bopened = st.session_state.bopened
 btype = st.session_state.btype
@@ -64,9 +67,82 @@ def get_block_provisions(block):
             bprovs.append((id, provision))
     return bprovs
 
-def render_paragraph(id):
-    st.markdown(pars[id])
+@st.dialog(" ",on_dismiss="rerun")
+def user_interaction(action: str, id: str):
+    key = f"user_vote_{action}"
+    user_input = st.text_area(
+        f"{action.capitalize()}",
+        height=300,
+        width=500,
+        key= key,
+        placeholder="Por favor introduzca su idea aquí...",
+        label_visibility="collapsed",
+        #on_change= lambda: st.session_state.update({key: st.session_state[key]})
+    )
+    if st.button("Submit") and user_input not in [None,""]:
+        save_user_action(user_input,action,st.session_state.username,id)
+        user_input = ""
+        st.rerun()
 
+
+
+def save_user_action(input:str, action:str, user: str, id: str):
+    """
+    Saves user input to a JSON file 
+
+    Args:
+         paragraph_id (str): The paragraph identifier
+        action (str): The action type
+        text (str): The text to save
+    """
+    # Create data directory if it doesn't exist
+    os.makedirs("data", exist_ok=True)
+    file = Path(f"data/{user}.json")
+    if file.exists():
+        user_data = json.loads(file.read_bytes())
+    else:
+       user_data = {}
+       
+    if id not in user_data:
+        user_data[id] = {
+            "additions": [],
+            "deletions": [],
+            "modifications": [],
+            "questions": []
+        }
+    
+    user_data[id][action].append(input)
+    
+    output = json.dumps(user_data,indent=4)
+    file.write_text(output)     
+
+def render_paragraph(id):
+    with st.container():
+        col1, col2 = st.columns([5, 1])
+        
+        with col1:
+            st.markdown(pars[id])
+        
+        with col2:
+            btn_cols = st.columns(4, gap="small")
+            
+            actions = ["additions", "deletions", "questions", "modifications"]
+            icons = [":material/add:", ":material/delete:", ":material/question_mark:", ":material/edit:"]
+            helps = ["Add notes", "Delete items", "Ask questions", "Edit content"]
+            
+            for i, (action, icon, help_text) in enumerate(zip(actions, icons, helps)):
+                with btn_cols[i]:
+                    st.button("", icon=icon, key=f"{action}_{id}_{uuid.uuid4()}", 
+                                help=help_text, use_container_width=True,on_click=user_interaction,args=(action, id))
+                        
+                        # print(f"Button {action}")
+                        # result = vote(action)
+                        # print(result)
+                        # if result is not None:
+                        #     st.session_state[f"{action}_result_{id}"] = result
+                        #     st.rerun()
+                                
+            
 def render_article(aid, article):
     # st.markdown('<div id="art-' + aid + '"></div>', unsafe_allow_html=True)
     for i in range(int(article["begin"]), int(article["end"]) + 1):
