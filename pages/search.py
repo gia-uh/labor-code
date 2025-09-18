@@ -2,11 +2,16 @@ from db.milvus_client import MilvusParagraphClient
 import streamlit as st
 import json
 
-client = MilvusParagraphClient()
+@st.cache_resource
+def get_milvus_client():
+    return MilvusParagraphClient()
+
+client = get_milvus_client()
 
 def search(query: str, limit: int = 10):
     return client.search_similar_paragraphs(query, limit=limit)
 
+@st.cache_data
 def load_articles_data():
     """Load articles.json data"""
     articles_path = "./jsons/anteproyecto/law/articles.json"
@@ -17,6 +22,7 @@ def load_articles_data():
         st.error(f"Error loading articles data: {e}")
         return {}
 
+@st.cache_data
 def load_paragraphs_data():
     """Load paragraphs.json data"""
     paragraphs_path = "./jsons/anteproyecto/law/paragraphs.json"
@@ -74,10 +80,6 @@ def display_search_result(result, articles_data, paragraphs_data):
             if article_id:
                 st.markdown(f"**Article ID:** {article_id}")
         
-        # Debug: Show all metadata
-        with st.expander("🔍 Debug: Show Metadata", expanded=False):
-            st.json(metadata)
-        
         # Show content preview
         content = result.get('content', '')
         if content:
@@ -85,22 +87,19 @@ def display_search_result(result, articles_data, paragraphs_data):
         
         # Add click handler
         if article_id and article_id in articles_data:
-            if st.button(f"📖 View Full Article {article_id}", key=f"view_{result['id']}"):
+            if st.button(f"View Full Article {article_id}", key=f"view_{result['id']}"):
                 article_content = get_article_content(article_id, articles_data, paragraphs_data)
                 if article_content:
                     st.session_state[f"show_article_{result['id']}"] = article_content
                 else:
                     st.error(f"Failed to load article content for ID: {article_id}")
-        else:
-            # Debug information
-            st.info(f"Article ID not available for this result. Found article_id: '{article_id}', Available keys: {list(articles_data.keys())[:10]}...")
         
         st.markdown("---")
 
 def show_article_modal(article_content, result_id):
     """Show article content in a modal-like container"""
     # Create an expandable container for the article
-    with st.expander(f"📄 {article_content['title']} (Lines {article_content['begin']}-{article_content['end']})", expanded=True):
+    with st.expander(f"{article_content['title']} (Lines {article_content['begin']}-{article_content['end']})", expanded=True):
         st.markdown("---")
         
         # Display the full content with better formatting
@@ -112,7 +111,7 @@ def show_article_modal(article_content, result_id):
         st.markdown("---")
         
         # Close button
-        if st.button("❌ Close Article", key=f"close_{result_id}"):
+        if st.button("Close Article", key=f"close_{result_id}"):
             if f"show_article_{result_id}" in st.session_state:
                 del st.session_state[f"show_article_{result_id}"]
                 st.rerun()
@@ -125,48 +124,71 @@ if ("logged_in" in st.session_state) and st.session_state.logged_in:
     articles_data = load_articles_data()
     paragraphs_data = load_paragraphs_data()
 
-    # Debug: Show data loading status
-    with st.expander("🔧 Debug: Data Loading Status", expanded=False):
-        st.write(f"Articles loaded: {len(articles_data)} articles")
-        st.write(f"Paragraphs loaded: {len(paragraphs_data)} paragraphs")
-        if articles_data:
-            st.write("Sample article keys:", list(articles_data.keys())[:5])
-            st.write("Sample article data:", {k: v for k, v in list(articles_data.items())[:2]})
-        
-        # Test article loading
-        if st.button("🧪 Test Article Loading (Article 1)"):
-            test_article = get_article_content("1", articles_data, paragraphs_data)
-            if test_article:
-                st.success("✅ Article 1 loaded successfully!")
-                st.write("Title:", test_article['title'])
-                st.write("Lines:", f"{test_article['begin']}-{test_article['end']}")
-                st.write("Content preview:", test_article['content'][:200] + "...")
-            else:
-                st.error("❌ Failed to load Article 1")
-
     # Search interface
-    col1, col2 = st.columns([3, 1])
+    query = st.text_input("Search for articles, provisions, or legal concepts", placeholder="e.g., trabajo, salario, vacaciones...")
+    
+    # Pagination settings
+    col1, col2, col3 = st.columns([1, 1, 2])
     with col1:
-        query = st.text_input("Search for articles, provisions, or legal concepts", placeholder="e.g., trabajo, salario, vacaciones...")
+        results_per_page = st.selectbox("Results per page", [5, 10, 20, 50], index=1)
     with col2:
-        limit = st.number_input("Results", min_value=1, max_value=50, value=10)
-
+        page = st.number_input("Page", min_value=1, value=1, step=1)
+    
     # Search button
     if st.button("Search", type="primary") or query:
         if query.strip():
             with st.spinner("Searching..."):
-                results = search(query, limit)
+                # Calculate offset for pagination
+                offset = (page - 1) * results_per_page
+                # Get more results than needed to support pagination
+                results = search(query, results_per_page * 3)  # Get 3 pages worth
             
             if results:
-                st.markdown(f"### Found {len(results)} results")
+                # Apply pagination to results
+                start_idx = offset
+                end_idx = offset + results_per_page
+                paginated_results = results[start_idx:end_idx]
                 
-                # Display results
-                for i, result in enumerate(results):
-                    display_search_result(result, articles_data, paragraphs_data)
+                if paginated_results:
+                    st.markdown(f"### Found {len(results)} total results (showing {len(paginated_results)} on page {page})")
                     
-                    # Check if this article should be shown
-                    if f"show_article_{result['id']}" in st.session_state:
-                        show_article_modal(st.session_state[f"show_article_{result['id']}"], result['id'])
+                    # Display paginated results
+                    for i, result in enumerate(paginated_results):
+                        display_search_result(result, articles_data, paragraphs_data)
+                        
+                        # Check if this article should be shown
+                        if f"show_article_{result['id']}" in st.session_state:
+                            show_article_modal(st.session_state[f"show_article_{result['id']}"], result['id'])
+                    
+                    # Pagination controls
+                    if len(results) > results_per_page:
+                        st.markdown("---")
+                        col1, col2, col3, col4, col5 = st.columns([1, 1, 2, 1, 1])
+                        
+                        with col1:
+                            if page > 1:
+                                if st.button("Previous", key="prev_page"):
+                                    st.session_state["current_page"] = page - 1
+                                    st.rerun()
+                        
+                        with col2:
+                            if page > 1:
+                                st.write(f"Page {page-1}")
+                        
+                        with col3:
+                            st.write(f"**Page {page}**")
+                        
+                        with col4:
+                            if end_idx < len(results):
+                                st.write(f"Page {page+1}")
+                        
+                        with col5:
+                            if end_idx < len(results):
+                                if st.button("Next", key="next_page"):
+                                    st.session_state["current_page"] = page + 1
+                                    st.rerun()
+                else:
+                    st.info("No results on this page. Try going to a previous page.")
             else:
                 st.info("No results found. Try different keywords.")
         else:

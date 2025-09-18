@@ -120,7 +120,14 @@ if not st.session_state.logged_in:
     pg = st.navigation([login_page])
 else:
     pg = st.navigation(
-        [intro_page,ideas_page,project_page,chat_page, search_page,logout_page]
+        [
+            intro_page,
+            ideas_page,
+            project_page,
+            chat_page,
+            search_page,
+            logout_page,
+            ]
     )
 
 pg.run()
