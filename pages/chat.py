@@ -4,6 +4,10 @@ from chatbot.models import intents
 from chatbot.client import WrappedClient, load_client
 import streamlit as st
 
+from db.milvus_client import MilvusParagraphClient
+
+db = MilvusParagraphClient()
+
 
 def save_history(conversation: TalkHistory):
     st.session_state["ai-messages"] = conversation.model_dump()
@@ -29,6 +33,17 @@ def speak(
 
         with st.chat_message(assistant_name):
             st.write(answer)
+    elif intent.classification == intents.IntentType.LAW:
+        with st.spinner("Communicating with AI"):
+            answer = ai_client.query_talk_with_knowledge(conversation, query, db)
+
+        with st.chat_message(assistant_name):
+            answer = st.write_stream(answer)
+
+        conversation.msg_history.append(Message(role="user", content=query))
+        conversation.msg_history.append(Message(role="assistant", content=answer))
+
+        save_history(conversation)
     else:
         with st.spinner("Communicating with AI"):
             answer = ai_client.query_simple(
