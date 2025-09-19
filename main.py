@@ -116,6 +116,30 @@ def logout():
     st.session_state.username = None
     st.rerun()
 
+def rebuild_articles_dict(all):
+    for art in all["articles"].values():
+        apb = int(art["begin"])
+        ape = int(art["end"])
+        art["book"] = None
+        for idb, book in all["books"].items():
+            if int(book["begin"]) <= apb and ape<= int(book["end"]):
+                art["book"] = int(idb) + 1
+                break
+        art["title"] = None
+        for idt, title in all["titles"].items():
+            if int(title["begin"]) <= apb and ape<= int(title["end"]):
+                art["title"] = idt
+                break
+        art["chapter"] = None
+        for idc, chapter in all["chapters"].items():
+            if int(chapter["begin"]) <= apb and ape<= int(chapter["end"]):
+                art["chapter"] = idc
+                break
+        art["section"] = None
+        for ids, section in all["sections"].items():
+            if int(section["begin"]) <= apb and ape<= int(section["end"]):
+                art["section"] = ids
+                break
 
 login_page = st.Page(login, title="Log in", icon=":material/login:")
 logout_page = st.Page(logout, title="Log out", icon=":material/logout:")
@@ -139,6 +163,7 @@ if not st.session_state.logged_in:
 else:
     with st.spinner("Wait for it...", show_time=True):
         project = load_json_files_from_directory(st.secrets["dirs"]["project"]["law"])
+        rebuild_articles_dict(project)
         intro =  load_json_files_from_directory(st.secrets["dirs"]["project"]["intro"])
         st.session_state["project"] = project
         st.session_state["intro"] = intro
