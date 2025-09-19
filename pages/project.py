@@ -393,7 +393,7 @@ with cols[0]:
                                 sarticles = get_block_articles(ssection)
                                 s5v = [i[0] for i in sarticles]
                                 s5d = {
-                                    i[0]: "Artículos " + i[0] + " - " + i[1]["title"]
+                                    i[0]: "Artículos " + i[0] 
                                     for i in sarticles
                                 }
                                 s5 = st.selectbox(
@@ -407,7 +407,7 @@ with cols[0]:
                             sarticles = get_block_articles(schapter)
                             s4v = [i[0] for i in sarticles]
                             s4d = {
-                                i[0]: "Artículos " + i[0] + " - " + i[1]["title"]
+                                i[0]: "Artículos " + i[0]
                                 for i in sarticles
                             }
                             s4 = st.selectbox(
@@ -421,7 +421,7 @@ with cols[0]:
                     sarticles = get_block_articles(stitle)
                     s3v = [i[0] for i in sarticles]
                     s3d = {
-                        i[0]: "Artículos " + i[0] + " - " + i[1]["title"]
+                        i[0]: "Artículos " + i[0] 
                         for i in sarticles
                     }
                     s3 = st.selectbox(

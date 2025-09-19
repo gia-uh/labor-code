@@ -141,6 +141,14 @@ def rebuild_articles_dict(all):
                 art["section"] = ids
                 break
 
+def rebuild_simple_mapping(items):
+    res = {}
+    for item in items["pairs"]:
+        current = item["Project_Law"]
+        rids = [i["id"] for i in item["Actual_Law"]]
+        res[current["id"]] = rids
+    return res
+    
 
 login_page = st.Page(login, title="Log in", icon=":material/login:")
 logout_page = st.Page(logout, title="Log out", icon=":material/logout:")
@@ -168,8 +176,12 @@ else:
         project = load_json_files_from_directory(st.secrets["dirs"]["project"]["law"])
         rebuild_articles_dict(project)
         intro = load_json_files_from_directory(st.secrets["dirs"]["project"]["intro"])
+        mappings = load_json_files_from_directory(st.secrets["dirs"]["mappings"])
         st.session_state["project"] = project
         st.session_state["intro"] = intro
+        st.session_state["mappings"] = mappings
+        st.session_state["mappings"]["policies"] = rebuild_simple_mapping(mappings["politicas_vs_articulo"])
+        st.session_state["mappings"]["diagnosis"] = rebuild_simple_mapping(mappings["diagnostico_vs_articulo"])
     pg = st.navigation(
         [
             intro_page,
