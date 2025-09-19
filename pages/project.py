@@ -39,9 +39,11 @@ def get_titles(book):
 
 
 def get_chapters(title):
+
     tchapters = []
     for id, chapter in chapters.items():
         if title["begin"] <= chapter["begin"] and chapter["end"] <= title["end"]:
+
             tchapters.append((id, chapter))
     return tchapters
 
@@ -233,7 +235,7 @@ def render_nav_buttons():
                     with st.container(horizontal=True,horizontal_alignment="right"):
                         right = st.button("Próximo ->")
                         if right:
-                            st.session_state.text_block = ("pro", "1")
+                            st.session_state.text_block = ("pro", "2")
                             st.rerun()
             elif 2 <= int(tid) < 28:
                 with cols[0]:
@@ -366,7 +368,9 @@ with cols[0]:
             )
             with cols[2]:
                 stitle = titles[s2]
+
                 schapters = get_chapters(stitle)
+
                 if len(schapters) != 0:
                     s3v = [i[0] for i in schapters]
                     s3d = {i[0]: i[1]["title"] for i in schapters}
