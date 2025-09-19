@@ -169,6 +169,14 @@ else:
         st.session_state["intro"] = intro
     pg = st.navigation(
         [intro_page, ideas_page, project_page, chat_page,question_page, search_page, logout_page]
+        [
+            intro_page,
+            ideas_page,
+            project_page,
+            chat_page,
+            search_page,
+            logout_page,
+            ]
     )
 
 pg.run()
