@@ -15,6 +15,7 @@ articles = st.session_state.project["articles"]
 pblocks = st.session_state.project["provisions_blocks"]
 provisions = st.session_state.project["provisions"]
 
+questions = st.session_state["questions"]
 
 def inside(item, aid):
     if aid == None:
@@ -157,6 +158,11 @@ def render_paragraph(id):
 
 
 def render_article(aid, article):
+    with st.expander("Preguntas relacionadas"):
+        qarts = questions["articles_questions"][aid]
+        for q in qarts:
+            st.markdown("***"+q["question"]+"***")
+            st.markdown(q["answer"])
     for i in range(int(article["begin"]), int(article["end"]) + 1):
         render_paragraph(str(i))
 

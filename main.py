@@ -172,13 +172,15 @@ if "logged_in" not in st.session_state:
 if not st.session_state.logged_in:
     pg = st.navigation([login_page])
 else:
-    with st.spinner("Wait for it...", show_time=True):
+    with st.spinner("Espere...", show_time=True):
         project = load_json_files_from_directory(st.secrets["dirs"]["project"]["law"])
         rebuild_articles_dict(project)
         intro = load_json_files_from_directory(st.secrets["dirs"]["project"]["intro"])
         mappings = load_json_files_from_directory(st.secrets["dirs"]["mappings"])
+        questions = load_json_files_from_directory(st.secrets["dirs"]["questions"])
         st.session_state["project"] = project
         st.session_state["intro"] = intro
+        st.session_state["questions"] = questions
         st.session_state["mappings"] = mappings
         st.session_state["mappings"]["policies"] = rebuild_simple_mapping(mappings["politicas_vs_articulo"])
         st.session_state["mappings"]["diagnosis"] = rebuild_simple_mapping(mappings["diagnostico_vs_articulo"])
