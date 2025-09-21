@@ -166,13 +166,14 @@ logout_page = st.Page(logout, title="Log out", icon=":material/logout:")
 intro_page = st.Page("pages/intro.py", title="Inicio", icon=":material/home:")
 ideas_page = st.Page("pages/ideas.py", title="Fundamentos", icon=":material/layers:")
 question_page = st.Page(
-    "pages/questions.py", title="FAQs", icon=":material/help_outline:"
+    "pages/questions.py", title="Resumen", icon=":material/help_outline:"
 )
 project_page = st.Page(
     "pages/project.py", title="Anteproyecto", icon=":material/menu_book:"
 )
 chat_page = st.Page("pages/chat.py", title="Asistente", icon=":material/chat_bubble:")
 search_page = st.Page("pages/search.py", title="Buscar", icon=":material/search:")
+docs_page = st.Page("pages/docs.py", title="Documentos", icon=":material/source:")
 
 
 # Initialize session state
@@ -202,10 +203,11 @@ else:
         [
             intro_page,
             ideas_page,
+            question_page,
             project_page,
             chat_page,
-            question_page,
             search_page,
+            docs_page,
             logout_page,
         ]
     )
