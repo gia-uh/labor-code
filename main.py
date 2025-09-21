@@ -148,7 +148,18 @@ def rebuild_simple_mapping(items):
         rids = [i["id"] for i in item["Actual_Law"]]
         res[current["id"]] = rids
     return res
-    
+
+def rebuild_complex_mapping(items):
+    res = {}
+    for item in items["pairs"]:
+        current = item["Project_Law"]  
+        res[current["id"]] = []
+        for art in item["Actual_Law"]:
+            dart = {}
+            dart["id"] = art["id"]
+            dart["paragraphs"] = art["IDS_PAR_ACTUAL_LAW"]
+            res[current["id"]].append(dart)
+    return res
 
 login_page = st.Page(login, title="Log in", icon=":material/login:")
 logout_page = st.Page(logout, title="Log out", icon=":material/logout:")
@@ -178,12 +189,15 @@ else:
         intro = load_json_files_from_directory(st.secrets["dirs"]["project"]["intro"])
         mappings = load_json_files_from_directory(st.secrets["dirs"]["mappings"])
         questions = load_json_files_from_directory(st.secrets["dirs"]["questions"])
+        current = load_json_files_from_directory(st.secrets["dirs"]["current"]["law"])
         st.session_state["project"] = project
         st.session_state["intro"] = intro
         st.session_state["questions"] = questions
+        st.session_state["current"] = current
         st.session_state["mappings"] = mappings
         st.session_state["mappings"]["policies"] = rebuild_simple_mapping(mappings["politicas_vs_articulo"])
         st.session_state["mappings"]["diagnosis"] = rebuild_simple_mapping(mappings["diagnostico_vs_articulo"])
+        st.session_state["mappings"]["articles"] = rebuild_complex_mapping(mappings["articulo_vs_articulo"])
     pg = st.navigation(
         [
             intro_page,

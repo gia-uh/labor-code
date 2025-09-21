@@ -14,8 +14,11 @@ sections = st.session_state.project["sections"]
 articles = st.session_state.project["articles"]
 pblocks = st.session_state.project["provisions_blocks"]
 provisions = st.session_state.project["provisions"]
-
+c_articles = st.session_state.current["articles"]
+c_pars = st.session_state.current["paragraphs"]
 questions = st.session_state["questions"]
+rarticles = st.session_state["mappings"]["articles"]
+
 
 def inside(item, aid):
     if aid == None:
@@ -124,9 +127,7 @@ def save_user_action(input: str, action: str, user: str, id: str):
 
 def render_paragraph(id):
     with st.container():
-        
         st.markdown(pars[id])
-
         actions = ["additions", "deletions", "questions", "modifications"]
         icons = [
             ":material/add:",
@@ -157,11 +158,27 @@ def render_paragraph(id):
                 )
 
 
+def render_related_paragraph(id, colored=False):
+    if colored:
+        st.markdown(":red-background["+c_pars[id]+"]")
+    else:
+        st.markdown(c_pars[id])
+
+
 def render_article(aid, article):
+    with st.expander("Artículos relacionados en el Código actual"):
+        for rart in rarticles[aid]:
+            with st.expander("Artículo " + rart["id"]):
+                c_art = c_articles[rart["id"]]
+                for i in range(int(c_art["begin"]), int(c_art["end"]) + 1):
+                    colored = False
+                    if str(i) in rart["paragraphs"]:
+                        colored = True
+                    render_related_paragraph(str(i), colored)
     with st.expander("Preguntas relacionadas"):
         qarts = questions["articles_questions"][aid]
         for q in qarts:
-            st.markdown("***"+q["question"]+"***")
+            st.markdown("***" + q["question"] + "***")
             st.markdown(q["answer"])
     for i in range(int(article["begin"]), int(article["end"]) + 1):
         render_paragraph(str(i))
@@ -184,7 +201,7 @@ def render_nav_buttons():
         ttype = st.session_state.text_block[0]
         if ttype == "pre":
             with cols[1]:
-                with st.container(horizontal=True,horizontal_alignment="right"):
+                with st.container(horizontal=True, horizontal_alignment="right"):
                     right = st.button("Próximo ->")
                     if right:
                         st.session_state.text_block = ("art", "1")
@@ -192,39 +209,39 @@ def render_nav_buttons():
         elif ttype == "art":
             if tid == "1":
                 with cols[0]:
-                    with st.container(horizontal=True,horizontal_alignment="left"):
+                    with st.container(horizontal=True, horizontal_alignment="left"):
                         left = st.button("<- Anterior")
                         if left:
                             st.session_state.text_block = ("pre", None)
                             st.rerun()
                 with cols[1]:
-                    with st.container(horizontal=True,horizontal_alignment="right"):
+                    with st.container(horizontal=True, horizontal_alignment="right"):
                         right = st.button("Próximo ->")
                         if right:
                             st.session_state.text_block = ("art", "2")
                             st.rerun()
             elif 2 <= int(tid) < 525:
                 with cols[0]:
-                    with st.container(horizontal=True,horizontal_alignment="left"):
+                    with st.container(horizontal=True, horizontal_alignment="left"):
                         left = st.button("<- Anterior")
                         if left:
                             st.session_state.text_block = ("art", str(int(tid) - 1))
                             st.rerun()
                 with cols[1]:
-                    with st.container(horizontal=True,horizontal_alignment="right"):
+                    with st.container(horizontal=True, horizontal_alignment="right"):
                         right = st.button("Próximo ->")
                         if right:
                             st.session_state.text_block = ("art", str(int(tid) + 1))
                             st.rerun()
             else:
                 with cols[0]:
-                    with st.container(horizontal=True,horizontal_alignment="left"):
+                    with st.container(horizontal=True, horizontal_alignment="left"):
                         left = st.button("<- Anterior")
                         if left:
                             st.session_state.text_block = ("art", str(int(tid) - 1))
                             st.rerun()
                 with cols[1]:
-                    with st.container(horizontal=True,horizontal_alignment="right"):
+                    with st.container(horizontal=True, horizontal_alignment="right"):
                         right = st.button("Próximo ->")
                         if right:
                             st.session_state.text_block = ("pro", "1")
@@ -232,33 +249,33 @@ def render_nav_buttons():
         else:
             if tid == "1":
                 with cols[0]:
-                    with st.container(horizontal=True,horizontal_alignment="left"):
+                    with st.container(horizontal=True, horizontal_alignment="left"):
                         left = st.button("<- Anterior")
                         if left:
                             st.session_state.text_block = ("art", "525")
                             st.rerun()
                 with cols[1]:
-                    with st.container(horizontal=True,horizontal_alignment="right"):
+                    with st.container(horizontal=True, horizontal_alignment="right"):
                         right = st.button("Próximo ->")
                         if right:
                             st.session_state.text_block = ("pro", "2")
                             st.rerun()
             elif 2 <= int(tid) < 28:
                 with cols[0]:
-                    with st.container(horizontal=True,horizontal_alignment="left"):
+                    with st.container(horizontal=True, horizontal_alignment="left"):
                         left = st.button("<- Anterior")
                         if left:
                             st.session_state.text_block = ("pro", str(int(tid) - 1))
                             st.rerun()
                 with cols[1]:
-                    with st.container(horizontal=True,horizontal_alignment="right"):
+                    with st.container(horizontal=True, horizontal_alignment="right"):
                         right = st.button("Próximo ->")
                         if right:
                             st.session_state.text_block = ("pro", str(int(tid) + 1))
                             st.rerun()
             else:
                 with cols[0]:
-                    with st.container(horizontal=True,horizontal_alignment="left"):
+                    with st.container(horizontal=True, horizontal_alignment="left"):
                         left = st.button("<- Anterior")
                         if left:
                             st.session_state.text_block = ("pro", str(int(tid) - 1))
@@ -402,10 +419,7 @@ with cols[0]:
                                 ssection = sections[s4]
                                 sarticles = get_block_articles(ssection)
                                 s5v = [i[0] for i in sarticles]
-                                s5d = {
-                                    i[0]: "Artículos " + i[0] 
-                                    for i in sarticles
-                                }
+                                s5d = {i[0]: "Artículos " + i[0] for i in sarticles}
                                 s5 = st.selectbox(
                                     "Artículo",
                                     options=s5v,
@@ -416,10 +430,7 @@ with cols[0]:
                         else:
                             sarticles = get_block_articles(schapter)
                             s4v = [i[0] for i in sarticles]
-                            s4d = {
-                                i[0]: "Artículos " + i[0]
-                                for i in sarticles
-                            }
+                            s4d = {i[0]: "Artículos " + i[0] for i in sarticles}
                             s4 = st.selectbox(
                                 "Artículo",
                                 options=s4v,
@@ -430,10 +441,7 @@ with cols[0]:
                 else:
                     sarticles = get_block_articles(stitle)
                     s3v = [i[0] for i in sarticles]
-                    s3d = {
-                        i[0]: "Artículos " + i[0] 
-                        for i in sarticles
-                    }
+                    s3d = {i[0]: "Artículos " + i[0] for i in sarticles}
                     s3 = st.selectbox(
                         "Artículo",
                         options=s3v,
