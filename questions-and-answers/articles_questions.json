@@ -7685,6 +7685,48 @@
             "answer": "Es importante porque estas entidades deben mostrar los modelos a las autoridades facultadas, mientras est\u00e9n vigentes, lo cual garantiza la transparencia y el cumplimiento normativo."
         }
     ],
+    "184": [
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal del art\u00edculo 184 en relaci\u00f3n con los centros docentes?",
+            "answer": "El prop\u00f3sito principal del art\u00edculo 184 es establecer que la plantilla y el registro de personas trabajadoras deben elaborarse conforme a modelos espec\u00edficos, garantizando su conservaci\u00f3n y disponibilidad para las autoridades competentes."
+        },
+        {
+            "question": "\u00bfQui\u00e9n emite los modelos establecidos en el art\u00edculo 184?",
+            "answer": "Los modelos mencionados en el art\u00edculo 184 son emitidos por el titular del Ministerio de Trabajo y Seguridad Social mediante una disposici\u00f3n normativa complementaria."
+        },
+        {
+            "question": "\u00bfQu\u00e9 responsabilidad tienen las entidades seg\u00fan lo establecido en el art\u00edculo 184?",
+            "answer": "Las entidades tienen la responsabilidad de conservar los modelos establecidos y mostrarlos a las autoridades facultadas mientras est\u00e9n vigentes."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 momento se aprueba la plantilla en los centros docentes seg\u00fan el texto proporcionado?",
+            "answer": "La plantilla en los centros docentes del sector de la educaci\u00f3n se aprueba previo al inicio del curso escolar."
+        },
+        {
+            "question": "\u00bfQu\u00e9 elementos deben elaborarse conforme a los modelos mencionados en el art\u00edculo 184?",
+            "answer": "Deben elaborarse la plantilla y el registro de personas trabajadoras conforme a los modelos establecidos por el titular del Ministerio de Trabajo y Seguridad Social."
+        },
+        {
+            "question": "\u00bfQu\u00e9 requisito debe cumplir la entidad en cuanto al uso de los modelos mencionados?",
+            "answer": "La entidad debe conservar los modelos y mostrarlos a las autoridades facultadas durante su vigencia."
+        },
+        {
+            "question": "\u00bfPor qu\u00e9 es importante que los modelos se establezcan previo al inicio del curso escolar?",
+            "answer": "Es importante para garantizar que la plantilla est\u00e9 actualizada y disponible antes de comenzar el ciclo acad\u00e9mico, facilitando el cumplimiento de las normativas laborales."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de documentos se mencionan en el art\u00edculo 184 relacionados con los centros docentes?",
+            "answer": "Se mencionan la plantilla y el registro de personas trabajadoras, que deben elaborarse seg\u00fan modelos establecidos por una disposici\u00f3n normativa complementaria."
+        },
+        {
+            "question": "\u00bfQu\u00e9 autoridades tienen derecho a solicitar estos documentos seg\u00fan el art\u00edculo 184?",
+            "answer": "Las autoridades facultadas tienen derecho a solicitar los documentos mencionados, siempre que est\u00e9n vigentes."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es la finalidad de establecer modelos est\u00e1ndar para la elaboraci\u00f3n de la plantilla y el registro?",
+            "answer": "La finalidad es garantizar uniformidad, transparencia y cumplimiento normativo en la gesti\u00f3n del personal laboral dentro de los centros docentes."
+        }
+    ],
     "185": [
         {
             "question": "\u00bfQu\u00e9 define el Art\u00edculo 185 sobre el alcance del trabajo a distancia y el teletrabajo?",
@@ -9405,6 +9447,48 @@
         {
             "question": "\u00bfCu\u00e1l es el objetivo principal del procedimiento descrito en el art\u00edculo 225?",
             "answer": "El objetivo principal es establecer un proceso claro y estructurado para la aprobaci\u00f3n o no de una jornada reducida, garantizando participaci\u00f3n de las partes interesadas."
+        }
+    ],
+    "226": [
+        {
+            "question": "\u00bfQu\u00e9 se entiende por trabajo extraordinario seg\u00fan el art\u00edculo 226?",
+            "answer": "El trabajo extraordinario es aquel que se convoca por iniciativa del empleador, en exceso de la jornada aprobada, y puede adoptar la forma de horas extras, doble turno o habilitaci\u00f3n como laborables de los d\u00edas de descanso semanal."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 casos se considera que el trabajo extraordinario requiere un acuerdo previo?",
+            "answer": "El trabajo extraordinario que adopta las formas de horas extras o la habilitaci\u00f3n del d\u00eda de descanso semanal como laborable, requiere del acuerdo previo entre el empleador y la organizaci\u00f3n sindical correspondiente."
+        },
+        {
+            "question": "\u00bfCu\u00e1les son las formas en que puede manifestarse el trabajo extraordinario?",
+            "answer": "El trabajo extraordinario puede manifestarse mediante horas extras, doble turno o habilitaci\u00f3n como laborables de los d\u00edas de descanso semanal."
+        },
+        {
+            "question": "\u00bfQui\u00e9n inicia la convocatoria del trabajo extraordinario seg\u00fan el art\u00edculo 226?",
+            "answer": "La convocatoria del trabajo extraordinario es iniciada por el empleador."
+        },
+        {
+            "question": "\u00bfQu\u00e9 tipo de acuerdos son necesarios antes de realizar trabajo extraordinario en ciertas formas?",
+            "answer": "Antes de realizar trabajo extraordinario en forma de horas extras o habilitaci\u00f3n como laborable del d\u00eda de descanso semanal, es necesario el acuerdo previo entre el empleador y la organizaci\u00f3n sindical correspondiente."
+        },
+        {
+            "question": "\u00bfPuede realizarse trabajo extraordinario sin que exista un acuerdo previo?",
+            "answer": "S\u00ed, puede realizarse trabajo extraordinario en forma de doble turno sin necesidad de un acuerdo previo."
+        },
+        {
+            "question": "\u00bfQu\u00e9 diferencias hay entre el trabajo extraordinario en horas extras y en doble turno?",
+            "answer": "La diferencia principal radica en que las horas extras se refieren a la prolongaci\u00f3n de la jornada laboral, mientras que el doble turno implica realizar una jornada completa adicional en un mismo d\u00eda."
+        },
+        {
+            "question": "\u00bfQu\u00e9 ocurre si no se cumple con el requisito del acuerdo previo para ciertos tipos de trabajo extraordinario?",
+            "answer": "Si no se cumple con el requisito del acuerdo previo, dicha forma de trabajo extraordinario podr\u00eda considerarse ilegal o no conforme a lo establecido en la normativa laboral."
+        },
+        {
+            "question": "\u00bfEn qu\u00e9 situaci\u00f3n puede considerarse un d\u00eda de descanso semanal como laborable?",
+            "answer": "Un d\u00eda de descanso semanal puede considerarse laborable cuando se habilita expl\u00edcitamente para el trabajo extraordinario, previa autorizaci\u00f3n del empleador y la organizaci\u00f3n sindical correspondiente."
+        },
+        {
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito principal de establecer las formas del trabajo extraordinario en el art\u00edculo 226?",
+            "answer": "El prop\u00f3sito principal es regular los casos en que se realiza trabajo fuera de la jornada aprobada, garantizando derechos y obligaciones claros tanto para empleadores como trabajadores."
         }
     ],
     "227": [
