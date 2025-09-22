@@ -4,15 +4,15 @@ from openai.types.chat.chat_completion import ChatCompletion
 from pydantic import BaseModel
 
 from db.milvus_client import MilvusParagraphClient
-from history import TalkHistory
-from models.intents import IntentOutput
-from prompting import (
+from chatbot.models.intents import IntentOutput
+from chatbot.history import TalkHistory
+from chatbot.prompting import (
     BASE_PROMPT,
     build_intent_classifier_prompt,
     build_rag_chat_system_prompt,
     build_rag_chat_user_prompt,
 )
-from config import config
+from chatbot.config import config
 
 
 class RequestLog(BaseModel):
