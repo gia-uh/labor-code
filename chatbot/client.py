@@ -1,13 +1,18 @@
-import os
 from typing import Any, Callable, Iterator, List, Optional, Type
 import openai
 from openai.types.chat.chat_completion import ChatCompletion
 from pydantic import BaseModel
 
-from utils.history import TalkHistory
-from utils.models.intents import IntentOutput
-from utils.prompting import BASE_PROMPT, build_intent_classifier_prompt
-from config import config
+from db.milvus_client import MilvusParagraphClient
+from chatbot.models.intents import IntentOutput
+from chatbot.history import TalkHistory
+from chatbot.prompting import (
+    BASE_PROMPT,
+    build_intent_classifier_prompt,
+    build_rag_chat_system_prompt,
+    build_rag_chat_user_prompt,
+)
+from chatbot.config import config
 
 
 class RequestLog(BaseModel):
@@ -22,7 +27,9 @@ class WrappedClient(openai.OpenAI):
     requests_history: List[RequestLog] = []
 
     def __init__(self):
-        super().__init__(base_url=config["OPENAI_BASE_URL"], api_key=config["OPENAI_KEY"])
+        super().__init__(
+            base_url=config["OPENAI_BASE_URL"], api_key=config["OPENAI_KEY"]
+        )
 
     def __talk_model(
         self,
@@ -109,6 +116,22 @@ class WrappedClient(openai.OpenAI):
         return self.__talk_model_formatted(
             shots.with_system_prompt(build_intent_classifier_prompt(prompt)),
             IntentOutput,
+        )
+
+    def query_talk_with_knowledge(
+        self,
+        messages: TalkHistory,
+        prompt: str,
+        db_client: MilvusParagraphClient,
+        stream: bool = True,
+        **extra_args,
+    ):
+        return self.__talk_model(
+            messages.with_system_prompt(build_rag_chat_system_prompt()),
+            build_rag_chat_user_prompt(prompt, db_client),
+            _from_response=lambda x: x.choices[0].message.content if not stream else x,
+            stream=stream,
+            **extra_args,
         )
 
 

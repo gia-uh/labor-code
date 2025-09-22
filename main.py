@@ -83,8 +83,7 @@ def check_user(user: User):
             return Query.ERROR_PASSWORD
         else:
             return Query.ERROR_SERVICE
-        
-            
+
 
 def login():
     st.title("Login")
@@ -117,16 +116,64 @@ def logout():
     st.rerun()
 
 
+def rebuild_articles_dict(all):
+    for art in all["articles"].values():
+        apb = int(art["begin"])
+        ape = int(art["end"])
+        art["book"] = None
+        for idb, book in all["books"].items():
+            if int(book["begin"]) <= apb and ape <= int(book["end"]):
+                art["book"] = int(idb) + 1
+                break
+        art["title"] = None
+        for idt, title in all["titles"].items():
+            if int(title["begin"]) <= apb and ape <= int(title["end"]):
+                art["title"] = idt
+                break
+        art["chapter"] = None
+        for idc, chapter in all["chapters"].items():
+            if int(chapter["begin"]) <= apb and ape <= int(chapter["end"]):
+                art["chapter"] = idc
+                break
+        art["section"] = None
+        for ids, section in all["sections"].items():
+            if int(section["begin"]) <= apb and ape <= int(section["end"]):
+                art["section"] = ids
+                break
+
+def rebuild_simple_mapping(items):
+    res = {}
+    for item in items["pairs"]:
+        current = item["Project_Law"]
+        rids = [i["id"] for i in item["Actual_Law"]]
+        res[current["id"]] = rids
+    return res
+
+def rebuild_complex_mapping(items):
+    res = {}
+    for item in items["pairs"]:
+        current = item["Project_Law"]  
+        res[current["id"]] = []
+        for art in item["Actual_Law"]:
+            dart = {}
+            dart["id"] = art["id"]
+            dart["paragraphs"] = art["IDS_PAR_ACTUAL_LAW"]
+            res[current["id"]].append(dart)
+    return res
+
 login_page = st.Page(login, title="Log in", icon=":material/login:")
 logout_page = st.Page(logout, title="Log out", icon=":material/logout:")
 intro_page = st.Page("pages/intro.py", title="Inicio", icon=":material/home:")
 ideas_page = st.Page("pages/ideas.py", title="Fundamentos", icon=":material/layers:")
-question_page = st.Page("pages/questions.py", title="FAQs", icon=":material/help_outline:")
+question_page = st.Page(
+    "pages/questions.py", title="Resumen", icon=":material/help_outline:"
+)
 project_page = st.Page(
     "pages/project.py", title="Anteproyecto", icon=":material/menu_book:"
 )
 chat_page = st.Page("pages/chat.py", title="Asistente", icon=":material/chat_bubble:")
 search_page = st.Page("pages/search.py", title="Buscar", icon=":material/search:")
+docs_page = st.Page("pages/docs.py", title="Documentos", icon=":material/source:")
 
 
 # Initialize session state
@@ -137,13 +184,32 @@ if "logged_in" not in st.session_state:
 if not st.session_state.logged_in:
     pg = st.navigation([login_page])
 else:
-    with st.spinner("Wait for it...", show_time=True):
+    with st.spinner("Espere...", show_time=True):
         project = load_json_files_from_directory(st.secrets["dirs"]["project"]["law"])
-        intro =  load_json_files_from_directory(st.secrets["dirs"]["project"]["intro"])
+        rebuild_articles_dict(project)
+        intro = load_json_files_from_directory(st.secrets["dirs"]["project"]["intro"])
+        mappings = load_json_files_from_directory(st.secrets["dirs"]["mappings"])
+        questions = load_json_files_from_directory(st.secrets["dirs"]["questions"])
+        current = load_json_files_from_directory(st.secrets["dirs"]["current"]["law"])
         st.session_state["project"] = project
         st.session_state["intro"] = intro
+        st.session_state["questions"] = questions
+        st.session_state["current"] = current
+        st.session_state["mappings"] = mappings
+        st.session_state["mappings"]["policies"] = rebuild_simple_mapping(mappings["politicas_vs_articulo"])
+        st.session_state["mappings"]["diagnosis"] = rebuild_simple_mapping(mappings["diagnostico_vs_articulo"])
+        st.session_state["mappings"]["articles"] = rebuild_complex_mapping(mappings["articulo_vs_articulo"])
     pg = st.navigation(
-        [intro_page, ideas_page, project_page, chat_page,question_page, search_page, logout_page]
+        [
+            intro_page,
+            ideas_page,
+            question_page,
+            project_page,
+            chat_page,
+            search_page,
+            docs_page,
+            logout_page,
+        ]
     )
 
 pg.run()
