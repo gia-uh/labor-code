@@ -4,18 +4,16 @@ import json
 import os
 import tomllib
 
-with open("config.toml", "rb") as f:
+with open("./.streamlit/secrets.toml", "rb") as f:
     conf = tomllib.load(f)
-
-    
 
 client = OpenAI(base_url=conf["llm"]["base_url"], api_key=conf["llm"]["api_key"])
 
 def build_context(path: str, key: str) -> List[str]:
-    with open(path, 'r', encoding='utf-8') as fd:
+    with open(path, 'r') as fd:
         data = json.load(fd)
     
-    with open("jsons/anteproyecto/law/paragraphs.json", 'r', encoding='utf-8') as fd:
+    with open("jsons/anteproyecto/law/paragraphs.json", 'r') as fd:
         paragraph = json.load(fd)
 
     docs = []
@@ -25,7 +23,8 @@ def build_context(path: str, key: str) -> List[str]:
     return docs
 
 TASK = "Resumen"
-FILES = ["sections.json", "chapters.json","titles.json", "books.json"]
+SHORT_FILES = ["chapters.json"]
+LONG_FILES = ["titles.json","books.json"]
 OUTPATH = "./jsons/anteproyecto/updated_law/"
 SYSTEM_PROMPT = """
 Eres un asistente experto especializado en leyes cuya tarea es responder preguntas usando solo la información proporcionada en el contexto. 
@@ -45,16 +44,16 @@ USER_PROMPT = {
 if not os.path.exists(OUTPATH):
     os.mkdir(OUTPATH)
 
-for file in FILES:
+for file in SHORT_FILES:
      
-    with open(f"{conf["dirs"]["project.law"]}{file}", 'r', encoding='utf-8') as fd:
+    with open(f"{conf["dirs"]["project"]["law"]}/{file}", 'r') as fd:
         data = json.load(fd)
 
     for prompt in USER_PROMPT:
 
         for key in data:
 
-            docs = build_context(f"{conf["dirs"]["project.law"]}{file}", key)
+            docs = build_context(f"{conf["dirs"]["project"]["law"]}/{file}", key)
 
             # Pasar prompt para generar respuesta
             chat_response = client.chat.completions.create(
@@ -70,5 +69,17 @@ for file in FILES:
 
             result = chat_response.choices[0].message.content
             data[key][USER_PROMPT[prompt][1]] = result
-        with open(f"{OUTPATH}{file}", 'w', encoding='utf-8') as fd:
-                json.dump(data, fd, indent=4)
+            
+        with open(f"{OUTPATH}{file}", 'w') as fd:
+            json.dump(data, fd, indent=4, ensure_ascii= False)
+
+        
+# for file in LONG_FILES:
+     
+#     with open(f"{conf["dirs"]["project"]["law"]}/{file}", 'r') as fd:
+#         data = json.load(fd)
+
+#     for prompt in USER_PROMPT:
+
+#         for key in data:
+#             pass
