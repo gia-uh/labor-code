@@ -1,5 +1,6 @@
 from pathlib import Path
 import streamlit as st
+import streamlit.components.v1 as components
 import uuid
 import json
 import os
@@ -67,24 +68,39 @@ def get_block_provisions(block):
             bprovs.append((id, provision))
     return bprovs
 
-@st.dialog(" ",on_dismiss="rerun")
+# @st.dialog(" ",on_dismiss="rerun")
+# def user_interaction(action: str, id: str):
+#     key = f"user_vote_{action}"
+#     user_input = st.text_area(
+#         f"{action.capitalize()}",
+#         height=300,
+#         width=500,
+#         key= key,
+#         placeholder="Por favor introduzca su idea aquí...",
+#         label_visibility="collapsed",
+#         #on_change= lambda: st.session_state.update({key: st.session_state[key]})
+#     )
+#     if st.button("Submit") and user_input not in [None,""]:
+#         save_user_action(user_input,action,st.session_state.username,id)
+#         user_input = ""
+#         st.rerun()
+
+@st.dialog(" ", on_dismiss="rerun")
 def user_interaction(action: str, id: str):
-    key = f"user_vote_{action}"
-    user_input = st.text_area(
-        f"{action.capitalize()}",
-        height=300,
-        width=500,
-        key= key,
-        placeholder="Por favor introduzca su idea aquí...",
-        label_visibility="collapsed",
-        #on_change= lambda: st.session_state.update({key: st.session_state[key]})
-    )
-    if st.button("Submit") and user_input not in [None,""]:
-        save_user_action(user_input,action,st.session_state.username,id)
-        user_input = ""
-        st.rerun()
-
-
+    with st.form(key=f"form_{action}_{id}"):
+        user_input = st.text_area(
+            f"{action.capitalize()}",
+            height=300,
+            placeholder="Por favor introduzca su idea aquí...",
+            label_visibility="collapsed",
+        )
+        
+        submitted = st.form_submit_button("Submit")
+        
+        if submitted and user_input not in [None, ""]:
+            save_user_action(user_input, action, st.session_state.username, id)
+            user_input=""
+            #st.rerun()
 
 def save_user_action(input:str, action:str, user: str, id: str):
     """
@@ -116,6 +132,7 @@ def save_user_action(input:str, action:str, user: str, id: str):
     output = json.dumps(user_data,indent=4)
     file.write_text(output)     
 
+
 def render_paragraph(id):
     with st.container():
         col1, col2 = st.columns([5, 1])
@@ -135,14 +152,9 @@ def render_paragraph(id):
                     st.button("", icon=icon, key=f"{action}_{id}_{uuid.uuid4()}", 
                                 help=help_text, use_container_width=True,on_click=user_interaction,args=(action, id))
                         
-                        # print(f"Button {action}")
-                        # result = vote(action)
-                        # print(result)
-                        # if result is not None:
-                        #     st.session_state[f"{action}_result_{id}"] = result
-                        #     st.rerun()
-                                
-            
+                    
+
+
 def render_article(aid, article):
     # st.markdown('<div id="art-' + aid + '"></div>', unsafe_allow_html=True)
     for i in range(int(article["begin"]), int(article["end"]) + 1):
