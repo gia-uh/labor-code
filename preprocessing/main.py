@@ -27,13 +27,13 @@ def main():
         #     "target_files": (f"{BASE_PATH_ACTUAL}paragraphs.json",),
         # },
         # 2. Artículo (anteproyecto) ↔ Artículo (ley actual)
-        {
-            "name": "articulo_vs_articulo",
-            "source_type": "complex",
-            "source_files": (f"{BASE_PATH_PROYECTO}law/articles.json", f"{BASE_PATH_PROYECTO}law/paragraphs.json"),
-            "target_type": "complex",
-            "target_files": (f"{BASE_PATH_ACTUAL}articles.json", f"{BASE_PATH_ACTUAL}paragraphs.json"),
-        },
+        # {
+        #     "name": "articulo_vs_articulo",
+        #     "source_type": "complex",
+        #     "source_files": (f"{BASE_PATH_PROYECTO}law/articles.json", f"{BASE_PATH_PROYECTO}law/paragraphs.json"),
+        #     "target_type": "complex",
+        #     "target_files": (f"{BASE_PATH_ACTUAL}articles.json", f"{BASE_PATH_ACTUAL}paragraphs.json"),
+        # },
         # 3. Preámbulo (anteproyecto) ↔ Preámbulo (ley actual)
         # {
         #     "name": "preambulo_vs_preambulo",
@@ -51,21 +51,21 @@ def main():
         #     "target_files": (f"{BASE_PATH_ACTUAL}provisions.json", f"{BASE_PATH_ACTUAL}paragraphs.json"),
         # },
         # # 5. Diagnóstico (anteproyecto) ↔ Artículo (ley actual)
-        # {
-        #     "name": "diagnostico_vs_articulo",
-        #     "source_type": "simple",
-        #     "source_files": (f"{BASE_PATH_PROYECTO}diagnosis.json",),
-        #     "target_type": "complex",
-        #     "target_files": (f"{BASE_PATH_ACTUAL}articles.json", f"{BASE_PATH_ACTUAL}paragraphs.json"),
-        # },
+        {
+            "name": "diagnostico_vs_articulo",
+            "source_type": "simple",
+            "source_files": (f"{BASE_PATH_PROYECTO}diagnosis.json",),
+            "target_type": "complex",
+            "target_files": (f"{BASE_PATH_ACTUAL}articles.json", f"{BASE_PATH_ACTUAL}paragraphs.json"),
+        },
         # # 6. Políticas (anteproyecto) ↔ Artículo (ley actual)
-        # {
-        #     "name": "politicas_vs_articulo",
-        #     "source_type": "simple",
-        #     "source_files": (f"{BASE_PATH_PROYECTO}policies.json",),
-        #     "target_type": "complex",
-        #     "target_files": (f"{BASE_PATH_ACTUAL}articles.json", f"{BASE_PATH_ACTUAL}paragraphs.json"),
-        # },
+        {
+            "name": "politicas_vs_articulo",
+            "source_type": "simple",
+            "source_files": (f"{BASE_PATH_PROYECTO}policies.json",),
+            "target_type": "complex",
+            "target_files": (f"{BASE_PATH_ACTUAL}articles.json", f"{BASE_PATH_ACTUAL}paragraphs.json"),
+        },
         # # 7. Párrafo (anteproyecto) ↔ Artículo (ley actual)
         # {
         #     "name": "parrafo_vs_articulo",
