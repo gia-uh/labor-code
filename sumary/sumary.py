@@ -38,8 +38,8 @@ Eres un experto especializado en leyes cuya tarea es responder preguntas usando 
 
 USER_PROMPT = {
     "1": ["Crea un resumen claro y conciso que capture las ideas principales y la información más relevante del contexto presentado.", "sumary"],
-    "2":["Analiza el texto a continuación y extrae las ideas esenciales de manera concisa, solo poner las ideas", "ideas"],
-    "3":["Identifica y enumera las palabras clave más importantes del contexto, aquellas que mejor representan los temas y conceptos centrales tratados en él, solo las palabras", "keywords"]
+    "2":["Analiza el texto a continuación y extrae las ideas esenciales de manera concisa, solo poner las ideas separadas por saltos de línea", "ideas"],
+    "3":["Identifica y enumera las cinco palabras claves más importantes del contexto, aquellas que mejor representan los temas y conceptos centrales tratados en él, solo las palabras separadas por coma", "keywords"]
 }
 
 if not os.path.exists(OUTPATH):
