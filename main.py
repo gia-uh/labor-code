@@ -174,6 +174,7 @@ project_page = st.Page(
 chat_page = st.Page("pages/chat.py", title="Asistente", icon=":material/chat_bubble:")
 search_page = st.Page("pages/search.py", title="Buscar", icon=":material/search:")
 docs_page = st.Page("pages/docs.py", title="Documentos", icon=":material/source:")
+changes_page = st.Page("pages/changes.py", title="Propuesta de Cambios", icon=":material/display_settings:")
 
 
 # Initialize session state
@@ -210,6 +211,7 @@ else:
             chat_page,
             search_page,
             docs_page,
+            changes_page,
             logout_page,
         ]
     )
