@@ -191,6 +191,7 @@ else:
         mappings = load_json_files_from_directory(st.secrets["dirs"]["mappings"])
         questions = load_json_files_from_directory(st.secrets["dirs"]["questions"])
         current = load_json_files_from_directory(st.secrets["dirs"]["current"]["law"])
+        abstract = load_json_files_from_directory(st.secrets["dirs"]["project"]["abstract"])
         st.session_state["project"] = project
         st.session_state["intro"] = intro
         st.session_state["questions"] = questions
@@ -199,6 +200,7 @@ else:
         st.session_state["mappings"]["policies"] = rebuild_simple_mapping(mappings["politicas_vs_articulo"])
         st.session_state["mappings"]["diagnosis"] = rebuild_simple_mapping(mappings["diagnostico_vs_articulo"])
         st.session_state["mappings"]["articles"] = rebuild_complex_mapping(mappings["articulo_vs_articulo"])
+        st.session_state["abstract"] = abstract
     pg = st.navigation(
         [
             intro_page,
