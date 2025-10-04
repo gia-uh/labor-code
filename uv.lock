@@ -311,7 +311,7 @@ dependencies = [
     { name = "openai" },
     { name = "pydantic" },
     { name = "pymilvus" },
-    { name = "streamlit" },
+    { name = "streamlit", extra = ["pdf"] },
 ]
 
 [package.metadata]
@@ -322,7 +322,7 @@ requires-dist = [
     { name = "openai", specifier = ">=1.107.1" },
     { name = "pydantic", specifier = ">=2.11.7" },
     { name = "pymilvus", specifier = ">=2.6.1" },
-    { name = "streamlit", specifier = ">=1.49.1" },
+    { name = "streamlit", extras = ["pdf"], specifier = ">=1.49.1" },
 ]
 
 [[package]]
@@ -871,6 +871,20 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/24/17/c8024e4ef311dc7833987c603a7d0ebe82f8aa352aaca53b27be3f6b7f01/streamlit-1.49.1.tar.gz", hash = "sha256:6f213f1e43f035143a56f58ad50068d8a09482f0a2dad1050d7e7e99a9689818", size = 9640116 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/85/9e/146cdef515ad07e56c3aa942d087562498592d441aa3bae845ef0cd8fca3/streamlit-1.49.1-py3-none-any.whl", hash = "sha256:ad7b6d0dc35db168587acf96f80378249467fc057ed739a41c511f6bf5aa173b", size = 10044388 },
+]
+
+[package.optional-dependencies]
+pdf = [
+    { name = "streamlit-pdf" },
+]
+
+[[package]]
+name = "streamlit-pdf"
+version = "1.0.7"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/14/36/6aa63996edcc939c20c5bf155c7ead58a21072609c508de16f9bf78a7d3e/streamlit_pdf-1.0.7.tar.gz", hash = "sha256:8405e86dfc9072f93c6aa1293579f917f0e13bd7848ea60b1dcb74b5fc75e23d", size = 1971873 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/39/cf/09a87edd0d6b69a6f497790cf4ddcbab29648d51513f96c7e97d38515482/streamlit_pdf-1.0.7-py3-none-any.whl", hash = "sha256:e08227c0435e1cf4b45288a468dd7513affd8ff58231636d2b49939749d699ea", size = 2103330 },
 ]
 
 [[package]]
