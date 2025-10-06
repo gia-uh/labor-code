@@ -12,11 +12,12 @@ file = Path(f"data/{user}.json")
 
 if file.exists():
         user_data = json.loads(file.read_bytes())
+        
         text=  "|Párrafo No.|Clasificación|Propuesta|\n"
         text+= "|-----------|-------------|---------|\n"
-        for pid,item in user_data.items():
+        for pid,item in user_data.items():   
             if "additions" in item:
-                for d in item["deletions"]:
+                for d in item["additions"]:
                     text+="|"+pid+"|Adición|"+d+"|\n"
             if "deletions" in item:
                 for d in item["deletions"]:
@@ -29,12 +30,23 @@ if file.exists():
                     text+="|"+pid+"|Duda|"+d+"|\n"
         
         st.markdown(text)
+        # md_text = """
+        # # Título
+
+        # Este es un texto con dos líneas separadas por salto suave.  
+        # Aquí continúa en la siguiente línea.
+
+        # | Nombre | Edad | Ciudad   |
+        # |--------|------|----------|
+        # | Ana    | 28   | Madrid   |
+        # | Luis   | 35   | Barcelona|
+        # """
         # md_text = "# Hola\nEste es un texto en **Markdown**"
 
         # html = f"""
         # <html>
         # <head><meta charset="utf-8"></head>
-        # <body>{markdown.markdown(text)}</body>
+        # <body>{markdown.markdown(md_text)}</body>
         # </html>
         # """
         

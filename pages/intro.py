@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.markdown("**Herramienta para la Discusión y Análisis del Anteproyecto dleCódigo del Trabajo**")
+st.markdown("**Herramienta para la Discusión y Análisis del Anteproyecto del Código del Trabajo**")
 
 st.markdown("Esta es una heramienta simple que permite el análisis y la discusión del Anteproyecto del Código del Trabajo. Con ella pueden revisar las siguientes acciones:")
 
