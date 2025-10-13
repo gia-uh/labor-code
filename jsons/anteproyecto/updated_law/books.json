@@ -3,32 +3,139 @@
         "title": "LIBRO PRIMERO",
         "begin": 3,
         "end": 192,
-        "sumary": "**Resumen:**\n\nEl **Código de Trabajo** en Cuba tiene como finalidad principal regular las relaciones laborales entre empleadores y trabajadores, garantizando un entorno justo, equitativo y digno. El **Capítulo II** establece el ámbito de aplicación del Código, que abarca tanto a trabajadores cubanos como extranjeros, incluyendo aquellos que laboran fuera del país bajo autorización previa, con excepciones legales. Regula además las relaciones colectivas de trabajo y formas de gestión no estatal, como cooperativas y microempresas.\n\nSe establecen **exigencias de integración** en entidades con inversión extranjera, manteniendo un mínimo del 85% de trabajadores cubanos o residentes. Se mencionan **exclusiones** para ciertas categorías profesionales que se rigen por normativas especiales.\n\nEl Código define los **derechos y deberes** de la persona trabajadora, destacando el derecho a un empleo digno, condiciones seguras, remuneración justa, capacitación continua y protección social. Por su parte, las obligaciones incluyen cumplir con responsabilidades laborales, respetar normas de seguridad, y cuidar los recursos de la organización.\n\nEn cuanto al **empleador**, se establecen sus **obligaciones** como el pago oportuno de salarios, creación de condiciones adecuadas de trabajo y promoción de un entorno libre de violencia. También se mencionan sus **facultades**, incluyendo la dirección de la entidad y la posibilidad de delegar ciertas funciones.\n\nEl Código también aborda principios fundamentales como la **irrenunciabilidad de los derechos laborales**, la **estabilidad laboral**, la **igualdad** y la **no discriminación**, así como la prohibición del trabajo forzoso y el acoso. Además, se reconoce el rol de las **organizaciones sindicales y empresariales** en la defensa de derechos colectivos y resolución de conflictos laborales.",
-        "ideas": "Para realizar un análisis efectivo del texto proporcionado, necesito que me indiques cuál es el contenido específico que deseas analizar. Por favor, comparte el texto en cuestión, y procederé a extraer las ideas esenciales que lo fundamentan.",
-        "keywords": "Claro. Por favor, proporciona el texto del cual deseas identificar y enumerar las palabras clave más importantes."
+        "summary": "El Código de Trabajo tiene como objetivo regular las relaciones laborales individuales y colectivas en Cuba, garantizando derechos fundamentales para las personas trabajadoras, como el empleo digno, condiciones seguras y saludables de trabajo, igualdad y no discriminación, así como la protección social. Este marco legal se aplica a todas las entidades estatales, privadas y extranjeras en el país, con excepciones específicas establecidas en ciertos sectores o situaciones. Se fundamenta en los principios de irrenunciabilidad de los derechos laborales, progresividad, protección mínima, igualdad, participación activa de las personas trabajadoras y el prohibición del trabajo forzoso, entre otros.\n\nEl Código define a los sujetos principales de la relación laboral: la persona trabajadora y el empleador, estableciendo sus derechos y obligaciones respectivas. Las organizaciones sindicales y de empleadores tienen un rol fundamental en la defensa de los intereses colectivos y en la negociación colectiva. Asimismo, se regulan aspectos como la capacitación laboral, el descanso, la remuneración justa, la protección social y la resolución de conflictos laborales a través de métodos alternativos.\n\nEl texto también aborda excepciones aplicables en ciertos sectores o profesiones, así como normas específicas para la inversión extranjera, el trabajo autónomo y las personas trabajadoras con discapacidad. Finalmente, se establecen obligaciones del empleador, incluyendo garantizar condiciones adecuadas de trabajo, promover un entorno libre de violencia y discriminación, así como implementar mecanismos para la protección de los ingresos de las personas trabajadoras.",
+        "ideas": [
+            "El Código de Trabajo tiene como objeto regular las relaciones laborales individuales y colectivas en Cuba.  ",
+            "Garantiza un empleo digno, basado en la justicia y equidad entre trabajadores y empleadores.  ",
+            "Establece mecanismos para defender los derechos de las personas trabajadoras.  ",
+            "Regula los principios, derechos y funciones de las organizaciones sindicales.  ",
+            "Promueve la participación efectiva de los trabajadores en la planificación y gestión económica.  ",
+            "Define el ámbito de aplicación del Código, incluyendo a empleados cubanos, extranjeros y residentes temporales.  ",
+            "Reconoce el trabajo autónomo y sus derechos y obligaciones.  ",
+            "Establece principios fundamentales como la irrenunciabilidad de los derechos laborales, progresividad, protección mínima, igualdad, participación y no discriminación.  ",
+            "Prohíbe la violencia, el acoso y el trabajo forzoso en el ámbito laboral.  ",
+            "Define a las personas trabajadoras y empleadores como sujetos principales de la relación laboral.  ",
+            "Reconoce los derechos de las personas trabajadoras, incluyendo salario justo, condiciones seguras, capacitación, descanso y protección social.  ",
+            "Establece obligaciones del empleador, como respetar derechos, garantizar condiciones de trabajo adecuadas y promover un entorno laboral sin discriminación.  ",
+            "Reconoce las facultades e indelegables del jefe de la entidad o empleador persona natural.  ",
+            "Exige a los empleadores contratar pólizas de seguro para proteger los ingresos de los trabajadores en ciertas circunstancias.  ",
+            "Establece el rol y responsabilidades de las organizaciones sindicales y de empleadores en la defensa de intereses económicos y sociales."
+        ],
+        "keywords": [
+            "trabajo",
+            " empleo digno",
+            " derechos laborales",
+            " seguridad social",
+            " sindicatos"
+        ]
     },
     "2": {
         "title": "LIBRO SEGUNDO",
         "begin": 193,
         "end": 2287,
-        "sumary": "**Resumen:**\n\nEl Capítulo VIII del Código Laboral regula los derechos y obligaciones de los **conductores profesionales**, estableciendo normas para su **ingreso, capacitación, recalificación y verificación periódica de aptitud física y mental** según el Código de Seguridad Vial. Los empleadores deben garantizar la participación en cursos obligatorios y la inclusión de certificaciones en el expediente laboral.\n\nSe establecen límites de edad para las pruebas médicas (65 y 70 años) y se regulan horarios máximos de conducción, así como descansos obligatorios. En caso de **suspensión temporal de la licencia**, los empleadores deben considerar reubicaciones, traslados o suspensión del contrato si no es posible la readaptación.\n\nLa **incapacidad laboral** que origina la suspensión o cancelación de la licencia requiere una evaluación médica y aplicación de medidas según el régimen de seguridad social. También se regulan requisitos específicos para la conducción de cargas peligrosas o de gran tamaño, definidos por el **Ministerio de Transporte**.\n\nAdemás, en situaciones de emergencia o fuerza mayor se permiten excepciones al régimen laboral habitual.",
-        "ideas": "**Ideas esenciales del artículo 462:**\n\n1. **Igualdad de derechos laborales**: Las personas trabajadoras contratadas por los titulares de un proyecto de desarrollo local tienen los mismos derechos laborales que cualquier otro trabajador, según lo establecido en el Código Laboral.\n\n2. **Cumplimiento de obligaciones legales**: Estas personas trabajadoras también cumplen con los mismos deberes previstos en el Código Laboral, garantizando la aplicación uniforme de las normativas laborales.\n\n3. **Protección jurídica igualitaria**: El artículo establece que no hay diferencias en la protección legal entre los trabajadores contratados para proyectos de desarrollo local y otros trabajadores, asegurando su derecho a condiciones justas y equitativas de trabajo.\n\n4. **Aplicabilidad del Código Laboral**: Todos los aspectos relacionados con la contratación, remuneración, seguridad social, régimen disciplinario y otros derechos laborales se rigen por el Código Laboral vigente, sin excepciones para los trabajadores en proyectos de desarrollo local.\n\n5. **Inclusión en el marco legal general**: El artículo integra a estos trabajadores dentro del ámbito regulatorio general del derecho laboral, reconociendo su importancia y garantizando su protección dentro del sistema normativo nacional.",
-        "keywords": "1. **Relación de trabajo**  \n2. **Contrato de trabajo**  \n3. **Derechos laborales**  \n4. **Formalidad contractual**  \n5. **Obligaciones del empleador**  \n6. **Jornada laboral**  \n7. **Remuneración**  \n8. **Suspensión de la relación laboral**  \n9. **Reanudación de la relación laboral**  \n10. **Trabajo a tiempo parcial**  \n11. **Pluriempleo**  \n12. **Vacaciones anuales pagadas**  \n13. **Licencias retribuidas y no retribuidas**  \n14. **Seguridad social**  \n15. **Órgano de Justicia Laboral**  \n16. **Reclamación judicial**  \n17. **Capacidad demostrada**  \n18. **Evaluación del trabajo**  \n19. **Competencias laborales**  \n20. **Prevención de riesgos laborales**  \n21. **Equipos de protección personal**  \n22. **Exámenes médicos ocupacionales**  \n23. **Accidente de trabajo**  \n24. **Incapacidad temporal**  \n25. **Indemnización**  \n26. **Comité de Expertos**  \n27. **Modificación del contrato de trabajo**  \n28. **Traslado de colectivos de personas trabajadoras**  \n29. **Condiciones de vida y trabajo**  \n30. **Servicio Militar Activo**"
+        "summary": "El presente texto regula diversos aspectos relacionados con el empleo, incluyendo el proceso de selección, formalización de contratos, tipos de contratos laborales (por tiempo indeterminado, determinado y para la ejecución de un trabajo u obra), derechos y obligaciones de trabajadores y empleadores, así como las condiciones de seguridad y salud en el lugar de trabajo. Se establece la prioridad en el empleo para ciertos grupos vulnerables, garantizando capacitación, ajustes razonables y periodos de prueba. Además, se regulan aspectos como el trabajo a tiempo parcial, pluriempleo, vacaciones, evaluación del desempeño laboral y suspensiones temporales por causas legales o emergencias. La seguridad y salud en el trabajo son responsabilidad del empleador, quien debe implementar programas de prevención, proporcionar equipos de protección personal y realizar exámenes médicos ocupacionales. El Órgano de Justicia Laboral actúa como vía obligatoria para resolver conflictos laborales, garantizando derechos fundamentales de los trabajadores. Finalmente, se establecen normas específicas sobre contratos en cooperativas agropecuarias y no agropecuarias, así como el tratamiento legal durante movilizaciones nacionales y situaciones excepcionales.",
+        "ideas": [
+            "Acceso a cargos vacantes mediante convocatorias públicas o vías específicas.  ",
+            "Contratación basada en necesidades de producción, servicios y capacidad demostrada del candidato.  ",
+            "Obligación de empleadores de informar plazas vacantes a las autoridades laborales.  ",
+            "Convocatoria debe incluir denominación, funciones, remuneración y otros datos relevantes sin discriminación.  ",
+            "Participación de personal interno en convocatorias y posibilidad de seleccionar otro personal si no hay candidatos adecuados.  ",
+            "Duración de la convocatoria acordada entre jefe de entidad y organización sindical.  ",
+            "Consulta previa al Comité de Expertos para evaluar capacidad de los aspirantes.  ",
+            "Notificación escrita a quienes no son seleccionados con posibilidad de reclamar ante órganos judiciales.  ",
+            "Derecho a recibir respuesta argumentada en caso de denegación de acceso a empleo.  ",
+            "Contratación y traslado de colectivos de trabajadores entre territorios bajo condiciones garantizadas.  ",
+            "Facultad indelegable para aprobación de contrataciones o traslados con coordinación previa con autoridades locales.  ",
+            "Aplicación de normativas específicas en traslados de colectivos de trabajadores.  ",
+            "Contratación individual de trabajadores de otras provincias rige por el Código sin necesidad de autorización adicional.  ",
+            "Prioridades en el empleo son asignadas a grupos específicos como jóvenes, mujeres, personas con discapacidad, exmilitares, entre otros.  ",
+            "Las personas priorizadas pueden gestionar directamente su ubicación laboral en las entidades correspondientes.  ",
+            "Se favorece la incorporación de cursos de capacitación para quienes no tienen formación adecuada.  ",
+            "Los empleadores deben realizar ajustes razonables para garantizar el acceso al trabajo de personas con discapacidad.  ",
+            "Las empresas que contratan a personas con discapacidad reciben beneficios fiscales.  ",
+            "Se establece un procedimiento para avalar la aptitud laboral de personas con discapacidad o egresados de educación especial.  ",
+            "Durante el entrenamiento en el puesto, las personas con discapacidad reciben un salario equivalente al del cargo.  ",
+            "Si no se logran las competencias tras el periodo de entrenamiento, se evalúa su ubicación en otro puesto o se finaliza la"
+        ],
+        "keywords": [
+            "contrato de trabajo",
+            " seguridad",
+            " salud",
+            " salario",
+            " personas trabajadoras"
+        ]
     },
     "3": {
         "title": "LIBRO TERCERO",
         "begin": 2288,
         "end": 2517,
-        "sumary": "**Resumen:**\n\nEl capítulo II establece los derechos, principios y deberes relacionados con la sindicación en Cuba, destacando el derecho a la libre asociación, participación activa de las organizaciones sindicales en procesos laborales, así como la protección de los dirigentes sindicales, quienes gozan de garantías laborales especiales, incluyendo la prohibición de traslados o sanciones por su actividad sindical. También se reconoce el derecho a la inspección sindical para garantizar condiciones de seguridad y salud en el trabajo.\n\nSe destaca el derecho fundamental de participación de las personas trabajadoras en la toma de decisiones económicas, con modalidades individual, colectiva e indirecta, y temas clave como planificación, regulación, gestión y control. La organización sindical tiene un rol clave en garantizar su cumplimiento efectivo.\n\nEl Capítulo III introduce el Sistema de Control Interno, a cargo del empleador junto con las organizaciones sindicales, y establece la obligación de rendición de cuentas administrativa ante las asambleas generales de trabajadores. Por último, se menciona el derecho a la negociación colectiva, culminando en el convenio colectivo de trabajo como instrumento jurídico que regula condiciones laborales, con requisitos específicos para su elaboración, aprobación y vigencia.",
-        "ideas": "Para realizar un análisis del texto y extraer las ideas esenciales, necesito que me proporciones el contenido específico que deseas analizar. Por favor, incluye el texto en cuestión para poder identificar las ideas fundamentales que lo sustentan y que son clave para comprender su mensaje principal.",
-        "keywords": "- Ley  \n- Asistente  \n- Especializado  \n- Información proporcionada  \n- Contexto  \n- Preguntas  \n- Respuestas  \n- Formalidad  \n- Precisión  \n- Relevancia  \n- Temas centrales  \n- Conceptos clave"
+        "summary": "El contexto presenta el marco legal relacionado con el derecho colectivo de trabajo en Cuba, enfocado principalmente en los derechos sindicales, participación laboral, negociación colectiva y garantías para los trabajadores y dirigentes sindicales.\n\nLos artículos desde el 473 al 502 regulan aspectos clave como:\n- El derecho a la sindicación, libertad sindical, autotutela, autonomía y participación activa de las personas trabajadoras en la toma de decisiones (artículo 473 y 474).\n- Derechos y deberes de las organizaciones sindicales, incluyendo su participación en procesos económicos y sociales, así como su responsabilidad en la educación y defensa de los derechos laborales (artículo 475 y 476).\n- Garantías para los dirigentes sindicales, como protección contra despidos o discriminación relacionados con sus funciones y acceso a recursos e información necesaria (artículo 478).\n- Inspección sindical para garantizar el cumplimiento de normas laborales y condiciones de seguridad en el trabajo (artículo 479).\n- Derecho a la participación activa de las personas trabajadoras en la gestión de entidades, con formas individuales, colectivas e indirectas, abordando temas como planificación, regulación, gestión y control (artículos 480 al 487).\n- Sistema de control interno y rendición de cuentas por parte del empleador ante las personas trabajadoras (artículo 488 y 489).\n- Derecho a la negociación colectiva, el convenio colectivo de trabajo como instrumento jurídico principal para regular condiciones laborales, su elaboración, cláusulas, anexos, aprobación, vigencia y control de cumplimiento (artículos 490 al 498).\n- Procedimiento de arbitraje para resolver discrepancias en la negociación colectiva (artículo 500 y 501), con una decisión colectiva por mayoría simple dentro de un plazo establecido (artículo 502).\n\nEn conjunto, este marco legal busca garantizar el derecho a la participación, sindicación y defensa de los derechos laborales en Cuba, mediante mecanismos participativos",
+        "ideas": [
+            "Las personas trabajadoras tienen derecho a asociarse voluntariamente a organizaciones sindicales.  ",
+            "Se garantiza el libre ejercicio del derecho de sindicación según lo previsto en la ley.  ",
+            "Se protege contra actos de discriminación relacionados con la afiliación sindical.  ",
+            "Los principios que rigen las organizaciones sindicales incluyen libertad sindical, autotutela, autoregulación y participación activa.  ",
+            "Las organizaciones sindicales tienen derecho a representar y defender los derechos de las personas trabajadoras.  ",
+            "Tienen derecho a participar en la planificación y toma de decisiones económicas.  ",
+            "Se establecen garantías para los dirigentes sindicales, como protección contra medidas disciplinarias o terminación del contrato laboral por desempeño sindical.  ",
+            "Las organizaciones sindicales realizan inspecciones para controlar el cumplimiento de normas laborales y de seguridad.  ",
+            "Las personas trabajadoras tienen derecho a participar activamente en la toma de decisiones sobre planificación, gestión y control económico.  ",
+            "La participación puede ser individual, colectiva o indirecta, con modalidades definidas según las necesidades de cada entidad.  ",
+            "Se definen temas específicos que deben ser objeto de la participación de las personas trabajadoras, como planificación, regulación, gestión y control.  ",
+            "La participación es indispensable en procesos clave, incluyendo la elaboración del presupuesto, organización salarial y evaluación de resultados.  ",
+            "Los empleadores están obligados a crear condiciones para la efectiva participación de las personas trabajadoras.  ",
+            "Se establece un sistema de control interno con participación de sindicatos y trabajadores.  ",
+            "Las personas trabajadoras tienen derecho a rendir cuentas sobre los resultados de su gestión, en procesos periódicos y públicos.  ",
+            "El derecho a la negociación colectiva permite acordar condiciones laborales entre sindicatos y empleadores.  ",
+            "El convenio colectivo de trabajo es el instrumento jurídico que formaliza las condiciones acordadas tras negociaciones colectivas.  ",
+            "Se definen cláusulas y anexos obligatorios en los convenios colectivos, incluyendo reglamentos internos y protocolos de prevención de riesgos.  ",
+            "El convenio colectivo debe ser aprobado en Asamblea General de Afiliados y Trabajadores y se aplica"
+        ],
+        "keywords": [
+            "derecho sindical",
+            " negociación colectiva",
+            " participación laboral",
+            " convenio colectivo de trabajo",
+            " inspección sindical"
+        ]
     },
     "4": {
         "title": "LIBRO CUARTO",
         "begin": 2518,
         "end": 2669,
-        "sumary": "**Resumen:**\n\nEl **Capítulo I** establece las **autoridades de trabajo**, incluyendo al Ministerio de Trabajo y Seguridad Social, la Oficina Nacional de Inspección del Trabajo (ONIT) y las direcciones provinciales y municipales de Trabajo y Seguridad Social. Estas entidades tienen funciones como controlar el cumplimiento de la legislación laboral, proponer políticas nacionales y velar por las condiciones laborales. Además, se menciona el **Servicio de Gestión de Empleo Territorial**, encargado de facilitar empleos dignos para grupos vulnerables, bajo el control del Ministerio correspondiente.\n\nEl **Capítulo III** regula la **Inspección del Trabajo**, llevada a cabo por la ONIT. Sus funciones incluyen garantizar el cumplimiento legal, informar resultados a empleadores y sindicatos, aplicar medidas como clausuras o suspensiones en casos de infracciones, y establecer procedimientos para notificación y apelación.\n\nEl **Capítulo IV** define el **Capital Humano** como los conocimientos y habilidades de las personas trabajadoras que contribuyen a la riqueza. La **gestión del capital humano** implica un proceso integrado orientado al desarrollo laboral, con la colaboración de empleadores y sindicatos para promover el derecho al trabajo y el desarrollo integral de los trabajadores.",
-        "ideas": "**Ideas esenciales del texto:**\n\n1. **Definición de la inspección del trabajo:** Es una facultad atribuida a diferentes ministerios y organismos estatales, con responsabilidades específicas en áreas como legislación laboral, salud, seguridad y medio ambiente.\n\n2. **Órgano principal:** El Ministerio de Trabajo y Seguridad Social es el encargado de ejecutar la inspección del trabajo mediante la Oficina Nacional de Inspección del Trabajo (ONIT) y sus filiales territoriales.\n\n3. **Participación de múltiples autoridades:** Otros ministerios, como Salud Pública, Interior, Ciencia, Tecnología y Medio Ambiente, pueden participar en inspecciones especializadas para garantizar el cumplimiento de normativas laborales y de seguridad.\n\n4. **Sujetos sometidos a la inspección:** Todos los empleadores radicados en el territorio nacional, independientemente del sector, así como otros establecidos por ley.\n\n5. **Transparencia en el proceso:** Los resultados de las inspecciones deben comunicarse al empleador, a la organización sindical y a las personas trabajadoras.\n\n6. **Responsabilidad penal:** Si se elimina la infracción antes de la inspección, se suspende la responsabilidad penal; caso contrario, se notifica a la autoridad competente para proceder con la denuncia.\n\n7. **Infracciones laborales:** El texto menciona infracciones generales y específicas relacionadas con derechos laborales, protección de trabajadoras, régimen de trabajo, remuneración, seguridad, salud y seguridad social, derivadas del incumplimiento de normas legales, constitucionales y reglamentarias.\n\n8. **Funciones de la ONIT:** Incluyen el control del cumplimiento legal, investigación de accidentes mortales, resolución de conflictos colectivos, asesoría legal y atención a quejas o denuncias presentadas por trabajadores o sindicatos.\n\n9. **Obligaciones del jefe de la entidad inspeccionada:** Debe facilitar información, documentación y pruebas durante las inspecciones y no obstaculizar el trabajo de los inspectores.\n\n10. **Medidas aplicables:** Incluyen la \"obligación de hacer\", clausura o paralización de oper",
-        "keywords": "1. **Inspección del trabajo**  \n2. **Ministerio de Trabajo y Seguridad Social**  \n3. **Legislación laboral**  \n4. **Seguridad y salud en el trabajo**  \n5. **Autoridades competentes**  \n6. **Oficina Nacional de Inspección del Trabajo**  \n7. **Sujetos de inspección**  \n8. **Empleadores**  \n9. **Responsabilidad legal**  \n10. **Infracciones**  \n11. **Organismos estatales**  \n12. **Prevención y asistencia social**  \n13. **Control del cumplimiento normativo**  \n14. **Ministerios competentes (Salud Pública, Interior, Ciencia, Tecnología y Medio Ambiente)**  \n15. **Inspección especializada**"
+        "summary": "La Sección Primera establece en el Artículo 509 las facultades de inspección del trabajo atribuidas a diferentes ministerios y organismos estatales, según su competencia específica, siendo el Ministerio de Trabajo y Seguridad Social responsable de la ejecución a través de la Oficina Nacional de Inspección del Trabajo. El Artículo 510 define los sujetos de inspección como empleadores radicados en el territorio nacional y otros determinados por ley, con obligación de comunicar los resultados a empleadores, sindicatos y trabajadores, e informar infracciones con consecuencias penales a la autoridad correspondiente. El contexto aborda diversos tipos de infracciones laborales, incluyendo violaciones generales, en el empleo, protección a la trabajadora, régimen de trabajo, remuneración y seguridad laboral. La Oficina Nacional de Inspección del Trabajo tiene funciones como controlar cumplimiento normativo, investigar accidentes mortales, resolver conflictos colectivos, asesorar y atender quejas, aplicando medidas como exigir obligaciones, clausurar instalaciones o proponer sanciones. También se establecen procedimientos para notificación de resultados, recursos de apelación y revisiones ante autoridades superiores con plazos definidos.",
+        "ideas": [
+            "La inspección del trabajo es una facultad compartida entre varios ministerios y organismos estatales.  ",
+            "El Ministerio de Trabajo y Seguridad Social ejecuta la inspección a través de la Oficina Nacional de Inspección del Trabajo.  ",
+            "Los sujetos de inspección incluyen empleadores radicados en el territorio nacional, independientemente del sector.  ",
+            "Los resultados de las inspecciones deben comunicarse al empleador, a la organización sindical y a las personas trabajadoras.  ",
+            "La responsabilidad por infracciones prescribe si estas y sus efectos están eliminados en el momento de la inspección.  ",
+            "Cuando se detectan infracciones con posibles consecuencias penales, el inspector debe informar a la autoridad correspondiente para iniciar una denuncia.  ",
+            "Infracciones generales incluyen violación de principios constitucionales y legales.  ",
+            "Incumplimiento de acuerdos firmes en conflictos laborales o judiciales.  ",
+            "Obstaculizar la actuación de inspectores del trabajo.  ",
+            "No cumplir con medidas dispuestas por inspección del trabajo.  ",
+            "Infracciones en el empleo incluyen contratación ilegal de menores, extranjeros sin permisos adecuados y violaciones contractuales.  ",
+            "Discriminación, violencia o acoso laboral.  ",
+            "Limitar contrataciones sin causa justificada.  ",
+            "Pluriempleo sin cumplir límites horarios.  ",
+            "Incumplimiento de dictamen médico laboral.  ",
+            "No contratar seguro de protección a ingresos.  ",
+            "Terminar relaciones laborales sin fundamento legal.  ",
+            "Infracciones en la protección a la trabajadora incluyen emplear a gestantes en cargos perjudiciales y no otorgar licencias maternidad.  ",
+            "No permitir descanso adecuado o no pagar prestaciones correspondientes.  ",
+            "Infracciones del régimen de trabajo y descanso incluyen jornadas excesivas, falta de descansos diarios y vacaciones anuales.  ",
+            "Incumplimiento de recesos nacionales o feriados.  ",
+            "Infracciones en la remuneración incluyen salarios inferiores al mínimo, pagos en especie o con monedas no legales.  ",
+            "Descuentos excesivos o formas de pago no autorizadas.  ",
+            "Infracciones en seguridad y salud laboral"
+        ],
+        "keywords": [
+            "Inspección del trabajo",
+            " Ministerio de Trabajo y Seguridad Social",
+            " Empleadores",
+            " Legislación laboral",
+            " Infracciones."
+        ]
     }
 }
