@@ -82,7 +82,7 @@ if ("logged_in" in st.session_state) and st.session_state.logged_in:
         debug_view = st.checkbox("Debug View")
 
     if debug_view:
-        st.session_state
+        st.json(st.session_state, expanded=False)
 
     left = None
     right = None

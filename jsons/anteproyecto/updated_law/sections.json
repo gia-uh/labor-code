@@ -1,0 +1,1127 @@
+{
+    "1": {
+        "title": "Sección Primera",
+        "begin": 204,
+        "end": 223,
+        "summary": "El presente texto regula el inicio, formalidad y proceso de selección de empleados dentro de entidades públicas o privadas. El artículo 27 establece los distintos canales mediante los cuales una persona en busca de empleo puede acceder a un cargo vacante, incluyendo convocatorias públicas y el uso del Servicio de Gestión de Empleo Territorial. En el artículo 28 se detalla que las convocatorias deben incluir información sobre el puesto, sus responsabilidades y remuneración, y su duración será acordada entre el jefe de la entidad y la organización sindical. El artículo 29 menciona la obligación del empleador de someter a consulta previa al Comité de Expertos para evaluar las capacidades de los aspirantes, garantizando que los no seleccionados reciban una respuesta fundamentada y puedan reclamar ante el Órgano de Justicia Laboral o judicial si así lo desean. Finalmente, el artículo 30 establece la posibilidad de contratar o trasladar colectivos de trabajadores entre territorios del país para satisfacer necesidades temporales o permanentes de fuerza laboral, siempre garantizando condiciones adecuadas de vida y trabajo, y coordinando con las autoridades locales.",
+        "ideas": [
+            "Acceso a cargos vacantes mediante convocatorias públicas o vías específicas.  ",
+            "Contratación basada en necesidades de producción, servicios y capacidad demostrada del candidato.  ",
+            "Obligación de empleadores de informar plazas vacantes a las autoridades laborales.  ",
+            "Convocatoria debe incluir denominación, funciones, remuneración y otros datos relevantes sin discriminación.  ",
+            "Participación de personal interno en convocatorias y posibilidad de seleccionar otro personal si no hay candidatos adecuados.  ",
+            "Duración de la convocatoria acordada entre jefe de entidad y organización sindical.  ",
+            "Consulta previa al Comité de Expertos para evaluar capacidad de los aspirantes.  ",
+            "Notificación escrita a quienes no son seleccionados con posibilidad de reclamar ante órganos judiciales.  ",
+            "Derecho a recibir respuesta argumentada en caso de denegación de acceso a empleo.  ",
+            "Contratación y traslado de colectivos de trabajadores entre territorios bajo condiciones garantizadas.  ",
+            "Facultad indelegable para aprobación de contrataciones o traslados con coordinación previa con autoridades locales.  ",
+            "Aplicación de normativas específicas en traslados de colectivos de trabajadores.  ",
+            "Contratación individual de trabajadores de otras provincias rige por el Código sin necesidad de autorización adicional."
+        ],
+        "keywords": [
+            "empleo",
+            " convocatoria",
+            " contratación",
+            " traslado",
+            " personas trabajadoras"
+        ]
+    },
+    "2": {
+        "title": "Sección Segunda",
+        "begin": 224,
+        "end": 250,
+        "summary": "El presente texto establece principios sobre las prioridades en el empleo, destacando que las personas jóvenes, mujeres, discapacitadas, ex militares, vulnerables y quienes cumplen sanción penal en libertad tienen preferencia para acceder al trabajo. Se menciona la necesidad de capacitación cuando no cuentan con formación previa. Para personas con discapacidad y egresados de educación especial se garantiza el acceso al empleo mediante ajustes razonables, beneficios fiscales y un aval médico si es necesario. Además, se contempla un periodo de entrenamiento en el puesto de trabajo hasta seis meses, con pago equivalente al salario del cargo, y se establece el control de la permanencia laboral por parte de las direcciones municipales de Trabajo y Seguridad Social.",
+        "ideas": [
+            "Prioridades en el empleo son asignadas a grupos específicos como jóvenes, mujeres, personas con discapacidad, exmilitares, entre otros.  ",
+            "Las personas priorizadas pueden gestionar directamente su ubicación laboral en las entidades correspondientes.  ",
+            "Se favorece la incorporación de cursos de capacitación para quienes no tienen formación adecuada.  ",
+            "Los empleadores deben realizar ajustes razonables para garantizar el acceso al trabajo de personas con discapacidad.  ",
+            "Las empresas que contratan a personas con discapacidad reciben beneficios fiscales.  ",
+            "Se establece un procedimiento para avalar la aptitud laboral de personas con discapacidad o egresados de educación especial.  ",
+            "Durante el entrenamiento en el puesto, las personas con discapacidad reciben un salario equivalente al del cargo.  ",
+            "Si no se logran las competencias tras el periodo de entrenamiento, se evalúa su ubicación en otro puesto o se finaliza la relación laboral.  ",
+            "Las direcciones de Trabajo y Seguridad Social controlan la permanencia de personas con prioridad en empleo e informan al Ministerio correspondiente."
+        ],
+        "keywords": [
+            "empleo",
+            " discapacidad",
+            " capacitación",
+            " prioridades",
+            " personas"
+        ]
+    },
+    "3": {
+        "title": "Sección Primera",
+        "begin": 253,
+        "end": 262,
+        "summary": "La formalización de la relación de trabajo se establece mediante contrato de trabajo, nombramiento o elección para funciones específicas, según lo dispuesto en el Código laboral. En caso de no formalizar por escrito, la relación de trabajo se presume cuando la persona trabajadora realiza labores con conocimiento y sin oposición del empleador, obligándose a formalizarla ante un órgano competente, desde el inicio de las labores. Los derechos derivados de esta relación están garantizados desde ese momento.",
+        "ideas": [
+            "La relación de trabajo se formaliza mediante contrato de trabajo, designación o nombramiento.  ",
+            "Los funcionarios y otros trabajadores designados formalizan su relación mediante nombramiento según disposiciones normativas específicas.  ",
+            "Las personas trabajadoras de confianza están sujetas al régimen disciplinario establecido en el Código.  ",
+            "Cuando no se formaliza por escrito, la relación laboral se presume si la persona trabaja con conocimiento y sin oposición del empleador.  ",
+            "El empleado debe formalizar legalmente la relación laboral desde el inicio de las labores.  ",
+            "La formalización debe realizarse a partir del reconocimiento por un órgano que resuelve conflictos laborales o jurisdiccional."
+        ],
+        "keywords": [
+            "relación de trabajo",
+            " contrato de trabajo",
+            " designación",
+            " nombramiento",
+            " presunción."
+        ]
+    },
+    "4": {
+        "title": "Sección Segunda",
+        "begin": 263,
+        "end": 304,
+        "summary": "El contrato de trabajo se formaliza por escrito entre el empleador y la persona trabajadora, con excepciones para contratos verbales en actividades eventuales o emergentes, siempre que no excedan los 90 días. El contenido del contrato incluye información básica de las partes, términos del contrato, lugar de trabajo, régimen laboral, remuneración y condiciones de seguridad. Existen diferentes tipos de contratos: por tiempo indeterminado, determinado y para la ejecución de un trabajo u obra. En actividades cíclicas o de temporada, se puede utilizar el contrato por tiempo indeterminado, con suspensión del contrato en los períodos interciclo sin pago de remuneración. La solicitud para este tipo de contrato debe ser presentada ante las autoridades competentes, considerando que la actividad sea cíclica y requiera personal especializado. La aprobación se realiza mediante acuerdo del órgano colegiado del Ministerio de Trabajo y Seguridad Social.",
+        "ideas": [
+            "La relación laboral se formaliza mediante un contrato individual entre trabajador y empleador.  ",
+            "El contrato debe ser por escrito, salvo excepciones para actividades eventuales o emergentes con duración máxima de 90 días.  ",
+            "Los contratos deben incluir información como nombres, datos personales, tipo de contrato, lugar de trabajo, remuneración y condiciones de seguridad.  ",
+            "Existen tres tipos principales de contrato: por tiempo indeterminado, por tiempo determinado y para la ejecución de un trabajo u obra.  ",
+            "El contrato por tiempo indeterminado se usa en labores cíclicas o de temporada, con suspensión del contrato durante períodos interciclo.  ",
+            "La solicitud para utilizar este tipo de contrato requiere fundamentación ante autoridades laborales y consulta sindical.  ",
+            "Para aprobar el uso del contrato por tiempo indeterminado, deben cumplirse premisas relacionadas con la naturaleza cíclica de las actividades y la necesidad de preservar una fuerza laboral específica."
+        ],
+        "keywords": [
+            "contrato de trabajo",
+            " relación de trabajo",
+            " remuneración",
+            " condiciones de trabajo",
+            " tipos de contrato"
+        ]
+    },
+    "5": {
+        "title": "Sección Tercera",
+        "begin": 305,
+        "end": 318,
+        "summary": "Las personas trabajadoras de confianza son aquellas cuya actividad requiere un vínculo de confianza con su jefe inmediato, incluyendo roles como jefes de brigada, secretarias ejecutivas y choferes de altos cargos. Estas personas deben poseer competencias adicionales como confiabilidad y discreción, así como cumplir un período de prueba antes de ser designadas formalmente. La relación laboral se formaliza mediante una resolución o escrito fundamentado, que incluye los mismos elementos de un contrato de trabajo y tiene carácter indeterminado. Además, el jefe de la entidad puede definir otros cargos con funciones similares, los cuales también pueden ser considerados como personas trabajadoras de confianza.",
+        "ideas": [
+            "Las personas trabajadoras de confianza son aquellas que desarrollan actividades que requieren un vínculo de confianza con su jefe inmediato.  ",
+            "Incluyen a trabajadores en funciones de administración, dirección, vigilancia y control, como jefes de brigada, encargados de almacén, entre otros.  ",
+            "También incluyen secretarias ejecutivas y choferes de altos cargos públicos.  ",
+            "Se requiere confiabilidad y discreción como competencias adicionales para estos trabajadores.  ",
+            "La confiabilidad implica responsabilidad y una relación cercana con la autoridad que los designa.  ",
+            "La discreción se refiere a la no divulgación de información sensible obtenida en el desempeño del cargo.  ",
+            "Estos cargos requieren un período de prueba antes de su designación definitiva.  ",
+            "Una vez concluido el periodo de prueba, la relación laboral se formaliza mediante una resolución o escrito fundamentado.  ",
+            "Este documento incluye los mismos elementos que un contrato de trabajo y establece la naturaleza indeterminada del vínculo.  ",
+            "Los jefes de entidad pueden definir otros cargos similares, que también pueden ser considerados trabajadores de confianza, según criterios establecidos."
+        ],
+        "keywords": [
+            "Personas trabajadoras de confianza",
+            " confianza",
+            " competencias adicionales",
+            " relación de trabajo",
+            " formalidad."
+        ]
+    },
+    "6": {
+        "title": "Sección Cuarta",
+        "begin": 319,
+        "end": 328,
+        "summary": "El período de prueba es un tiempo durante el cual se evalúa la capacidad de una persona trabajadora para desempeñar un cargo, así como la adecuación entre el lugar de trabajo y sus intereses. Durante este periodo, cualquiera de las partes puede terminar la relación laboral según lo establecido en el Código. La duración del período de prueba oscila entre 30 y 180 días, dependiendo de la complejidad del cargo y se acuerda en los convenios colectivos. El empleador debe planificar el periodo de prueba, definiendo competencias laborales a evaluar y realizando una evaluación final antes de su culminación. Si al finalizar este periodo no se manifiesta la voluntad de terminar la relación laboral por parte de las partes y la persona trabajadora continúa labores con el conocimiento del empleador, se formaliza la relación laboral por tiempo indeterminado. No se aplica el período de prueba en contratos a tiempo determinado, para la ejecución de un trabajo u obra, servicio social o por decisión del empleador y sindicato.",
+        "ideas": [
+            "El período de prueba permite evaluar la capacidad del trabajador para un cargo específico.  ",
+            "No se requiere período de prueba en contratos temporales o para ejecutar obras y servicios sociales.  ",
+            "Cualquier parte puede terminar la relación laboral durante el período de prueba según el Código Laboral.  ",
+            "La duración del período de prueba varía entre 30 y 180 días, dependiendo de la complejidad del cargo.  ",
+            "El empleador debe planificar y evaluar sistemáticamente el desempeño del trabajador durante este tiempo.  ",
+            "Si al finalizar el período no se manifiesta voluntad para terminar, se formaliza un contrato a tiempo indeterminado."
+        ],
+        "keywords": [
+            "Período de prueba",
+            " contrato de trabajo",
+            " empleador",
+            " persona trabajadora",
+            " evaluación."
+        ]
+    },
+    "7": {
+        "title": "Sección Quinta",
+        "begin": 329,
+        "end": 347,
+        "summary": "La Sección Quinta regula el trabajo a tiempo parcial y el pluriempleo, estableciendo que las partes pueden acordar una jornada reducida con remuneración proporcional al tiempo laborado. El pluriempleo permite a los trabajadores tener múltiples contratos o designaciones siempre que se cumplan requisitos como horarios no coincidentes y labores distintas, limitando la jornada diaria total a trece horas. Los derechos incluyen vacaciones anuales de hasta treinta días por contrato y protección social por cada empleo. Existen excepciones para ciertos grupos durante períodos de incapacidad o en actividades con riesgos para la salud. Asimismo, se menciona el concepto de pluriactividad, que combina trabajo subordinado y autónomo, sujeto a distintos regímenes de seguridad social.",
+        "ideas": [
+            "Trabajo a tiempo parcial permite jornadas inferiores al estándar con remuneración proporcional.  ",
+            "El pluriempleo permite a los trabajadores tener múltiples contratos siempre que no interfieran con sus responsabilidades principales.  ",
+            "Los contratos adicionales deben ser en horarios diferentes y labores distintas si son dentro de la misma entidad.  ",
+            "La jornada máxima diaria para pluriempleados es de 13 horas, combinando trabajo completo o a tiempo parcial.  ",
+            "Los trabajadores con pluriempleo tienen derecho a vacaciones anuales por cada contrato y protección social.  ",
+            "Algunos profesionales necesitan autorización expresa para ejercer pluriempleo.  ",
+            "No se permite pluriempleo durante períodos de subsidios, incapacidades o licencias maternidad.  ",
+            "La pluriactividad implica trabajar con subordinación a un empleador y realizar trabajo autónomo, sujeto a diferentes regímenes de seguridad social."
+        ],
+        "keywords": [
+            "trabajo a tiempo parcial",
+            " pluriempleo",
+            " jornada de trabajo",
+            " remuneración",
+            " seguridad social"
+        ]
+    },
+    "8": {
+        "title": "Sección Sexta",
+        "begin": 348,
+        "end": 352,
+        "summary": "Los estudiantes mayores de 18 años pueden trabajar mediante contratos a tiempo parcial durante los períodos docentes, o a jornada completa en vacaciones o recesos, sin afectar sus estudios. Tienen derecho a la remuneración correspondiente y a los beneficios de seguridad social establecidos para estos tipos de contratos.",
+        "ideas": [
+            "Los estudiantes de cursos diurnos con 18 años o más pueden trabajar en jornadas parciales durante los períodos docentes.  ",
+            "También pueden tener contratos a tiempo completo durante vacaciones o recesos.  ",
+            "Se les reconoce los derechos laborales y de seguridad social correspondientes a sus contratos."
+        ],
+        "keywords": [
+            "Estudiantes",
+            " trabajo",
+            " contrato",
+            " jornada",
+            " remuneración."
+        ]
+    },
+    "9": {
+        "title": "Sección Primera",
+        "begin": 355,
+        "end": 382,
+        "summary": "El contexto establece los principios relacionados con la capacidad demostrada, definida como el criterio fundamental para la incorporación al empleo, permanencia en el cargo, promoción y capacitación. Las competencias laborales son un conjunto de conocimientos, habilidades, actitudes y valores que deben alinearse con las necesidades técnicas y operativas de los cargos. La entidad debe identificar y gestionar tres tipos de competencias: distintivas, de procesos principales y de cargos, garantizando su medibilidad y contribución a los objetivos organizacionales.\n\nEl perfil de competencias incluye atribuciones, obligaciones y expectativas del cargo, vinculadas con las metas estratégicas de la entidad. La capacidad demostrada se analiza mediante aspectos como conocimientos, habilidades técnicas, aptitudes físicas y mentales, valores y calificación formal, que deben integrarse en los perfiles aprobados por la dirección, previa discusión con la organización sindical.\n\nEl jefe de la entidad tiene facultades para evaluar la capacidad demostrada, decidir sobre la incorporación al empleo, permanencia en el cargo y capacitación, pudiendo delegar estas funciones. Asimismo, puede autorizar el desempeño de un cargo a una persona que no cumple con la calificación formal si demuestra otras competencias laborales aprobadas.\n\nFinalmente, durante el proceso de incorporación al empleo, se proporciona información inicial sobre la entidad, reglamentos internos, obligaciones del cargo y presentación ante el colectivo laboral.",
+        "ideas": [
+            "La capacidad demostrada regula la incorporación al empleo, permanencia en cargo, promoción y capacitación.  ",
+            "Las competencias laborales incluyen conocimientos, habilidades, actitudes y valores necesarios para cumplir con las obligaciones de un cargo.  ",
+            "El perfil de competencias define las atribuciones del cargo y su relación con los objetivos estratégicos de la entidad.  ",
+            "La capacidad demostrada se analiza mediante el examen integral de distintas competencias laborales, incluyendo conocimientos, habilidades físicas y mentales, valores y calificación formal.  ",
+            "El jefe de la entidad tiene facultades para tomar decisiones sobre la incorporación, evaluación y capacitación del personal.  ",
+            "La información inicial proporcionada al trabajador incluye datos sobre la entidad, reglamentos, convenios colectivos y competencias del cargo."
+        ],
+        "keywords": [
+            "Capacidad demostrada",
+            " competencias laborales",
+            " perfil de competencias",
+            " atribuciones",
+            " obligaciones."
+        ]
+    },
+    "10": {
+        "title": "Sección Segunda",
+        "begin": 383,
+        "end": 406,
+        "summary": "El Comité de Expertos es un órgano colegiado encargado de asesorar al empleador en materia de evaluación de la capacidad demostrada de los trabajadores, así como en acciones de capacitación y promoción. Su constitución garantiza una composición impar con representantes designados por el jefe de la entidad, la organización sindical y electos por los trabajadores. Los miembros deben cumplir condiciones específicas, como no haber sido sancionados o pertenecer a ciertos órganos. El procedimiento incluye la recepción de solicitudes, convocatoria de reuniones, análisis de casos con abstención en caso de conflictos de interés y toma de decisiones por mayoría. La recomendación del Comité se emite por escrito y se archiva junto con toda la documentación relacionada, guardándose durante cinco años.",
+        "ideas": [
+            "El Comité de Expertos asesora al empleador en temas relacionados con la capacidad demostrada de los trabajadores.  ",
+            "La composición del Comité garantiza un número impar de miembros, elegidos o designados por diferentes partes.  ",
+            "Los miembros deben tener prestigio, experiencia y no estar sancionados; tampoco pueden ser miembros del Órgano de Justicia Laboral.  ",
+            "Se establecen procedimientos para la sustitución de miembros en caso de ausencia o incumplimiento de condiciones.  ",
+            "En entidades con pocos trabajadores, se definen mecanismos alternativos para evaluar la capacidad demostrada.  ",
+            "El coordinador del Comité recibe solicitudes y convoca reuniones dentro de un plazo establecido.  ",
+            "Los miembros deben abstenerse si hay conflictos de interés o relaciones personales con los involucrados.  ",
+            "Las decisiones se toman por mayoría, y en caso de no unanimidad, se registra en el acta.  ",
+            "La recomendación del Comité se entrega por escrito dentro de un plazo determinado a la autoridad facultada.  ",
+            "Los expedientes se archivan y conservan durante cinco años."
+        ],
+        "keywords": [
+            "Comité de Expertos",
+            " capacidad demostrada",
+            " personas trabajadoras",
+            " autoridad facultada",
+            " recomendación."
+        ]
+    },
+    "11": {
+        "title": "Sección Tercera",
+        "begin": 407,
+        "end": 429,
+        "summary": "La evaluación del trabajo se define como una medición sistemática de los resultados laborales y la eficacia con que se realizan las actividades durante un período determinado, sirviendo como base para decisiones relacionadas con promoción, pago por resultados y distribución de utilidades. Debe realizarse al menos anualmente por el jefe de la entidad, garantizando transparencia y objetividad, y debe acordarse en conjunto con la organización sindical los plazos y condiciones. La persona trabajadora tiene derecho a discutir el resultado de la evaluación antes de firmarla y recibir una copia del documento. En caso de inconformidad, puede presentar reclamaciones ante autoridades competentes o recurrir a la vía judicial. Si la evaluación anual es deficiente, se inicia un proceso para analizar la capacidad demostrada, y en caso de pérdida de esta, se pueden tomar medidas como reubicación, capacitación o terminación del contrato con una garantía salarial correspondiente. La persona trabajadora puede impugnar estas decisiones ante los órganos de justicia laboral o judicialmente si persiste la inconformidad.",
+        "ideas": [
+            "La evaluación del trabajo es una medición sistemática de los resultados laborales y su eficacia.  ",
+            "Se basa en la capacidad demostrada, promoción, pago por resultados y distribución de utilidades.  ",
+            "Incluye la evaluación de competencias, cumplimiento de obligaciones, necesidades de capacitación y análisis de recomendaciones anteriores.  ",
+            "La evaluación se lleva a cabo al menos una vez al año por el jefe de la entidad, garantizando transparencia y objetividad.  ",
+            "Se acuerdan plazos y condiciones con la organización sindical, incluyendo delegados para realizar la evaluación.  ",
+            "El trabajador tiene derecho a discutir los resultados antes de firmarlos y recibir una copia de la evaluación.  ",
+            "En caso de inconformidad, el trabajador puede reclamar ante el jefe inmediato superior dentro de 7 días hábiles.  ",
+            "Si persiste la inconformidad, se puede presentar una reclamación ante el Órgano de Justicia Laboral o ante los tribunales.  ",
+            "La evaluación anual deficiente puede llevar a un análisis de capacidad demostrada y recomendaciones del Comité de Expertos.  ",
+            "La pérdida de capacidad demostrada puede resultar en reubicación, capacitación o terminación de la relación laboral con garantía salarial.  ",
+            "Si el trabajador no acepta la reubicación injustificadamente, se termina la relación sin derecho a la garantía salarial.  ",
+            "El trabajador inconforme puede recurrir ante el Órgano de Justicia Laboral o presentar una demanda judicial."
+        ],
+        "keywords": [
+            "Evaluación del trabajo",
+            " capacidad demostrada",
+            " reubicación",
+            " garantía salarial",
+            " inconformidad."
+        ]
+    },
+    "12": {
+        "title": "Sección Primera",
+        "begin": 467,
+        "end": 486,
+        "summary": "Este artículo establece las normas sobre la modificación de contratos laborales, incluyendo los requisitos para realizar cambios en condiciones pactadas, el procedimiento cuando exista inconformidad por parte del trabajador y los casos permitidos para traslados provisional o definitivo. La modificación requiere acuerdo mutuo entre empleador y trabajador, o bien estar prevista en convenios colectivos o disposiciones legales, debiendo formalizarse mediante suplemento al contrato. En caso de inconformidad del trabajador, puede presentar reclamación ante el Órgano de Justicia Laboral o a través de vía judicial. Los traslados provisionales pueden realizarse en situaciones excepcionales como desastres, emergencias o peligro inminente para la vida, sin exceder los 180 días anuales y garantizando el salario promedio si es inferior al del nuevo cargo. Para un traslado definitivo se requiere el consentimiento expreso del trabajador y modificación formal del contrato de trabajo.",
+        "ideas": [
+            "La modificación del contrato laboral no concluye la relación de trabajo ni afecta sus efectos esenciales.  ",
+            "Las modificaciones pueden realizarse por acuerdo mutuo, cambio de cargo o lugar de trabajo, ajustes salariales, entre otros motivos.  ",
+            "Para que las modificaciones tengan valor legal, se requiere un suplemento al contrato o una modificación del documento formal.  ",
+            "El empleador debe fundamentar cualquier cambio sin consentimiento del trabajador en el nuevo documento.  ",
+            "Si el trabajador no acepta la modificación, puede presentar una reclamación ante el Órgano de Justicia Laboral o judicialmente.  ",
+            "Durante el proceso de reclamación, el empleador puede mantener al trabajador bajo las condiciones anteriores o nuevas, según corresponda.  ",
+            "El traslado, ya sea provisional o definitivo, puede realizarse por iniciativa del empleador o del propio trabajador.  ",
+            "El traslado provisional se permite en situaciones de emergencia, desastres o riesgo inminente para la vida.  ",
+            "Dicho traslado no puede exceder 180 días anuales sin consentimiento del trabajador y se garantiza su salario promedio si es menor.  ",
+            "Se consulta a la organización sindical y se brindan instrucciones sobre seguridad en el nuevo lugar de trabajo.  ",
+            "El trabajador puede reclamar si considera que el traslado no cumple con las normas establecidas.  ",
+            "Para un traslado definitivo, se requiere el consentimiento expreso del trabajador y una modificación formal del contrato."
+        ],
+        "keywords": [
+            "contrato de trabajo",
+            " modificación",
+            " traslado",
+            " reclamación",
+            " salario"
+        ]
+    },
+    "13": {
+        "title": "Sección Segunda",
+        "begin": 487,
+        "end": 520,
+        "summary": "La interrupción de las actividades laborales se refiere a la paralización temporal del trabajo causada por factores externos, como fallos técnicos, falta de materiales, fuerza mayor o decisiones gubernamentales. En estos casos, el empleador debe identificar la causa, determinar si es imputable al trabajador y reubicarlo en otro puesto, siempre que sea posible. El trabajador tiene cinco días hábiles para aceptar la reubicación; de no hacerlo, se puede terminar su contrato tras una evaluación conjunta con el sindicato. Durante la interrupción, el trabajador recibe un salario básico o garantía salarial según las circunstancias, salvo que la interrupción sea imputable a él mismo. En casos prolongados (más de dos meses), se puede considerar el cese del contrato, con excepciones para recibir una garantía salarial reducida. Además, si durante este período ocurre un accidente o enfermedad, se aplica la protección de seguridad social. Este tratamiento no aplica a trabajadores en actividades agropecuarias y silvícolas manuales y mecanizadas.",
+        "ideas": [
+            "Interrupción laboral se define como la paralización transitoria del proceso productivo o de servicio.  ",
+            "La interrupción puede deberse a causas como rotura de equipos, falta de materiales, fenómenos naturales, ordenes oficiales, entre otras.  ",
+            "El jefe de entidad debe actuar con el sindicato para recuperar la producción cuando se produce una interrupción laboral.  ",
+            "Ante una interrupción laboral, se identifica la causa y se determina si es imputable a un trabajador.  ",
+            "Se reubica a los afectados en otros cargos dentro de la misma entidad u otras labores para restablecer la actividad.  ",
+            "El trabajador tiene cinco días hábiles para aceptar o no una reubicación propuesta.  ",
+            "Si el trabajador no acepta, se puede terminar la relación laboral tras evaluación del Comité de Expertos.  ",
+            "Durante la interrupción, los trabajadores que no cambian de puesto perciben su salario básico.  ",
+            "Los reubicados temporalmente reciben la remuneración correspondiente al nuevo cargo.  ",
+            "Si no es posible la reubicación, se otorga una garantía salarial del 100% del salario básico diario por 24 días hábiles anuales.  ",
+            "No hay derecho a garantía salarial si la interrupción es imputable al trabajador.  ",
+            "En casos de interrupciones prolongadas (más de dos meses), se puede considerar el cese de relación laboral.  ",
+            "Excepcionalmente, se otorga una garantía del 60% del salario básico diario a partir del segundo mes, con autorización correspondiente.  ",
+            "Si la empresa cubre el costo, el jefe de entidad aprueba este tratamiento.  ",
+            "Durante la garantía salarial, si el trabajador enferma o sufre un accidente, se suspende dicha garantía y aplica protección de seguridad social.  ",
+            "La regulación no aplica a actividades manuales y mecanizadas agropecuarias y silvícolas."
+        ],
+        "keywords": [
+            "interrupción laboral",
+            " reubicación",
+            " garantía salarial",
+            " tratamiento salarial",
+            " causa de interrupción"
+        ]
+    },
+    "14": {
+        "title": "Sección Primera",
+        "begin": 523,
+        "end": 552,
+        "summary": "La suspensión de la relación de trabajo ocurre cuando una persona trabajadora no puede realizar su labor temporalmente debido a disposiciones legales, medidas disciplinarias o fuerza mayor, manteniendo el vínculo laboral aunque se interrumpen algunos efectos. Durante este período, se mantiene la responsabilidad disciplinaria y material de la persona trabajadora, salvo excepciones legales. La relación laboral se reanuda cuando cesa la causa que provocó la suspensión, recuperándose las condiciones previas. Las situaciones que pueden generar una suspensión incluyen desastres nacionales, capacitación estatal, movilizaciones electorales, periodos de vacaciones, incapacidad temporal, licencias por maternidad o cuidado familiar, servicio militar, entre otras causas legalmente establecidas. En casos de vacantes temporales, se pueden cubrir mediante contratos por tiempo determinado.",
+        "ideas": [
+            "La suspensión de la relación de trabajo ocurre cuando una persona trabajadora no puede realizar su labor temporalmente debido a disposiciones legales, medidas disciplinarias o fuerza mayor.  ",
+            "Durante la suspensión, se interrumpen algunos efectos de la relación laboral, pero persiste el vínculo entre las partes.  ",
+            "No se impide la responsabilidad disciplinaria o material, salvo en los casos dispuestos por ley.  ",
+            "La relación laboral se reanuda al cesar la causa que originó la suspensión y mantener las condiciones anteriores.  ",
+            "Las situaciones generales de suspensión incluyen decisiones del Consejo de Defensa Nacional, cursos estatales, movilizaciones electorales, incapacidad temporal, vacaciones anuales, licencias por maternidad, entre otras.  ",
+            "Los cargos vacantes por suspensión pueden cubrirse mediante contrato a tiempo determinado."
+        ],
+        "keywords": [
+            "suspensión",
+            " relación de trabajo",
+            " vacaciones anuales pagadas",
+            " licencias",
+            " incapacidad temporal"
+        ]
+    },
+    "15": {
+        "title": "Sección Segunda",
+        "begin": 553,
+        "end": 567,
+        "summary": "Durante situaciones excepcionales o de desastres, se aplican medidas especiales en materia laboral y salarial. En caso de suspensión de actividades por parte del Consejo de Defensa Nacional, las personas trabajadoras reciben una garantía salarial equivalente al salario básico durante un mes, y el 60% si la suspensión se prolonga. Durante este período, se aplican los tratamientos correspondientes según la legislación vigente en casos de enfermedad o licencias. Las personas trabajadoras que no puedan asistir al trabajo injustificadamente están sujetas a sanciones disciplinarias. Una vez finalizada la suspensión, el empleador puede conceder licencias no retribuidas en situaciones como pérdida de vivienda, evacuación o cuidado de menores afectados por el desastre. Además, quienes se dedican a reconstruir su vivienda pueden obtener una licencia no retribuida con suspensión temporal del contrato laboral. Finalmente, las personas trabajadoras que enfrentan insuficiencia de ingresos tras un desastre pueden solicitar protección ante la Dirección de Trabajo y Seguridad Social.",
+        "ideas": [
+            "Durante situaciones excepcionales se aplica el tratamiento laboral regulado en disposiciones normativas específicas.  ",
+            "En caso de desastres, durante la suspensión de actividades laborales, los trabajadores reciben una garantía salarial del 100% del salario básico por un mes.  ",
+            "Si la suspensión continúa más allá de ese periodo, la garantía se reduce al 60% del salario básico.  ",
+            "Los trabajadores que no pueden asistir al trabajo por enfermedad o accidente reciben el tratamiento según la legislación laboral y de seguridad social.  ",
+            "Los trabajadores que se ausentan injustificadamente durante la suspensión están sujetos a las sanciones disciplinarias establecidas en la ley.  ",
+            "Una vez finalizada la suspensión, los empleadores pueden conceder licencias no retribuidas a quienes no pueden asistir al trabajo por pérdida de vivienda, evacuación o cuidado de hijos menores.  ",
+            "Los trabajadores que participan en la reconstrucción de su propia vivienda afectada por un desastre reciben una licencia no retribuida con suspensión de la relación laboral.  ",
+            "Las personas trabajadoras afectadas por desastres y con insuficiencia de ingresos pueden solicitar protección a la Dirección de Trabajo y Seguridad Social del municipio donde residen."
+        ],
+        "keywords": [
+            "situaciones excepcionales",
+            " desastres",
+            " garantía salarial",
+            " licencia no retribuida",
+            " protección a trabajadores"
+        ]
+    },
+    "16": {
+        "title": "Sección Tercera",
+        "begin": 568,
+        "end": 570,
+        "summary": "Durante los procesos electorales y el Censo de Población y Viviendas, las personas trabajadoras que se movilizan para desempeñar funciones en esas labores tienen suspensa su relación de trabajo durante ese período. Reciben un salario equivalente al promedio del cargo en su entidad de procedencia.",
+        "ideas": [
+            "Suspensión de la relación laboral durante el desarrollo de procesos electorales o del Censo de Población y Viviendas.  ",
+            "La persona trabajadora recibe el salario promedio del cargo en su entidad de procedencia durante este período.  ",
+            "El tratamiento salarial se aplica tanto para quienes se movilizan como para quienes son seleccionados para trabajar en estas labores."
+        ],
+        "keywords": [
+            "Movilizaciones",
+            " procesos electorales",
+            " Censo de Población y Viviendas",
+            " salario promedio",
+            " relación de trabajo."
+        ]
+    },
+    "17": {
+        "title": "Sección Cuarta",
+        "begin": 571,
+        "end": 609,
+        "summary": "Este texto regula el tratamiento laboral, salarial y legal de los reservistas, milicianos y prerreclutas durante sus movilizaciones para la defensa y seguridad nacional. Entre los aspectos clave se destacan:\n\n- Los trabajadores que participan en movilizaciones tienen derecho a recibir beneficios laborales, incluido el pago por años de servicios acumulados al regresar a su cargo.\n- Durante la movilización, perciben un salario promedio según su entidad y reciben los días de descanso correspondientes.\n- En caso de contratos temporales que finalicen durante la movilización, se mantiene el pago salarial hasta el término de esta.\n- Los prerreclutas que participan en actividades relacionadas con su incorporación al Servicio Militar Activo reciben salario y otros ingresos correspondientes por parte de sus entidades laborales.\n- Se establecen excepciones para ciertos tipos de movilización, como clases de preparación combativa, permitiendo ajustes en el horario o considerar días de movilización como vacaciones pagadas en caso de acuerdo entre las partes.\n- Los trabajadores del sector no estatal que se movilizan reciben remuneración según certificaciones emitidas por sus entidades laborales, incluyendo cooperativas y empresas privadas.\n- Quienes causan daños durante la movilización son responsables materialmente ante su entidad laboral.\n- Los desvinculados del trabajo reciben un estipendio equivalente al salario mínimo de la escala durante el período de movilización.",
+        "ideas": [
+            "Los reservistas y milicianos tienen derecho a beneficios laborales tras su retorno al cargo.  ",
+            "El pago durante la movilización incluye el salario promedio y días de descanso según el régimen laboral.  ",
+            "Los contratados por tiempo determinado continúan percibiendo el salario hasta finalizar la movilización.  ",
+            "A los prerreclutas se les abona el salario durante las actividades de preparación militar.  ",
+            "Se exceptúan los milicianos que reciben clases de preparación combativa.  ",
+            "Cuando no hay acuerdo sobre el descanso, el trabajador debe asistir al trabajo.  ",
+            "Las personas seleccionadas para el Servicio Militar Activo perciben sus haberes durante su incorporación.  ",
+            "La participación en movilizaciones requiere presentar documentos acreditativos ante la entidad laboral.  ",
+            "En el sector no estatal, se establecen formas específicas de certificación para el pago durante la movilización.  ",
+            "Los daños ocasionados durante la movilización implican responsabilidad material según el Código Laboral.  ",
+            "Los desvinculados reciben un estipendio equivalente al salario mínimo durante su movilización."
+        ],
+        "keywords": [
+            "movilización",
+            " salario",
+            " reservistas",
+            " milicianos",
+            " tratamiento laboral"
+        ]
+    },
+    "18": {
+        "title": "Sección Quinta",
+        "begin": 610,
+        "end": 622,
+        "summary": "El artículo 109 establece que los trabajadores pueden utilizar sus vacaciones acumuladas para viajar al exterior por asuntos particulares, sin necesidad de autorización, excepto en casos previstos por ley, y deben informar a su empleador con antelación. En caso de pertenecer a categorías que requieren autorización, el jefe de la entidad tramita la solicitud ante el órgano correspondiente, y una vez autorizado se conceden las vacaciones anuales acumuladas.\n\nEl artículo 110 indica que si se necesitan días adicionales al período de vacaciones para la estancia en el exterior, el trabajador puede solicitar por escrito una licencia no retribuida, que no debe exceder dos meses consecutivos en un año natural. Si el trabajador no regresa a su labor tras vencer el plazo de las vacaciones y la licencia, se puede dar por terminada la relación laboral.\n\nEl artículo 111 menciona que el jefe de la entidad puede prorrogar excepcionalmente la licencia no retribuida si hay una situación imprevista que impida el retorno al país, siempre que la solicitud se realice antes del vencimiento de la licencia inicial.",
+        "ideas": [
+            "- Los trabajadores pueden utilizar sus vacaciones acumuladas para viajar al exterior sin necesidad de autorización, excepto en casos previstos por la ley.  ",
+            "- En caso de pertenecer a categorías que requieren autorización, el jefe de la entidad tramita la solicitud ante el órgano correspondiente.  ",
+            "- Una vez autorizado, se concede el derecho a las vacaciones anuales acumuladas.  ",
+            "- Si se necesitan días adicionales al período de vacaciones, se puede solicitar una licencia no retribuida por escrito o vía telemática.  ",
+            "- La licencia no retribuida debe ser aprobada después del periodo de vacaciones y no puede exceder dos meses consecutivos en un año natural.  ",
+            "- Si la persona trabajadora no regresa al país dentro del plazo establecido, el jefe de la entidad puede terminar la relación laboral por escrito.  ",
+            "- El jefe de la entidad puede prorrogar excepcionalmente la licencia no retribuida en caso de imposibilidad de retorno por situaciones imprevistas.  ",
+            "- La prórroga debe solicitarse antes del vencimiento de la licencia inicial otorgada."
+        ],
+        "keywords": [
+            "viajes al exterior",
+            " vacaciones acumuladas",
+            " licencia no retribuida",
+            " autorización",
+            " prórroga excepcional"
+        ]
+    },
+    "19": {
+        "title": "Sección Sexta",
+        "begin": 623,
+        "end": 629,
+        "summary": "El artículo 112 establece que los jefes de entidad pueden conceder una licencia no retribuida a trabajadores para atender familiares bajo su responsabilidad, especialmente cuando estos requieren cuidados continuos y no pueden ser atendidos en instituciones del Sistema Nacional para el Cuidado Integral de la Vida. Para ello, se debe presentar una evaluación de salud que certifique la necesidad de atención. La licencia se suspende la relación laboral por escrito, con fecha de inicio y finalización, y al vencerse, el trabajador debe reincorporarse. Si las circunstancias persisten, puede solicitar una prórroga antes del vencimiento del período concedido.",
+        "ideas": [
+            "- El jefe de la entidad puede conceder una licencia no retribuida para la atención de familiares.  ",
+            "- La persona trabajadora tiene derecho a esta licencia si no puede asistir al trabajo por cuidar un familiar en situación de dependencia.  ",
+            "- Se requiere una evaluación de salud y un documento que certifique la necesidad de ayuda del familiar.  ",
+            "- Durante la licencia, se suspende la relación laboral, con fecha definida de inicio y terminación.  ",
+            "- Al vencer la licencia, la persona trabajadora debe reincorporarse al trabajo.  ",
+            "- Si persisten las circunstancias, se puede solicitar una prórroga antes del fin del período concedido."
+        ],
+        "keywords": [
+            "licencia no retribuida",
+            " atención",
+            " cuidado de familiares",
+            " evaluación de salud",
+            " institución del Sistema Nacional para el Cuidado Integral de la Vida."
+        ]
+    },
+    "20": {
+        "title": "Sección Séptima",
+        "begin": 630,
+        "end": 649,
+        "summary": "El presente contexto regula el tratamiento laboral de las personas trabajadoras sujetas a prisión provisional o sancionadas penalmente, distinguiendo entre hechos relacionados y ajenos al trabajo. Cuando los hechos son ajenos al trabajo, la relación laboral se suspende mientras dure la prisión provisional, sin que el empleador tome decisiones disciplinarias hasta conocer los resultados del proceso penal. En cambio, si los hechos presuntamente delictivos ocurrieron en ocasión del trabajo, el empleador puede actuar inmediatamente en materia laboral y disciplinaria. Una vez absuelta o sobreseída definitivamente, la persona trabajadora tiene derecho al reintegro a su cargo con pago de salario durante el tiempo de privación de libertad. En casos de sanción penal inferior a seis meses, remisión condicional o multa, se procede al reintegro sin pago del salario. El reintegro debe realizarse dentro de un plazo máximo de quince o treinta días hábiles, según la ubicación geográfica, y el empleador notifica al trabajador su obligación de reincorporarse. Si no lo hace sin causa justificada, puede terminarse la relación laboral con acuerdo sindical.",
+        "ideas": [
+            "Suspensión de la relación laboral durante la prisión provisional si el proceso penal es ajeno al trabajo.  ",
+            "Suspensión de la relación laboral cuando los hechos no guardan relación con el trabajo pero implican pérdida de competencias.  ",
+            "Adopción de decisiones laborales y disciplinarias sin esperar resultados del proceso penal en casos de hechos presuntamente delictivos relacionados con el trabajo.  ",
+            "Derecho al reintegro al cargo y pago del salario promedio tras absolvió o sobreseimiento definitivo por hechos ajenos al trabajo.  ",
+            "Reintegro al cargo sin pago de salario en determinadas situaciones como sanciones penales, remisión condicional, multas o sobreseimientos provisionales.  ",
+            "Plazo para reintegración dentro de 15 días hábiles si la prisión está en la misma provincia, y 30 días si es en otra provincia o isla.  ",
+            "Notificación al trabajador sobre la obligación de reincorporarse al trabajo dentro del plazo establecido.  ",
+            "Posible terminación de la relación laboral si el trabajador no se reintegra sin causa justificada, con acuerdo sindical."
+        ],
+        "keywords": [
+            "persona trabajadora",
+            " prisión provisional",
+            " reintegro al cargo",
+            " salario",
+            " sancionado penalmente"
+        ]
+    },
+    "21": {
+        "title": "Sección Primera",
+        "begin": 1084,
+        "end": 1104,
+        "summary": "El régimen de trabajo y descanso establece los tiempos de jornada laboral y el descanso semanal, garantizando equilibrio entre vida personal y laboral. El tiempo de trabajo es aquel durante el cual la persona trabajadora cumple con sus obligaciones bajo la subordinación del empleador, mientras que el tiempo de descanso permite recuperar energías durante la jornada laboral, con una duración máxima de treinta minutos. El descanso semanal mínimo es de veinticuatro horas consecutivas, generalmente correspondiente al domingo, aunque puede ajustarse en casos excepcionales según las necesidades del sector. La aprobación del régimen de trabajo y descanso corresponde al jefe de la entidad o a los órganos competentes, considerando acuerdos sindicales y condiciones particulares del lugar de trabajo. Asimismo, se permiten turnos diurnos y nocturnos, con excepciones en la duración máxima de la jornada laboral cuando se calcula un promedio sobre un período de tres semanas o menos.",
+        "ideas": [
+            "El régimen de trabajo y descanso incluye la jornada laboral y el descanso semanal.  ",
+            "El tiempo de trabajo es el período en que la persona trabajadora está bajo la subordinación del empleador.  ",
+            "El tiempo de descanso y necesidades personales dentro de la jornada no puede exceder treinta minutos.  ",
+            "El descanso semanal garantiza un equilibrio entre vida laboral y personal, con al menos veinticuatro horas consecutivas por semana.  ",
+            "En general, el día de descanso semanal es el domingo, aunque puede variar en ciertas actividades críticas.  ",
+            "Para trabajos que no pueden interrumpirse, se establece un programa de descanso acordado entre empleador y sindicatos.  ",
+            "El régimen de trabajo y descanso lo aprueba el jefe de la entidad o organismos estatales con acuerdo sindical.  ",
+            "Pueden existir regímenes excepcionales en condiciones específicas, como lugares inhóspitos o labores especiales.  ",
+            "Estos regímenes deben basarse en estudios de organización del trabajo y proteger la salud de los trabajadores.  ",
+            "Los turnos diurnos y nocturnos pueden establecerse, con horarios definidos para el trabajo nocturno.  ",
+            "La duración del trabajo por turnos puede exceder ocho horas diarias si se cumple un promedio de cuarenta y cuatro horas semanales."
+        ],
+        "keywords": [
+            "régimen de trabajo y descanso",
+            " tiempo de trabajo",
+            " descanso semanal",
+            " jornada de trabajo",
+            " turnos diurnos y nocturnos."
+        ]
+    },
+    "22": {
+        "title": "Sección Segunda",
+        "begin": 1105,
+        "end": 1121,
+        "summary": "La jornada semanal de trabajo puede oscilar entre cuarenta y cuarenta y cuatro horas, con una jornada diaria máxima de ocho horas, permitiendo una hora adicional en ciertos días siempre que no se exceda la jornada semanal. La jornada mensual promedio es de 190,6 horas, con un límite inferior de 173,3 horas. Se establecen pausas para descanso y necesidades personales, con una duración máxima de treinta minutos, pactadas en el convenio colectivo de trabajo. Para actividades en dos turnos se concede una pausa no inferiores a treinta minutos para la alimentación, fuera del horario laboral. En servicios ininterrumpidos, la pausa para alimentación se realiza dentro del horario laboral y no puede exceder los treinta minutos. El horario de trabajo es definido por el jefe de la entidad en acuerdo con la organización sindical, considerando las necesidades técnicas y organizativas, pudiendo excepcionalmente ser fijado por autoridades territoriales por interés social o fuerza mayor.",
+        "ideas": [
+            "La jornada semanal puede variar entre 40 y 44 horas según las labores.  ",
+            "La jornada diaria es de 8 horas, pudiendo llegar a una hora adicional en ciertos días sin exceder la semana.  ",
+            "La jornada mensual promedio es de 190,6 horas con un límite inferior de 173,3 horas.  ",
+            "Se establecen pausas para descanso y necesidades personales, pactadas en el convenio colectivo.  ",
+            "Las pausas tienen una duración máxima de treinta minutos sin afectar la jornada laboral.  ",
+            "En actividades con dos turnos se concede una pausa no inferior a treinta minutos para alimentación fuera del horario laboral.  ",
+            "En servicios ininterrumpidos, se permite una pausa adicional para alimentación dentro de la jornada.  ",
+            "El horario de trabajo es establecido por el jefe de la entidad en acuerdo con la organización sindical.  ",
+            "Los gobernadores e intendentes pueden fijar horarios excepcionales por interés social o fuerza mayor."
+        ],
+        "keywords": [
+            "jornada de trabajo",
+            " pausas",
+            " horario de trabajo",
+            " convenio colectivo de trabajo",
+            " duración"
+        ]
+    },
+    "23": {
+        "title": "Sección Tercera",
+        "begin": 1122,
+        "end": 1140,
+        "summary": "Los artículos 223, 224 y 225 regulan la jornada de trabajo reducida para personas trabajadoras expuestas a condiciones que pueden afectar su salud, así como para adolescentes en circunstancias excepcionales. La solicitud de aprobación de esta jornada debe presentarse por escrito al Ministerio de Trabajo y Seguridad Social, acompañada de información específica sobre el cargo, las condiciones laborales, los trabajadores afectados y la evaluación sindical. El ministerio forma un grupo de trabajo para analizar la solicitud en un plazo máximo de sesenta días hábiles, y toma una decisión que notifica al órgano solicitante y a la organización sindical. En caso de denegación, se incluyen los argumentos y recomendaciones correspondientes.",
+        "ideas": [
+            "Las personas trabajadoras expuestas a condiciones perjudiciales para la salud tienen derecho a una jornada reducida con salario completo.  ",
+            "Los adolescentes de 15, 16 y 17 años en circunstancias excepcionales también reciben el mismo tratamiento salarial.  ",
+            "La aprobación de cargos o actividades con jornadas reducidas es decidida por el Ministerio de Trabajo y Seguridad Social, propuesta por jefes de órganos estatales y sindicales.  ",
+            "El jefe debe evaluar los riesgos laborales y presentar una solicitud escrita al Ministerio, acompañada de información detallada sobre el cargo, condiciones laborales, número de trabajadores, cumplimiento de normas de seguridad y datos de morbilidad.  ",
+            "Se crea un grupo de trabajo temporal para analizar la solicitud y emitir un dictamen dentro de 60 días hábiles.  ",
+            "El Ministerio notifica la decisión a las partes involucradas, y en caso de rechazo, se indican los argumentos y recomendaciones."
+        ],
+        "keywords": [
+            "Jornada reducida",
+            " salario completo",
+            " Ministerio de Trabajo",
+            " condiciones laborales",
+            " solicitud de aprobación."
+        ]
+    },
+    "24": {
+        "title": "Sección Cuarta",
+        "begin": 1141,
+        "end": 1164,
+        "summary": "El trabajo extraordinario, definido en el artículo 226, es aquel que se realiza por iniciativa del empleador, fuera de la jornada aprobada, incluyendo horas extras, doble turno o laborar los días de descanso semanal. Su realización requiere acuerdo previo entre el empleador y la organización sindical en ciertos casos. Según el artículo 227, el trabajo extraordinario no es obligatorio salvo en situaciones excepcionales de interés social, como emergencias nacionales o reparaciones urgentes. El artículo 228 establece límites: máximo de cuatro horas extras en dos días consecutivos, doblar turno máximo dos veces por semana y un total anual de ciento sesenta horas extraordinarias. Finalmente, el artículo 229 indica que el trabajo extraordinario debe ser remunerado con un incremento del 25 % por hora extra, aunque se puede compensar mediante tiempo de descanso en algunos casos según lo establece el convenio colectivo. No se considera trabajo extraordinario en ciertas situaciones específicas definidas en la normativa.",
+        "ideas": [
+            "El trabajo extraordinario es aquel realizado por iniciativa del empleador fuera de la jornada aprobada.  ",
+            "Puede manifestarse como horas extras, doble turno o habilitación de días de descanso semanal.  ",
+            "Su realización requiere el acuerdo previo entre empleador y organización sindical en ciertos casos.  ",
+            "No está obligado a realizar trabajo extraordinario salvo en situaciones de interés social, como tareas apremiantes para la defensa del país o emergencias.  ",
+            "Hay límites legales: máximo cuatro horas extras en dos días consecutivos y un total anual de 160 horas.  ",
+            "La remuneración incluye un incremento del 25% por hora extra, aunque puede compensarse con tiempo de descanso según convenio colectivo.  ",
+            "No se considera trabajo extraordinario en algunos casos específicos, como cuando el salario ya incluya horas extras o regímenes especiales de descanso."
+        ],
+        "keywords": [
+            "Trabajo extraordinario",
+            " horas extras",
+            " doble turno",
+            " retribución",
+            " límites."
+        ]
+    },
+    "25": {
+        "title": "Sección Quinta",
+        "begin": 1165,
+        "end": 1213,
+        "summary": "El contexto establece el tratamiento laboral y salarial para los días de conmemoración oficial, nacional, feriados y receso laboral retribuido. Se mencionan específicamente los días oficiales de conmemoración, los días nacionales y feriados, así como las excepciones en la suspensión de actividades laborales. En estos días, se detienen las actividades laborales, excepto aquellas esenciales para el servicio público o producción continua. El salario promedio o básico se abona a quienes no trabajan, mientras que los empleados obligados a trabajar reciben el doble del salario diario, con la posibilidad de sustituirlo por un día de descanso retribuido. También se regulan las excepciones para habilitar ciertos días como laborables y el tratamiento especial del viernes santo como día de receso laboral adicional retribuido.",
+        "ideas": [
+            "Días oficiales de conmemoración en Cuba incluyen efeméridas históricas y eventos relevantes para el país.  ",
+            "Los días de conmemoración oficial no recesan las actividades laborales, excepto en algunos casos específicos como espectáculos públicos.  ",
+            "Se establecen días nacionales de conmemoración y feriados con fechas definidas, incluyendo aniversarios importantes y festivos.  ",
+            "Cuando los días oficiales coinciden con domingos, hay reglas sobre el traslado del descanso dominical.  ",
+            "El viernes santo es un día de receso laboral retribuido adicional.  ",
+            "Los días de receso laboral retribuido pueden ser declarados excepcionalmente por decisiones gubernamentales.  ",
+            "En días oficiales, se detienen las actividades laborales excepto aquellas esenciales para la población.  ",
+            "El tratamiento salarial varía según el tipo de pago y las circunstancias del trabajador.  ",
+            "Los empleadores pueden acordar con sindicatos habilitar algunos días como laborables en casos excepcionales."
+        ],
+        "keywords": [
+            "días de conmemoración oficial",
+            " días de conmemoración nacional",
+            " feriados",
+            " receso laboral retribuido",
+            " salario"
+        ]
+    },
+    "26": {
+        "title": "Sección Sexta",
+        "begin": 1214,
+        "end": 1242,
+        "summary": "Las personas trabajadoras tienen derecho a vacaciones anuales pagadas, correspondientes a un mes (treinta días naturales) por cada once meses de trabajo efectivo. Este derecho se ajusta proporcionalmente según los días laborados, considerando también días como feriados y licencias retribuidas como tiempo efectivamente trabajado. El empleador es responsable de programar el período vacacional, teniendo en cuenta la producción, los intereses del trabajador y la organización educativa cuando corresponda. Las vacaciones pueden ser concedidas por distintos períodos, y su disfrute debe iniciarse en un día laborable, no permitiéndose iniciar en días feriados o de descanso semanal. El pago de las vacaciones se realiza antes del inicio de su disfrute, calculado según los días trabajados y el salario percibido. En casos excepcionales donde sea necesario que el trabajador permanezca laborando durante su período vacacional, se acuerda con la organización sindical y el trabajador, garantizando un descanso mínimo anual de quince días.",
+        "ideas": [
+            "Las personas trabajadoras tienen derecho a un mes de vacaciones anuales pagadas por cada once meses de trabajo efectivo.  ",
+            "El mes de vacaciones se considera de treinta días naturales.  ",
+            "Quienes no laboran once meses tienen derecho a vacaciones proporcional al tiempo trabajado.  ",
+            "Las vacaciones anuales pagadas son el tiempo de descanso con pago de salario, acumulando el 9.09% de los días laborados y salarios percibidos.  ",
+            "Los días de conmemoración nacional, feriados y licencias retribuidas se consideran como días efectivamente laborados para la acumulación de vacaciones.  ",
+            "Las ausencias por enfermedad o cese del trabajo interrumpen la acumulación de vacaciones.  ",
+            "El empleador aprueba el programa de vacaciones considerando la producción, los intereses de la trabajadora y actualiza el programa según necesidades.  ",
+            "El empleador puede conceder vacaciones en períodos de 30, 20, 15, 10 o 7 días, y por ausencias personales si se notifica con antelación.  ",
+            "Las vacaciones comienzan en día laborable, no pueden iniciar en feriados ni días de descanso semanal.  ",
+            "El empleador debe pagar las vacaciones antes del último día laborable antes de su disfrute.  ",
+            "Las vacaciones se disfrutan en días naturales dentro del año de trabajo.  ",
+            "En casos imprevistos, el empleador puede posponer o permitir que la trabajadora permanezca en labores con pago simultáneo de salario y vacaciones acumuladas.  ",
+            "Los días trabajados en dichas circunstancias acumulan tiempo para futuras vacaciones.  ",
+            "El empleador debe garantizar al menos quince días de descanso efectivo anual.  ",
+            "La cuantía de las vacaciones se calcula según los días laborados y se pagan los días hábiles dentro del período, excluyendo los días de descanso semanal."
+        ],
+        "keywords": [
+            "vacaciones anuales pagadas",
+            " derecho",
+            " acumulación",
+            " programación",
+            " pago"
+        ]
+    },
+    "27": {
+        "title": "Sección Primera",
+        "begin": 1383,
+        "end": 1391,
+        "summary": "Los organismos rectores de la seguridad y salud en el trabajo están compuestos por varios ministerios, cada uno con funciones específicas: el Ministerio de Trabajo y Seguridad Social se encarga de proponer y controlar la política general de seguridad y salud laboral; el Ministerio de Salud Pública se responsabiliza de la higiene del trabajo, salud ocupacional y determinación de enfermedades profesionales; el Ministerio del Interior se ocupa de la prevención contra incendios y manejo de sustancias peligrosas; y el Ministerio de Ciencia, Tecnología y Medio Ambiente supervisa la seguridad biológica, radiológica y química. Además, los organismos rectores tienen facultades para paralizar equipos o clausurar locales cuando existan riesgos inminentes. Por último, los ministerios educativos garantizan la inclusión de contenidos sobre seguridad y salud laboral en los planes de estudio.",
+        "ideas": [
+            "Los organismos rectores de la seguridad y salud en el trabajo incluyen varios ministerios con funciones específicas.  ",
+            "El Ministerio de Trabajo y Seguridad Social propone y controla la política general de seguridad, registra equipos de protección personal y coordina acciones con otros organismos.  ",
+            "El Ministerio de Salud Pública se encarga de la higiene del trabajo, salud ocupacional y determina enfermedades profesionales reconocidas nacionalmente.  ",
+            "El Ministerio del Interior se responsabiliza de la prevención contra incendios, extinción de fuegos y manejo de sustancias peligrosas.  ",
+            "El Ministerio de Ciencia, Tecnología y Medio Ambiente garantiza la seguridad biológica, radiológica y química relacionada con productos peligrosos.  ",
+            "Los organismos rectores pueden disponer paralizaciones o clausuras cuando existan riesgos inminentes para las personas trabajadoras.  ",
+            "Los ministerios de Educación garantizan la inclusión de contenidos sobre seguridad y salud en el trabajo en los planes educativos."
+        ],
+        "keywords": [
+            "seguridad",
+            " salud",
+            " trabajo",
+            " organismos rectores",
+            " prevención"
+        ]
+    },
+    "28": {
+        "title": "Sección Segunda",
+        "begin": 1392,
+        "end": 1397,
+        "summary": "Los organismos rectores de ramas y actividades son responsables de dictar reglamentos y normas técnicas complementarias para garantizar la seguridad y salud en el trabajo, en consulta con el Ministerio de Trabajo y Seguridad Social, y controlar su cumplimiento, rendiendo cuenta ante los organismos rectores de la seguridad y salud. Además, estos organismos determinan los equipos de alto riesgo industrial, certificando el cumplimiento de requisitos de seguridad en sus distintas etapas y garantizando la formación técnica especializada de los operarios a través de entidades acreditadas.",
+        "ideas": [
+            "Los organismos rectores de ramas y actividades son responsables de dictar reglamentos y normas técnicas complementarias para la gestión de seguridad y salud en el trabajo.  ",
+            "Estos organismos consultan con el Ministerio de Trabajo y Seguridad Social y controlan el cumplimiento de dichas normas.  ",
+            "Rinden cuenta sobre su cumplimiento ante los organismos rectores de la seguridad y salud.  ",
+            "Los organismos rectores determinan los equipos de alto riesgo industrial dentro de sus competencias.  ",
+            "Certifican el cumplimiento de requisitos de seguridad en distintas etapas como importación, fabricación, montaje, explotación, mantenimiento y reparación de estos equipos.  ",
+            "Garantizan la formación técnica especializada de los operarios por entidades acreditadas."
+        ],
+        "keywords": [
+            "organismos rectores",
+            " seguridad",
+            " salud",
+            " responsabilidad",
+            " normas técnicas"
+        ]
+    },
+    "29": {
+        "title": "Sección Primera",
+        "begin": 1400,
+        "end": 1421,
+        "summary": "El contexto describe el marco legal sobre la gestión de riesgos laborales, estableciendo obligaciones del empleador en materia de seguridad y salud en el trabajo. El sistema de gestión incluye estrategias, responsabilidades, identificación y evaluación de riesgos, así como acciones preventivas que deben incorporarse a un programa anual de prevención. Este programa debe elaborarse con participación sindical, considerar la magnitud del riesgo, asignar responsables, recursos y plazos para su ejecución, e incluir medidas organizativas, higiénico-sanitarias, capacitación, equipos de protección y mantenimiento. Además, se destaca el derecho de los trabajadores a condiciones seguras y su participación en la evaluación de riesgos. El programa debe revisarse ante cambios en las características de producción o servicios.",
+        "ideas": [
+            "- El sistema de gestión incluye estrategias, programas, responsabilidades y procedimientos para cumplir con los objetivos de seguridad y salud en el trabajo.  ",
+            "- Se consideran características técnicas, niveles de riesgo, cantidad de trabajadores y aspectos organizativos.  ",
+            "- Los empleadores deben cumplir normas de seguridad, higiene sanitaria y protección contra incendios según regulaciones vigentes.  ",
+            "- El empleador y la organización sindical tienen obligación de identificar y evaluar riesgos laborales, así como implementar medidas preventivas.  ",
+            "- Las trabajadoras tienen derecho a condiciones seguras y participar en la evaluación de riesgos, cumpliendo con las medidas para prevenir accidentes y enfermedades profesionales.  ",
+            "- La evaluación de riesgos considera procesos, equipos, sustancias químicas, organización del trabajo, historial de accidentes y trabajos que requieren permisos especiales.  ",
+            "- Las acciones preventivas no inmediatas se incluyen en un programa anual con prioridad según el riesgo, responsables, recursos necesarios y fechas de cumplimiento.  ",
+            "- El programa de prevención abarca medidas organizativas, higiénico-sanitarias, capacitación, equipos de protección y mantenimiento para mejorar condiciones laborales.  ",
+            "- El programa se aprueba por el jefe de la entidad con acuerdos sindicales y se revisa cuando cambian características productivas o servicios."
+        ],
+        "keywords": [
+            "riesgos",
+            " prevención",
+            " empleador",
+            " seguridad",
+            " programa"
+        ]
+    },
+    "30": {
+        "title": "Sección Segunda",
+        "begin": 1422,
+        "end": 1429,
+        "summary": "El presupuesto de seguridad y salud en el trabajo se establece tras identificar los peligros y evaluar los riesgos a los que están expuestas las personas trabajadoras. Este presupuesto incluye aspectos como el programa de salud ocupacional, higiene y seguridad industrial, preparación ante emergencias, equipos de protección personal, y otros elementos relacionados con la capacitación y promoción en materia de seguridad y salud.",
+        "ideas": [
+            "El presupuesto de seguridad y salud en el trabajo se determina tras identificar peligros y evaluar riesgos.  ",
+            "Incluye un programa de salud ocupacional con exámenes clínicos y equipos de primeros auxilios.  ",
+            "Cubre higiene industrial, mantenimiento, mobiliario ergonómico y aseo.  ",
+            "Aborda la preparación y respuesta ante emergencias, señalización y equipamiento contra incendios.  ",
+            "Incluye gastos en equipos de protección personal.  ",
+            "Considera capacitación, promoción y eventos relacionados con seguridad y salud."
+        ],
+        "keywords": [
+            "seguridad",
+            " salud",
+            " presupuesto",
+            " riesgos",
+            " trabajo"
+        ]
+    },
+    "31": {
+        "title": "Sección Tercera",
+        "begin": 1430,
+        "end": 1435,
+        "summary": "El artículo 289 establece la creación del Comité de Seguridad y Salud, un órgano consultor encargado de analizar sistemáticamente asuntos relacionados con la seguridad y salud en el trabajo. Este comité se constituye en entidades y centros de trabajo, integrado por un número impar de personas trabajadoras, incluyendo al representante designado por la dirección, al representante sindical, a la persona encargada de seguridad y salud (quien actúa como coordinador), y a otros trabajadores con experiencia y calificación reconocida. Su funcionamiento se regula mediante una disposición normativa complementaria.",
+        "ideas": [
+            "- El Comité de Seguridad y Salud es un órgano consultor creado por el empleador para analizar asuntos relacionados con la seguridad y salud en el trabajo.  ",
+            "- Se constituye en entidades y centros de trabajo, integrado por un número impar de personas trabajadoras.  ",
+            "- Su integración incluye al representante designado por la dirección, al representante sindical, al encargado de seguridad y salud (coordinador del Comité) y a trabajadores con experiencia y calificación reconocida.  ",
+            "- El funcionamiento del Comité se regula mediante una disposición normativa complementaria."
+        ],
+        "keywords": [
+            "Comité de Seguridad y Salud",
+            " empleador",
+            " seguridad",
+            " salud",
+            " disposición normativa complementaria"
+        ]
+    },
+    "32": {
+        "title": "Sección Cuarta",
+        "begin": 1436,
+        "end": 1451,
+        "summary": "El contexto establece los procedimientos de trabajo seguro, responsabilidades del empleador y la persona trabajadora, así como medidas específicas para actividades de alto riesgo. El empleador debe elaborar procedimientos seguros basados en normas legales, garantizando su cumplimiento por parte del jefe directo y las personas trabajadoras. Para tareas fuera del entorno físico o múltiples empleadores en el mismo lugar, se requieren indicaciones específicas y acuerdos contractuales. Los permisos de seguridad son obligatorios para actividades de alto riesgo, incluyendo la certificación de equipos y operarios. Además, se reconoce un derecho especial que permite a una persona trabajadora abstenerse de realizar labores peligrosas hasta que se elimine el riesgo, asignándose provisionalmente a otro cargo. La organización sindical supervisa este derecho.",
+        "ideas": [
+            "El empleador debe elaborar procedimientos de trabajo seguros basados en normas legales.  ",
+            "El jefe directo es responsable de garantizar el cumplimiento de los procedimientos de trabajo seguro.  ",
+            "Las personas trabajadoras están obligadas a cumplir con los procedimientos de trabajo seguro.  ",
+            "Los procesos fuera del entorno físico de las entidades tienen indicaciones específicas para su desarrollo.  ",
+            "Cuando varias entidades realizan actividades simultáneas, deben acordar medidas de seguridad en el contrato económico.  ",
+            "Para actividades de alto riesgo se requiere un permiso de seguridad que describe el trabajo y las medidas de seguridad.  ",
+            "Los empleadores definen con la organización sindical los procesos de alto riesgo y los anexan al convenio colectivo.  ",
+            "La certificación de equipos y operarios es necesaria antes de realizar trabajos de alto riesgo.  ",
+            "Las personas trabajadoras tienen derecho a no laborar si consideran que su vida está en peligro inminente.  ",
+            "La organización sindical garantiza el ejercicio de este derecho especial."
+        ],
+        "keywords": [
+            "Procedimiento",
+            " seguridad",
+            " trabajador",
+            " empleador",
+            " permiso."
+        ]
+    },
+    "33": {
+        "title": "Sección Quinta",
+        "begin": 1452,
+        "end": 1467,
+        "summary": "Las personas trabajadoras tienen derecho a recibir instrucción sobre seguridad y salud en el trabajo, obligación de cumplirla y el empleador debe proporcionar esta instrucción durante la incorporación al empleo, abarcando aspectos como riesgos, procedimientos seguros, señalización, primeros auxilios y uso de equipos de protección. Además, se establece la necesidad de instrucciones periódicas para trabajos con mayor riesgo, definidas en convenios colectivos, y el empleador debe mantener un registro actualizado de dicha instrucción.",
+        "ideas": [
+            "Las personas trabajadoras tienen derecho a recibir instrucción sobre seguridad y salud en el trabajo.  ",
+            "El empleador está obligado a instruir a los trabajadores sobre riesgos y procedimientos seguros.  ",
+            "La instrucción inicial incluye información sobre riesgos, procedimientos de trabajo, comunicación, emergencias, primeros auxilios, señalización y uso de equipos de protección.  ",
+            "Los trabajos con mayores riesgos requieren instrucción periódica, determinada en convenio colectivo.  ",
+            "El empleador debe mantener un registro actualizado de la instrucción impartida."
+        ],
+        "keywords": [
+            "instrucción",
+            " seguridad",
+            " salud",
+            " empleador",
+            " trabajadores"
+        ]
+    },
+    "34": {
+        "title": "Sección Sexta",
+        "begin": 1468,
+        "end": 1478,
+        "summary": "Los artículos 296, 297 y 298 establecen los derechos y obligaciones relacionados con los equipos de protección personal (EPP) en el lugar de trabajo. Las personas trabajadoras tienen derecho a recibir EPP adecuado para su puesto y están obligadas a usarlos correctamente y mantenerlos. Por parte del empleador, es obligatorio proporcionar gratuitamente estos equipos, así como garantizar su conservación, mantenimiento y ubicación accesible. Los EPP deben ser aprobados y registrados según normativas vigentes, y su uso debe instruirse adecuadamente a las trabajadoras. Estos dispositivos son fundamentales para prevenir riesgos que amenacen la seguridad y salud de los trabajadores durante el desarrollo de sus actividades laborales.",
+        "ideas": [
+            "Las personas trabajadoras tienen derecho a recibir equipos de protección personal y están obligadas a utilizarlos según las normas establecidas.  ",
+            "El empleador debe suministrar gratuitamente los equipos de protección personal, conservarlos y mantenerlos.  ",
+            "Se define el equipo de protección personal como un dispositivo que protege contra riesgos para la seguridad y salud de la persona trabajadora.  ",
+            "Los equipos se determinan considerando la protección contra diversos riesgos, incluyendo enfermedades derivadas del trabajo.  ",
+            "La planificación, conservación y mantenimiento de los equipos están regulados por disposiciones normativas complementarias.  ",
+            "Los equipos de emergencia deben ubicarse en lugares accesibles con señalamientos adecuados y las personas trabajadoras deben recibir instrucción para su uso.  ",
+            "El empleador garantiza que los equipos adquiridos estén registrados, aprobados y vigentes según lo establecido por el Ministerio de Trabajo y Seguridad Social."
+        ],
+        "keywords": [
+            "Equipos de protección personal",
+            " trabajadoras",
+            " empleador",
+            " seguridad",
+            " salud."
+        ]
+    },
+    "35": {
+        "title": "Sección Séptima",
+        "begin": 1479,
+        "end": 1496,
+        "summary": "Los derechos y obligaciones relacionados con los exámenes médicos ocupacionales establecen que las personas trabajadoras deben someterse a estos exámenes en fechas determinadas, siendo el empleador responsable de exigirlos y coordinar su realización. Los exámenes se clasifican en pre-empleo, periódicos y especializados, regulados por el Ministerio de Salud Pública. El examen pre-empleo es obligatorio durante la incorporación al trabajo, y si se detecta una alteración incompatible con el puesto, no se puede concertar el contrato. Los exámenes periódicos permiten identificar alteraciones de salud que requieran tratamiento especializado, lo que implica acciones por parte del empleador según normativas vigentes. En caso de incapacidad temporal por enfermedad o accidente, el empleador debe remitir a la Comisión de Peritaje Médico Laboral con anticipación. Ante una invalidez parcial, el empleador debe adaptar las condiciones laborales, reubicar al trabajador en un cargo adecuado o reducir su horario. Si no es posible aplicar estas medidas, se sigue la legislación de seguridad social correspondiente.",
+        "ideas": [
+            "Las personas trabajadoras deben someterse a exámenes médicos ocupacionales en fechas establecidas.  ",
+            "El empleador debe exigir y garantizar que se realicen los exámenes pre-empleo, periódicos y especializados.  ",
+            "Los exámenes médicos laborales determinan si una persona está apta físicamente y mentalmente para el trabajo.  ",
+            "El examen pre-empleo se realiza durante la incorporación al empleo; si hay alteraciones de salud incompatibles, no se puede firmar contrato.  ",
+            "Si un examen periódico o especializado revela alteraciones de salud que requieren tratamiento, el empleador actúa según normativas del Ministerio de Salud Pública.  ",
+            "El empleador debe remitir a la Comisión de Peritaje Médico Laboral si hay incapacidad temporal por enfermedad o accidente.  ",
+            "En casos excepcionales, como enfermedades en estadío terminal, se puede evaluar antes del plazo establecido.  ",
+            "Ante una invalidez parcial, el empleador debe ajustar las condiciones laborales, reubicar al trabajador o reducir su horario.  ",
+            "Si no es posible aplicar estas opciones, se sigue la legislación de seguridad social."
+        ],
+        "keywords": [
+            "Exámenes médicos ocupacionales",
+            " empleador",
+            " persona trabajadora",
+            " salud",
+            " Comisión de Peritaje Médico Laboral"
+        ]
+    },
+    "36": {
+        "title": "Sección Octava",
+        "begin": 1497,
+        "end": 1522,
+        "summary": "El presente contexto aborda los conceptos, definiciones, obligaciones y procedimientos relacionados con incidentes, accidentes de trabajo e enfermedades profesionales. Se define un suceso peligroso como un acontecimiento no deseado que podría haber ocasionado lesiones o daños; un incidente como un suceso durante el trabajo que afecta la salud sin afectar la capacidad laboral; y un accidente de trabajo como un hecho repentino relacionado con el trabajo que causa lesiones o afecta la capacidad para trabajar. Un accidente mayor implica consecuencias graves, como lesiones mortales, daños a la propiedad o impactos ambientales significativos.\n\nSe establece que ciertas situaciones se equiparan al accidente de trabajo, incluyendo trayectos de ida y regreso, pausas para el almuerzo, trabajo voluntario sindical, rescate de vidas humanas, funciones de la defensa civil y movilizaciones nacionales. Los empleadores tienen obligaciones de registro e investigación inmediata de incidentes, accidentes y enfermedades profesionales, con plazos específicos para su conclusión e informe. Las personas trabajadoras deben reportar cualquier riesgo o incidente y colaborar en las investigaciones.\n\nAdemás, se menciona que los accidentes de estudiantes durante prácticas docentes se investigan en la entidad donde ocurrieron y se comunican al centro educativo. Finalmente, se define la enfermedad profesional como una alteración de la salud causada por factores presentes en el medio laboral o en determinados cargos, regulada por disposiciones del Ministerio de Salud Pública.",
+        "ideas": [
+            "Definición de suceso peligroso, incidente, accidente de trabajo y accidente mayor.  ",
+            "Situaciones que se equiparan al accidente de trabajo.  ",
+            "Obligación del empleador para registrar y investigar incidentes y accidentes de trabajo.  ",
+            "Procedimiento de investigación de los accidentes, incluyendo plazos y responsabilidades.  ",
+            "Deberes de la persona trabajadora ante incidentes o accidentes.  ",
+            "Investigación de accidentes en estudiantes durante prácticas docentes.  ",
+            "Definición y manejo de enfermedades profesionales según normativas vigentes."
+        ],
+        "keywords": [
+            "incidentes",
+            " accidentes",
+            " enfermedades profesionales",
+            " investigaciones",
+            " obligaciones"
+        ]
+    },
+    "37": {
+        "title": "Sección Primera",
+        "begin": 1733,
+        "end": 1765,
+        "summary": "El derecho de la persona trabajadora a recibir reparación por daños e indemnización por perjuicios derivados de medidas disciplinarias indebidas o violaciones de sus derechos laborales y de seguridad social está garantizado según los artículos 343 al 348. Las medidas disciplinarias son nulas cuando se imponen fuera del plazo, por autoridad no facultada, bajo legislación incorrecta o con procedimiento distinto al establecido. En tales casos, el órgano de justicia laboral debe anular la medida. La indemnización se determina según el salario percibido y el tiempo en que dejó de recibirlo, siendo abonada por el empleador dentro de los 30 días hábiles posteriores a la notificación de la decisión firme. Asimismo, la revocación o anulación de una medida disciplinaria permite acumular tiempo de servicio y reconocer derechos laborales correspondientes.",
+        "ideas": [
+            "La persona trabajadora tiene derecho a recibir reparación de daños e indemnización por perjuicios sufridos.  ",
+            "Las medidas disciplinarias son nulas si se imponen fuera del plazo, por autoridad no facultada, bajo legislación indebida o con procedimiento incorrecto.  ",
+            "Se considera indebida la medida disciplinaria cuando se exoneró, modificó, anuló por ser extemporánea u otro motivo previsto en el artículo.  ",
+            "El empleador debe informar a la Asamblea General de Afiliados y Trabajadores sobre la anulación de medidas disciplinarias y restituir honores si procede.  ",
+            "Las personas trabajadoras reciben resarcimiento por daños y perjuicios económicos derivados de decisiones favorables en reclamaciones laborales.  ",
+            "En casos de violaciones salariales o de seguridad social, se abona la cuantía dejada de percibir durante los 180 días anteriores a la reclamación.  ",
+            "Para reclamaciones relacionadas con pérdida de capacidad laboral o cese por reorganización, se restituye al cargo y se abonan salarios pendientes.  ",
+            "La indemnización no puede exceder el salario actual del trabajador, considerando el tiempo sin percibir sueldo o la disminución en su cuantía.  ",
+            "El pago de la indemnización debe realizarse dentro de los 30 días hábiles siguientes a la notificación de la decisión firme.  ",
+            "La revocación o anulación de medidas disciplinarias acumula el tiempo de separación y traslado para vacaciones, servicios prestados y otros derechos legales.  ",
+            "Las decisiones firmes tienen efecto desde la aplicación inicial de la medida disciplinaria o desde la aplicación de una medida cautelar si se aplicó."
+        ],
+        "keywords": [
+            "medidas disciplinarias",
+            " indemnización",
+            " resarcimiento",
+            " violación de derechos",
+            " autoridad competente"
+        ]
+    },
+    "38": {
+        "title": "Sección Segunda",
+        "begin": 1766,
+        "end": 1774,
+        "summary": "Las personas absueltas en un proceso de revisión penal tienen derecho a una indemnización por salarios y vacaciones correspondientes al momento de su sanción, según lo establecido en la Ley del Proceso Penal. El cálculo se basa en el último salario básico devengado antes de la privación de libertad, sin proceder al reintegro al cargo anterior. El Ministerio de Trabajo y Seguridad Social calcula e informa el monto de la indemnización, certificando el tiempo de servicio para prestaciones a largo plazo, deduciendo los períodos en que se cumplió la sanción penal. Este documento es remitido al tribunal correspondiente para su aplicación.",
+        "ideas": [
+            "Las personas absueltas en un proceso de revisión penal tienen derecho a una indemnización.  ",
+            "La indemnización incluye salarios correspondientes y el monto de vacaciones durante el tiempo que desempeñaban labores al momento de ser sancionadas.  ",
+            "Se toma como referencia el último salario básico devengado antes de la sanción.  ",
+            "No se procede al reintegro al cargo que ocupaba previamente.  ",
+            "El Ministerio de Trabajo y Seguridad Social calcula e informa los montos para la indemnización y certifica el tiempo de servicio.  ",
+            "Este cálculo se basa en el expediente remitido por el tribunal de justicia."
+        ],
+        "keywords": [
+            "indemnización",
+            " revisión penal",
+            " salario básico",
+            " Ministerio de Trabajo y Seguridad Social",
+            " proceso judicial"
+        ]
+    },
+    "39": {
+        "title": "Sección Primera",
+        "begin": 1961,
+        "end": 1993,
+        "summary": "El Órgano de Justicia Laboral es la vía prejudicial y obligatoria para resolver conflictos laborales y de seguridad social en entidades estatales. Las reclamaciones por medidas disciplinarias deben presentarse dentro de los siete días hábiles posteriores a su notificación, mientras que las reclamaciones sobre derechos laborales tienen un plazo de 180 días naturales desde la violación o conocimiento de esta. El Órgano debe resolver los casos en un máximo de 24 días hábiles, independientemente del resultado de procesos penales o de responsabilidad material. Para actuar, el Órgano requiere la presencia tripartita de representantes designados por la entidad, sindicatos y trabajadores. Su competencia abarca una amplia gama de conflictos laborales, incluyendo medidas disciplinarias, derechos salariales, discriminación, condiciones contractuales, licencias, entre otros. Las reclamaciones presentadas fuera del plazo establecido serán desestimadas.",
+        "ideas": [
+            "El Órgano de Justicia Laboral resuelve conflictos laborales en entidades del sector estatal.  ",
+            "Los trabajadores tienen un plazo de siete días hábiles para reclamar medidas disciplinarias o responsabilidad material.  ",
+            "Para reclamaciones sobre derechos, el plazo es de 180 días naturales desde la violación o conocimiento de ésta.  ",
+            "El Órgano tiene 24 días hábiles para emitir una decisión tras recibir una reclamación.  ",
+            "La decisión del Órgano no depende del resultado de procesos penales ni de responsabilidad material.  ",
+            "Para actuar, el Órgano requiere la presencia de cinco o siete miembros con composición tripartita.  ",
+            "Las reclamaciones presentadas fuera de plazo son desestimadas por el Órgano.  ",
+            "El Órgano es competente para conocer diversos conflictos laborales, incluyendo medidas disciplinarias, derechos salariales y condiciones de trabajo.  ",
+            "Aplica también a personas trabajadoras desvinculadas, dentro del plazo de 180 días naturales."
+        ],
+        "keywords": [
+            "Órgano de Justicia Laboral",
+            " plazos",
+            " reclamaciones",
+            " derechos laborales",
+            " medidas disciplinarias"
+        ]
+    },
+    "40": {
+        "title": "Sección Segunda",
+        "begin": 1994,
+        "end": 2040,
+        "summary": "El Órgano de Justicia Laboral se constituye en entidades con cincuenta o más trabajadores, integrándose por cinco miembros efectivos elegidos por diferentes partes: uno designado por el jefe de la entidad, otro por la organización sindical y tres por las personas trabajadoras. En entidades con menos de cincuenta trabajadores, se asigna un Órgano de otra entidad para resolver reclamaciones. La organización sindical coordina el proceso electoral y metodológico. Los miembros deben cumplir requisitos como buena conducta y no haber sido sancionados por falta disciplinaria. Su mandato dura dos años y medio, renovándose mediante elecciones o designación. En caso de vacantes, se completa el Órgano en un plazo máximo de treinta días. El jefe de la entidad proporciona información y documentos necesarios para el desarrollo de las funciones del Órgano. La capacitación se organiza por la entidad y las direcciones de Trabajo y Seguridad Social.",
+        "ideas": [
+            "El Órgano de Justicia Laboral se constituye en entidades con 50 o más trabajadores.  ",
+            "Se puede crear un Órgano territorial en municipios con centros de trabajo menores a 50 empleados, pertenecientes a una misma entidad.  ",
+            "Los Directores de Trabajo y Seguridad Social supervisan la constitución y capacitación del Órgano.  ",
+            "En entidades con menos de 50 trabajadores, no se forma el Órgano; el Director Municipal asigna otro para resolver reclamaciones.  ",
+            "Para inversiones extranjeras, el Órgano se crea en la entidad empleadora si está en el mismo municipio que la inversión.  ",
+            "El Órgano se integra por cinco miembros: uno designado por el jefe de la entidad, uno por la organización sindical y tres elegidos por los trabajadores.  ",
+            "En algunos casos, se puede integrar con siete miembros, incluyendo dos suplentes de trabajadores y uno cada uno del jefe y la sindical.  ",
+            "El Presidente y su sustituto son elegidos en la Asamblea General de Afiliados y Trabajadores.  ",
+            "El secretario es responsable de gestionar la documentación y actas del Órgano.  ",
+            "La organización sindical organiza el proceso electoral para los miembros trabajadores del Órgano.  ",
+            "Los requisitos para ser miembro incluyen ser trabajador, tener buena conducta, no haber sido sancionado, ni estar en cargos directivos o sindicales.  ",
+            "El mandato de los miembros dura dos años y medio; la sustitución puede ocurrir por causas justificadas o renuncia.  ",
+            "El completamiento del Órgano se realiza dentro de 30 días tras la baja de un miembro.  ",
+            "La entidad debe facilitar información y documentos al Órgano para resolver conflictos laborales.  ",
+            "La capacitación del Órgano es organizada por la entidad, con apoyo de las Direcciones Municipales de Trabajo y Seguridad Social."
+        ],
+        "keywords": [
+            "Órgano de Justicia Laboral",
+            " constitución",
+            " capacitación",
+            " integración",
+            " funciones."
+        ]
+    },
+    "41": {
+        "title": "Sección Tercera",
+        "begin": 2041,
+        "end": 2118,
+        "summary": "El presente contexto describe el procedimiento para la solución de conflictos laborales ante el Órgano de Justicia Laboral, detallando los pasos a seguir desde la presentación de una reclamación hasta la adopción de un Acuerdo y su cumplimiento. La reclamación puede ser presentada por escrito o verbalmente, y la persona trabajadora tiene derecho a recibir asistencia jurídica. El Órgano de Justicia Laboral conforma un expediente con los documentos pertinentes y convoca una comparecencia pública dentro de los diez días hábiles posteriores a la presentación de la reclamación, informando con antelación a las partes. Durante la comparecencia se practican pruebas admitidas, y el Órgano toma decisiones por mayoría simple de votos, emitiendo un Acuerdo fundamentado que es obligatorio para las partes. Las decisiones adoptadas en materia de disciplina son inmediatamente cumplibles, mientras que en reclamaciones de derechos se espera el resultado del proceso judicial. Las partes inconformes pueden recurrir a la vía judicial dentro de los diez días hábiles posteriores a la notificación del Acuerdo. El Órgano de Justicia Laboral debe tramitar las reclamaciones dentro de los plazos establecidos, y en caso de no hacerlo, se considera agotada la vía prejudicial. La Fiscalía interviene para garantizar el cumplimiento de las decisiones firmes del Órgano.",
+        "ideas": [
+            "Presentación de reclamaciones laborales ante el Órgano de Justicia Laboral.  ",
+            "La persona trabajadora puede presentar una reclamación mediante un escrito o verbalmente.  ",
+            "Derecho a aportar pruebas y recibir asistencia jurídica en la confección de la reclamación.  ",
+            "El miembro del Órgano que recibe la reclamación debe dejar constancia escrita de su recepción y trasladarla al presidente o secretario dentro de tres días hábiles.  ",
+            "La persona trabajadora puede ser representada por un sindicalista, compañero de trabajo, cónyuge, miembro de una unión afectiva o familiar dentro del cuarto grado de consanguinidad o segundo de afinidad.  ",
+            "El representante debe designarse mediante escrito o verbalmente ante el secretario del Órgano.  ",
+            "La autoridad que aplicó la medida disciplinaria participa en la comparecencia pública, salvo fuerza mayor.  ",
+            "Los miembros del Órgano analizan la reclamación y pueden emitir una decisión directamente o realizar pruebas previas.  ",
+            "Cualquier decisión se fundamenta en un Acuerdo que es obligatorio para las partes una vez firme.  ",
+            "El expediente incluye el escrito de reclamación, resolución disciplinaria, citaciones, actas, pruebas y otros documentos relevantes.  ",
+            "La comparecencia pública debe realizarse dentro de los diez días hábiles siguientes a la presentación de la reclamación.  ",
+            "Se informa con antelación de la comparecencia mediante murales u otros medios en el lugar donde se produjeron los hechos.  ",
+            "El Órgano puede citar a terceras personas afectadas o testigos, y rechazar pruebas no relacionadas con el asunto.  ",
+            "En caso de incomparecencia, se pueden tomar medidas como nuevas comparecencias, suspensión por causas justificadas o archivamiento.  ",
+            "La comparecencia es pública, salvo que atente contra la moral o el pudor, en cuyo caso se realiza privadamente.  ",
+            "Las pruebas admitidas incluyen declaraciones de las partes, documentales, testimonios y dictámenes periciales.  ",
+            "El Órgano adopta una decisión por mayoría simple de votos dentro de cinco días hábiles después de la deliber"
+        ],
+        "keywords": [
+            "Reclamación",
+            " Órgano de Justicia Laboral",
+            " comparecencia pública",
+            " Acuerdo",
+            " pruebas."
+        ]
+    },
+    "42": {
+        "title": "Sección Cuarta",
+        "begin": 2119,
+        "end": 2127,
+        "summary": "Los artículos 423 y 424 de la Sección Cuarta regulan la anulación de decisiones firmes adoptadas por los órganos de Justicia Laboral cuando no se ajustan a la ley. El Director de Trabajo y Seguridad Social, o los órganos de la Fiscalía General de la República, pueden anular dichas decisiones dentro de los 90 días naturales posteriores a su firmeza, siempre que exista una solicitud fundamentada por parte afectada. Esta facultad se ejerce cuando las decisiones violan normas o procedimientos establecidos, pero no para adecuar medidas disciplinarias ni para resolver conflictos laborales. La anulación implica una nueva comparecencia del Órgano de Justicia Laboral con las partes involucradas, salvo en casos específicos, y contra la nueva decisión se puede interponer demanda judicial.",
+        "ideas": [
+            "Las decisiones firmes de los órganos de Justicia Laboral pueden ser anuladas por el Director de Trabajo y Seguridad Social o por la Fiscalía General de la República.  ",
+            "La anulación se basa en la solicitud fundamentada de una parte afectada, dentro de los 90 días posteriores a que las decisiones hayan ganado firmeza.  ",
+            "La facultad de anulación se ejerce cuando las decisiones violan la legislación o los procedimientos establecidos.  ",
+            "La anulación no puede usarse para ajustar una medida disciplinaria ni para cuestiones de apreciación.  ",
+            "Al anularse una decisión, el Órgano de Justicia Laboral debe realizar una nueva comparecencia con las partes involucradas en la mayoría de los casos.  ",
+            "Contra la nueva decisión, las partes pueden presentar una demanda judicial."
+        ],
+        "keywords": [
+            "Anulación",
+            " decisiones",
+            " Órgano de Justicia Laboral",
+            " Director de Trabajo y Seguridad Social",
+            " Fiscalía General de la República."
+        ]
+    },
+    "43": {
+        "title": "Sección Primera",
+        "begin": 2241,
+        "end": 2245,
+        "summary": "Las cooperativas agropecuarias y los productores agropecuarios pueden contratar directamente a personas trabajadoras durante periodos establecidos por normas específicas, mediante contratos para la ejecución de un trabajo u obra o por tiempo determinado en actividades como cosecha, siembra o labores culturales. Los derechos y deberes de estas personas trabajadoras, incluyendo seguridad social y régimen disciplinario, están regidos por el Código mencionado.",
+        "ideas": [
+            "Las cooperativas agropecuarias pueden contratar personas trabajadoras directamente.  ",
+            "El contrato puede ser para la ejecución de un trabajo u obra o por tiempo determinado en actividades agrícolas.  ",
+            "Los derechos y deberes del trabajador están regulados por el Código."
+        ],
+        "keywords": [
+            "Cooperativas agropecuarias",
+            " personas trabajadoras",
+            " contratación",
+            " seguridad social",
+            " disposiciones normativas."
+        ]
+    },
+    "44": {
+        "title": "Sección Segunda",
+        "begin": 2246,
+        "end": 2250,
+        "summary": "Las cooperativas no agropecuarias pueden contratar personas trabajadoras para actividades que los socios no pueden asumir, reguladas por el Código Laboral. La remuneración debe acordarse entre la cooperativa y el trabajador, según su capacidad y competencias, sin ser inferior al salario mínimo nacional, y se paga en función de la cantidad y calidad del trabajo realizado durante el período convenido.",
+        "ideas": [
+            "Las cooperativas pueden contratar personas trabajadoras.  ",
+            "El contrato se realiza durante un período establecido en normas específicas.  ",
+            "Las actividades contratadas son aquellas que no pueden asumir los socios.  ",
+            "La remuneración depende de la capacidad y competencias del cargo.  ",
+            "La remuneración no puede ser inferior al salario mínimo nacional.  ",
+            "Se abona según la cantidad y calidad del trabajo realizado en el acuerdo establecido."
+        ],
+        "keywords": [
+            "Cooperativas",
+            " contratación",
+            " trabajadores",
+            " remuneración",
+            " salario mínimo."
+        ]
+    },
+    "45": {
+        "title": "Sección Tercera",
+        "begin": 2251,
+        "end": 2253,
+        "summary": "La Sección Tercera se enfoca en los proyectos de desarrollo local, regulando específicamente la contratación laboral en el artículo 462. Este establece que las personas trabajadoras contratadas por los titulares de estos proyectos tienen derecho a los beneficios y obligaciones laborales previstos en el Código Laboral.",
+        "ideas": [
+            "- Las personas trabajadoras contratadas por los titulares del proyecto de desarrollo local tienen derechos laborales.  ",
+            "- Estos derechos están previstos en el Código.  ",
+            "- Los trabajadores también tienen deberes laborales establecidos en este Código.  ",
+            "- La sección trata sobre la contratación laboral dentro de proyectos de desarrollo local."
+        ],
+        "keywords": [
+            "Proyectos de desarrollo local",
+            " Contratación laboral",
+            " Derechos de trabajo",
+            " Deberes",
+            " Código."
+        ]
+    },
+    "46": {
+        "title": "Sección Primera",
+        "begin": 2569,
+        "end": 2586,
+        "summary": "La Sección Primera, Generalidades, establece en el Artículo 509 las facultades de inspección del trabajo atribuidas a diferentes ministerios y organismos estatales, según su competencia específica: legislación laboral, salud ocupacional, seguridad contra incendios, medio ambiente, entre otros. La ejecución de la inspección corresponde al Ministerio de Trabajo y Seguridad Social a través de la Oficina Nacional de Inspección del Trabajo. Asimismo, se menciona la posibilidad de integración entre las autoridades para inspecciones especializadas.\n\nEl Artículo 510 define los sujetos de inspección como empleadores radicados en el territorio nacional y otros determinados por ley, indicando que los resultados deben comunicarse al empleador, a la organización sindical y a las personas trabajadoras. Además, se señala que la prescripción de responsabilidad penal se informará a la autoridad correspondiente cuando exista una infracción con posibles consecuencias penales.",
+        "ideas": [
+            "La inspección del trabajo es una facultad compartida entre varios ministerios y organismos estatales.  ",
+            "El Ministerio de Trabajo y Seguridad Social es responsable de ejecutar la inspección a través de la Oficina Nacional de Inspección del Trabajo.  ",
+            "Los sujetos de inspección incluyen a los empleadores radicados en el territorio nacional, independientemente del sector.  ",
+            "Los resultados de las inspecciones deben comunicarse al empleador, a la organización sindical y a las personas trabajadoras.  ",
+            "La responsabilidad por infracciones prescribe si estas y sus efectos están eliminados en el momento de la inspección.  ",
+            "Cuando se detectan infracciones con posibles consecuencias penales, el inspector debe informar a la autoridad correspondiente para iniciar una denuncia."
+        ],
+        "keywords": [
+            "Inspección del trabajo",
+            " Ministerio de Trabajo y Seguridad Social",
+            " Empleadores",
+            " Legislación laboral",
+            " Autoridades."
+        ]
+    },
+    "47": {
+        "title": "Sección Segunda",
+        "begin": 2587,
+        "end": 2633,
+        "summary": "El contexto presenta una sección sobre infracciones laborales reguladas por diferentes artículos de un código legal. Los tipos de infracciones abordados incluyen: (1) violaciones generales a principios constitucionales y legales, (2) infracciones en el empleo y contratación laboral, como el uso indebido de trabajadores menores de edad o extranjeros sin permisos adecuados; (3) infracciones relacionadas con la protección a la trabajadora, especialmente durante el embarazo; (4) violaciones al régimen de trabajo y descanso, incluyendo jornadas excesivas; (5) infracciones en remuneración, como salarios inferiores al mínimo o formas ilegales de pago; y (6) infracciones sobre seguridad y salud laboral, así como en la seguridad social. Cada artículo detalla específicamente las conductas consideradas ilegales, enfocándose en el cumplimiento de normativas laborales para garantizar derechos fundamentales de los trabajadores.",
+        "ideas": [
+            "Infracciones generales incluyen la violación de principios constitucionales y legales.  ",
+            "Incumplimiento de acuerdos firmes en conflictos laborales o judiciales.  ",
+            "Obstaculizar la actuación de inspectores del trabajo.  ",
+            "No cumplir con medidas dispuestas por inspección del trabajo.  ",
+            "Infracciones en el empleo incluyen contratación ilegal de menores, extranjeros sin permisos adecuados y violaciones contractuales.  ",
+            "Discriminación, violencia o acoso laboral.  ",
+            "Limitar contrataciones sin causa justificada.  ",
+            "Pluriempleo sin cumplir límites horarios.  ",
+            "Incumplimiento de dictamen médico laboral.  ",
+            "No contratar seguro de protección a ingresos.  ",
+            "Terminar relaciones laborales sin fundamento legal.  ",
+            "Infracciones en la protección a la trabajadora incluyen emplear a gestantes en cargos perjudiciales y no otorgar licencias maternidad.  ",
+            "No permitir descanso adecuado o no pagar prestaciones correspondientes.  ",
+            "Infracciones del régimen de trabajo y descanso incluyen jornadas excesivas, falta de descansos diarios y vacaciones anuales.  ",
+            "Incumplimiento de recesos nacionales o feriados.  ",
+            "Infracciones en la remuneración incluyen salarios inferiores al mínimo, pagos en especie o con monedas no legales.  ",
+            "Descuentos excesivos o formas de pago no autorizadas.  ",
+            "Infracciones en seguridad y salud laboral incluyen no evaluar riesgos, no instruir sobre seguridad y no entregar equipos de protección.  ",
+            "No reportar accidentes laborales o no investigarlos.  ",
+            "Infracciones en la seguridad social incluyen no pagar prestaciones, no actualizar certificaciones de servicio y no tramitar jubilación."
+        ],
+        "keywords": [
+            "infracciones",
+            " trabajo",
+            " seguridad",
+            " salario",
+            " empleo"
+        ]
+    },
+    "48": {
+        "title": "Sección Tercera",
+        "begin": 2634,
+        "end": 2663,
+        "summary": "El presente contexto describe las funciones, medidas aplicables y procedimientos de la Oficina Nacional de Inspección del Trabajo, según lo establece el Código de Trabajo. Entre sus funciones se encuentran controlar el cumplimiento de normativas laborales, investigar accidentes mortales en el trabajo, resolver conflictos colectivos, asesorar a empleadores y trabajadores, así como atender quejas y denuncias. En cuanto a las medidas aplicables, la Inspección del Trabajo puede exigir obligaciones de hacer, clausurar instalaciones peligrosas o proponer sanciones administrativas, penales o suspensión de licencias según la gravedad de las infracciones. Además, se establecen los procedimientos para notificar resultados de inspección, presentar recursos de apelación y solicitar revisiones ante autoridades superiores, con plazos específicos para cada etapa.",
+        "ideas": [
+            "Funciones específicas de la inspección del trabajo incluyen controlar cumplimiento normativo, investigar accidentes mortales, arbitraje en conflictos colectivos, asesoría a empleadores y trabajadores, y atención a quejas.  ",
+            "El jefe de la entidad debe facilitar información y documentación durante las inspecciones.  ",
+            "La Inspección del Trabajo puede aplicar medidas como obligación de hacer o clausura de instalaciones peligrosas.  ",
+            "Las medidas adicionales incluyen sanciones administrativas, suspensión de licencias, y denuncia a autoridades penales en casos graves.  ",
+            "Los resultados de la inspección se notifican al jefe de la entidad con acta detallada.  ",
+            "Existe un recurso de apelación ante el Director General o filiales territoriales dentro de 10 días hábiles.  ",
+            "La resolución del recurso puede ser revisada por autoridad superior y, si no se resuelve, se abre vía judicial."
+        ],
+        "keywords": [
+            "Inspección del Trabajo",
+            " cumplimiento",
+            " medidas aplicables",
+            " infracciones",
+            " denuncia."
+        ]
+    }
+}
