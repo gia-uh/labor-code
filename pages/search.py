@@ -9,7 +9,10 @@ def get_milvus_client():
 client = get_milvus_client()
 
 def search(query: str, limit: int = 10):
-    return client.search_similar_paragraphs(query, limit=limit)
+    try:
+        return client.search_similar_paragraphs(query, limit=limit)
+    except Exception as e:
+        st.error("Servicio de busqueda no disponible:")
 
 @st.cache_data
 def load_articles_data():
