@@ -4,7 +4,7 @@ import streamlit.components.v1 as components
 import uuid
 import json
 import os
-
+import re
 
 preamble = st.session_state.project["preamble"]
 pars = st.session_state.project["paragraphs"]
@@ -90,12 +90,31 @@ def user_interaction(action: str, id: str):
         # on_change= lambda: st.session_state.update({key: st.session_state[key]})
     )
     if st.button("Guardar") and user_input not in [None, ""]:
-        save_user_action(user_input, action, st.session_state.username, id)
+        save_user_action(user_input, action, st.session_state.username, st.session_state.user_data,id)
         user_input = ""
         st.rerun()
 
 
-def save_user_action(input: str, action: str, user: str, id: str):
+def extract_domain(email):
+    """
+    Extracts the specific domain from a UH email
+
+    Args:
+    email (str): Email address
+
+    Returns:
+    str: Extracted domain or None if no match
+    """
+    pattern = r'@(?:estudiantes\.)?([^\.]+)\.uh\.cu'
+    match = re.search(pattern, email)
+
+    if match:
+        return match.group(1)
+    else:
+        return None
+
+
+def save_user_action(input: str, action: str, user: str, user_data:dict ,id: str):
     """
     Saves user input to a JSON file
 
@@ -106,24 +125,27 @@ def save_user_action(input: str, action: str, user: str, id: str):
     """
     # Create data directory if it doesn't exist
     os.makedirs("data", exist_ok=True)
-    file = Path(f"data/{user}.json")
-    if file.exists():
-        user_data = json.loads(file.read_bytes())
-    else:
-        user_data = {}
+    domain = extract_domain(user)
+    if domain:
+        os.makedirs(f"data/{domain}", exist_ok=True)
+        file = Path(f"data/{domain}/{user}.json")
+        if file.exists():
+            user_data.update(json.loads(file.read_bytes()))
+        # else:
+        #     user_data = {}
 
-    if id not in user_data:
-        user_data[id] = {
-            "additions": [],
-            "deletions": [],
-            "modifications": [],
-            "questions": [],
-        }
+        if id not in user_data:
+            user_data[id] = {
+                "additions": [],
+                "deletions": [],
+                "modifications": [],
+                "questions": [],
+            }
 
-    user_data[id][action].append(input)
+        user_data[id][action].append(input)
 
-    output = json.dumps(user_data, indent=4)
-    file.write_text(output)
+        output = json.dumps(user_data, indent=4)
+        file.write_text(output)
 
 
 def render_paragraph(id):

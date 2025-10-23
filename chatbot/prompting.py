@@ -27,4 +27,4 @@ def build_rag_chat_user_prompt(q: str, db_client: MilvusParagraphClient):
 
 ====
 
-{'\n\n'.join(p["content"] for p in db_client.search_similar_paragraphs(q,limit=5))}"""
+{'\n\n'.join([p["content"] for p in db_client.search_similar_paragraphs(q,limit=5)])}"""

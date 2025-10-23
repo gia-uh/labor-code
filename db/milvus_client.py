@@ -13,6 +13,9 @@ from pymilvus import (
 )
 from openai import OpenAI
 
+class EmbeddingError(Exception):
+    """Exception raised for errors in the embedding process."""
+    pass
 
 class MilvusParagraphClient:
     """Client for managing paragraphs in Milvus vector database."""
@@ -62,15 +65,13 @@ class MilvusParagraphClient:
         try:
             self.embedding_client = OpenAI(base_url=base_url, api_key='', timeout=10.0)
             # Test the connection with a simple request
-            test_response = self.embedding_client.embeddings.create(
+            self.embedding_client.embeddings.create(
                 model=self.embedding_model,
                 input=["test"]
             )
             print("Embedding client initialized and tested successfully")
         except Exception as e:
-            print(f"Failed to initialize embedding client: {e}")
-            print("Warning: Embedding service is not accessible. The system will use zero vectors as fallback.")
-            self.embedding_client = None
+            raise EmbeddingError(f"Failed to initialize embedding client: {e}")
     
     def _create_schema(self) -> CollectionSchema:
         """Create the collection schema for paragraphs."""
@@ -186,8 +187,7 @@ class MilvusParagraphClient:
     def _generate_embedding(self, text: str) -> List[float]:
         """Generate embedding for text using OpenAI-compatible service."""
         if self.embedding_client is None:
-            print("Embedding service not available, using zero vector")
-            return [0.0] * 768  # Return zero vector as fallback
+            raise EmbeddingError("Embedding service not available")
         
         try:
             response = self.embedding_client.embeddings.create(
@@ -196,17 +196,11 @@ class MilvusParagraphClient:
             )
             return response.data[0].embedding
         except Exception as e:
-            print(f"Failed to generate embedding: {e}")
-            return [0.0] * 768  # Return zero vector as fallback
+            raise EmbeddingError(f"Failed to generate embedding: {e}")
     
     def _generate_batch_embeddings(self, texts: List[str], batch_size: int = 100) -> List[List[float]]:
         """Generate embeddings for multiple texts in batches."""
         embeddings = []
-        
-        if self.embedding_client is None:
-            print("Embedding service not available, using zero vectors for all texts")
-            return [[0.0] * 768 for _ in texts]
-        
         for i in range(0, len(texts), batch_size):
             batch = texts[i:i + batch_size]
             try:
@@ -218,9 +212,7 @@ class MilvusParagraphClient:
                 embeddings.extend(batch_embeddings)
                 print(f"Generated embeddings for batch {i//batch_size + 1}/{(len(texts)-1)//batch_size + 1}")
             except Exception as e:
-                print(f"Failed to generate embeddings for batch {i//batch_size + 1}: {e}")
-                # Add zero vectors as fallback
-                embeddings.extend([[0.0] * 768 for _ in batch])
+                raise EmbeddingError(f"Failed to generate embeddings for batch {i//batch_size + 1}: {e}")   
         
         return embeddings
     

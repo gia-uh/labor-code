@@ -1,4 +1,6 @@
 import os
+
+from openai import APIConnectionError, APITimeoutError, APIStatusError
 from chatbot.history import Message, TalkHistory
 from chatbot.models import intents
 from chatbot.client import WrappedClient, load_client
@@ -6,7 +8,11 @@ import streamlit as st
 
 from db.milvus_client import MilvusParagraphClient
 
-db = MilvusParagraphClient()
+db = (
+    st.session_state["milvus"]
+    if "milvus" in st.session_state
+    else MilvusParagraphClient()
+)
 
 
 def save_history(conversation: TalkHistory):
@@ -19,45 +25,54 @@ def speak(
     assistant_name: str,
     query: str,
 ):
-    intent = None
-    answer = None
+    try:
+        intent = None
+        answer = None
 
-    with st.spinner("Communicating with AI"):
-        intent = ai_client.query_classify_intent(TalkHistory.empty(), query)
-
-        if debug_view:
-            st.write(f"Intent classified as: {intent.classification}")
-
-    if intent.classification == intents.IntentType.NOT_RELATED:
-        answer = "Este asistente únicamente responde a consultas relacionadas con el Anteproyecto del Código de Trabajo. Evite cambiar de tema."
-
-        with st.chat_message(assistant_name):
-            st.write(answer)
-    elif intent.classification == intents.IntentType.LAW:
         with st.spinner("Communicating with AI"):
-            answer = ai_client.query_talk_with_knowledge(conversation, query, db)
+            intent = ai_client.query_classify_intent(TalkHistory.empty(), query)
 
-        with st.chat_message(assistant_name):
-            answer = st.write_stream(answer)
+            if debug_view:
+                st.write(f"Intent classified as: {intent.classification}")
+
+        if intent.classification == intents.IntentType.NOT_RELATED:
+            answer = "Este asistente únicamente responde a consultas relacionadas con el Anteproyecto del Código de Trabajo. Evite cambiar de tema."
+
+            with st.chat_message(assistant_name):
+                st.write(answer)
+        elif intent.classification == intents.IntentType.LAW:
+            with st.spinner("Communicating with AI"):
+                answer = ai_client.query_talk_with_knowledge(conversation, query, db)
+
+            with st.chat_message(assistant_name):
+                answer = st.write_stream(answer)
+
+            conversation.msg_history.append(Message(role="user", content=query))
+            conversation.msg_history.append(Message(role="assistant", content=answer))
+
+            save_history(conversation)
+        else:
+            with st.spinner("Communicating with AI"):
+                answer = ai_client.query_simple(
+                    conversation,
+                    query,
+                )
+
+            with st.chat_message(assistant_name):
+                answer = st.write_stream(answer)
+
+            conversation.msg_history.append(Message(role="user", content=query))
+            conversation.msg_history.append(Message(role="assistant", content=answer))
+
+            save_history(conversation)
+    except (APIConnectionError, APITimeoutError, APIStatusError):
+        st.error("Conexión con asistente fallida")
 
         conversation.msg_history.append(Message(role="user", content=query))
-        conversation.msg_history.append(Message(role="assistant", content=answer))
 
         save_history(conversation)
-    else:
-        with st.spinner("Communicating with AI"):
-            answer = ai_client.query_simple(
-                conversation,
-                query,
-            )
 
-        with st.chat_message(assistant_name):
-            answer = st.write_stream(answer)
-
-        conversation.msg_history.append(Message(role="user", content=query))
-        conversation.msg_history.append(Message(role="assistant", content=answer))
-
-        save_history(conversation)
+        st.button("↩️ Intentar de nuevo")
 
 
 if ("logged_in" in st.session_state) and st.session_state.logged_in:
@@ -105,15 +120,18 @@ if ("logged_in" in st.session_state) and st.session_state.logged_in:
             with st.chat_message("human" if message.role == "user" else assistant_name):
                 st.write(message.content)
 
-    # if conversation.msg_history[-1].role == "user":
-    #     new_conv, message = conversation.detached_message()
-    #     with message_box:
-    #         speak(
-    #             ai_client,
-    #             new_conv,
-    #             assistant_name,
-    #             message.content,
-    #         )
+    if (
+        len(conversation.msg_history) != 0
+        and conversation.msg_history[-1].role == "user"
+    ):
+        new_conv, message = conversation.detached_message()
+        with message_box:
+            speak(
+                ai_client,
+                new_conv,
+                assistant_name,
+                message.content,
+            )
     if user_input:
         with message_box:
             with st.chat_message("human"):

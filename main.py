@@ -64,25 +64,34 @@ def check_user(user: User):
             search_base="dc=uh,dc=cu",
             search_filter=search_filter,
             search_scope=SUBTREE,
-            attributes=["*"],
+            attributes=["Title","cn","sn","Area"],
         )
 
         if not conn.entries:
-            return Query.ERROR_NOT_FOUND
+            return Query.ERROR_NOT_FOUND, {}
 
-        user_dn = conn.entries[0].entry_dn
+        entry = conn.entries[0]
+        user_dn = entry.entry_dn
+        user_data = {
+            "Nombre": entry.cn.value,
+            "Apellidos": entry.sn.value,
+            "Area": entry.Area.value.upper(),
+            "Title": entry.title.value
+        }
+        
         # 3. Intentar autenticar con las credenciales del usuario
         user_conn = Connection(server, user_dn, user.pasw, auto_bind=True)
 
         # Si llegamos aquí, la autenticación fue exitosa
         user_conn.unbind()
-        return Query.APPROVED
+        
+        return Query.APPROVED, user_data
 
     except Exception as e:
         if "invalidCredentials" in str(e):
-            return Query.ERROR_PASSWORD
+            return Query.ERROR_PASSWORD, {}
         else:
-            return Query.ERROR_SERVICE
+            return Query.ERROR_SERVICE, {}
 
 
 def login():
@@ -94,13 +103,14 @@ def login():
         submit = st.form_submit_button("Autenticarse")
 
         if submit:
-            checking = check_user(User(username=username, pasw=password))
+            checking,user_data = check_user(User(username=username, pasw=password))
             if checking is Query.APPROVED or (
                 username == st.secrets["user"]["default_user"]
                 and hash_password(password) == DEFAULT_PASSWORD
             ):
                 st.session_state.logged_in = True
                 st.session_state.username = username
+                st.session_state.user_data = user_data
                 st.success("Logged in successfully!")
                 st.rerun()
             elif checking is Query.ERROR_NOT_FOUND:

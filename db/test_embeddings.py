@@ -36,16 +36,18 @@ def test_embedding_service():
             print(f"First 5 values: {data.embedding[:5]}")
             print()
         
-        return True
+        return True, None
         
     except Exception as e:
         print(f"Error testing embedding service: {e}")
-        return False
+        return False, e
+
 
 
 if __name__ == "__main__":
-    success = test_embedding_service()
+    success, error = test_embedding_service()
     if success:
         print("✅ Embedding service test passed!")
     else:
         print("❌ Embedding service test failed!")
+        print(error)
