@@ -113,8 +113,9 @@ class WrappedClient(openai.OpenAI):
         )
 
     def query_classify_intent(self, shots: TalkHistory, prompt: str) -> IntentOutput:
+        intent_prompt, *_ = build_intent_classifier_prompt(prompt)
         return self.__talk_model_formatted(
-            shots.with_system_prompt(build_intent_classifier_prompt(prompt)),
+            shots.with_system_prompt(intent_prompt),
             IntentOutput,
         )
 
@@ -126,9 +127,12 @@ class WrappedClient(openai.OpenAI):
         stream: bool = True,
         **extra_args,
     ):
+        rag, *_ = build_rag_chat_user_prompt(prompt, db_client)
+        rag_prompt, *_ = build_rag_chat_system_prompt()
+
         return self.__talk_model(
-            messages.with_system_prompt(build_rag_chat_system_prompt()),
-            build_rag_chat_user_prompt(prompt, db_client),
+            messages.with_system_prompt(rag_prompt),
+            rag,
             _from_response=lambda x: x.choices[0].message.content if not stream else x,
             stream=stream,
             **extra_args,
