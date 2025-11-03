@@ -40,6 +40,11 @@ def speak(
 
             with st.chat_message(assistant_name):
                 st.write(answer)
+        if intent.classification == intents.IntentType.EVALUATIVE:
+            answer = "Este asistente no responde a consultas que exijan opinión o valoración del Anteproyecto del Código de Trabajo o la Ley Actual. El objetivo es informar, no valorar."
+
+            with st.chat_message(assistant_name):
+                st.write(answer)
         elif intent.classification == intents.IntentType.LAW:
             with st.spinner("Communicating with AI"):
                 answer = ai_client.query_talk_with_knowledge(conversation, query, db)
