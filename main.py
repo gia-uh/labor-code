@@ -64,7 +64,7 @@ def check_user(user: User):
             search_base="dc=uh,dc=cu",
             search_filter=search_filter,
             search_scope=SUBTREE,
-            attributes=["Title","cn","sn","Area"],
+            attributes=["Title","cn","sn","ou"],
         )
 
         if not conn.entries:
@@ -75,8 +75,8 @@ def check_user(user: User):
         user_data = {
             "Nombre": entry.cn.value,
             "Apellidos": entry.sn.value,
-            "Area": entry.Area.value.upper(),
-            "Title": entry.title.value
+            "Area": entry.ou.value.upper(),
+            "Title": entry.title.value,
         }
         
         # 3. Intentar autenticar con las credenciales del usuario
@@ -185,7 +185,7 @@ chat_page = st.Page("pages/chat.py", title="Asistente", icon=":material/chat_bub
 search_page = st.Page("pages/search.py", title="Buscar", icon=":material/search:")
 docs_page = st.Page("pages/docs.py", title="Documentos", icon=":material/source:")
 changes_page = st.Page("pages/changes.py", title="Propuesta de Cambios", icon=":material/display_settings:")
-
+analytics_page = st.Page("pages/analytics.py",title="Analisis de Encuestas",icon=":material/analytics:")
 
 # Initialize session state
 if "logged_in" not in st.session_state:
@@ -222,6 +222,7 @@ else:
             search_page,
             docs_page,
             changes_page,
+            analytics_page,
             logout_page,
         ]
     )
