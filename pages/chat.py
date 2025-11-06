@@ -40,7 +40,7 @@ def speak(
 
             with st.chat_message(assistant_name):
                 st.write(answer)
-        if intent.classification == intents.IntentType.EVALUATIVE:
+        elif intent.classification == intents.IntentType.EVALUATIVE:
             answer = "Este asistente no responde a consultas que exijan opinión o valoración del Anteproyecto del Código de Trabajo o la Ley Actual. El objetivo es informar, no valorar."
 
             with st.chat_message(assistant_name):

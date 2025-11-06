@@ -35,27 +35,30 @@ def _fetch_paragraphs_info(q: str, db_client: MilvusParagraphClient):
     context_tree = {}
 
     for d in data:
-        context_tree[d["title_id"]] = context_tree.get(
-            d["title_id"], {"name": d["title_title"]}
+        metadata = d["metadata"]
+        context_tree[metadata["title_id"]] = context_tree.get(
+            metadata["title_id"], {"name": metadata["title_title"]}
         )
-        chps = context_tree[d["title_id"]]["chapters"] = context_tree[
-            d["title_id"]
+        chps = context_tree[metadata["title_id"]]["chapters"] = context_tree[
+            metadata["title_id"]
         ].get("chapters", {})
-        chps[d["chapter_id"]] = chps.get(d["chapter_id"], {"name": d["chapter_title"]})
-        articles = chps[d["chapter_id"]]["articles"] = chps[d["chapter_id"]].get(
-            "articles", {}
+        chps[metadata["chapter_id"]] = chps.get(
+            metadata["chapter_id"], {"name": metadata["chapter_title"]}
         )
-        articles[d["article_id"]] = articles.get(
-            d["article_id"], {"name": d["article_title"]}
+        articles = chps[metadata["chapter_id"]]["articles"] = chps[
+            metadata["chapter_id"]
+        ].get("articles", {})
+        articles[metadata["article_id"]] = articles.get(
+            metadata["article_id"], {"name": metadata["article_title"]}
         )
-        articles[d["article_id"]]["paragraphs"] = articles[d["article_id"]].get(
-            "paragraphs", []
-        )
-        articles[d["article_id"]]["paragraphs"].append(d["content"])
+        articles[metadata["article_id"]]["paragraphs"] = articles[
+            metadata["article_id"]
+        ].get("paragraphs", [])
+        articles[metadata["article_id"]]["paragraphs"].append(d["content"])
 
     context_text = ""
 
-    db_path = Path(st.secrets["dirs"]["project.intro"]) / "updated_law"
+    db_path = Path(st.secrets["dirs"]["project"]["intro"]) / "updated_law"
     db_path.mkdir(parents=True, exist_ok=True)
 
     titles_sums = None
